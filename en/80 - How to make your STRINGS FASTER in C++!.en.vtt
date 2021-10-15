@@ -1,0 +1,3384 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:00.000 --> 00:00:01.579 align:start position:0%
+ 
+don't<00:00:00.210><c> you</c><00:00:00.269><c> just</c><00:00:00.299><c> love</c><00:00:00.659><c> talking</c><00:00:01.260><c> about</c>
+
+00:00:01.579 --> 00:00:01.589 align:start position:0%
+don't you just love talking about
+ 
+
+00:00:01.589 --> 00:00:03.740 align:start position:0%
+don't you just love talking about
+performance<00:00:02.070><c> isn't</c><00:00:02.250><c> it</c><00:00:02.429><c> just</c><00:00:02.550><c> so</c><00:00:02.760><c> great</c><00:00:03.240><c> to</c>
+
+00:00:03.740 --> 00:00:03.750 align:start position:0%
+performance isn't it just so great to
+ 
+
+00:00:03.750 --> 00:00:05.390 align:start position:0%
+performance isn't it just so great to
+just<00:00:03.780><c> take</c><00:00:04.170><c> something</c><00:00:04.620><c> and</c><00:00:04.740><c> make</c><00:00:04.830><c> it</c><00:00:05.250><c> better</c>
+
+00:00:05.390 --> 00:00:05.400 align:start position:0%
+just take something and make it better
+ 
+
+00:00:05.400 --> 00:00:08.089 align:start position:0%
+just take something and make it better
+make<00:00:05.759><c> it</c><00:00:05.940><c> faster</c><00:00:06.629><c> hey</c><00:00:07.259><c> what's</c><00:00:07.440><c> up</c><00:00:07.500><c> guys</c><00:00:07.620><c> my</c>
+
+00:00:08.089 --> 00:00:08.099 align:start position:0%
+make it faster hey what's up guys my
+ 
+
+00:00:08.099 --> 00:00:11.180 align:start position:0%
+make it faster hey what's up guys my
+name<00:00:08.130><c> is</c><00:00:08.340><c> the</c><00:00:08.970><c> chana</c><00:00:09.300><c> welcome</c><00:00:09.900><c> back</c><00:00:10.080><c> to</c><00:00:10.320><c> my</c><00:00:10.469><c> C++</c>
+
+00:00:11.180 --> 00:00:11.190 align:start position:0%
+name is the chana welcome back to my C++
+ 
+
+00:00:11.190 --> 00:00:12.620 align:start position:0%
+name is the chana welcome back to my C++
+series<00:00:11.519><c> we've</c><00:00:11.790><c> been</c><00:00:11.969><c> on</c><00:00:12.120><c> a</c><00:00:12.150><c> bit</c><00:00:12.420><c> of</c><00:00:12.509><c> a</c>
+
+00:00:12.620 --> 00:00:12.630 align:start position:0%
+series we've been on a bit of a
+ 
+
+00:00:12.630 --> 00:00:15.589 align:start position:0%
+series we've been on a bit of a
+performance<00:00:13.110><c> trend</c><00:00:14.099><c> lately</c><00:00:14.759><c> last</c><00:00:15.179><c> time</c><00:00:15.420><c> we</c>
+
+00:00:15.589 --> 00:00:15.599 align:start position:0%
+performance trend lately last time we
+ 
+
+00:00:15.599 --> 00:00:17.120 align:start position:0%
+performance trend lately last time we
+talked<00:00:15.900><c> about</c><00:00:16.049><c> how</c><00:00:16.379><c> we</c><00:00:16.440><c> can</c><00:00:16.710><c> actually</c><00:00:16.770><c> use</c>
+
+00:00:17.120 --> 00:00:17.130 align:start position:0%
+talked about how we can actually use
+ 
+
+00:00:17.130 --> 00:00:19.220 align:start position:0%
+talked about how we can actually use
+multi-threading<00:00:17.789><c> sed</c><00:00:18.150><c> async</c><00:00:18.570><c> all</c><00:00:18.960><c> of</c><00:00:19.109><c> that</c>
+
+00:00:19.220 --> 00:00:19.230 align:start position:0%
+multi-threading sed async all of that
+ 
+
+00:00:19.230 --> 00:00:20.779 align:start position:0%
+multi-threading sed async all of that
+stuff<00:00:19.470><c> to</c><00:00:19.619><c> make</c><00:00:19.890><c> after</c><00:00:20.039><c> you</c><00:00:20.220><c> do</c><00:00:20.460><c> multiple</c>
+
+00:00:20.779 --> 00:00:20.789 align:start position:0%
+stuff to make after you do multiple
+ 
+
+00:00:20.789 --> 00:00:22.640 align:start position:0%
+stuff to make after you do multiple
+things<00:00:20.820><c> at</c><00:00:21.210><c> the</c><00:00:21.300><c> same</c><00:00:21.480><c> time</c><00:00:21.539><c> check</c><00:00:22.350><c> out</c><00:00:22.500><c> that</c>
+
+00:00:22.640 --> 00:00:22.650 align:start position:0%
+things at the same time check out that
+ 
+
+00:00:22.650 --> 00:00:24.019 align:start position:0%
+things at the same time check out that
+video<00:00:22.859><c> if</c><00:00:23.039><c> you</c><00:00:23.310><c> haven't</c><00:00:23.460><c> already</c><00:00:23.699><c> because</c>
+
+00:00:24.019 --> 00:00:24.029 align:start position:0%
+video if you haven't already because
+ 
+
+00:00:24.029 --> 00:00:26.390 align:start position:0%
+video if you haven't already because
+it'll<00:00:24.390><c> greatly</c><00:00:24.779><c> help</c><00:00:25.320><c> you</c><00:00:25.380><c> speed</c><00:00:25.830><c> up</c><00:00:25.980><c> your</c>
+
+00:00:26.390 --> 00:00:26.400 align:start position:0%
+it'll greatly help you speed up your
+ 
+
+00:00:26.400 --> 00:00:28.099 align:start position:0%
+it'll greatly help you speed up your
+programs<00:00:26.939><c> if</c><00:00:27.210><c> you</c><00:00:27.330><c> use</c><00:00:27.510><c> it</c><00:00:27.630><c> correctly</c>
+
+00:00:28.099 --> 00:00:28.109 align:start position:0%
+programs if you use it correctly
+ 
+
+00:00:28.109 --> 00:00:29.330 align:start position:0%
+programs if you use it correctly
+and<00:00:28.289><c> in</c><00:00:28.380><c> fact</c><00:00:28.560><c> I</c><00:00:28.680><c> know</c><00:00:28.740><c> that</c><00:00:28.859><c> a</c><00:00:29.010><c> bunch</c><00:00:29.189><c> of</c>
+
+00:00:29.330 --> 00:00:29.340 align:start position:0%
+and in fact I know that a bunch of
+ 
+
+00:00:29.340 --> 00:00:31.279 align:start position:0%
+and in fact I know that a bunch of
+questions<00:00:29.760><c> did</c><00:00:29.880><c> arise</c><00:00:30.269><c> as</c><00:00:30.539><c> a</c><00:00:30.630><c> result</c><00:00:30.779><c> of</c><00:00:31.109><c> that</c>
+
+00:00:31.279 --> 00:00:31.289 align:start position:0%
+questions did arise as a result of that
+ 
+
+00:00:31.289 --> 00:00:33.020 align:start position:0%
+questions did arise as a result of that
+video<00:00:31.529><c> I</c><00:00:31.859><c> know</c><00:00:31.949><c> you</c><00:00:32.070><c> guys</c><00:00:32.279><c> are</c><00:00:32.460><c> interested</c><00:00:32.700><c> in</c>
+
+00:00:33.020 --> 00:00:33.030 align:start position:0%
+video I know you guys are interested in
+ 
+
+00:00:33.030 --> 00:00:34.220 align:start position:0%
+video I know you guys are interested in
+that<00:00:33.090><c> so</c><00:00:33.420><c> don't</c><00:00:33.540><c> worry</c><00:00:33.690><c> we're</c><00:00:33.989><c> gonna</c><00:00:34.050><c> be</c>
+
+00:00:34.220 --> 00:00:34.230 align:start position:0%
+that so don't worry we're gonna be
+ 
+
+00:00:34.230 --> 00:00:35.660 align:start position:0%
+that so don't worry we're gonna be
+talking<00:00:34.500><c> a</c><00:00:34.559><c> lot</c><00:00:34.710><c> more</c><00:00:34.739><c> about</c><00:00:34.950><c> this</c><00:00:35.309><c> kind</c><00:00:35.610><c> of</c>
+
+00:00:35.660 --> 00:00:35.670 align:start position:0%
+talking a lot more about this kind of
+ 
+
+00:00:35.670 --> 00:00:38.180 align:start position:0%
+talking a lot more about this kind of
+stuff<00:00:35.820><c> in</c><00:00:36.450><c> the</c><00:00:36.809><c> future</c><00:00:37.200><c> but</c><00:00:37.410><c> today</c><00:00:37.680><c> I</c><00:00:37.710><c> thought</c>
+
+00:00:38.180 --> 00:00:38.190 align:start position:0%
+stuff in the future but today I thought
+ 
+
+00:00:38.190 --> 00:00:39.799 align:start position:0%
+stuff in the future but today I thought
+that<00:00:38.250><c> we</c><00:00:38.550><c> would</c><00:00:38.730><c> actually</c><00:00:39.030><c> just</c><00:00:39.450><c> look</c><00:00:39.600><c> at</c><00:00:39.780><c> a</c>
+
+00:00:39.799 --> 00:00:39.809 align:start position:0%
+that we would actually just look at a
+ 
+
+00:00:39.809 --> 00:00:41.750 align:start position:0%
+that we would actually just look at a
+really<00:00:40.140><c> simple</c><00:00:40.469><c> example</c><00:00:40.590><c> of</c><00:00:41.190><c> what</c><00:00:41.399><c> you</c><00:00:41.489><c> can</c><00:00:41.640><c> do</c>
+
+00:00:41.750 --> 00:00:41.760 align:start position:0%
+really simple example of what you can do
+ 
+
+00:00:41.760 --> 00:00:43.760 align:start position:0%
+really simple example of what you can do
+to<00:00:41.879><c> make</c><00:00:42.030><c> your</c><00:00:42.180><c> strings</c><00:00:42.629><c> faster</c><00:00:43.290><c> when</c><00:00:43.440><c> people</c>
+
+00:00:43.760 --> 00:00:43.770 align:start position:0%
+to make your strings faster when people
+ 
+
+00:00:43.770 --> 00:00:46.430 align:start position:0%
+to make your strings faster when people
+deal<00:00:43.980><c> with</c><00:00:44.010><c> strings</c><00:00:44.670><c> I</c><00:00:45.170><c> don't</c><00:00:46.170><c> think</c><00:00:46.350><c> they</c>
+
+00:00:46.430 --> 00:00:46.440 align:start position:0%
+deal with strings I don't think they
+ 
+
+00:00:46.440 --> 00:00:49.310 align:start position:0%
+deal with strings I don't think they
+realize<00:00:46.950><c> just</c><00:00:47.399><c> the</c><00:00:47.640><c> kind</c><00:00:48.000><c> of</c><00:00:48.180><c> impact</c><00:00:48.660><c> a</c><00:00:48.899><c> string</c>
+
+00:00:49.310 --> 00:00:49.320 align:start position:0%
+realize just the kind of impact a string
+ 
+
+00:00:49.320 --> 00:00:51.860 align:start position:0%
+realize just the kind of impact a string
+has<00:00:49.590><c> on</c><00:00:49.980><c> the</c><00:00:50.250><c> performance</c><00:00:50.910><c> of</c><00:00:51.059><c> your</c><00:00:51.090><c> program</c><00:00:51.719><c> a</c>
+
+00:00:51.860 --> 00:00:51.870 align:start position:0%
+has on the performance of your program a
+ 
+
+00:00:51.870 --> 00:00:54.110 align:start position:0%
+has on the performance of your program a
+lot<00:00:52.110><c> of</c><00:00:52.320><c> string</c><00:00:52.620><c> operations</c><00:00:52.949><c> in</c><00:00:53.489><c> your</c><00:00:53.670><c> program</c>
+
+00:00:54.110 --> 00:00:54.120 align:start position:0%
+lot of string operations in your program
+ 
+
+00:00:54.120 --> 00:00:56.299 align:start position:0%
+lot of string operations in your program
+formatting<00:00:54.570><c> text</c><00:00:54.899><c> you</c><00:00:55.440><c> know</c><00:00:55.530><c> logging</c><00:00:55.860><c> stuff</c>
+
+00:00:56.299 --> 00:00:56.309 align:start position:0%
+formatting text you know logging stuff
+ 
+
+00:00:56.309 --> 00:00:57.799 align:start position:0%
+formatting text you know logging stuff
+getting<00:00:56.610><c> into</c><00:00:56.910><c> the</c><00:00:57.000><c> right</c><00:00:57.120><c> format</c><00:00:57.510><c> using</c>
+
+00:00:57.799 --> 00:00:57.809 align:start position:0%
+getting into the right format using
+ 
+
+00:00:57.809 --> 00:01:01.189 align:start position:0%
+getting into the right format using
+substring<00:00:58.469><c> that</c><00:00:58.680><c> kind</c><00:00:59.250><c> of</c><00:00:59.340><c> stuff</c><00:00:59.609><c> is</c><00:01:00.510><c> easy</c><00:01:00.960><c> to</c>
+
+00:01:01.189 --> 00:01:01.199 align:start position:0%
+substring that kind of stuff is easy to
+ 
+
+00:01:01.199 --> 00:01:02.630 align:start position:0%
+substring that kind of stuff is easy to
+overlook<00:01:01.320><c> because</c><00:01:01.800><c> you</c><00:01:02.340><c> know</c><00:01:02.430><c> I'm</c><00:01:02.520><c> just</c>
+
+00:01:02.630 --> 00:01:02.640 align:start position:0%
+overlook because you know I'm just
+ 
+
+00:01:02.640 --> 00:01:04.009 align:start position:0%
+overlook because you know I'm just
+playing<00:01:02.820><c> with</c><00:01:03.059><c> a</c><00:01:03.090><c> bunch</c><00:01:03.239><c> of</c><00:01:03.300><c> strings</c><00:01:03.629><c> nor</c>
+
+00:01:04.009 --> 00:01:04.019 align:start position:0%
+playing with a bunch of strings nor
+ 
+
+00:01:04.019 --> 00:01:05.990 align:start position:0%
+playing with a bunch of strings nor
+playing<00:01:04.530><c> with</c><00:01:04.739><c> a</c><00:01:04.769><c> bunch</c><00:01:04.979><c> of</c><00:01:05.100><c> strings</c><00:01:05.460><c> is</c>
+
+00:01:05.990 --> 00:01:06.000 align:start position:0%
+playing with a bunch of strings is
+ 
+
+00:01:06.000 --> 00:01:08.480 align:start position:0%
+playing with a bunch of strings is
+actually<00:01:06.570><c> bad</c><00:01:07.140><c> and</c><00:01:07.530><c> it's</c><00:01:07.650><c> very</c><00:01:07.799><c> slow</c><00:01:08.130><c> and</c><00:01:08.369><c> what</c>
+
+00:01:08.480 --> 00:01:08.490 align:start position:0%
+actually bad and it's very slow and what
+ 
+
+00:01:08.490 --> 00:01:09.710 align:start position:0%
+actually bad and it's very slow and what
+he's<00:01:08.580><c> gonna</c><00:01:08.670><c> talk</c><00:01:08.880><c> about</c><00:01:09.000><c> one</c><00:01:09.360><c> of</c><00:01:09.479><c> the</c><00:01:09.540><c> things</c>
+
+00:01:09.710 --> 00:01:09.720 align:start position:0%
+he's gonna talk about one of the things
+ 
+
+00:01:09.720 --> 00:01:11.090 align:start position:0%
+he's gonna talk about one of the things
+that<00:01:09.840><c> we</c><00:01:09.900><c> can</c><00:01:10.020><c> actually</c><00:01:10.140><c> do</c><00:01:10.560><c> this</c><00:01:10.740><c> is</c><00:01:10.860><c> very</c>
+
+00:01:11.090 --> 00:01:11.100 align:start position:0%
+that we can actually do this is very
+ 
+
+00:01:11.100 --> 00:01:13.370 align:start position:0%
+that we can actually do this is very
+very<00:01:11.280><c> simple</c><00:01:11.760><c> that</c><00:01:12.210><c> will</c><00:01:12.360><c> make</c><00:01:12.540><c> our</c><00:01:12.810><c> strings</c>
+
+00:01:13.370 --> 00:01:13.380 align:start position:0%
+very simple that will make our strings
+ 
+
+00:01:13.380 --> 00:01:15.859 align:start position:0%
+very simple that will make our strings
+and<00:01:13.710><c> our</c><00:01:14.070><c> string</c><00:01:14.310><c> operations</c><00:01:14.520><c> a</c><00:01:15.030><c> lot</c><00:01:15.360><c> faster</c>
+
+00:01:15.859 --> 00:01:15.869 align:start position:0%
+and our string operations a lot faster
+ 
+
+00:01:15.869 --> 00:01:18.289 align:start position:0%
+and our string operations a lot faster
+doesn't<00:01:16.710><c> just</c><00:01:16.860><c> feel</c><00:01:17.009><c> amazing</c><00:01:17.130><c> to</c><00:01:17.790><c> be</c><00:01:17.880><c> learning</c>
+
+00:01:18.289 --> 00:01:18.299 align:start position:0%
+doesn't just feel amazing to be learning
+ 
+
+00:01:18.299 --> 00:01:21.140 align:start position:0%
+doesn't just feel amazing to be learning
+all<00:01:18.450><c> these</c><00:01:18.689><c> new</c><00:01:18.750><c> things</c><00:01:19.850><c> but</c><00:01:20.850><c> where</c><00:01:21.030><c> do</c><00:01:21.090><c> I</c>
+
+00:01:21.140 --> 00:01:21.150 align:start position:0%
+all these new things but where do I
+ 
+
+00:01:21.150 --> 00:01:22.730 align:start position:0%
+all these new things but where do I
+learn<00:01:21.330><c> things</c><00:01:21.570><c> other</c><00:01:21.810><c> than</c><00:01:21.990><c> programming</c><00:01:22.650><c> I</c>
+
+00:01:22.730 --> 00:01:22.740 align:start position:0%
+learn things other than programming I
+ 
+
+00:01:22.740 --> 00:01:25.730 align:start position:0%
+learn things other than programming I
+hear<00:01:23.070><c> you</c><00:01:23.220><c> ask</c><00:01:23.400><c> why</c><00:01:24.090><c> Skillshare</c><00:01:24.720><c> of</c><00:01:24.900><c> course</c><00:01:25.170><c> in</c>
+
+00:01:25.730 --> 00:01:25.740 align:start position:0%
+hear you ask why Skillshare of course in
+ 
+
+00:01:25.740 --> 00:01:27.440 align:start position:0%
+hear you ask why Skillshare of course in
+fact<00:01:25.950><c> I'm</c><00:01:26.159><c> pretty</c><00:01:26.400><c> sure</c><00:01:26.640><c> they</c><00:01:26.790><c> have</c><00:01:26.820><c> classes</c>
+
+00:01:27.440 --> 00:01:27.450 align:start position:0%
+fact I'm pretty sure they have classes
+ 
+
+00:01:27.450 --> 00:01:30.469 align:start position:0%
+fact I'm pretty sure they have classes
+on<00:01:27.570><c> programming</c><00:01:27.990><c> as</c><00:01:28.229><c> well</c><00:01:29.180><c> Skillshare</c><00:01:30.180><c> is</c><00:01:30.360><c> an</c>
+
+00:01:30.469 --> 00:01:30.479 align:start position:0%
+on programming as well Skillshare is an
+ 
+
+00:01:30.479 --> 00:01:32.330 align:start position:0%
+on programming as well Skillshare is an
+online<00:01:30.840><c> learning</c><00:01:31.110><c> community</c><00:01:31.380><c> with</c><00:01:31.799><c> thousands</c>
+
+00:01:32.330 --> 00:01:32.340 align:start position:0%
+online learning community with thousands
+ 
+
+00:01:32.340 --> 00:01:34.429 align:start position:0%
+online learning community with thousands
+of<00:01:32.400><c> classes</c><00:01:32.850><c> covering</c><00:01:32.880><c> dozens</c><00:01:33.780><c> of</c><00:01:33.990><c> creative</c>
+
+00:01:34.429 --> 00:01:34.439 align:start position:0%
+of classes covering dozens of creative
+ 
+
+00:01:34.439 --> 00:01:36.530 align:start position:0%
+of classes covering dozens of creative
+and<00:01:34.590><c> entrepreneurial</c><00:01:35.189><c> skills</c><00:01:35.460><c> and</c><00:01:35.909><c> the</c><00:01:36.329><c> best</c>
+
+00:01:36.530 --> 00:01:36.540 align:start position:0%
+and entrepreneurial skills and the best
+ 
+
+00:01:36.540 --> 00:01:38.480 align:start position:0%
+and entrepreneurial skills and the best
+part<00:01:36.840><c> is</c><00:01:36.960><c> that</c><00:01:37.170><c> you</c><00:01:37.259><c> get</c><00:01:37.439><c> unlimited</c><00:01:37.799><c> access</c><00:01:38.189><c> to</c>
+
+00:01:38.480 --> 00:01:38.490 align:start position:0%
+part is that you get unlimited access to
+ 
+
+00:01:38.490 --> 00:01:40.730 align:start position:0%
+part is that you get unlimited access to
+all<00:01:38.700><c> of</c><00:01:38.880><c> these</c><00:01:39.060><c> classes</c><00:01:39.570><c> if</c><00:01:39.840><c> you</c><00:01:39.990><c> sign</c><00:01:40.200><c> up</c><00:01:40.380><c> for</c>
+
+00:01:40.730 --> 00:01:40.740 align:start position:0%
+all of these classes if you sign up for
+ 
+
+00:01:40.740 --> 00:01:42.410 align:start position:0%
+all of these classes if you sign up for
+a<00:01:40.799><c> premium</c><00:01:40.979><c> membership</c><00:01:41.549><c> the</c><00:01:41.970><c> more</c><00:01:42.150><c> time</c><00:01:42.299><c> I</c>
+
+00:01:42.410 --> 00:01:42.420 align:start position:0%
+a premium membership the more time I
+ 
+
+00:01:42.420 --> 00:01:44.510 align:start position:0%
+a premium membership the more time I
+spend<00:01:42.689><c> programming</c><00:01:43.290><c> the</c><00:01:43.619><c> more</c><00:01:43.829><c> I</c><00:01:43.860><c> long</c><00:01:44.189><c> to</c><00:01:44.220><c> be</c>
+
+00:01:44.510 --> 00:01:44.520 align:start position:0%
+spend programming the more I long to be
+ 
+
+00:01:44.520 --> 00:01:46.429 align:start position:0%
+spend programming the more I long to be
+creative<00:01:45.060><c> as</c><00:01:45.329><c> someone</c><00:01:45.659><c> who's</c><00:01:45.810><c> not</c><00:01:46.020><c> that</c><00:01:46.079><c> great</c>
+
+00:01:46.429 --> 00:01:46.439 align:start position:0%
+creative as someone who's not that great
+ 
+
+00:01:46.439 --> 00:01:48.440 align:start position:0%
+creative as someone who's not that great
+at<00:01:46.619><c> drawing</c><00:01:46.829><c> I</c><00:01:47.130><c> love</c><00:01:47.430><c> how</c><00:01:47.610><c> many</c><00:01:47.670><c> illustration</c>
+
+00:01:48.440 --> 00:01:48.450 align:start position:0%
+at drawing I love how many illustration
+ 
+
+00:01:48.450 --> 00:01:50.179 align:start position:0%
+at drawing I love how many illustration
+classes<00:01:48.869><c> there</c><00:01:49.049><c> are</c><00:01:49.079><c> on</c><00:01:49.350><c> Skillshare</c><00:01:49.710><c> that</c><00:01:50.130><c> I</c>
+
+00:01:50.179 --> 00:01:50.189 align:start position:0%
+classes there are on Skillshare that I
+ 
+
+00:01:50.189 --> 00:01:52.100 align:start position:0%
+classes there are on Skillshare that I
+can<00:01:50.399><c> check</c><00:01:50.670><c> out</c><00:01:50.880><c> they</c><00:01:51.270><c> also</c><00:01:51.390><c> have</c><00:01:51.630><c> a</c><00:01:51.659><c> bunch</c><00:01:51.869><c> of</c>
+
+00:01:52.100 --> 00:01:52.110 align:start position:0%
+can check out they also have a bunch of
+ 
+
+00:01:52.110 --> 00:01:54.410 align:start position:0%
+can check out they also have a bunch of
+classes<00:01:52.619><c> on</c><00:01:52.799><c> things</c><00:01:53.250><c> like</c><00:01:53.420><c> cinematography</c>
+
+00:01:54.410 --> 00:01:54.420 align:start position:0%
+classes on things like cinematography
+ 
+
+00:01:54.420 --> 00:01:56.389 align:start position:0%
+classes on things like cinematography
+and<00:01:54.659><c> what</c><00:01:55.020><c> you</c><00:01:55.140><c> can</c><00:01:55.290><c> do</c><00:01:55.470><c> to</c><00:01:55.680><c> improve</c><00:01:55.950><c> the</c>
+
+00:01:56.389 --> 00:01:56.399 align:start position:0%
+and what you can do to improve the
+ 
+
+00:01:56.399 --> 00:01:58.789 align:start position:0%
+and what you can do to improve the
+quality<00:01:56.520><c> of</c><00:01:56.939><c> your</c><00:01:57.180><c> videos</c><00:01:57.659><c> in</c><00:01:58.020><c> fact</c><00:01:58.439><c> I'm</c><00:01:58.619><c> quite</c>
+
+00:01:58.789 --> 00:01:58.799 align:start position:0%
+quality of your videos in fact I'm quite
+ 
+
+00:01:58.799 --> 00:02:00.530 align:start position:0%
+quality of your videos in fact I'm quite
+impressed<00:01:59.340><c> with</c><00:01:59.490><c> just</c><00:01:59.939><c> how</c><00:02:00.119><c> many</c><00:02:00.299><c> classes</c>
+
+00:02:00.530 --> 00:02:00.540 align:start position:0%
+impressed with just how many classes
+ 
+
+00:02:00.540 --> 00:02:02.450 align:start position:0%
+impressed with just how many classes
+they<00:02:00.899><c> have</c><00:02:01.110><c> to</c><00:02:01.320><c> offer</c><00:02:01.469><c> there</c><00:02:02.009><c> are</c><00:02:02.130><c> just</c><00:02:02.250><c> so</c>
+
+00:02:02.450 --> 00:02:02.460 align:start position:0%
+they have to offer there are just so
+ 
+
+00:02:02.460 --> 00:02:04.490 align:start position:0%
+they have to offer there are just so
+many<00:02:02.520><c> creative</c><00:02:03.149><c> videos</c><00:02:03.450><c> on</c><00:02:03.719><c> there</c><00:02:04.079><c> that</c><00:02:04.259><c> I</c><00:02:04.290><c> can</c>
+
+00:02:04.490 --> 00:02:04.500 align:start position:0%
+many creative videos on there that I can
+ 
+
+00:02:04.500 --> 00:02:06.410 align:start position:0%
+many creative videos on there that I can
+check<00:02:04.770><c> out</c><00:02:04.950><c> take</c><00:02:05.310><c> a</c><00:02:05.340><c> break</c><00:02:05.610><c> from</c><00:02:05.759><c> programming</c>
+
+00:02:06.410 --> 00:02:06.420 align:start position:0%
+check out take a break from programming
+ 
+
+00:02:06.420 --> 00:02:08.330 align:start position:0%
+check out take a break from programming
+skill<00:02:06.810><c> show</c><00:02:06.960><c> is</c><00:02:07.170><c> offering</c><00:02:07.530><c> you</c><00:02:07.649><c> guys</c><00:02:07.799><c> a</c><00:02:08.009><c> two</c>
+
+00:02:08.330 --> 00:02:08.340 align:start position:0%
+skill show is offering you guys a two
+ 
+
+00:02:08.340 --> 00:02:10.279 align:start position:0%
+skill show is offering you guys a two
+month<00:02:08.550><c> free</c><00:02:08.819><c> trial</c><00:02:09.119><c> if</c><00:02:09.360><c> you</c><00:02:09.390><c> sign</c><00:02:09.929><c> up</c><00:02:09.959><c> using</c>
+
+00:02:10.279 --> 00:02:10.289 align:start position:0%
+month free trial if you sign up using
+ 
+
+00:02:10.289 --> 00:02:10.889 align:start position:0%
+month free trial if you sign up using
+the<00:02:10.470><c> link</c>
+
+00:02:10.889 --> 00:02:10.899 align:start position:0%
+the link
+ 
+
+00:02:10.899 --> 00:02:12.929 align:start position:0%
+the link
+in<00:02:10.959><c> the</c><00:02:11.049><c> description</c><00:02:11.500><c> below</c><00:02:11.680><c> and</c><00:02:12.099><c> when</c><00:02:12.549><c> you</c><00:02:12.670><c> do</c>
+
+00:02:12.929 --> 00:02:12.939 align:start position:0%
+in the description below and when you do
+ 
+
+00:02:12.939 --> 00:02:14.429 align:start position:0%
+in the description below and when you do
+let<00:02:13.180><c> me</c><00:02:13.239><c> know</c><00:02:13.360><c> what</c><00:02:13.629><c> your</c><00:02:13.780><c> favorite</c><00:02:14.079><c> classes</c>
+
+00:02:14.429 --> 00:02:14.439 align:start position:0%
+let me know what your favorite classes
+ 
+
+00:02:14.439 --> 00:02:16.080 align:start position:0%
+let me know what your favorite classes
+are<00:02:14.590><c> so</c><00:02:14.769><c> that</c><00:02:14.890><c> I</c><00:02:14.920><c> can</c><00:02:15.159><c> also</c><00:02:15.280><c> check</c><00:02:15.730><c> them</c><00:02:15.939><c> out</c>
+
+00:02:16.080 --> 00:02:16.090 align:start position:0%
+are so that I can also check them out
+ 
+
+00:02:16.090 --> 00:02:17.970 align:start position:0%
+are so that I can also check them out
+and<00:02:16.540><c> of</c><00:02:16.659><c> course</c><00:02:16.689><c> a</c><00:02:16.989><c> huge</c><00:02:17.319><c> thank</c><00:02:17.799><c> you</c><00:02:17.890><c> to</c>
+
+00:02:17.970 --> 00:02:17.980 align:start position:0%
+and of course a huge thank you to
+ 
+
+00:02:17.980 --> 00:02:20.179 align:start position:0%
+and of course a huge thank you to
+Skillshare<00:02:18.670><c> for</c><00:02:19.000><c> sponsoring</c><00:02:19.480><c> this</c><00:02:19.629><c> video</c>
+
+00:02:20.179 --> 00:02:20.189 align:start position:0%
+Skillshare for sponsoring this video
+ 
+
+00:02:20.189 --> 00:02:22.679 align:start position:0%
+Skillshare for sponsoring this video
+let's<00:02:21.189><c> get</c><00:02:21.310><c> back</c><00:02:21.489><c> to</c><00:02:21.730><c> strings</c><00:02:22.060><c> I</c><00:02:22.360><c> don't</c><00:02:22.569><c> really</c>
+
+00:02:22.679 --> 00:02:22.689 align:start position:0%
+let's get back to strings I don't really
+ 
+
+00:02:22.689 --> 00:02:24.750 align:start position:0%
+let's get back to strings I don't really
+want<00:02:22.870><c> to</c><00:02:22.930><c> sit</c><00:02:23.170><c> here</c><00:02:23.349><c> today</c><00:02:23.620><c> and</c><00:02:24.010><c> just</c><00:02:24.159><c> talk</c><00:02:24.519><c> for</c>
+
+00:02:24.750 --> 00:02:24.760 align:start position:0%
+want to sit here today and just talk for
+ 
+
+00:02:24.760 --> 00:02:27.960 align:start position:0%
+want to sit here today and just talk for
+hours<00:02:24.909><c> about</c><00:02:25.209><c> why</c><00:02:25.959><c> strings</c><00:02:26.739><c> can</c><00:02:27.159><c> be</c><00:02:27.189><c> slow</c><00:02:27.640><c> and</c>
+
+00:02:27.960 --> 00:02:27.970 align:start position:0%
+hours about why strings can be slow and
+ 
+
+00:02:27.970 --> 00:02:29.759 align:start position:0%
+hours about why strings can be slow and
+the<00:02:28.180><c> technicalities</c><00:02:28.959><c> behind</c><00:02:29.439><c> all</c><00:02:29.590><c> of</c><00:02:29.680><c> that</c>
+
+00:02:29.759 --> 00:02:29.769 align:start position:0%
+the technicalities behind all of that
+ 
+
+00:02:29.769 --> 00:02:31.080 align:start position:0%
+the technicalities behind all of that
+I'd<00:02:30.010><c> much</c><00:02:30.220><c> rather</c><00:02:30.250><c> just</c><00:02:30.670><c> show</c><00:02:30.819><c> you</c><00:02:30.909><c> guys</c><00:02:31.060><c> a</c>
+
+00:02:31.080 --> 00:02:31.090 align:start position:0%
+I'd much rather just show you guys a
+ 
+
+00:02:31.090 --> 00:02:33.240 align:start position:0%
+I'd much rather just show you guys a
+practical<00:02:31.659><c> example</c><00:02:31.750><c> of</c><00:02:32.620><c> what</c><00:02:32.799><c> you</c><00:02:32.890><c> can</c><00:02:33.040><c> do</c><00:02:33.129><c> to</c>
+
+00:02:33.240 --> 00:02:33.250 align:start position:0%
+practical example of what you can do to
+ 
+
+00:02:33.250 --> 00:02:35.490 align:start position:0%
+practical example of what you can do to
+make<00:02:33.430><c> them</c><00:02:33.609><c> faster</c><00:02:33.879><c> but</c><00:02:34.629><c> if</c><00:02:34.720><c> I</c><00:02:34.780><c> had</c><00:02:34.930><c> to</c><00:02:35.049><c> sum</c><00:02:35.319><c> up</c>
+
+00:02:35.490 --> 00:02:35.500 align:start position:0%
+make them faster but if I had to sum up
+ 
+
+00:02:35.500 --> 00:02:37.979 align:start position:0%
+make them faster but if I had to sum up
+one<00:02:35.709><c> of</c><00:02:35.799><c> the</c><00:02:35.890><c> main</c><00:02:36.129><c> issues</c><00:02:36.400><c> with</c><00:02:36.909><c> SCD</c><00:02:37.540><c> string</c>
+
+00:02:37.979 --> 00:02:37.989 align:start position:0%
+one of the main issues with SCD string
+ 
+
+00:02:37.989 --> 00:02:39.899 align:start position:0%
+one of the main issues with SCD string
+and<00:02:38.170><c> probably</c><00:02:38.680><c> string</c><00:02:39.129><c> formatting</c><00:02:39.519><c> string</c>
+
+00:02:39.899 --> 00:02:39.909 align:start position:0%
+and probably string formatting string
+ 
+
+00:02:39.909 --> 00:02:42.179 align:start position:0%
+and probably string formatting string
+operations<00:02:40.420><c> in</c><00:02:40.569><c> general</c><00:02:41.049><c> it's</c><00:02:41.769><c> that</c><00:02:42.069><c> they</c>
+
+00:02:42.179 --> 00:02:42.189 align:start position:0%
+operations in general it's that they
+ 
+
+00:02:42.189 --> 00:02:44.039 align:start position:0%
+operations in general it's that they
+allocate<00:02:42.760><c> memory</c><00:02:43.180><c> if</c><00:02:43.540><c> you</c><00:02:43.569><c> guys</c><00:02:43.750><c> aren't</c>
+
+00:02:44.039 --> 00:02:44.049 align:start position:0%
+allocate memory if you guys aren't
+ 
+
+00:02:44.049 --> 00:02:46.530 align:start position:0%
+allocate memory if you guys aren't
+familiar<00:02:44.260><c> with</c><00:02:44.859><c> why</c><00:02:45.340><c> memory</c><00:02:45.849><c> allocation</c><00:02:46.420><c> is</c>
+
+00:02:46.530 --> 00:02:46.540 align:start position:0%
+familiar with why memory allocation is
+ 
+
+00:02:46.540 --> 00:02:48.270 align:start position:0%
+familiar with why memory allocation is
+bad<00:02:46.750><c> that's</c><00:02:47.049><c> actually</c><00:02:47.500><c> a</c><00:02:47.530><c> really</c><00:02:47.769><c> good</c><00:02:47.889><c> topic</c>
+
+00:02:48.270 --> 00:02:48.280 align:start position:0%
+bad that's actually a really good topic
+ 
+
+00:02:48.280 --> 00:02:49.680 align:start position:0%
+bad that's actually a really good topic
+for<00:02:48.310><c> a</c><00:02:48.519><c> video</c><00:02:48.819><c> by</c><00:02:49.000><c> the</c><00:02:49.060><c> way</c><00:02:49.209><c> that</c><00:02:49.389><c> I</c><00:02:49.420><c> definitely</c>
+
+00:02:49.680 --> 00:02:49.690 align:start position:0%
+for a video by the way that I definitely
+ 
+
+00:02:49.690 --> 00:02:51.720 align:start position:0%
+for a video by the way that I definitely
+want<00:02:50.079><c> to</c><00:02:50.109><c> make</c><00:02:50.170><c> but</c><00:02:50.650><c> I</c><00:02:50.680><c> do</c><00:02:50.859><c> have</c><00:02:51.190><c> a</c><00:02:51.220><c> video</c><00:02:51.400><c> about</c>
+
+00:02:51.720 --> 00:02:51.730 align:start position:0%
+want to make but I do have a video about
+ 
+
+00:02:51.730 --> 00:02:53.640 align:start position:0%
+want to make but I do have a video about
+the<00:02:51.849><c> stack</c><00:02:52.120><c> versus</c><00:02:52.510><c> the</c><00:02:52.629><c> heap</c><00:02:52.840><c> definitely</c>
+
+00:02:53.640 --> 00:02:53.650 align:start position:0%
+the stack versus the heap definitely
+ 
+
+00:02:53.650 --> 00:02:54.780 align:start position:0%
+the stack versus the heap definitely
+check<00:02:53.889><c> that</c><00:02:53.920><c> out</c><00:02:54.069><c> if</c><00:02:54.190><c> you</c><00:02:54.400><c> want</c><00:02:54.430><c> more</c>
+
+00:02:54.780 --> 00:02:54.790 align:start position:0%
+check that out if you want more
+ 
+
+00:02:54.790 --> 00:02:57.089 align:start position:0%
+check that out if you want more
+information<00:02:55.269><c> about</c><00:02:55.329><c> just</c><00:02:55.659><c> why</c><00:02:56.019><c> allocating</c><00:02:57.010><c> on</c>
+
+00:02:57.089 --> 00:02:57.099 align:start position:0%
+information about just why allocating on
+ 
+
+00:02:57.099 --> 00:02:58.830 align:start position:0%
+information about just why allocating on
+the<00:02:57.189><c> heap</c><00:02:57.370><c> is</c><00:02:57.579><c> not</c><00:02:57.790><c> the</c><00:02:57.939><c> best</c><00:02:58.120><c> thing</c><00:02:58.389><c> to</c><00:02:58.569><c> do</c>
+
+00:02:58.830 --> 00:02:58.840 align:start position:0%
+the heap is not the best thing to do
+ 
+
+00:02:58.840 --> 00:03:00.899 align:start position:0%
+the heap is not the best thing to do
+it's<00:02:59.200><c> not</c><00:02:59.379><c> that</c><00:02:59.470><c> it's</c><00:02:59.680><c> necessarily</c><00:03:00.099><c> bad</c><00:03:00.519><c> to</c>
+
+00:03:00.899 --> 00:03:00.909 align:start position:0%
+it's not that it's necessarily bad to
+ 
+
+00:03:00.909 --> 00:03:02.940 align:start position:0%
+it's not that it's necessarily bad to
+allocate<00:03:01.359><c> on</c><00:03:01.480><c> the</c><00:03:01.599><c> heap</c><00:03:01.780><c> it's</c><00:03:01.959><c> inevitable</c><00:03:02.709><c> in</c>
+
+00:03:02.940 --> 00:03:02.950 align:start position:0%
+allocate on the heap it's inevitable in
+ 
+
+00:03:02.950 --> 00:03:04.830 align:start position:0%
+allocate on the heap it's inevitable in
+a<00:03:03.010><c> lot</c><00:03:03.159><c> of</c><00:03:03.250><c> cases</c><00:03:03.459><c> in</c><00:03:03.730><c> fact</c><00:03:03.939><c> the</c><00:03:04.180><c> way</c><00:03:04.389><c> you</c><00:03:04.450><c> can</c>
+
+00:03:04.830 --> 00:03:04.840 align:start position:0%
+a lot of cases in fact the way you can
+ 
+
+00:03:04.840 --> 00:03:07.440 align:start position:0%
+a lot of cases in fact the way you can
+avoid<00:03:05.200><c> it</c><00:03:05.409><c> you</c><00:03:05.530><c> absolutely</c><00:03:06.099><c> should</c><00:03:06.609><c> because</c>
+
+00:03:07.440 --> 00:03:07.450 align:start position:0%
+avoid it you absolutely should because
+ 
+
+00:03:07.450 --> 00:03:09.660 align:start position:0%
+avoid it you absolutely should because
+it<00:03:07.569><c> can</c><00:03:07.689><c> slow</c><00:03:07.930><c> down</c><00:03:07.959><c> your</c><00:03:08.290><c> program</c><00:03:08.590><c> and</c><00:03:09.040><c> sv</c>
+
+00:03:09.660 --> 00:03:09.670 align:start position:0%
+it can slow down your program and sv
+ 
+
+00:03:09.670 --> 00:03:12.479 align:start position:0%
+it can slow down your program and sv
+string<00:03:10.060><c> and</c><00:03:10.329><c> a</c><00:03:10.599><c> lot</c><00:03:10.840><c> of</c><00:03:10.870><c> its</c><00:03:11.230><c> functions</c><00:03:11.799><c> love</c>
+
+00:03:12.479 --> 00:03:12.489 align:start position:0%
+string and a lot of its functions love
+ 
+
+00:03:12.489 --> 00:03:15.960 align:start position:0%
+string and a lot of its functions love
+to<00:03:12.909><c> allocate</c><00:03:13.540><c> and</c><00:03:13.810><c> that's</c><00:03:14.439><c> not</c><00:03:14.859><c> ideal</c><00:03:15.160><c> in</c><00:03:15.699><c> fact</c>
+
+00:03:15.960 --> 00:03:15.970 align:start position:0%
+to allocate and that's not ideal in fact
+ 
+
+00:03:15.970 --> 00:03:17.879 align:start position:0%
+to allocate and that's not ideal in fact
+let<00:03:16.120><c> me</c><00:03:16.150><c> just</c><00:03:16.269><c> show</c><00:03:16.750><c> you</c><00:03:16.780><c> exactly</c><00:03:17.440><c> what</c><00:03:17.769><c> I'm</c>
+
+00:03:17.879 --> 00:03:17.889 align:start position:0%
+let me just show you exactly what I'm
+ 
+
+00:03:17.889 --> 00:03:18.509 align:start position:0%
+let me just show you exactly what I'm
+talking<00:03:18.250><c> about</c>
+
+00:03:18.509 --> 00:03:18.519 align:start position:0%
+talking about
+ 
+
+00:03:18.519 --> 00:03:21.330 align:start position:0%
+talking about
+so<00:03:18.730><c> here</c><00:03:18.879><c> we</c><00:03:18.940><c> have</c><00:03:19.090><c> a</c><00:03:19.120><c> blank</c><00:03:19.540><c> C++</c><00:03:20.470><c> program</c><00:03:21.099><c> what</c>
+
+00:03:21.330 --> 00:03:21.340 align:start position:0%
+so here we have a blank C++ program what
+ 
+
+00:03:21.340 --> 00:03:23.069 align:start position:0%
+so here we have a blank C++ program what
+I'm<00:03:21.459><c> gonna</c><00:03:21.579><c> do</c><00:03:21.790><c> is</c><00:03:21.970><c> write</c><00:03:22.180><c> some</c><00:03:22.209><c> very</c><00:03:22.419><c> simple</c>
+
+00:03:23.069 --> 00:03:23.079 align:start position:0%
+I'm gonna do is write some very simple
+ 
+
+00:03:23.079 --> 00:03:25.409 align:start position:0%
+I'm gonna do is write some very simple
+code<00:03:23.290><c> I'm</c><00:03:23.530><c> just</c><00:03:23.829><c> going</c><00:03:24.129><c> to</c><00:03:24.160><c> make</c><00:03:24.519><c> a</c><00:03:24.730><c> string</c>
+
+00:03:25.409 --> 00:03:25.419 align:start position:0%
+code I'm just going to make a string
+ 
+
+00:03:25.419 --> 00:03:28.229 align:start position:0%
+code I'm just going to make a string
+called<00:03:25.810><c> name</c><00:03:26.139><c> I'm</c><00:03:26.409><c> going</c><00:03:26.620><c> to</c><00:03:26.739><c> type</c><00:03:27.340><c> in</c><00:03:27.579><c> my</c><00:03:27.639><c> full</c>
+
+00:03:28.229 --> 00:03:28.239 align:start position:0%
+called name I'm going to type in my full
+ 
+
+00:03:28.239 --> 00:03:29.729 align:start position:0%
+called name I'm going to type in my full
+name<00:03:28.269><c> here</c><00:03:28.810><c> and</c><00:03:28.989><c> then</c><00:03:29.139><c> I'm</c><00:03:29.260><c> going</c><00:03:29.440><c> to</c><00:03:29.530><c> write</c><00:03:29.709><c> a</c>
+
+00:03:29.729 --> 00:03:29.739 align:start position:0%
+name here and then I'm going to write a
+ 
+
+00:03:29.739 --> 00:03:31.830 align:start position:0%
+name here and then I'm going to write a
+function<00:03:30.040><c> that's</c><00:03:30.459><c> going</c><00:03:30.549><c> to</c><00:03:30.879><c> print</c><00:03:31.269><c> name</c>
+
+00:03:31.830 --> 00:03:31.840 align:start position:0%
+function that's going to print name
+ 
+
+00:03:31.840 --> 00:03:33.750 align:start position:0%
+function that's going to print name
+right<00:03:32.199><c> and</c><00:03:32.590><c> what</c><00:03:32.919><c> I'll</c><00:03:33.010><c> do</c><00:03:33.159><c> is</c><00:03:33.310><c> I'll</c><00:03:33.459><c> well</c><00:03:33.730><c> I'll</c>
+
+00:03:33.750 --> 00:03:33.760 align:start position:0%
+right and what I'll do is I'll well I'll
+ 
+
+00:03:33.760 --> 00:03:36.180 align:start position:0%
+right and what I'll do is I'll well I'll
+take<00:03:34.209><c> in</c><00:03:34.449><c> a</c><00:03:34.569><c> constitute</c><00:03:35.230><c> a</c><00:03:35.440><c> city</c><00:03:35.709><c> string</c><00:03:36.010><c> by</c>
+
+00:03:36.180 --> 00:03:36.190 align:start position:0%
+take in a constitute a city string by
+ 
+
+00:03:36.190 --> 00:03:37.229 align:start position:0%
+take in a constitute a city string by
+reference<00:03:36.730><c> you</c><00:03:36.849><c> know</c><00:03:36.879><c> what</c><00:03:37.060><c> I'm</c><00:03:37.150><c> gonna</c>
+
+00:03:37.229 --> 00:03:37.239 align:start position:0%
+reference you know what I'm gonna
+ 
+
+00:03:37.239 --> 00:03:39.719 align:start position:0%
+reference you know what I'm gonna
+pretend<00:03:37.840><c> to</c><00:03:38.049><c> write</c><00:03:38.199><c> a</c><00:03:38.230><c> slow</c><00:03:38.530><c> code</c><00:03:38.829><c> here</c><00:03:39.190><c> so</c>
+
+00:03:39.719 --> 00:03:39.729 align:start position:0%
+pretend to write a slow code here so
+ 
+
+00:03:39.729 --> 00:03:42.360 align:start position:0%
+pretend to write a slow code here so
+I've<00:03:39.849><c> got</c><00:03:40.060><c> a</c><00:03:40.239><c> constant</c><00:03:41.199><c> string</c><00:03:41.500><c> reference</c><00:03:42.220><c> so</c>
+
+00:03:42.360 --> 00:03:42.370 align:start position:0%
+I've got a constant string reference so
+ 
+
+00:03:42.370 --> 00:03:43.710 align:start position:0%
+I've got a constant string reference so
+there<00:03:42.519><c> shouldn't</c><00:03:42.699><c> be</c><00:03:42.819><c> any</c><00:03:42.879><c> copying</c><00:03:43.479><c> of</c><00:03:43.629><c> the</c>
+
+00:03:43.710 --> 00:03:43.720 align:start position:0%
+there shouldn't be any copying of the
+ 
+
+00:03:43.720 --> 00:03:45.149 align:start position:0%
+there shouldn't be any copying of the
+string<00:03:43.989><c> going</c><00:03:44.139><c> on</c><00:03:44.379><c> here</c><00:03:44.620><c> and</c><00:03:44.829><c> then</c><00:03:44.949><c> what</c><00:03:45.099><c> I'll</c>
+
+00:03:45.149 --> 00:03:45.159 align:start position:0%
+string going on here and then what I'll
+ 
+
+00:03:45.159 --> 00:03:48.059 align:start position:0%
+string going on here and then what I'll
+do<00:03:45.310><c> is</c><00:03:45.340><c> I'll</c><00:03:45.729><c> simply</c><00:03:46.359><c> see</c><00:03:46.659><c> out</c><00:03:46.870><c> that</c><00:03:47.349><c> name</c>
+
+00:03:48.059 --> 00:03:48.069 align:start position:0%
+do is I'll simply see out that name
+ 
+
+00:03:48.069 --> 00:03:50.520 align:start position:0%
+do is I'll simply see out that name
+string<00:03:48.790><c> okay</c><00:03:49.269><c> so</c><00:03:49.329><c> here</c><00:03:49.780><c> we</c><00:03:49.810><c> go</c><00:03:49.900><c> I'm</c><00:03:50.199><c> gonna</c><00:03:50.319><c> try</c>
+
+00:03:50.520 --> 00:03:50.530 align:start position:0%
+string okay so here we go I'm gonna try
+ 
+
+00:03:50.530 --> 00:03:52.199 align:start position:0%
+string okay so here we go I'm gonna try
+two<00:03:50.859><c> different</c><00:03:50.889><c> scenarios</c><00:03:51.579><c> here</c><00:03:51.609><c> first</c><00:03:52.120><c> of</c>
+
+00:03:52.199 --> 00:03:52.209 align:start position:0%
+two different scenarios here first of
+ 
+
+00:03:52.209 --> 00:03:54.180 align:start position:0%
+two different scenarios here first of
+all<00:03:52.329><c> I'm</c><00:03:52.540><c> just</c><00:03:52.569><c> gonna</c><00:03:52.840><c> print</c><00:03:53.260><c> that</c><00:03:53.409><c> name</c><00:03:53.769><c> just</c>
+
+00:03:54.180 --> 00:03:54.190 align:start position:0%
+all I'm just gonna print that name just
+ 
+
+00:03:54.190 --> 00:03:56.399 align:start position:0%
+all I'm just gonna print that name just
+by<00:03:54.310><c> calling</c><00:03:54.639><c> the</c><00:03:54.729><c> function</c><00:03:55.090><c> like</c><00:03:55.209><c> this</c><00:03:55.449><c> let's</c>
+
+00:03:56.399 --> 00:03:56.409 align:start position:0%
+by calling the function like this let's
+ 
+
+00:03:56.409 --> 00:03:58.110 align:start position:0%
+by calling the function like this let's
+see<00:03:56.620><c> how</c><00:03:56.769><c> many</c><00:03:56.829><c> allocations</c><00:03:57.549><c> we</c><00:03:57.699><c> get</c><00:03:57.909><c> from</c>
+
+00:03:58.110 --> 00:03:58.120 align:start position:0%
+see how many allocations we get from
+ 
+
+00:03:58.120 --> 00:03:59.909 align:start position:0%
+see how many allocations we get from
+this<00:03:58.329><c> so</c><00:03:58.720><c> how</c><00:03:58.840><c> do</c><00:03:58.900><c> we</c><00:03:58.989><c> track</c><00:03:59.319><c> these</c><00:03:59.560><c> memory</c>
+
+00:03:59.909 --> 00:03:59.919 align:start position:0%
+this so how do we track these memory
+ 
+
+00:03:59.919 --> 00:04:01.770 align:start position:0%
+this so how do we track these memory
+allocations<00:04:00.459><c> well</c><00:04:00.669><c> a</c><00:04:00.699><c> very</c><00:04:00.970><c> simple</c><00:04:01.359><c> way</c><00:04:01.510><c> is</c>
+
+00:04:01.770 --> 00:04:01.780 align:start position:0%
+allocations well a very simple way is
+ 
+
+00:04:01.780 --> 00:04:04.500 align:start position:0%
+allocations well a very simple way is
+just<00:04:02.019><c> to</c><00:04:02.139><c> overload</c><00:04:02.620><c> the</c><00:04:03.069><c> new</c><00:04:03.669><c> operator</c><00:04:04.239><c> and</c>
+
+00:04:04.500 --> 00:04:04.510 align:start position:0%
+just to overload the new operator and
+ 
+
+00:04:04.510 --> 00:04:06.569 align:start position:0%
+just to overload the new operator and
+then<00:04:04.870><c> this</c><00:04:05.019><c> will</c><00:04:05.229><c> just</c><00:04:05.440><c> return</c><00:04:05.859><c> malloc</c><00:04:06.310><c> size</c>
+
+00:04:06.569 --> 00:04:06.579 align:start position:0%
+then this will just return malloc size
+ 
+
+00:04:06.579 --> 00:04:08.640 align:start position:0%
+then this will just return malloc size
+which<00:04:06.909><c> is</c><00:04:07.030><c> basically</c><00:04:07.419><c> your</c><00:04:07.629><c> basic</c><00:04:08.109><c> memory</c>
+
+00:04:08.640 --> 00:04:08.650 align:start position:0%
+which is basically your basic memory
+ 
+
+00:04:08.650 --> 00:04:10.409 align:start position:0%
+which is basically your basic memory
+allocation<00:04:09.370><c> and</c><00:04:09.519><c> then</c><00:04:09.849><c> I</c><00:04:09.909><c> want</c><00:04:10.060><c> to</c><00:04:10.120><c> add</c><00:04:10.209><c> some</c>
+
+00:04:10.409 --> 00:04:10.419 align:start position:0%
+allocation and then I want to add some
+ 
+
+00:04:10.419 --> 00:04:12.869 align:start position:0%
+allocation and then I want to add some
+additional<00:04:10.599><c> things</c><00:04:11.319><c> into</c><00:04:11.739><c> here</c><00:04:12.010><c> to</c><00:04:12.190><c> make</c><00:04:12.370><c> it</c><00:04:12.699><c> a</c>
+
+00:04:12.869 --> 00:04:12.879 align:start position:0%
+additional things into here to make it a
+ 
+
+00:04:12.879 --> 00:04:14.879 align:start position:0%
+additional things into here to make it a
+little<00:04:13.030><c> bit</c><00:04:13.239><c> more</c><00:04:13.479><c> obvious</c><00:04:13.690><c> so</c><00:04:14.199><c> I'll</c><00:04:14.319><c> make</c><00:04:14.680><c> a</c>
+
+00:04:14.879 --> 00:04:14.889 align:start position:0%
+little bit more obvious so I'll make a
+ 
+
+00:04:14.889 --> 00:04:19.050 align:start position:0%
+little bit more obvious so I'll make a
+you<00:04:15.129><c> end</c><00:04:15.720><c> 32t</c><00:04:16.720><c> called</c><00:04:17.289><c> s</c><00:04:17.769><c> alec</c><00:04:18.459><c> count</c><00:04:18.849><c> which</c><00:04:19.029><c> is</c>
+
+00:04:19.050 --> 00:04:19.060 align:start position:0%
+you end 32t called s alec count which is
+ 
+
+00:04:19.060 --> 00:04:21.089 align:start position:0%
+you end 32t called s alec count which is
+gonna<00:04:19.419><c> be</c><00:04:19.570><c> the</c><00:04:19.750><c> number</c><00:04:20.139><c> of</c><00:04:20.169><c> allocations</c><00:04:20.889><c> here</c>
+
+00:04:21.089 --> 00:04:21.099 align:start position:0%
+gonna be the number of allocations here
+ 
+
+00:04:21.099 --> 00:04:23.279 align:start position:0%
+gonna be the number of allocations here
+I'll<00:04:21.459><c> just</c><00:04:21.639><c> make</c><00:04:21.789><c> this</c><00:04:22.000><c> static</c><00:04:22.659><c> for</c><00:04:23.110><c> good</c>
+
+00:04:23.279 --> 00:04:23.289 align:start position:0%
+I'll just make this static for good
+ 
+
+00:04:23.289 --> 00:04:24.300 align:start position:0%
+I'll just make this static for good
+practice<00:04:23.500><c> and</c><00:04:23.919><c> then</c><00:04:24.099><c> what</c>
+
+00:04:24.300 --> 00:04:24.310 align:start position:0%
+practice and then what
+ 
+
+00:04:24.310 --> 00:04:27.930 align:start position:0%
+practice and then what
+is<00:04:24.760><c> s</c><00:04:25.540><c> Alok</c><00:04:26.530><c> count</c><00:04:26.800><c> plus</c><00:04:27.130><c> plus</c><00:04:27.160><c> whenever</c><00:04:27.760><c> we</c>
+
+00:04:27.930 --> 00:04:27.940 align:start position:0%
+is s Alok count plus plus whenever we
+ 
+
+00:04:27.940 --> 00:04:30.810 align:start position:0%
+is s Alok count plus plus whenever we
+allocate<00:04:28.419><c> and</c><00:04:28.660><c> then</c><00:04:29.080><c> just</c><00:04:29.650><c> for</c><00:04:29.919><c> curiosity</c>
+
+00:04:30.810 --> 00:04:30.820 align:start position:0%
+allocate and then just for curiosity
+ 
+
+00:04:30.820 --> 00:04:32.790 align:start position:0%
+allocate and then just for curiosity
+I'll<00:04:31.000><c> also</c><00:04:31.330><c> print</c><00:04:31.630><c> just</c><00:04:32.050><c> how</c><00:04:32.260><c> big</c><00:04:32.590><c> that</c>
+
+00:04:32.790 --> 00:04:32.800 align:start position:0%
+I'll also print just how big that
+ 
+
+00:04:32.800 --> 00:04:36.750 align:start position:0%
+I'll also print just how big that
+allocation<00:04:33.220><c> was</c><00:04:33.550><c> so</c><00:04:34.090><c> allocating</c><00:04:34.870><c> size</c><00:04:35.760><c> bias</c>
+
+00:04:36.750 --> 00:04:36.760 align:start position:0%
+allocation was so allocating size bias
+ 
+
+00:04:36.760 --> 00:04:39.450 align:start position:0%
+allocation was so allocating size bias
+okay<00:04:37.360><c> cool</c><00:04:37.780><c> so</c><00:04:37.810><c> now</c><00:04:38.200><c> all</c><00:04:38.500><c> of</c><00:04:38.740><c> our</c><00:04:38.830><c> allocations</c>
+
+00:04:39.450 --> 00:04:39.460 align:start position:0%
+okay cool so now all of our allocations
+ 
+
+00:04:39.460 --> 00:04:42.060 align:start position:0%
+okay cool so now all of our allocations
+will<00:04:39.669><c> flow</c><00:04:39.970><c> through</c><00:04:40.000><c> this</c><00:04:40.690><c> new</c><00:04:41.020><c> operator</c><00:04:41.620><c> it</c>
+
+00:04:42.060 --> 00:04:42.070 align:start position:0%
+will flow through this new operator it
+ 
+
+00:04:42.070 --> 00:04:43.530 align:start position:0%
+will flow through this new operator it
+will<00:04:42.130><c> count</c><00:04:42.460><c> the</c><00:04:42.580><c> amount</c><00:04:42.700><c> of</c><00:04:42.850><c> allocations</c><00:04:43.360><c> we</c>
+
+00:04:43.530 --> 00:04:43.540 align:start position:0%
+will count the amount of allocations we
+ 
+
+00:04:43.540 --> 00:04:45.810 align:start position:0%
+will count the amount of allocations we
+actually<00:04:44.200><c> have</c><00:04:44.500><c> and</c><00:04:44.830><c> also</c><00:04:45.010><c> it</c><00:04:45.400><c> will</c><00:04:45.490><c> print</c>
+
+00:04:45.810 --> 00:04:45.820 align:start position:0%
+actually have and also it will print
+ 
+
+00:04:45.820 --> 00:04:48.600 align:start position:0%
+actually have and also it will print
+just<00:04:46.180><c> how</c><00:04:46.389><c> big</c><00:04:46.630><c> that</c><00:04:46.780><c> allocation</c><00:04:47.230><c> is</c><00:04:47.590><c> and</c><00:04:47.830><c> what</c>
+
+00:04:48.600 --> 00:04:48.610 align:start position:0%
+just how big that allocation is and what
+ 
+
+00:04:48.610 --> 00:04:50.159 align:start position:0%
+just how big that allocation is and what
+I'll<00:04:48.700><c> do</c><00:04:48.790><c> at</c><00:04:48.970><c> the</c><00:04:49.090><c> very</c><00:04:49.270><c> bottom</c><00:04:49.600><c> here</c><00:04:49.630><c> is</c><00:04:49.990><c> also</c>
+
+00:04:50.159 --> 00:04:50.169 align:start position:0%
+I'll do at the very bottom here is also
+ 
+
+00:04:50.169 --> 00:04:52.770 align:start position:0%
+I'll do at the very bottom here is also
+just<00:04:50.530><c> print</c><00:04:50.919><c> that</c><00:04:51.070><c> aleck</c><00:04:51.430><c> count</c><00:04:51.780><c> allocations</c>
+
+00:04:52.770 --> 00:04:52.780 align:start position:0%
+just print that aleck count allocations
+ 
+
+00:04:52.780 --> 00:04:54.629 align:start position:0%
+just print that aleck count allocations
+okay<00:04:53.680><c> cool</c><00:04:54.070><c> so</c><00:04:54.280><c> there</c><00:04:54.400><c> we</c><00:04:54.460><c> go</c>
+
+00:04:54.629 --> 00:04:54.639 align:start position:0%
+okay cool so there we go
+ 
+
+00:04:54.639 --> 00:04:56.220 align:start position:0%
+okay cool so there we go
+let's<00:04:55.000><c> run</c><00:04:55.180><c> this</c><00:04:55.330><c> program</c><00:04:55.389><c> and</c><00:04:55.870><c> see</c><00:04:55.960><c> what</c>
+
+00:04:56.220 --> 00:04:56.230 align:start position:0%
+let's run this program and see what
+ 
+
+00:04:56.230 --> 00:04:57.870 align:start position:0%
+let's run this program and see what
+happens<00:04:56.500><c> and</c><00:04:56.680><c> as</c><00:04:57.100><c> you</c><00:04:57.220><c> can</c><00:04:57.340><c> see</c><00:04:57.490><c> here</c><00:04:57.729><c> we've</c>
+
+00:04:57.870 --> 00:04:57.880 align:start position:0%
+happens and as you can see here we've
+ 
+
+00:04:57.880 --> 00:04:59.340 align:start position:0%
+happens and as you can see here we've
+allocated<00:04:58.030><c> eight</c><00:04:58.479><c> bytes</c><00:04:58.720><c> of</c><00:04:58.840><c> memory</c><00:04:58.900><c> and</c>
+
+00:04:59.340 --> 00:04:59.350 align:start position:0%
+allocated eight bytes of memory and
+ 
+
+00:04:59.350 --> 00:05:01.650 align:start position:0%
+allocated eight bytes of memory and
+there<00:04:59.500><c> hasn't</c><00:04:59.680><c> been</c><00:04:59.860><c> one</c><00:05:00.490><c> heap</c><00:05:01.090><c> allocation</c>
+
+00:05:01.650 --> 00:05:01.660 align:start position:0%
+there hasn't been one heap allocation
+ 
+
+00:05:01.660 --> 00:05:03.810 align:start position:0%
+there hasn't been one heap allocation
+now<00:05:02.320><c> let's</c><00:05:02.530><c> take</c><00:05:02.740><c> a</c><00:05:02.770><c> look</c><00:05:03.070><c> at</c><00:05:03.250><c> where</c><00:05:03.610><c> that's</c>
+
+00:05:03.810 --> 00:05:03.820 align:start position:0%
+now let's take a look at where that's
+ 
+
+00:05:03.820 --> 00:05:05.460 align:start position:0%
+now let's take a look at where that's
+come<00:05:04.060><c> from</c><00:05:04.389><c> I'll</c><00:05:04.630><c> just</c><00:05:04.810><c> take</c><00:05:04.960><c> a</c><00:05:04.990><c> break</c><00:05:05.200><c> point</c>
+
+00:05:05.460 --> 00:05:05.470 align:start position:0%
+come from I'll just take a break point
+ 
+
+00:05:05.470 --> 00:05:07.530 align:start position:0%
+come from I'll just take a break point
+over<00:05:05.710><c> here</c><00:05:05.740><c> and</c><00:05:06.190><c> run</c><00:05:06.340><c> the</c><00:05:06.460><c> program</c><00:05:06.820><c> again</c><00:05:06.940><c> here</c>
+
+00:05:07.530 --> 00:05:07.540 align:start position:0%
+over here and run the program again here
+ 
+
+00:05:07.540 --> 00:05:09.540 align:start position:0%
+over here and run the program again here
+we<00:05:07.600><c> go</c><00:05:07.720><c> the</c><00:05:07.870><c> breakpoint</c><00:05:08.380><c> gets</c><00:05:08.650><c> hit</c><00:05:09.010><c> and</c><00:05:09.220><c> you</c>
+
+00:05:09.540 --> 00:05:09.550 align:start position:0%
+we go the breakpoint gets hit and you
+ 
+
+00:05:09.550 --> 00:05:11.460 align:start position:0%
+we go the breakpoint gets hit and you
+can<00:05:09.700><c> see</c><00:05:09.820><c> that</c><00:05:09.940><c> it's</c><00:05:10.060><c> coming</c><00:05:10.240><c> from</c><00:05:10.389><c> this</c><00:05:11.169><c> line</c>
+
+00:05:11.460 --> 00:05:11.470 align:start position:0%
+can see that it's coming from this line
+ 
+
+00:05:11.470 --> 00:05:13.110 align:start position:0%
+can see that it's coming from this line
+here<00:05:11.800><c> when</c><00:05:11.950><c> we</c><00:05:12.070><c> actually</c><00:05:12.460><c> create</c><00:05:12.790><c> a</c><00:05:12.850><c> string</c>
+
+00:05:13.110 --> 00:05:13.120 align:start position:0%
+here when we actually create a string
+ 
+
+00:05:13.120 --> 00:05:15.210 align:start position:0%
+here when we actually create a string
+and<00:05:13.270><c> that</c><00:05:13.419><c> causes</c><00:05:13.660><c> a</c><00:05:13.810><c> heap</c><00:05:14.169><c> allocation</c><00:05:14.680><c> if</c><00:05:15.010><c> we</c>
+
+00:05:15.210 --> 00:05:15.220 align:start position:0%
+and that causes a heap allocation if we
+ 
+
+00:05:15.220 --> 00:05:16.409 align:start position:0%
+and that causes a heap allocation if we
+take<00:05:15.400><c> a</c><00:05:15.430><c> look</c><00:05:15.639><c> at</c><00:05:15.790><c> where</c><00:05:15.970><c> it's</c><00:05:16.090><c> coming</c><00:05:16.330><c> from</c>
+
+00:05:16.409 --> 00:05:16.419 align:start position:0%
+take a look at where it's coming from
+ 
+
+00:05:16.419 --> 00:05:19.530 align:start position:0%
+take a look at where it's coming from
+it's<00:05:17.260><c> coming</c><00:05:17.500><c> from</c><00:05:17.830><c> SV</c><00:05:18.790><c> basic</c><00:05:19.120><c> string</c><00:05:19.389><c> of</c>
+
+00:05:19.530 --> 00:05:19.540 align:start position:0%
+it's coming from SV basic string of
+ 
+
+00:05:19.540 --> 00:05:21.659 align:start position:0%
+it's coming from SV basic string of
+course<00:05:19.810><c> if</c><00:05:20.320><c> we</c><00:05:20.500><c> drill</c><00:05:20.740><c> down</c><00:05:20.770><c> a</c><00:05:20.950><c> little</c><00:05:21.160><c> bit</c><00:05:21.520><c> we</c>
+
+00:05:21.659 --> 00:05:21.669 align:start position:0%
+course if we drill down a little bit we
+ 
+
+00:05:21.669 --> 00:05:24.180 align:start position:0%
+course if we drill down a little bit we
+can<00:05:21.790><c> see</c><00:05:21.850><c> that</c><00:05:22.270><c> this</c><00:05:22.630><c> in</c><00:05:22.960><c> fact</c><00:05:22.990><c> does</c><00:05:23.530><c> allocate</c>
+
+00:05:24.180 --> 00:05:24.190 align:start position:0%
+can see that this in fact does allocate
+ 
+
+00:05:24.190 --> 00:05:26.850 align:start position:0%
+can see that this in fact does allocate
+memory<00:05:24.430><c> okay</c><00:05:25.120><c> but</c><00:05:25.330><c> what</c><00:05:25.600><c> if</c><00:05:25.810><c> we</c><00:05:26.110><c> do</c><00:05:26.410><c> something</c>
+
+00:05:26.850 --> 00:05:26.860 align:start position:0%
+memory okay but what if we do something
+ 
+
+00:05:26.860 --> 00:05:28.680 align:start position:0%
+memory okay but what if we do something
+a<00:05:27.010><c> little</c><00:05:27.160><c> bit</c><00:05:27.400><c> more</c><00:05:27.430><c> simple</c><00:05:27.880><c> what</c><00:05:28.360><c> if</c><00:05:28.479><c> we</c><00:05:28.660><c> just</c>
+
+00:05:28.680 --> 00:05:28.690 align:start position:0%
+a little bit more simple what if we just
+ 
+
+00:05:28.690 --> 00:05:31.500 align:start position:0%
+a little bit more simple what if we just
+get<00:05:29.410><c> rid</c><00:05:29.530><c> of</c><00:05:29.620><c> this</c><00:05:29.740><c> string</c><00:05:30.070><c> entirely</c><00:05:30.580><c> and</c><00:05:31.030><c> we</c>
+
+00:05:31.500 --> 00:05:31.510 align:start position:0%
+get rid of this string entirely and we
+ 
+
+00:05:31.510 --> 00:05:34.050 align:start position:0%
+get rid of this string entirely and we
+just<00:05:31.750><c> copy</c><00:05:31.990><c> and</c><00:05:32.169><c> paste</c><00:05:32.440><c> this</c><00:05:32.950><c> kind</c><00:05:33.430><c> of</c><00:05:33.550><c> khonsu</c>
+
+00:05:34.050 --> 00:05:34.060 align:start position:0%
+just copy and paste this kind of khonsu
+ 
+
+00:05:34.060 --> 00:05:35.969 align:start position:0%
+just copy and paste this kind of khonsu
+our<00:05:34.240><c> data</c><00:05:34.510><c> right</c><00:05:34.840><c> into</c><00:05:35.470><c> the</c><00:05:35.590><c> print</c><00:05:35.830><c> name</c>
+
+00:05:35.969 --> 00:05:35.979 align:start position:0%
+our data right into the print name
+ 
+
+00:05:35.979 --> 00:05:38.760 align:start position:0%
+our data right into the print name
+function<00:05:36.310><c> does</c><00:05:36.820><c> that</c><00:05:37.090><c> allocate</c><00:05:37.479><c> memory</c><00:05:37.660><c> yes</c><00:05:38.650><c> I</c>
+
+00:05:38.760 --> 00:05:38.770 align:start position:0%
+function does that allocate memory yes I
+ 
+
+00:05:38.770 --> 00:05:40.409 align:start position:0%
+function does that allocate memory yes I
+know<00:05:38.830><c> I</c><00:05:38.890><c> write</c><00:05:39.070><c> a</c><00:05:39.100><c> comment</c><00:05:39.370><c> below</c><00:05:39.580><c> now</c><00:05:40.030><c> I'm</c>
+
+00:05:40.409 --> 00:05:40.419 align:start position:0%
+know I write a comment below now I'm
+ 
+
+00:05:40.419 --> 00:05:42.900 align:start position:0%
+know I write a comment below now I'm
+gonna<00:05:40.539><c> run</c><00:05:40.750><c> this</c><00:05:40.870><c> program</c><00:05:41.110><c> and</c><00:05:41.560><c> well</c><00:05:42.310><c> as</c><00:05:42.820><c> you</c>
+
+00:05:42.900 --> 00:05:42.910 align:start position:0%
+gonna run this program and well as you
+ 
+
+00:05:42.910 --> 00:05:44.760 align:start position:0%
+gonna run this program and well as you
+can<00:05:43.060><c> see</c><00:05:43.210><c> it</c><00:05:43.419><c> does</c><00:05:43.660><c> in</c><00:05:43.840><c> fact</c><00:05:44.020><c> allocate</c><00:05:44.590><c> memory</c>
+
+00:05:44.760 --> 00:05:44.770 align:start position:0%
+can see it does in fact allocate memory
+ 
+
+00:05:44.770 --> 00:05:47.010 align:start position:0%
+can see it does in fact allocate memory
+so<00:05:45.250><c> if</c><00:05:45.310><c> we</c><00:05:45.370><c> go</c><00:05:45.490><c> back</c><00:05:45.520><c> here</c><00:05:45.910><c> this</c><00:05:46.240><c> in</c><00:05:46.510><c> fact</c><00:05:46.810><c> does</c>
+
+00:05:47.010 --> 00:05:47.020 align:start position:0%
+so if we go back here this in fact does
+ 
+
+00:05:47.020 --> 00:05:48.570 align:start position:0%
+so if we go back here this in fact does
+allocate<00:05:47.440><c> memory</c><00:05:47.560><c> we're</c><00:05:47.800><c> still</c><00:05:47.919><c> taking</c><00:05:48.070><c> in</c><00:05:48.370><c> a</c>
+
+00:05:48.570 --> 00:05:48.580 align:start position:0%
+allocate memory we're still taking in a
+ 
+
+00:05:48.580 --> 00:05:51.180 align:start position:0%
+allocate memory we're still taking in a
+Const<00:05:49.210><c> reference</c><00:05:50.020><c> here</c><00:05:50.320><c> of</c><00:05:50.470><c> course</c><00:05:50.650><c> but</c><00:05:51.039><c> it</c>
+
+00:05:51.180 --> 00:05:51.190 align:start position:0%
+Const reference here of course but it
+ 
+
+00:05:51.190 --> 00:05:52.950 align:start position:0%
+Const reference here of course but it
+still<00:05:51.220><c> needs</c><00:05:51.610><c> to</c><00:05:51.729><c> construct</c><00:05:52.180><c> an</c><00:05:52.330><c> sed</c><00:05:52.690><c> string</c>
+
+00:05:52.950 --> 00:05:52.960 align:start position:0%
+still needs to construct an sed string
+ 
+
+00:05:52.960 --> 00:05:55.200 align:start position:0%
+still needs to construct an sed string
+for<00:05:53.139><c> us</c><00:05:53.229><c> and</c><00:05:53.440><c> that</c><00:05:53.860><c> construction</c><00:05:54.370><c> allocates</c>
+
+00:05:55.200 --> 00:05:55.210 align:start position:0%
+for us and that construction allocates
+ 
+
+00:05:55.210 --> 00:05:57.920 align:start position:0%
+for us and that construction allocates
+memory<00:05:55.630><c> let's</c><00:05:56.260><c> look</c><00:05:56.440><c> at</c><00:05:56.620><c> a</c><00:05:56.650><c> slightly</c><00:05:56.860><c> more</c>
+
+00:05:57.920 --> 00:05:57.930 align:start position:0%
+memory let's look at a slightly more
+ 
+
+00:05:57.930 --> 00:06:00.480 align:start position:0%
+memory let's look at a slightly more
+involved<00:05:58.930><c> example</c><00:05:59.320><c> I</c><00:05:59.800><c> guess</c><00:06:00.010><c> this</c><00:06:00.280><c> is</c><00:06:00.460><c> really</c>
+
+00:06:00.480 --> 00:06:00.490 align:start position:0%
+involved example I guess this is really
+ 
+
+00:06:00.490 --> 00:06:02.700 align:start position:0%
+involved example I guess this is really
+really<00:06:00.880><c> simple</c><00:06:01.150><c> I'll</c><00:06:01.630><c> go</c><00:06:01.900><c> back</c><00:06:02.020><c> to</c><00:06:02.200><c> what</c><00:06:02.440><c> I</c><00:06:02.500><c> had</c>
+
+00:06:02.700 --> 00:06:02.710 align:start position:0%
+really simple I'll go back to what I had
+ 
+
+00:06:02.710 --> 00:06:05.159 align:start position:0%
+really simple I'll go back to what I had
+before<00:06:02.740><c> and</c><00:06:03.370><c> what</c><00:06:03.460><c> I'll</c><00:06:03.970><c> do</c><00:06:04.150><c> here</c><00:06:04.419><c> is</c><00:06:04.660><c> I'll</c>
+
+00:06:05.159 --> 00:06:05.169 align:start position:0%
+before and what I'll do here is I'll
+ 
+
+00:06:05.169 --> 00:06:06.629 align:start position:0%
+before and what I'll do here is I'll
+actually<00:06:05.350><c> just</c><00:06:05.950><c> play</c><00:06:06.220><c> around</c><00:06:06.340><c> with</c><00:06:06.520><c> the</c>
+
+00:06:06.629 --> 00:06:06.639 align:start position:0%
+actually just play around with the
+ 
+
+00:06:06.639 --> 00:06:08.520 align:start position:0%
+actually just play around with the
+string<00:06:06.850><c> a</c><00:06:06.940><c> little</c><00:06:06.970><c> bit</c><00:06:07.270><c> so</c><00:06:07.510><c> maybe</c><00:06:07.810><c> I</c><00:06:07.990><c> want</c><00:06:08.440><c> to</c>
+
+00:06:08.520 --> 00:06:08.530 align:start position:0%
+string a little bit so maybe I want to
+ 
+
+00:06:08.530 --> 00:06:12.390 align:start position:0%
+string a little bit so maybe I want to
+have<00:06:08.860><c> the</c><00:06:09.190><c> first</c><00:06:09.490><c> name</c><00:06:09.840><c> so</c><00:06:10.840><c> I'll</c><00:06:11.260><c> just</c><00:06:11.530><c> do</c><00:06:11.889><c> name</c>
+
+00:06:12.390 --> 00:06:12.400 align:start position:0%
+have the first name so I'll just do name
+ 
+
+00:06:12.400 --> 00:06:15.779 align:start position:0%
+have the first name so I'll just do name
+dot<00:06:12.729><c> substring</c><00:06:13.680><c> zero</c><00:06:14.680><c> and</c><00:06:15.010><c> three</c><00:06:15.430><c> to</c><00:06:15.550><c> get</c><00:06:15.669><c> the</c>
+
+00:06:15.779 --> 00:06:15.789 align:start position:0%
+dot substring zero and three to get the
+ 
+
+00:06:15.789 --> 00:06:17.700 align:start position:0%
+dot substring zero and three to get the
+first<00:06:16.030><c> three</c><00:06:16.510><c> characters</c><00:06:16.690><c> out</c><00:06:17.139><c> and</c><00:06:17.380><c> make</c><00:06:17.560><c> its</c>
+
+00:06:17.700 --> 00:06:17.710 align:start position:0%
+first three characters out and make its
+ 
+
+00:06:17.710 --> 00:06:19.980 align:start position:0%
+first three characters out and make its
+own<00:06:17.889><c> string</c><00:06:18.160><c> I'll</c><00:06:18.729><c> do</c><00:06:18.940><c> the</c><00:06:19.030><c> same</c><00:06:19.210><c> for</c><00:06:19.270><c> the</c><00:06:19.780><c> last</c>
+
+00:06:19.980 --> 00:06:19.990 align:start position:0%
+own string I'll do the same for the last
+ 
+
+00:06:19.990 --> 00:06:21.690 align:start position:0%
+own string I'll do the same for the last
+name<00:06:20.350><c> and</c><00:06:20.620><c> then</c><00:06:20.770><c> of</c><00:06:20.860><c> course</c><00:06:20.889><c> I'll</c><00:06:21.280><c> start</c><00:06:21.580><c> this</c>
+
+00:06:21.690 --> 00:06:21.700 align:start position:0%
+name and then of course I'll start this
+ 
+
+00:06:21.700 --> 00:06:24.570 align:start position:0%
+name and then of course I'll start this
+at<00:06:21.880><c> index</c><00:06:22.180><c> 4</c><00:06:22.270><c> with</c><00:06:23.080><c> a</c><00:06:23.110><c> length</c><00:06:23.410><c> of</c><00:06:23.530><c> 9</c><00:06:23.590><c> so</c><00:06:24.430><c> now</c><00:06:24.550><c> I</c>
+
+00:06:24.570 --> 00:06:24.580 align:start position:0%
+at index 4 with a length of 9 so now I
+ 
+
+00:06:24.580 --> 00:06:26.070 align:start position:0%
+at index 4 with a length of 9 so now I
+have<00:06:24.789><c> the</c><00:06:24.910><c> first</c><00:06:25.060><c> name</c><00:06:25.360><c> and</c><00:06:25.539><c> the</c><00:06:25.600><c> last</c><00:06:25.870><c> name</c>
+
+00:06:26.070 --> 00:06:26.080 align:start position:0%
+have the first name and the last name
+ 
+
+00:06:26.080 --> 00:06:27.420 align:start position:0%
+have the first name and the last name
+maybe<00:06:26.350><c> I</c><00:06:26.500><c> just</c><00:06:26.770><c> want</c><00:06:26.919><c> to</c><00:06:26.979><c> print</c><00:06:27.100><c> the</c><00:06:27.250><c> first</c>
+
+00:06:27.420 --> 00:06:27.430 align:start position:0%
+maybe I just want to print the first
+ 
+
+00:06:27.430 --> 00:06:29.909 align:start position:0%
+maybe I just want to print the first
+name<00:06:27.669><c> I'll</c><00:06:27.910><c> do</c><00:06:28.120><c> that</c><00:06:28.330><c> let's</c><00:06:28.930><c> run</c><00:06:29.620><c> this</c><00:06:29.740><c> program</c>
+
+00:06:29.909 --> 00:06:29.919 align:start position:0%
+name I'll do that let's run this program
+ 
+
+00:06:29.919 --> 00:06:31.920 align:start position:0%
+name I'll do that let's run this program
+and<00:06:30.280><c> see</c><00:06:30.370><c> how</c><00:06:30.610><c> many</c><00:06:30.789><c> allocations</c><00:06:31.270><c> we</c><00:06:31.419><c> get</c><00:06:31.720><c> and</c>
+
+00:06:31.920 --> 00:06:31.930 align:start position:0%
+and see how many allocations we get and
+ 
+
+00:06:31.930 --> 00:06:33.380 align:start position:0%
+and see how many allocations we get and
+you<00:06:32.050><c> guys</c><00:06:32.200><c> can</c><00:06:32.440><c> write</c><00:06:32.590><c> that</c><00:06:32.740><c> in</c><00:06:32.950><c> the</c><00:06:33.039><c> comment</c>
+
+00:06:33.380 --> 00:06:33.390 align:start position:0%
+you guys can write that in the comment
+ 
+
+00:06:33.390 --> 00:06:35.120 align:start position:0%
+you guys can write that in the comment
+some<00:06:33.570><c> counted</c><00:06:33.840><c> yourselves</c><00:06:34.290><c> so</c><00:06:34.620><c> how</c><00:06:35.040><c> many</c>
+
+00:06:35.120 --> 00:06:35.130 align:start position:0%
+some counted yourselves so how many
+ 
+
+00:06:35.130 --> 00:06:37.070 align:start position:0%
+some counted yourselves so how many
+allocations<00:06:35.730><c> do</c><00:06:35.850><c> you</c><00:06:35.940><c> think</c><00:06:36.180><c> we</c><00:06:36.360><c> have</c><00:06:36.390><c> here</c>
+
+00:06:37.070 --> 00:06:37.080 align:start position:0%
+allocations do you think we have here
+ 
+
+00:06:37.080 --> 00:06:39.530 align:start position:0%
+allocations do you think we have here
+the<00:06:37.470><c> correct</c><00:06:37.650><c> answer</c><00:06:38.040><c> is</c><00:06:38.190><c> three</c><00:06:38.820><c> allocations</c>
+
+00:06:39.530 --> 00:06:39.540 align:start position:0%
+the correct answer is three allocations
+ 
+
+00:06:39.540 --> 00:06:41.810 align:start position:0%
+the correct answer is three allocations
+so<00:06:39.780><c> already</c><00:06:40.380><c> just</c><00:06:40.740><c> with</c><00:06:40.800><c> a</c><00:06:40.950><c> few</c><00:06:41.370><c> operations</c>
+
+00:06:41.810 --> 00:06:41.820 align:start position:0%
+so already just with a few operations
+ 
+
+00:06:41.820 --> 00:06:43.970 align:start position:0%
+so already just with a few operations
+we're<00:06:42.180><c> already</c><00:06:42.510><c> at</c><00:06:42.750><c> three</c><00:06:43.080><c> allocations</c><00:06:43.800><c> and</c>
+
+00:06:43.970 --> 00:06:43.980 align:start position:0%
+we're already at three allocations and
+ 
+
+00:06:43.980 --> 00:06:45.680 align:start position:0%
+we're already at three allocations and
+you<00:06:44.130><c> can</c><00:06:44.280><c> imagine</c><00:06:44.490><c> that</c><00:06:44.880><c> things</c><00:06:45.090><c> like</c><00:06:45.360><c> this</c>
+
+00:06:45.680 --> 00:06:45.690 align:start position:0%
+you can imagine that things like this
+ 
+
+00:06:45.690 --> 00:06:47.780 align:start position:0%
+you can imagine that things like this
+might<00:06:46.380><c> happen</c><00:06:46.410><c> all</c><00:06:47.100><c> the</c><00:06:47.130><c> time</c><00:06:47.280><c> throughout</c>
+
+00:06:47.780 --> 00:06:47.790 align:start position:0%
+might happen all the time throughout
+ 
+
+00:06:47.790 --> 00:06:49.010 align:start position:0%
+might happen all the time throughout
+your<00:06:47.910><c> program</c><00:06:48.300><c> and</c><00:06:48.420><c> if</c><00:06:48.510><c> you've</c><00:06:48.630><c> got</c><00:06:48.720><c> some</c><00:06:48.870><c> kind</c>
+
+00:06:49.010 --> 00:06:49.020 align:start position:0%
+your program and if you've got some kind
+ 
+
+00:06:49.020 --> 00:06:50.570 align:start position:0%
+your program and if you've got some kind
+of<00:06:49.050><c> real</c><00:06:49.200><c> time</c><00:06:49.410><c> running</c><00:06:49.770><c> program</c><00:06:50.160><c> like</c><00:06:50.310><c> an</c><00:06:50.400><c> app</c>
+
+00:06:50.570 --> 00:06:50.580 align:start position:0%
+of real time running program like an app
+ 
+
+00:06:50.580 --> 00:06:52.250 align:start position:0%
+of real time running program like an app
+or<00:06:50.790><c> a</c><00:06:50.880><c> game</c><00:06:50.910><c> or</c><00:06:51.360><c> something</c><00:06:51.720><c> like</c><00:06:51.810><c> that</c><00:06:51.870><c> and</c>
+
+00:06:52.250 --> 00:06:52.260 align:start position:0%
+or a game or something like that and
+ 
+
+00:06:52.260 --> 00:06:53.630 align:start position:0%
+or a game or something like that and
+you're<00:06:52.380><c> doing</c><00:06:52.680><c> this</c><00:06:52.770><c> kind</c><00:06:52.980><c> of</c><00:06:53.010><c> stuff</c><00:06:53.160><c> every</c>
+
+00:06:53.630 --> 00:06:53.640 align:start position:0%
+you're doing this kind of stuff every
+ 
+
+00:06:53.640 --> 00:06:55.910 align:start position:0%
+you're doing this kind of stuff every
+frame<00:06:53.940><c> then</c><00:06:54.150><c> it</c><00:06:54.240><c> can</c><00:06:54.360><c> really</c><00:06:54.780><c> pile</c><00:06:55.140><c> up</c><00:06:55.350><c> and</c><00:06:55.770><c> it</c>
+
+00:06:55.910 --> 00:06:55.920 align:start position:0%
+frame then it can really pile up and it
+ 
+
+00:06:55.920 --> 00:06:57.560 align:start position:0%
+frame then it can really pile up and it
+can<00:06:56.070><c> hurt</c><00:06:56.370><c> your</c><00:06:56.550><c> frame</c><00:06:56.760><c> rate</c><00:06:56.790><c> so</c><00:06:57.270><c> is</c><00:06:57.420><c> there</c>
+
+00:06:57.560 --> 00:06:57.570 align:start position:0%
+can hurt your frame rate so is there
+ 
+
+00:06:57.570 --> 00:06:59.960 align:start position:0%
+can hurt your frame rate so is there
+anything<00:06:57.840><c> we</c><00:06:58.350><c> can</c><00:06:58.530><c> do</c><00:06:58.800><c> to</c><00:06:59.070><c> actually</c><00:06:59.310><c> make</c><00:06:59.610><c> this</c>
+
+00:06:59.960 --> 00:06:59.970 align:start position:0%
+anything we can do to actually make this
+ 
+
+00:06:59.970 --> 00:07:02.900 align:start position:0%
+anything we can do to actually make this
+better<00:07:00.270><c> for</c><00:07:00.480><c> us</c><00:07:00.890><c> yes</c><00:07:01.890><c> in</c><00:07:02.250><c> fact</c><00:07:02.490><c> there</c><00:07:02.760><c> is</c>
+
+00:07:02.900 --> 00:07:02.910 align:start position:0%
+better for us yes in fact there is
+ 
+
+00:07:02.910 --> 00:07:04.520 align:start position:0%
+better for us yes in fact there is
+there's<00:07:03.180><c> a</c><00:07:03.210><c> very</c><00:07:03.240><c> easy</c><00:07:03.450><c> way</c><00:07:04.050><c> that</c><00:07:04.080><c> we</c><00:07:04.350><c> can</c><00:07:04.500><c> just</c>
+
+00:07:04.520 --> 00:07:04.530 align:start position:0%
+there's a very easy way that we can just
+ 
+
+00:07:04.530 --> 00:07:06.470 align:start position:0%
+there's a very easy way that we can just
+modify<00:07:04.770><c> this</c><00:07:05.010><c> existing</c><00:07:05.610><c> code</c><00:07:05.820><c> to</c><00:07:06.000><c> reduce</c><00:07:06.300><c> the</c>
+
+00:07:06.470 --> 00:07:06.480 align:start position:0%
+modify this existing code to reduce the
+ 
+
+00:07:06.480 --> 00:07:08.840 align:start position:0%
+modify this existing code to reduce the
+allocations<00:07:06.990><c> to</c><00:07:07.080><c> just</c><00:07:07.410><c> one</c><00:07:07.620><c> and</c><00:07:07.980><c> what</c><00:07:08.670><c> we'll</c>
+
+00:07:08.840 --> 00:07:08.850 align:start position:0%
+allocations to just one and what we'll
+ 
+
+00:07:08.850 --> 00:07:10.820 align:start position:0%
+allocations to just one and what we'll
+do<00:07:09.090><c> by</c><00:07:09.450><c> the</c><00:07:09.510><c> end</c><00:07:09.570><c> of</c><00:07:09.690><c> this</c><00:07:09.780><c> video</c><00:07:09.930><c> is</c><00:07:10.290><c> get</c><00:07:10.650><c> rid</c>
+
+00:07:10.820 --> 00:07:10.830 align:start position:0%
+do by the end of this video is get rid
+ 
+
+00:07:10.830 --> 00:07:13.130 align:start position:0%
+do by the end of this video is get rid
+of<00:07:10.890><c> all</c><00:07:11.190><c> of</c><00:07:11.760><c> these</c><00:07:12.000><c> allocations</c><00:07:12.360><c> we'll</c><00:07:12.990><c> have</c>
+
+00:07:13.130 --> 00:07:13.140 align:start position:0%
+of all of these allocations we'll have
+ 
+
+00:07:13.140 --> 00:07:15.530 align:start position:0%
+of all of these allocations we'll have
+zero<00:07:13.560><c> if</c><00:07:13.860><c> we</c><00:07:14.070><c> just</c><00:07:14.310><c> look</c><00:07:14.610><c> at</c><00:07:14.790><c> this</c><00:07:15.090><c> program</c>
+
+00:07:15.530 --> 00:07:15.540 align:start position:0%
+zero if we just look at this program
+ 
+
+00:07:15.540 --> 00:07:17.870 align:start position:0%
+zero if we just look at this program
+whenever<00:07:16.110><c> you're</c><00:07:16.350><c> optimizing</c><00:07:16.860><c> you</c><00:07:17.250><c> just</c><00:07:17.670><c> want</c>
+
+00:07:17.870 --> 00:07:17.880 align:start position:0%
+whenever you're optimizing you just want
+ 
+
+00:07:17.880 --> 00:07:19.460 align:start position:0%
+whenever you're optimizing you just want
+to<00:07:17.970><c> take</c><00:07:18.180><c> a</c><00:07:18.210><c> look</c><00:07:18.600><c> at</c><00:07:18.780><c> what</c><00:07:19.050><c> it</c><00:07:19.170><c> is</c><00:07:19.200><c> you're</c>
+
+00:07:19.460 --> 00:07:19.470 align:start position:0%
+to take a look at what it is you're
+ 
+
+00:07:19.470 --> 00:07:21.500 align:start position:0%
+to take a look at what it is you're
+trying<00:07:19.770><c> to</c><00:07:19.920><c> do</c><00:07:20.250><c> because</c><00:07:20.730><c> in</c><00:07:20.910><c> a</c><00:07:21.000><c> lot</c><00:07:21.150><c> of</c><00:07:21.270><c> cases</c>
+
+00:07:21.500 --> 00:07:21.510 align:start position:0%
+trying to do because in a lot of cases
+ 
+
+00:07:21.510 --> 00:07:24.110 align:start position:0%
+trying to do because in a lot of cases
+just<00:07:21.750><c> by</c><00:07:22.140><c> kind</c><00:07:22.350><c> of</c><00:07:22.440><c> looking</c><00:07:22.800><c> at</c><00:07:22.950><c> the</c><00:07:23.100><c> data</c><00:07:23.280><c> you</c>
+
+00:07:24.110 --> 00:07:24.120 align:start position:0%
+just by kind of looking at the data you
+ 
+
+00:07:24.120 --> 00:07:26.330 align:start position:0%
+just by kind of looking at the data you
+can<00:07:24.150><c> find</c><00:07:24.660><c> ways</c><00:07:24.900><c> to</c><00:07:24.960><c> optimize</c><00:07:25.740><c> it</c><00:07:25.950><c> so</c><00:07:26.070><c> for</c>
+
+00:07:26.330 --> 00:07:26.340 align:start position:0%
+can find ways to optimize it so for
+ 
+
+00:07:26.340 --> 00:07:28.130 align:start position:0%
+can find ways to optimize it so for
+example<00:07:26.790><c> what</c><00:07:27.030><c> am</c><00:07:27.150><c> i</c><00:07:27.240><c> doing</c><00:07:27.570><c> with</c><00:07:27.720><c> this</c><00:07:27.870><c> first</c>
+
+00:07:28.130 --> 00:07:28.140 align:start position:0%
+example what am i doing with this first
+ 
+
+00:07:28.140 --> 00:07:30.170 align:start position:0%
+example what am i doing with this first
+name<00:07:28.410><c> what</c><00:07:28.950><c> do</c><00:07:29.040><c> I</c><00:07:29.100><c> want</c><00:07:29.340><c> well</c><00:07:29.490><c> really</c><00:07:29.820><c> I</c><00:07:30.150><c> just</c>
+
+00:07:30.170 --> 00:07:30.180 align:start position:0%
+name what do I want well really I just
+ 
+
+00:07:30.180 --> 00:07:32.210 align:start position:0%
+name what do I want well really I just
+want<00:07:30.690><c> these</c><00:07:30.870><c> three</c><00:07:31.140><c> characters</c><00:07:31.650><c> does</c>
+
+00:07:32.210 --> 00:07:32.220 align:start position:0%
+want these three characters does
+ 
+
+00:07:32.220 --> 00:07:34.070 align:start position:0%
+want these three characters does
+obtaining<00:07:32.850><c> these</c><00:07:33.030><c> three</c><00:07:33.300><c> characters</c><00:07:33.780><c> really</c>
+
+00:07:34.070 --> 00:07:34.080 align:start position:0%
+obtaining these three characters really
+ 
+
+00:07:34.080 --> 00:07:36.620 align:start position:0%
+obtaining these three characters really
+require<00:07:34.650><c> me</c><00:07:34.920><c> to</c><00:07:35.160><c> make</c><00:07:35.580><c> a</c><00:07:35.610><c> substring</c><00:07:36.330><c> I</c><00:07:36.480><c> mean</c>
+
+00:07:36.620 --> 00:07:36.630 align:start position:0%
+require me to make a substring I mean
+ 
+
+00:07:36.630 --> 00:07:38.270 align:start position:0%
+require me to make a substring I mean
+what<00:07:36.810><c> what</c><00:07:37.110><c> that's</c><00:07:37.290><c> doing</c><00:07:37.500><c> is</c><00:07:37.800><c> creating</c><00:07:38.040><c> a</c>
+
+00:07:38.270 --> 00:07:38.280 align:start position:0%
+what what that's doing is creating a
+ 
+
+00:07:38.280 --> 00:07:40.790 align:start position:0%
+what what that's doing is creating a
+whole<00:07:38.520><c> new</c><00:07:38.550><c> string</c><00:07:39.210><c> which</c><00:07:39.810><c> is</c><00:07:40.080><c> its</c><00:07:40.320><c> own</c><00:07:40.500><c> data</c>
+
+00:07:40.790 --> 00:07:40.800 align:start position:0%
+whole new string which is its own data
+ 
+
+00:07:40.800 --> 00:07:42.710 align:start position:0%
+whole new string which is its own data
+right<00:07:41.070><c> so</c><00:07:41.250><c> it's</c><00:07:41.370><c> copying</c><00:07:41.820><c> that</c><00:07:41.970><c> data</c><00:07:42.240><c> into</c>
+
+00:07:42.710 --> 00:07:42.720 align:start position:0%
+right so it's copying that data into
+ 
+
+00:07:42.720 --> 00:07:44.360 align:start position:0%
+right so it's copying that data into
+this<00:07:42.840><c> first</c><00:07:43.110><c> name</c><00:07:43.320><c> variable</c><00:07:43.860><c> right</c><00:07:44.010><c> which</c><00:07:44.250><c> is</c>
+
+00:07:44.360 --> 00:07:44.370 align:start position:0%
+this first name variable right which is
+ 
+
+00:07:44.370 --> 00:07:46.280 align:start position:0%
+this first name variable right which is
+a<00:07:44.460><c> string</c><00:07:44.730><c> but</c><00:07:45.300><c> not</c><00:07:45.450><c> only</c><00:07:45.570><c> that</c><00:07:45.660><c> if</c><00:07:46.020><c> I</c><00:07:46.140><c> don't</c>
+
+00:07:46.280 --> 00:07:46.290 align:start position:0%
+a string but not only that if I don't
+ 
+
+00:07:46.290 --> 00:07:47.930 align:start position:0%
+a string but not only that if I don't
+even<00:07:46.470><c> copy</c><00:07:46.680><c> the</c><00:07:46.890><c> data</c><00:07:47.070><c> if</c><00:07:47.250><c> I</c><00:07:47.370><c> just</c><00:07:47.520><c> take</c><00:07:47.760><c> this</c>
+
+00:07:47.930 --> 00:07:47.940 align:start position:0%
+even copy the data if I just take this
+ 
+
+00:07:47.940 --> 00:07:49.490 align:start position:0%
+even copy the data if I just take this
+obviously<00:07:48.330><c> like</c><00:07:48.510><c> that</c><00:07:48.720><c> that's</c><00:07:49.260><c> gonna</c>
+
+00:07:49.490 --> 00:07:49.500 align:start position:0%
+obviously like that that's gonna
+ 
+
+00:07:49.500 --> 00:07:51.620 align:start position:0%
+obviously like that that's gonna
+allocate<00:07:49.740><c> in</c><00:07:50.220><c> itself</c><00:07:50.610><c> and</c><00:07:51.210><c> you</c><00:07:51.270><c> can</c><00:07:51.420><c> see</c><00:07:51.510><c> we</c>
+
+00:07:51.620 --> 00:07:51.630 align:start position:0%
+allocate in itself and you can see we
+ 
+
+00:07:51.630 --> 00:07:53.330 align:start position:0%
+allocate in itself and you can see we
+now<00:07:51.750><c> have</c><00:07:51.780><c> four</c><00:07:52.140><c> allocations</c><00:07:52.800><c> because</c><00:07:53.070><c> what</c>
+
+00:07:53.330 --> 00:07:53.340 align:start position:0%
+now have four allocations because what
+ 
+
+00:07:53.340 --> 00:07:54.830 align:start position:0%
+now have four allocations because what
+it's<00:07:53.580><c> doing</c><00:07:53.700><c> is</c><00:07:54.120><c> creating</c><00:07:54.390><c> a</c><00:07:54.600><c> whole</c><00:07:54.810><c> new</c>
+
+00:07:54.830 --> 00:07:54.840 align:start position:0%
+it's doing is creating a whole new
+ 
+
+00:07:54.840 --> 00:07:57.350 align:start position:0%
+it's doing is creating a whole new
+string<00:07:55.350><c> which</c><00:07:55.560><c> can</c><00:07:55.860><c> be</c><00:07:56.040><c> mutated</c><00:07:56.760><c> and</c><00:07:56.910><c> has</c><00:07:57.150><c> its</c>
+
+00:07:57.350 --> 00:07:57.360 align:start position:0%
+string which can be mutated and has its
+ 
+
+00:07:57.360 --> 00:07:59.480 align:start position:0%
+string which can be mutated and has its
+own<00:07:57.510><c> memory</c><00:07:57.780><c> but</c><00:07:58.230><c> really</c><00:07:58.590><c> what</c><00:07:58.920><c> we</c><00:07:59.040><c> want</c><00:07:59.310><c> is</c>
+
+00:07:59.480 --> 00:07:59.490 align:start position:0%
+own memory but really what we want is
+ 
+
+00:07:59.490 --> 00:08:03.470 align:start position:0%
+own memory but really what we want is
+kind<00:07:59.790><c> of</c><00:07:59.970><c> a</c><00:08:00.120><c> view</c><00:08:00.660><c> into</c><00:08:01.410><c> that</c><00:08:01.590><c> string</c><00:08:01.950><c> a</c><00:08:02.480><c> view</c>
+
+00:08:03.470 --> 00:08:03.480 align:start position:0%
+kind of a view into that string a view
+ 
+
+00:08:03.480 --> 00:08:05.600 align:start position:0%
+kind of a view into that string a view
+you<00:08:03.510><c> say</c><00:08:03.900><c> that's</c><00:08:04.290><c> exactly</c><00:08:04.470><c> where</c><00:08:05.220><c> strengths</c>
+
+00:08:05.600 --> 00:08:05.610 align:start position:0%
+you say that's exactly where strengths
+ 
+
+00:08:05.610 --> 00:08:07.790 align:start position:0%
+you say that's exactly where strengths
+view<00:08:05.820><c> comes</c><00:08:06.210><c> into</c><00:08:06.450><c> play</c><00:08:06.630><c> so</c><00:08:07.020><c> essa'</c><00:08:07.260><c> D</c><00:08:07.500><c> string</c>
+
+00:08:07.790 --> 00:08:07.800 align:start position:0%
+view comes into play so essa' D string
+ 
+
+00:08:07.800 --> 00:08:10.850 align:start position:0%
+view comes into play so essa' D string
+view<00:08:07.980><c> is</c><00:08:08.160><c> a</c><00:08:08.190><c> new</c><00:08:08.520><c> class</c><00:08:08.790><c> available</c><00:08:09.420><c> in</c><00:08:09.660><c> C++</c><00:08:10.290><c> 17</c>
+
+00:08:10.850 --> 00:08:10.860 align:start position:0%
+view is a new class available in C++ 17
+ 
+
+00:08:10.860 --> 00:08:12.320 align:start position:0%
+view is a new class available in C++ 17
+but<00:08:11.130><c> to</c><00:08:11.220><c> be</c><00:08:11.340><c> honest</c><00:08:11.580><c> I've</c><00:08:11.760><c> been</c><00:08:11.790><c> using</c><00:08:12.090><c> stuff</c>
+
+00:08:12.320 --> 00:08:12.330 align:start position:0%
+but to be honest I've been using stuff
+ 
+
+00:08:12.330 --> 00:08:15.200 align:start position:0%
+but to be honest I've been using stuff
+like<00:08:12.570><c> this</c><00:08:12.960><c> way</c><00:08:13.320><c> before</c><00:08:13.380><c> C++</c><00:08:14.130><c> 17</c><00:08:14.550><c> what</c><00:08:14.940><c> it</c><00:08:15.060><c> is</c>
+
+00:08:15.200 --> 00:08:15.210 align:start position:0%
+like this way before C++ 17 what it is
+ 
+
+00:08:15.210 --> 00:08:17.390 align:start position:0%
+like this way before C++ 17 what it is
+is<00:08:15.540><c> essentially</c><00:08:16.050><c> just</c><00:08:16.200><c> a</c><00:08:16.530><c> pointer</c><00:08:17.190><c> to</c>
+
+00:08:17.390 --> 00:08:17.400 align:start position:0%
+is essentially just a pointer to
+ 
+
+00:08:17.400 --> 00:08:19.460 align:start position:0%
+is essentially just a pointer to
+existing<00:08:18.240><c> memory</c><00:08:18.660><c> so</c><00:08:18.930><c> in</c><00:08:19.020><c> other</c><00:08:19.110><c> words</c><00:08:19.320><c> a</c>
+
+00:08:19.460 --> 00:08:19.470 align:start position:0%
+existing memory so in other words a
+ 
+
+00:08:19.470 --> 00:08:22.010 align:start position:0%
+existing memory so in other words a
+Const<00:08:19.980><c> our</c><00:08:20.250><c> pointer</c><00:08:20.790><c> to</c><00:08:20.970><c> an</c><00:08:21.120><c> existing</c><00:08:21.690><c> string</c>
+
+00:08:22.010 --> 00:08:22.020 align:start position:0%
+Const our pointer to an existing string
+ 
+
+00:08:22.020 --> 00:08:25.640 align:start position:0%
+Const our pointer to an existing string
+owned<00:08:22.440><c> by</c><00:08:22.980><c> someone</c><00:08:23.430><c> else</c><00:08:23.640><c> plus</c><00:08:24.360><c> a</c><00:08:24.630><c> size</c><00:08:24.960><c> so</c>
+
+00:08:25.640 --> 00:08:25.650 align:start position:0%
+owned by someone else plus a size so
+ 
+
+00:08:25.650 --> 00:08:27.530 align:start position:0%
+owned by someone else plus a size so
+what<00:08:25.830><c> that</c><00:08:25.950><c> enables</c><00:08:26.310><c> you</c><00:08:26.370><c> to</c><00:08:26.400><c> do</c><00:08:26.670><c> is</c><00:08:26.910><c> be</c><00:08:27.390><c> like</c>
+
+00:08:27.530 --> 00:08:27.540 align:start position:0%
+what that enables you to do is be like
+ 
+
+00:08:27.540 --> 00:08:29.630 align:start position:0%
+what that enables you to do is be like
+okay<00:08:27.810><c> I've</c><00:08:28.020><c> got</c><00:08:28.200><c> my</c><00:08:28.320><c> name</c><00:08:28.500><c> yawn</c><00:08:28.830><c> charnok</c><00:08:29.220><c> off</c><00:08:29.370><c> I</c>
+
+00:08:29.630 --> 00:08:29.640 align:start position:0%
+okay I've got my name yawn charnok off I
+ 
+
+00:08:29.640 --> 00:08:32.270 align:start position:0%
+okay I've got my name yawn charnok off I
+can<00:08:30.090><c> just</c><00:08:30.270><c> go</c><00:08:30.510><c> to</c><00:08:30.540><c> that</c><00:08:31.140><c> first</c><00:08:31.710><c> I</c><00:08:31.950><c> can</c><00:08:32.100><c> have</c><00:08:32.250><c> a</c>
+
+00:08:32.270 --> 00:08:32.280 align:start position:0%
+can just go to that first I can have a
+ 
+
+00:08:32.280 --> 00:08:33.980 align:start position:0%
+can just go to that first I can have a
+pointer<00:08:32.670><c> to</c><00:08:32.700><c> that</c><00:08:32.850><c> first</c><00:08:33.210><c> character</c><00:08:33.720><c> and</c><00:08:33.900><c> then</c>
+
+00:08:33.980 --> 00:08:33.990 align:start position:0%
+pointer to that first character and then
+ 
+
+00:08:33.990 --> 00:08:35.540 align:start position:0%
+pointer to that first character and then
+a<00:08:34.200><c> size</c><00:08:34.500><c> of</c><00:08:34.620><c> three</c><00:08:34.860><c> and</c><00:08:35.070><c> then</c><00:08:35.160><c> that</c><00:08:35.340><c> would</c><00:08:35.520><c> be</c>
+
+00:08:35.540 --> 00:08:35.550 align:start position:0%
+a size of three and then that would be
+ 
+
+00:08:35.550 --> 00:08:38.090 align:start position:0%
+a size of three and then that would be
+my<00:08:35.760><c> substring</c><00:08:36.210><c> or</c><00:08:36.660><c> I</c><00:08:36.690><c> can</c><00:08:37.020><c> have</c><00:08:37.200><c> a</c><00:08:37.410><c> pointer</c><00:08:37.860><c> to</c>
+
+00:08:38.090 --> 00:08:38.100 align:start position:0%
+my substring or I can have a pointer to
+ 
+
+00:08:38.100 --> 00:08:39.980 align:start position:0%
+my substring or I can have a pointer to
+the<00:08:38.550><c> beginning</c><00:08:38.700><c> of</c><00:08:39.030><c> that</c><00:08:39.120><c> string</c><00:08:39.450><c> plus</c><00:08:39.690><c> four</c>
+
+00:08:39.980 --> 00:08:39.990 align:start position:0%
+the beginning of that string plus four
+ 
+
+00:08:39.990 --> 00:08:41.750 align:start position:0%
+the beginning of that string plus four
+bytes<00:08:40.260><c> which</c><00:08:40.530><c> takes</c><00:08:40.800><c> me</c><00:08:40.950><c> to</c><00:08:40.979><c> that</c><00:08:41.220><c> beginning</c>
+
+00:08:41.750 --> 00:08:41.760 align:start position:0%
+bytes which takes me to that beginning
+ 
+
+00:08:41.760 --> 00:08:43.670 align:start position:0%
+bytes which takes me to that beginning
+of<00:08:41.910><c> that</c><00:08:42.060><c> surname</c><00:08:42.599><c> of</c><00:08:42.630><c> that</c><00:08:42.900><c> last</c><00:08:43.140><c> name</c><00:08:43.440><c> and</c>
+
+00:08:43.670 --> 00:08:43.680 align:start position:0%
+of that surname of that last name and
+ 
+
+00:08:43.680 --> 00:08:46.220 align:start position:0%
+of that surname of that last name and
+then<00:08:44.099><c> another</c><00:08:44.310><c> nine</c><00:08:44.700><c> for</c><00:08:45.150><c> the</c><00:08:45.240><c> size</c><00:08:45.480><c> and</c><00:08:45.870><c> then</c>
+
+00:08:46.220 --> 00:08:46.230 align:start position:0%
+then another nine for the size and then
+ 
+
+00:08:46.230 --> 00:08:47.240 align:start position:0%
+then another nine for the size and then
+that<00:08:46.410><c> would</c><00:08:46.530><c> be</c><00:08:46.560><c> myself</c>
+
+00:08:47.240 --> 00:08:47.250 align:start position:0%
+that would be myself
+ 
+
+00:08:47.250 --> 00:08:48.650 align:start position:0%
+that would be myself
+so<00:08:47.460><c> in</c><00:08:47.520><c> other</c><00:08:47.610><c> words</c><00:08:47.820><c> what</c><00:08:48.030><c> I'm</c><00:08:48.120><c> doing</c><00:08:48.450><c> is</c><00:08:48.540><c> I'm</c>
+
+00:08:48.650 --> 00:08:48.660 align:start position:0%
+so in other words what I'm doing is I'm
+ 
+
+00:08:48.660 --> 00:08:50.270 align:start position:0%
+so in other words what I'm doing is I'm
+creating<00:08:48.840><c> like</c><00:08:49.170><c> a</c><00:08:49.200><c> window</c><00:08:49.620><c> a</c><00:08:49.650><c> little</c><00:08:49.920><c> view</c>
+
+00:08:50.270 --> 00:08:50.280 align:start position:0%
+creating like a window a little view
+ 
+
+00:08:50.280 --> 00:08:53.090 align:start position:0%
+creating like a window a little view
+into<00:08:51.000><c> existing</c><00:08:51.750><c> memory</c><00:08:52.170><c> instead</c><00:08:52.800><c> of</c><00:08:52.920><c> having</c>
+
+00:08:53.090 --> 00:08:53.100 align:start position:0%
+into existing memory instead of having
+ 
+
+00:08:53.100 --> 00:08:55.310 align:start position:0%
+into existing memory instead of having
+to<00:08:53.310><c> allocate</c><00:08:53.820><c> a</c><00:08:54.030><c> whole</c><00:08:54.450><c> new</c><00:08:54.660><c> string</c><00:08:55.020><c> and</c><00:08:55.140><c> make</c>
+
+00:08:55.310 --> 00:08:55.320 align:start position:0%
+to allocate a whole new string and make
+ 
+
+00:08:55.320 --> 00:08:56.600 align:start position:0%
+to allocate a whole new string and make
+a<00:08:55.350><c> whole</c><00:08:55.680><c> new</c><00:08:55.830><c> string</c><00:08:56.160><c> out</c><00:08:56.280><c> of</c><00:08:56.310><c> it</c><00:08:56.490><c> using</c>
+
+00:08:56.600 --> 00:08:56.610 align:start position:0%
+a whole new string out of it using
+ 
+
+00:08:56.610 --> 00:08:58.280 align:start position:0%
+a whole new string out of it using
+substring<00:08:57.180><c> I</c><00:08:57.450><c> don't</c><00:08:57.810><c> need</c><00:08:57.960><c> any</c><00:08:58.140><c> of</c><00:08:58.170><c> that</c>
+
+00:08:58.280 --> 00:08:58.290 align:start position:0%
+substring I don't need any of that
+ 
+
+00:08:58.290 --> 00:09:00.080 align:start position:0%
+substring I don't need any of that
+because<00:08:58.620><c> what</c><00:08:58.800><c> I</c><00:08:58.830><c> want</c><00:08:59.100><c> is</c><00:08:59.220><c> just</c><00:08:59.280><c> a</c><00:08:59.550><c> view</c><00:08:59.820><c> a</c>
+
+00:09:00.080 --> 00:09:00.090 align:start position:0%
+because what I want is just a view a
+ 
+
+00:09:00.090 --> 00:09:03.230 align:start position:0%
+because what I want is just a view a
+window<00:09:00.840><c> into</c><00:09:01.440><c> an</c><00:09:01.650><c> existing</c><00:09:02.130><c> string</c><00:09:02.790><c> which</c><00:09:03.030><c> has</c>
+
+00:09:03.230 --> 00:09:03.240 align:start position:0%
+window into an existing string which has
+ 
+
+00:09:03.240 --> 00:09:05.480 align:start position:0%
+window into an existing string which has
+its<00:09:03.510><c> own</c><00:09:03.690><c> memory</c><00:09:04.140><c> it's</c><00:09:04.620><c> really</c><00:09:04.980><c> simple</c><00:09:05.220><c> to</c>
+
+00:09:05.480 --> 00:09:05.490 align:start position:0%
+its own memory it's really simple to
+ 
+
+00:09:05.490 --> 00:09:07.610 align:start position:0%
+its own memory it's really simple to
+write<00:09:05.700><c> this</c><00:09:05.940><c> kind</c><00:09:06.120><c> of</c><00:09:06.210><c> class</c><00:09:06.420><c> by</c><00:09:06.690><c> yourself</c><00:09:06.870><c> so</c>
+
+00:09:07.610 --> 00:09:07.620 align:start position:0%
+write this kind of class by yourself so
+ 
+
+00:09:07.620 --> 00:09:09.710 align:start position:0%
+write this kind of class by yourself so
+way<00:09:07.980><c> before</c><00:09:08.340><c> say</c><00:09:08.490><c> plus</c><00:09:08.670><c> +</c><00:09:08.790><c> 17</c><00:09:09.240><c> people</c><00:09:09.570><c> were</c>
+
+00:09:09.710 --> 00:09:09.720 align:start position:0%
+way before say plus + 17 people were
+ 
+
+00:09:09.720 --> 00:09:10.850 align:start position:0%
+way before say plus + 17 people were
+doing<00:09:09.840><c> stuff</c><00:09:10.140><c> like</c><00:09:10.290><c> this</c><00:09:10.410><c> it's</c><00:09:10.710><c> actually</c>
+
+00:09:10.850 --> 00:09:10.860 align:start position:0%
+doing stuff like this it's actually
+ 
+
+00:09:10.860 --> 00:09:13.220 align:start position:0%
+doing stuff like this it's actually
+quite<00:09:11.250><c> common</c><00:09:11.550><c> to</c><00:09:11.850><c> do</c><00:09:12.030><c> and</c><00:09:12.300><c> the</c><00:09:12.510><c> huge</c><00:09:12.750><c> benefit</c>
+
+00:09:13.220 --> 00:09:13.230 align:start position:0%
+quite common to do and the huge benefit
+ 
+
+00:09:13.230 --> 00:09:15.230 align:start position:0%
+quite common to do and the huge benefit
+here<00:09:13.470><c> is</c><00:09:13.500><c> because</c><00:09:14.130><c> I'm</c><00:09:14.310><c> not</c><00:09:14.340><c> creating</c><00:09:15.060><c> my</c><00:09:15.210><c> own</c>
+
+00:09:15.230 --> 00:09:15.240 align:start position:0%
+here is because I'm not creating my own
+ 
+
+00:09:15.240 --> 00:09:17.630 align:start position:0%
+here is because I'm not creating my own
+string<00:09:15.840><c> I'm</c><00:09:16.110><c> just</c><00:09:16.380><c> kind</c><00:09:16.590><c> of</c><00:09:16.680><c> looking</c><00:09:17.100><c> into</c><00:09:17.250><c> an</c>
+
+00:09:17.630 --> 00:09:17.640 align:start position:0%
+string I'm just kind of looking into an
+ 
+
+00:09:17.640 --> 00:09:20.450 align:start position:0%
+string I'm just kind of looking into an
+existing<00:09:18.150><c> string</c><00:09:18.870><c> there</c><00:09:19.770><c> is</c><00:09:19.920><c> no</c><00:09:20.130><c> memory</c>
+
+00:09:20.450 --> 00:09:20.460 align:start position:0%
+existing string there is no memory
+ 
+
+00:09:20.460 --> 00:09:22.190 align:start position:0%
+existing string there is no memory
+allocations<00:09:21.000><c> it's</c><00:09:21.240><c> extremely</c><00:09:21.930><c> lightweight</c>
+
+00:09:22.190 --> 00:09:22.200 align:start position:0%
+allocations it's extremely lightweight
+ 
+
+00:09:22.200 --> 00:09:24.620 align:start position:0%
+allocations it's extremely lightweight
+to<00:09:22.620><c> pass</c><00:09:22.860><c> a</c><00:09:23.160><c> string</c><00:09:23.520><c> view</c><00:09:23.700><c> around</c><00:09:23.910><c> just</c><00:09:24.480><c> by</c>
+
+00:09:24.620 --> 00:09:24.630 align:start position:0%
+to pass a string view around just by
+ 
+
+00:09:24.630 --> 00:09:26.480 align:start position:0%
+to pass a string view around just by
+value<00:09:24.990><c> because</c><00:09:25.260><c> all</c><00:09:25.380><c> it</c><00:09:25.500><c> is</c><00:09:25.620><c> is</c><00:09:25.800><c> a</c><00:09:25.830><c> pointer</c><00:09:26.310><c> and</c>
+
+00:09:26.480 --> 00:09:26.490 align:start position:0%
+value because all it is is a pointer and
+ 
+
+00:09:26.490 --> 00:09:28.400 align:start position:0%
+value because all it is is a pointer and
+a<00:09:26.610><c> size</c><00:09:26.850><c> so</c><00:09:27.480><c> with</c><00:09:27.660><c> that</c><00:09:27.750><c> in</c><00:09:27.870><c> mind</c><00:09:28.020><c> let's</c>
+
+00:09:28.400 --> 00:09:28.410 align:start position:0%
+a size so with that in mind let's
+ 
+
+00:09:28.410 --> 00:09:30.710 align:start position:0%
+a size so with that in mind let's
+rewrite<00:09:28.830><c> the</c><00:09:29.040><c> current</c><00:09:29.340><c> code</c><00:09:29.460><c> that</c><00:09:29.610><c> we</c><00:09:29.730><c> have</c><00:09:30.000><c> to</c>
+
+00:09:30.710 --> 00:09:30.720 align:start position:0%
+rewrite the current code that we have to
+ 
+
+00:09:30.720 --> 00:09:32.870 align:start position:0%
+rewrite the current code that we have to
+just<00:09:30.870><c> get</c><00:09:31.140><c> rid</c><00:09:31.260><c> of</c><00:09:31.350><c> substring</c><00:09:31.830><c> altogether</c><00:09:32.400><c> so</c>
+
+00:09:32.870 --> 00:09:32.880 align:start position:0%
+just get rid of substring altogether so
+ 
+
+00:09:32.880 --> 00:09:34.730 align:start position:0%
+just get rid of substring altogether so
+here<00:09:33.150><c> we</c><00:09:33.270><c> have</c><00:09:33.450><c> these</c><00:09:33.750><c> true</c><00:09:34.080><c> sub</c><00:09:34.320><c> strings</c><00:09:34.590><c> that</c>
+
+00:09:34.730 --> 00:09:34.740 align:start position:0%
+here we have these true sub strings that
+ 
+
+00:09:34.740 --> 00:09:35.780 align:start position:0%
+here we have these true sub strings that
+we<00:09:34.860><c> wrote</c><00:09:35.040><c> of</c><00:09:35.160><c> course</c><00:09:35.370><c> I'm</c><00:09:35.550><c> just</c><00:09:35.640><c> gonna</c>
+
+00:09:35.780 --> 00:09:35.790 align:start position:0%
+we wrote of course I'm just gonna
+ 
+
+00:09:35.790 --> 00:09:38.120 align:start position:0%
+we wrote of course I'm just gonna
+rewrite<00:09:36.150><c> them</c><00:09:36.390><c> what</c><00:09:36.570><c> I'll</c><00:09:36.660><c> do</c><00:09:36.810><c> is</c><00:09:37.050><c> write</c><00:09:37.590><c> STD</c>
+
+00:09:38.120 --> 00:09:38.130 align:start position:0%
+rewrite them what I'll do is write STD
+ 
+
+00:09:38.130 --> 00:09:40.850 align:start position:0%
+rewrite them what I'll do is write STD
+string<00:09:38.520><c> view</c><00:09:38.880><c> first</c><00:09:39.750><c> name</c><00:09:40.050><c> and</c><00:09:40.260><c> then</c><00:09:40.680><c> I</c><00:09:40.710><c> can</c>
+
+00:09:40.850 --> 00:09:40.860 align:start position:0%
+string view first name and then I can
+ 
+
+00:09:40.860 --> 00:09:42.590 align:start position:0%
+string view first name and then I can
+use<00:09:41.160><c> the</c><00:09:41.310><c> constructor</c><00:09:41.910><c> of</c><00:09:42.000><c> string</c><00:09:42.270><c> view</c><00:09:42.420><c> to</c>
+
+00:09:42.590 --> 00:09:42.600 align:start position:0%
+use the constructor of string view to
+ 
+
+00:09:42.600 --> 00:09:44.960 align:start position:0%
+use the constructor of string view to
+specify<00:09:43.170><c> this</c><00:09:43.650><c> substring</c><00:09:44.400><c> so</c><00:09:44.580><c> in</c><00:09:44.670><c> other</c><00:09:44.760><c> words</c>
+
+00:09:44.960 --> 00:09:44.970 align:start position:0%
+specify this substring so in other words
+ 
+
+00:09:44.970 --> 00:09:46.610 align:start position:0%
+specify this substring so in other words
+I'm<00:09:45.180><c> gonna</c><00:09:45.360><c> go</c><00:09:45.510><c> with</c><00:09:45.720><c> name</c><00:09:46.050><c> because</c><00:09:46.440><c> that's</c>
+
+00:09:46.610 --> 00:09:46.620 align:start position:0%
+I'm gonna go with name because that's
+ 
+
+00:09:46.620 --> 00:09:48.410 align:start position:0%
+I'm gonna go with name because that's
+what<00:09:46.800><c> the</c><00:09:46.890><c> daughter</c><00:09:47.100><c> is</c><00:09:47.340><c> named</c><00:09:47.610><c> dorsey</c><00:09:48.090><c> string</c>
+
+00:09:48.410 --> 00:09:48.420 align:start position:0%
+what the daughter is named dorsey string
+ 
+
+00:09:48.420 --> 00:09:50.750 align:start position:0%
+what the daughter is named dorsey string
+that<00:09:48.810><c> gives</c><00:09:49.050><c> me</c><00:09:49.230><c> a</c><00:09:49.260><c> constant</c><00:09:49.770><c> R</c><00:09:49.950><c> pointer</c><00:09:50.490><c> that</c>
+
+00:09:50.750 --> 00:09:50.760 align:start position:0%
+that gives me a constant R pointer that
+ 
+
+00:09:50.760 --> 00:09:52.760 align:start position:0%
+that gives me a constant R pointer that
+is<00:09:50.820><c> owned</c><00:09:51.120><c> by</c><00:09:51.270><c> this</c><00:09:51.330><c> name</c><00:09:51.870><c> string</c><00:09:52.260><c> and</c><00:09:52.530><c> then</c>
+
+00:09:52.760 --> 00:09:52.770 align:start position:0%
+is owned by this name string and then
+ 
+
+00:09:52.770 --> 00:09:54.680 align:start position:0%
+is owned by this name string and then
+I'm<00:09:52.860><c> going</c><00:09:52.980><c> to</c><00:09:53.010><c> specify</c><00:09:53.190><c> a</c><00:09:53.430><c> size</c><00:09:53.730><c> of</c><00:09:54.030><c> 3</c><00:09:54.450><c> and</c>
+
+00:09:54.680 --> 00:09:54.690 align:start position:0%
+I'm going to specify a size of 3 and
+ 
+
+00:09:54.690 --> 00:09:56.329 align:start position:0%
+I'm going to specify a size of 3 and
+then<00:09:54.780><c> that</c><00:09:55.020><c> that's</c><00:09:55.320><c> that</c><00:09:55.589><c> that's</c><00:09:55.830><c> my</c><00:09:56.100><c> first</c>
+
+00:09:56.329 --> 00:09:56.339 align:start position:0%
+then that that's that that's my first
+ 
+
+00:09:56.339 --> 00:09:58.400 align:start position:0%
+then that that's that that's my first
+name<00:09:56.580><c> and</c><00:09:56.760><c> then</c><00:09:57.270><c> for</c><00:09:57.540><c> the</c><00:09:57.600><c> last</c><00:09:57.780><c> name</c><00:09:57.960><c> I'll</c><00:09:58.200><c> do</c>
+
+00:09:58.400 --> 00:09:58.410 align:start position:0%
+name and then for the last name I'll do
+ 
+
+00:09:58.410 --> 00:09:59.690 align:start position:0%
+name and then for the last name I'll do
+the<00:09:58.530><c> same</c><00:09:58.710><c> thing</c><00:09:58.770><c> except</c><00:09:59.550><c> the</c><00:09:59.610><c> difference</c>
+
+00:09:59.690 --> 00:09:59.700 align:start position:0%
+the same thing except the difference
+ 
+
+00:09:59.700 --> 00:10:00.920 align:start position:0%
+the same thing except the difference
+being<00:10:00.089><c> I</c><00:10:00.210><c> don't</c><00:10:00.360><c> want</c><00:10:00.480><c> to</c><00:10:00.540><c> start</c><00:10:00.720><c> at</c><00:10:00.839><c> the</c>
+
+00:10:00.920 --> 00:10:00.930 align:start position:0%
+being I don't want to start at the
+ 
+
+00:10:00.930 --> 00:10:02.540 align:start position:0%
+being I don't want to start at the
+beginning<00:10:01.110><c> of</c><00:10:01.650><c> this</c><00:10:01.800><c> string</c><00:10:02.100><c> I</c><00:10:02.130><c> actually</c><00:10:02.280><c> want</c>
+
+00:10:02.540 --> 00:10:02.550 align:start position:0%
+beginning of this string I actually want
+ 
+
+00:10:02.550 --> 00:10:04.430 align:start position:0%
+beginning of this string I actually want
+to<00:10:02.610><c> advance</c><00:10:02.850><c> four</c><00:10:03.300><c> bytes</c><00:10:03.540><c> or</c><00:10:03.780><c> four</c><00:10:03.990><c> characters</c>
+
+00:10:04.430 --> 00:10:04.440 align:start position:0%
+to advance four bytes or four characters
+ 
+
+00:10:04.440 --> 00:10:05.870 align:start position:0%
+to advance four bytes or four characters
+forward<00:10:04.830><c> so</c><00:10:04.950><c> that</c><00:10:05.070><c> I</c><00:10:05.100><c> get</c><00:10:05.370><c> through</c><00:10:05.670><c> this</c>
+
+00:10:05.870 --> 00:10:05.880 align:start position:0%
+forward so that I get through this
+ 
+
+00:10:05.880 --> 00:10:07.970 align:start position:0%
+forward so that I get through this
+letter<00:10:06.180><c> C</c><00:10:06.420><c> here</c><00:10:06.750><c> and</c><00:10:06.930><c> then</c><00:10:07.320><c> the</c><00:10:07.440><c> length</c><00:10:07.680><c> here</c>
+
+00:10:07.970 --> 00:10:07.980 align:start position:0%
+letter C here and then the length here
+ 
+
+00:10:07.980 --> 00:10:10.220 align:start position:0%
+letter C here and then the length here
+which<00:10:08.370><c> is</c><00:10:08.520><c> nine</c><00:10:09.000><c> I'll</c><00:10:09.330><c> just</c><00:10:09.510><c> wrap</c><00:10:09.750><c> this</c><00:10:09.960><c> stuff</c>
+
+00:10:10.220 --> 00:10:10.230 align:start position:0%
+which is nine I'll just wrap this stuff
+ 
+
+00:10:10.230 --> 00:10:12.530 align:start position:0%
+which is nine I'll just wrap this stuff
+behind<00:10:10.530><c> an</c><00:10:11.040><c> ef-0</c><00:10:11.760><c> and</c><00:10:12.089><c> then</c><00:10:12.270><c> I'll</c><00:10:12.360><c> write</c><00:10:12.480><c> a</c>
+
+00:10:12.530 --> 00:10:12.540 align:start position:0%
+behind an ef-0 and then I'll write a
+ 
+
+00:10:12.540 --> 00:10:14.030 align:start position:0%
+behind an ef-0 and then I'll write a
+little<00:10:12.660><c> else</c><00:10:13.020><c> here</c><00:10:13.320><c> so</c><00:10:13.350><c> that</c><00:10:13.589><c> we</c><00:10:13.650><c> can</c><00:10:13.770><c> test</c>
+
+00:10:14.030 --> 00:10:14.040 align:start position:0%
+little else here so that we can test
+ 
+
+00:10:14.040 --> 00:10:17.329 align:start position:0%
+little else here so that we can test
+both<00:10:14.400><c> scenarios</c><00:10:15.470><c> later</c><00:10:16.470><c> and</c><00:10:16.800><c> then</c><00:10:17.010><c> in</c><00:10:17.130><c> print</c>
+
+00:10:17.329 --> 00:10:17.339 align:start position:0%
+both scenarios later and then in print
+ 
+
+00:10:17.339 --> 00:10:18.710 align:start position:0%
+both scenarios later and then in print
+name<00:10:17.460><c> of</c><00:10:17.580><c> course</c><00:10:17.700><c> I'm</c><00:10:17.970><c> just</c><00:10:18.030><c> gonna</c><00:10:18.210><c> write</c>
+
+00:10:18.710 --> 00:10:18.720 align:start position:0%
+name of course I'm just gonna write
+ 
+
+00:10:18.720 --> 00:10:20.510 align:start position:0%
+name of course I'm just gonna write
+first-name<00:10:19.410><c> now</c><00:10:19.620><c> we</c><00:10:19.680><c> have</c><00:10:19.890><c> to</c><00:10:20.040><c> modify</c><00:10:20.339><c> this</c>
+
+00:10:20.510 --> 00:10:20.520 align:start position:0%
+first-name now we have to modify this
+ 
+
+00:10:20.520 --> 00:10:22.250 align:start position:0%
+first-name now we have to modify this
+function<00:10:21.060><c> a</c><00:10:21.089><c> little</c><00:10:21.450><c> bit</c><00:10:21.690><c> instead</c><00:10:21.900><c> of</c><00:10:22.080><c> just</c>
+
+00:10:22.250 --> 00:10:22.260 align:start position:0%
+function a little bit instead of just
+ 
+
+00:10:22.260 --> 00:10:24.740 align:start position:0%
+function a little bit instead of just
+taking<00:10:22.830><c> in</c><00:10:23.070><c> a</c><00:10:23.190><c> constant</c><00:10:23.760><c> a</c><00:10:23.820><c> string</c><00:10:24.150><c> now</c><00:10:24.510><c> we'll</c>
+
+00:10:24.740 --> 00:10:24.750 align:start position:0%
+taking in a constant a string now we'll
+ 
+
+00:10:24.750 --> 00:10:27.079 align:start position:0%
+taking in a constant a string now we'll
+take<00:10:24.930><c> in</c><00:10:25.140><c> a</c><00:10:25.380><c> strength</c><00:10:25.830><c> you</c><00:10:26.010><c> know</c><00:10:26.640><c> need</c><00:10:26.820><c> to</c><00:10:26.910><c> pass</c>
+
+00:10:27.079 --> 00:10:27.089 align:start position:0%
+take in a strength you know need to pass
+ 
+
+00:10:27.089 --> 00:10:29.240 align:start position:0%
+take in a strength you know need to pass
+this<00:10:27.390><c> by</c><00:10:27.900><c> reference</c><00:10:28.740><c> or</c><00:10:28.860><c> anything</c><00:10:29.010><c> like</c><00:10:29.220><c> that</c>
+
+00:10:29.240 --> 00:10:29.250 align:start position:0%
+this by reference or anything like that
+ 
+
+00:10:29.250 --> 00:10:31.579 align:start position:0%
+this by reference or anything like that
+so<00:10:29.640><c> this</c><00:10:29.760><c> becomes</c><00:10:30.089><c> just</c><00:10:30.420><c> STD</c><00:10:31.080><c> string</c><00:10:31.350><c> view</c>
+
+00:10:31.579 --> 00:10:31.589 align:start position:0%
+so this becomes just STD string view
+ 
+
+00:10:31.589 --> 00:10:34.100 align:start position:0%
+so this becomes just STD string view
+name<00:10:31.950><c> so</c><00:10:32.430><c> now</c><00:10:32.550><c> with</c><00:10:32.790><c> this</c><00:10:32.970><c> in</c><00:10:33.180><c> mind</c><00:10:33.420><c> let's</c><00:10:33.870><c> run</c>
+
+00:10:34.100 --> 00:10:34.110 align:start position:0%
+name so now with this in mind let's run
+ 
+
+00:10:34.110 --> 00:10:35.240 align:start position:0%
+name so now with this in mind let's run
+this<00:10:34.200><c> program</c><00:10:34.410><c> and</c><00:10:34.770><c> see</c><00:10:35.070><c> how</c><00:10:35.190><c> many</c>
+
+00:10:35.240 --> 00:10:35.250 align:start position:0%
+this program and see how many
+ 
+
+00:10:35.250 --> 00:10:37.220 align:start position:0%
+this program and see how many
+allocations<00:10:35.850><c> we</c><00:10:36.000><c> get</c><00:10:36.270><c> and</c><00:10:36.480><c> check</c><00:10:36.780><c> this</c><00:10:36.870><c> out</c><00:10:37.050><c> we</c>
+
+00:10:37.220 --> 00:10:37.230 align:start position:0%
+allocations we get and check this out we
+ 
+
+00:10:37.230 --> 00:10:39.680 align:start position:0%
+allocations we get and check this out we
+just<00:10:37.260><c> get</c><00:10:37.560><c> a</c><00:10:37.589><c> single</c><00:10:37.980><c> allocation</c><00:10:38.790><c> coming</c><00:10:39.450><c> from</c>
+
+00:10:39.680 --> 00:10:39.690 align:start position:0%
+just get a single allocation coming from
+ 
+
+00:10:39.690 --> 00:10:41.630 align:start position:0%
+just get a single allocation coming from
+this<00:10:39.960><c> original</c><00:10:40.500><c> string</c><00:10:40.890><c> of</c><00:10:41.130><c> course</c>
+
+00:10:41.630 --> 00:10:41.640 align:start position:0%
+this original string of course
+ 
+
+00:10:41.640 --> 00:10:44.060 align:start position:0%
+this original string of course
+let's<00:10:41.820><c> also</c><00:10:42.030><c> copy</c><00:10:42.450><c> and</c><00:10:42.570><c> paste</c><00:10:42.870><c> this</c><00:10:43.050><c> and</c><00:10:43.290><c> print</c>
+
+00:10:44.060 --> 00:10:44.070 align:start position:0%
+let's also copy and paste this and print
+ 
+
+00:10:44.070 --> 00:10:46.190 align:start position:0%
+let's also copy and paste this and print
+the<00:10:44.460><c> last</c><00:10:44.970><c> name</c><00:10:45.240><c> here</c><00:10:45.510><c> and</c><00:10:45.780><c> then</c><00:10:45.900><c> I'll</c><00:10:46.050><c> just</c>
+
+00:10:46.190 --> 00:10:46.200 align:start position:0%
+the last name here and then I'll just
+ 
+
+00:10:46.200 --> 00:10:48.290 align:start position:0%
+the last name here and then I'll just
+run<00:10:46.320><c> this</c><00:10:46.710><c> program</c><00:10:47.280><c> there</c><00:10:47.610><c> we</c><00:10:47.670><c> go</c><00:10:47.760><c> we</c><00:10:48.000><c> print</c>
+
+00:10:48.290 --> 00:10:48.300 align:start position:0%
+run this program there we go we print
+ 
+
+00:10:48.300 --> 00:10:49.970 align:start position:0%
+run this program there we go we print
+the<00:10:48.480><c> first</c><00:10:48.600><c> name</c><00:10:48.839><c> and</c><00:10:49.020><c> the</c><00:10:49.080><c> last</c><00:10:49.230><c> name</c><00:10:49.410><c> and</c><00:10:49.740><c> we</c>
+
+00:10:49.970 --> 00:10:49.980 align:start position:0%
+the first name and the last name and we
+ 
+
+00:10:49.980 --> 00:10:52.160 align:start position:0%
+the first name and the last name and we
+only<00:10:50.130><c> have</c><00:10:50.370><c> a</c><00:10:50.580><c> single</c><00:10:50.760><c> allocation</c><00:10:51.570><c> how</c><00:10:51.839><c> good</c>
+
+00:10:52.160 --> 00:10:52.170 align:start position:0%
+only have a single allocation how good
+ 
+
+00:10:52.170 --> 00:10:54.740 align:start position:0%
+only have a single allocation how good
+is<00:10:52.320><c> that</c><00:10:52.350><c> but</c><00:10:53.089><c> we</c><00:10:54.089><c> can</c><00:10:54.240><c> do</c><00:10:54.360><c> better</c><00:10:54.390><c> than</c><00:10:54.630><c> that</c>
+
+00:10:54.740 --> 00:10:54.750 align:start position:0%
+is that but we can do better than that
+ 
+
+00:10:54.750 --> 00:10:56.270 align:start position:0%
+is that but we can do better than that
+we<00:10:54.870><c> can</c><00:10:54.900><c> get</c><00:10:55.140><c> rid</c><00:10:55.230><c> of</c><00:10:55.290><c> all</c><00:10:55.500><c> the</c><00:10:55.770><c> allocations</c>
+
+00:10:56.270 --> 00:10:56.280 align:start position:0%
+we can get rid of all the allocations
+ 
+
+00:10:56.280 --> 00:10:58.100 align:start position:0%
+we can get rid of all the allocations
+entirely<00:10:56.910><c> and</c><00:10:57.270><c> the</c><00:10:57.390><c> way</c><00:10:57.510><c> that</c><00:10:57.660><c> we</c><00:10:57.720><c> can</c><00:10:57.870><c> do</c><00:10:57.990><c> that</c>
+
+00:10:58.100 --> 00:10:58.110 align:start position:0%
+entirely and the way that we can do that
+ 
+
+00:10:58.110 --> 00:11:00.740 align:start position:0%
+entirely and the way that we can do that
+is<00:10:58.350><c> by</c><00:10:58.530><c> not</c><00:10:58.740><c> using</c><00:10:58.950><c> s</c><00:10:59.400><c> it</c><00:10:59.670><c> E</c><00:10:59.730><c> string</c><00:11:00.000><c> at</c><00:11:00.209><c> all</c><00:11:00.360><c> so</c>
+
+00:11:00.740 --> 00:11:00.750 align:start position:0%
+is by not using s it E string at all so
+ 
+
+00:11:00.750 --> 00:11:02.570 align:start position:0%
+is by not using s it E string at all so
+is<00:11:00.840><c> a</c><00:11:01.020><c> static</c><00:11:01.470><c> string</c><00:11:01.800><c> there's</c><00:11:02.190><c> no</c><00:11:02.340><c> real</c>
+
+00:11:02.570 --> 00:11:02.580 align:start position:0%
+is a static string there's no real
+ 
+
+00:11:02.580 --> 00:11:05.000 align:start position:0%
+is a static string there's no real
+reason<00:11:03.090><c> for</c><00:11:03.120><c> it</c><00:11:03.390><c> to</c><00:11:03.480><c> be</c><00:11:03.660><c> an</c><00:11:03.870><c> STD</c><00:11:04.170><c> string</c><00:11:04.530><c> we</c>
+
+00:11:05.000 --> 00:11:05.010 align:start position:0%
+reason for it to be an STD string we
+ 
+
+00:11:05.010 --> 00:11:07.610 align:start position:0%
+reason for it to be an STD string we
+could<00:11:05.310><c> just</c><00:11:05.640><c> make</c><00:11:05.820><c> it</c><00:11:06.030><c> a</c><00:11:06.210><c> C</c><00:11:06.270><c> string</c><00:11:06.840><c> a</c><00:11:07.020><c> conch</c><00:11:07.290><c> a</c>
+
+00:11:07.610 --> 00:11:07.620 align:start position:0%
+could just make it a C string a conch a
+ 
+
+00:11:07.620 --> 00:11:09.530 align:start position:0%
+could just make it a C string a conch a
+pointer<00:11:08.130><c> so</c><00:11:08.310><c> now</c><00:11:08.550><c> instead</c><00:11:08.790><c> of</c><00:11:09.000><c> this</c><00:11:09.120><c> name</c><00:11:09.360><c> dot</c>
+
+00:11:09.530 --> 00:11:09.540 align:start position:0%
+pointer so now instead of this name dot
+ 
+
+00:11:09.540 --> 00:11:11.690 align:start position:0%
+pointer so now instead of this name dot
+C<00:11:09.720><c> string</c><00:11:10.020><c> we</c><00:11:10.140><c> get</c><00:11:10.320><c> rid</c><00:11:10.470><c> of</c><00:11:10.560><c> that</c><00:11:10.680><c> entirely</c><00:11:11.130><c> the</c>
+
+00:11:11.690 --> 00:11:11.700 align:start position:0%
+C string we get rid of that entirely the
+ 
+
+00:11:11.700 --> 00:11:13.580 align:start position:0%
+C string we get rid of that entirely the
+code<00:11:11.880><c> becomes</c><00:11:12.180><c> just</c><00:11:12.600><c> that</c><00:11:12.870><c> and</c><00:11:13.140><c> then</c><00:11:13.290><c> if</c><00:11:13.410><c> I</c><00:11:13.530><c> do</c>
+
+00:11:13.580 --> 00:11:13.590 align:start position:0%
+code becomes just that and then if I do
+ 
+
+00:11:13.590 --> 00:11:16.160 align:start position:0%
+code becomes just that and then if I do
+run<00:11:14.040><c> this</c><00:11:14.160><c> program</c><00:11:14.400><c> ah</c><00:11:14.820><c> look</c><00:11:15.810><c> at</c><00:11:15.900><c> that</c><00:11:16.020><c> isn't</c>
+
+00:11:16.160 --> 00:11:16.170 align:start position:0%
+run this program ah look at that isn't
+ 
+
+00:11:16.170 --> 00:11:16.850 align:start position:0%
+run this program ah look at that isn't
+that<00:11:16.290><c> beautiful</c>
+
+00:11:16.850 --> 00:11:16.860 align:start position:0%
+that beautiful
+ 
+
+00:11:16.860 --> 00:11:19.760 align:start position:0%
+that beautiful
+zero<00:11:17.720><c> allocations</c><00:11:18.720><c> and</c><00:11:19.020><c> I'll</c><00:11:19.290><c> thing</c><00:11:19.500><c> to</c><00:11:19.620><c> note</c>
+
+00:11:19.760 --> 00:11:19.770 align:start position:0%
+zero allocations and I'll thing to note
+ 
+
+00:11:19.770 --> 00:11:21.800 align:start position:0%
+zero allocations and I'll thing to note
+here<00:11:19.800><c> is</c><00:11:20.040><c> that</c><00:11:20.520><c> because</c><00:11:21.150><c> I</c><00:11:21.180><c> did</c><00:11:21.390><c> change</c><00:11:21.660><c> my</c>
+
+00:11:21.800 --> 00:11:21.810 align:start position:0%
+here is that because I did change my
+ 
+
+00:11:21.810 --> 00:11:23.390 align:start position:0%
+here is that because I did change my
+print<00:11:22.050><c> name</c><00:11:22.170><c> function</c><00:11:22.470><c> from</c><00:11:22.770><c> being</c><00:11:22.980><c> a</c><00:11:23.070><c> string</c>
+
+00:11:23.390 --> 00:11:23.400 align:start position:0%
+print name function from being a string
+ 
+
+00:11:23.400 --> 00:11:25.610 align:start position:0%
+print name function from being a string
+to<00:11:23.550><c> a</c><00:11:23.580><c> string</c><00:11:24.060><c> view</c><00:11:24.420><c> that</c><00:11:24.960><c> means</c><00:11:25.110><c> that</c><00:11:25.350><c> if</c><00:11:25.470><c> I</c>
+
+00:11:25.610 --> 00:11:25.620 align:start position:0%
+to a string view that means that if I
+ 
+
+00:11:25.620 --> 00:11:27.260 align:start position:0%
+to a string view that means that if I
+was<00:11:25.920><c> to</c><00:11:26.100><c> do</c><00:11:26.220><c> something</c><00:11:26.460><c> like</c><00:11:26.790><c> I</c><00:11:26.970><c> did</c><00:11:27.120><c> before</c>
+
+00:11:27.260 --> 00:11:27.270 align:start position:0%
+was to do something like I did before
+ 
+
+00:11:27.270 --> 00:11:29.300 align:start position:0%
+was to do something like I did before
+where<00:11:27.660><c> I</c><00:11:27.690><c> just</c><00:11:27.750><c> write</c><00:11:28.140><c> print</c><00:11:28.530><c> name</c><00:11:28.800><c> and</c><00:11:29.070><c> then</c>
+
+00:11:29.300 --> 00:11:29.310 align:start position:0%
+where I just write print name and then
+ 
+
+00:11:29.310 --> 00:11:31.760 align:start position:0%
+where I just write print name and then
+just<00:11:29.550><c> an</c><00:11:29.700><c> actual</c><00:11:30.240><c> string</c><00:11:30.750><c> here</c><00:11:31.020><c> like</c><00:11:31.380><c> this</c>
+
+00:11:31.760 --> 00:11:31.770 align:start position:0%
+just an actual string here like this
+ 
+
+00:11:31.770 --> 00:11:34.310 align:start position:0%
+just an actual string here like this
+this<00:11:32.490><c> itself</c><00:11:32.820><c> also</c><00:11:33.360><c> have</c><00:11:33.510><c> no</c><00:11:33.660><c> allocation</c><00:11:34.200><c> so</c>
+
+00:11:34.310 --> 00:11:34.320 align:start position:0%
+this itself also have no allocation so
+ 
+
+00:11:34.320 --> 00:11:36.350 align:start position:0%
+this itself also have no allocation so
+if<00:11:34.410><c> I</c><00:11:34.470><c> run</c><00:11:34.620><c> this</c><00:11:34.740><c> program</c><00:11:34.800><c> you</c><00:11:35.640><c> can</c><00:11:35.700><c> see</c><00:11:35.820><c> I</c><00:11:36.120><c> get</c>
+
+00:11:36.350 --> 00:11:36.360 align:start position:0%
+if I run this program you can see I get
+ 
+
+00:11:36.360 --> 00:11:38.990 align:start position:0%
+if I run this program you can see I get
+zero<00:11:36.630><c> allocations</c><00:11:37.320><c> but</c><00:11:38.070><c> if</c><00:11:38.280><c> I</c><00:11:38.400><c> go</c><00:11:38.580><c> over</c><00:11:38.610><c> here</c>
+
+00:11:38.990 --> 00:11:39.000 align:start position:0%
+zero allocations but if I go over here
+ 
+
+00:11:39.000 --> 00:11:41.210 align:start position:0%
+zero allocations but if I go over here
+and<00:11:39.060><c> I</c><00:11:39.240><c> change</c><00:11:39.480><c> this</c><00:11:39.660><c> to</c><00:11:39.870><c> be</c><00:11:40.020><c> an</c><00:11:40.200><c> S</c><00:11:40.410><c> City</c><00:11:40.740><c> string</c>
+
+00:11:41.210 --> 00:11:41.220 align:start position:0%
+and I change this to be an S City string
+ 
+
+00:11:41.220 --> 00:11:43.670 align:start position:0%
+and I change this to be an S City string
+like<00:11:41.520><c> this</c><00:11:41.910><c> even</c><00:11:42.540><c> though</c><00:11:42.660><c> it</c><00:11:42.780><c> is</c><00:11:42.900><c> a</c><00:11:43.200><c> constant</c>
+
+00:11:43.670 --> 00:11:43.680 align:start position:0%
+like this even though it is a constant
+ 
+
+00:11:43.680 --> 00:11:45.380 align:start position:0%
+like this even though it is a constant
+reference<00:11:44.040><c> here</c><00:11:44.280><c> I'll</c><00:11:44.580><c> get</c><00:11:44.760><c> rid</c><00:11:44.880><c> of</c><00:11:44.970><c> these</c><00:11:45.090><c> two</c>
+
+00:11:45.380 --> 00:11:45.390 align:start position:0%
+reference here I'll get rid of these two
+ 
+
+00:11:45.390 --> 00:11:47.150 align:start position:0%
+reference here I'll get rid of these two
+because<00:11:45.900><c> they're</c><00:11:46.110><c> string</c><00:11:46.380><c> views</c><00:11:46.650><c> you</c><00:11:46.920><c> can</c><00:11:47.040><c> see</c>
+
+00:11:47.150 --> 00:11:47.160 align:start position:0%
+because they're string views you can see
+ 
+
+00:11:47.160 --> 00:11:48.410 align:start position:0%
+because they're string views you can see
+that<00:11:47.280><c> just</c><00:11:47.430><c> by</c><00:11:47.460><c> printing</c><00:11:47.820><c> name</c><00:11:48.000><c> sure</c><00:11:48.150><c> no</c><00:11:48.210><c> I've</c>
+
+00:11:48.410 --> 00:11:48.420 align:start position:0%
+that just by printing name sure no I've
+ 
+
+00:11:48.420 --> 00:11:50.690 align:start position:0%
+that just by printing name sure no I've
+cost<00:11:48.720><c> yet</c><00:11:48.960><c> one</c><00:11:49.140><c> allocation</c><00:11:49.710><c> so</c><00:11:49.980><c> even</c><00:11:50.610><c> if</c>
+
+00:11:50.690 --> 00:11:50.700 align:start position:0%
+cost yet one allocation so even if
+ 
+
+00:11:50.700 --> 00:11:52.280 align:start position:0%
+cost yet one allocation so even if
+you're<00:11:50.850><c> not</c><00:11:50.970><c> doing</c><00:11:51.210><c> any</c><00:11:51.450><c> kind</c><00:11:51.630><c> of</c><00:11:51.750><c> substring</c>
+
+00:11:52.280 --> 00:11:52.290 align:start position:0%
+you're not doing any kind of substring
+ 
+
+00:11:52.290 --> 00:11:54.920 align:start position:0%
+you're not doing any kind of substring
+stuff<00:11:52.590><c> you</c><00:11:53.220><c> know</c><00:11:53.340><c> all</c><00:11:53.610><c> I</c><00:11:53.670><c> want</c><00:11:54.150><c> to</c><00:11:54.240><c> do</c><00:11:54.420><c> is</c><00:11:54.660><c> have</c>
+
+00:11:54.920 --> 00:11:54.930 align:start position:0%
+stuff you know all I want to do is have
+ 
+
+00:11:54.930 --> 00:11:57.020 align:start position:0%
+stuff you know all I want to do is have
+this<00:11:55.050><c> print</c><00:11:55.320><c> name</c><00:11:55.470><c> function</c><00:11:55.770><c> then</c><00:11:56.370><c> I</c><00:11:56.640><c> can</c><00:11:56.910><c> take</c>
+
+00:11:57.020 --> 00:11:57.030 align:start position:0%
+this print name function then I can take
+ 
+
+00:11:57.030 --> 00:11:58.730 align:start position:0%
+this print name function then I can take
+in<00:11:57.240><c> a</c><00:11:57.330><c> string</c><00:11:57.600><c> view</c><00:11:57.810><c> instead</c><00:11:58.230><c> of</c><00:11:58.290><c> a</c><00:11:58.440><c> string</c>
+
+00:11:58.730 --> 00:11:58.740 align:start position:0%
+in a string view instead of a string
+ 
+
+00:11:58.740 --> 00:12:01.220 align:start position:0%
+in a string view instead of a string
+just<00:11:58.980><c> by</c><00:11:59.460><c> changing</c><00:11:59.970><c> the</c><00:12:00.390><c> signature</c><00:12:01.050><c> of</c><00:12:01.080><c> the</c>
+
+00:12:01.220 --> 00:12:01.230 align:start position:0%
+just by changing the signature of the
+ 
+
+00:12:01.230 --> 00:12:03.710 align:start position:0%
+just by changing the signature of the
+function<00:12:01.260><c> like</c><00:12:02.160><c> this</c><00:12:02.460><c> and</c><00:12:02.730><c> suddenly</c><00:12:03.480><c> I've</c>
+
+00:12:03.710 --> 00:12:03.720 align:start position:0%
+function like this and suddenly I've
+ 
+
+00:12:03.720 --> 00:12:06.500 align:start position:0%
+function like this and suddenly I've
+gone<00:12:03.960><c> from</c><00:12:04.200><c> having</c><00:12:04.380><c> one</c><00:12:04.920><c> allocation</c><00:12:05.490><c> to</c><00:12:05.970><c> zero</c>
+
+00:12:06.500 --> 00:12:06.510 align:start position:0%
+gone from having one allocation to zero
+ 
+
+00:12:06.510 --> 00:12:08.360 align:start position:0%
+gone from having one allocation to zero
+allocations<00:12:07.350><c> so</c><00:12:07.740><c> in</c><00:12:07.800><c> other</c><00:12:07.890><c> words</c><00:12:08.100><c> to</c>
+
+00:12:08.360 --> 00:12:08.370 align:start position:0%
+allocations so in other words to
+ 
+
+00:12:08.370 --> 00:12:10.610 align:start position:0%
+allocations so in other words to
+summarize<00:12:08.910><c> so</c><00:12:09.330><c> we</c><00:12:09.420><c> have</c><00:12:09.540><c> two</c><00:12:09.690><c> cases</c><00:12:10.170><c> here</c><00:12:10.320><c> one</c>
+
+00:12:10.610 --> 00:12:10.620 align:start position:0%
+summarize so we have two cases here one
+ 
+
+00:12:10.620 --> 00:12:12.980 align:start position:0%
+summarize so we have two cases here one
+which<00:12:10.800><c> uses</c><00:12:10.980><c> strings</c><00:12:11.760><c> and</c><00:12:12.089><c> one</c><00:12:12.330><c> which</c><00:12:12.720><c> uses</c>
+
+00:12:12.980 --> 00:12:12.990 align:start position:0%
+which uses strings and one which uses
+ 
+
+00:12:12.990 --> 00:12:14.840 align:start position:0%
+which uses strings and one which uses
+string<00:12:13.440><c> keys</c><00:12:13.589><c> let's</c><00:12:13.800><c> put</c><00:12:14.070><c> them</c><00:12:14.190><c> head-to-head</c>
+
+00:12:14.840 --> 00:12:14.850 align:start position:0%
+string keys let's put them head-to-head
+ 
+
+00:12:14.850 --> 00:12:18.200 align:start position:0%
+string keys let's put them head-to-head
+and<00:12:15.420><c> see</c><00:12:15.720><c> what</c><00:12:16.110><c> the</c><00:12:16.260><c> total</c><00:12:16.589><c> difference</c><00:12:17.310><c> is</c><00:12:17.580><c> so</c>
+
+00:12:18.200 --> 00:12:18.210 align:start position:0%
+and see what the total difference is so
+ 
+
+00:12:18.210 --> 00:12:20.090 align:start position:0%
+and see what the total difference is so
+for<00:12:18.390><c> this</c><00:12:18.510><c> example</c><00:12:18.839><c> I</c><00:12:19.080><c> will</c><00:12:19.110><c> revert</c><00:12:19.589><c> this</c><00:12:19.800><c> name</c>
+
+00:12:20.090 --> 00:12:20.100 align:start position:0%
+for this example I will revert this name
+ 
+
+00:12:20.100 --> 00:12:22.430 align:start position:0%
+for this example I will revert this name
+to<00:12:20.370><c> being</c><00:12:20.640><c> a</c><00:12:20.850><c> string</c><00:12:21.390><c> depends</c><00:12:21.990><c> what</c><00:12:22.140><c> the</c><00:12:22.260><c> use</c>
+
+00:12:22.430 --> 00:12:22.440 align:start position:0%
+to being a string depends what the use
+ 
+
+00:12:22.440 --> 00:12:23.960 align:start position:0%
+to being a string depends what the use
+case<00:12:22.710><c> kind</c><00:12:22.980><c> of</c><00:12:23.070><c> is</c><00:12:23.190><c> but</c><00:12:23.370><c> let's</c><00:12:23.580><c> pretend</c><00:12:23.880><c> that</c>
+
+00:12:23.960 --> 00:12:23.970 align:start position:0%
+case kind of is but let's pretend that
+ 
+
+00:12:23.970 --> 00:12:25.700 align:start position:0%
+case kind of is but let's pretend that
+this<00:12:24.180><c> data</c><00:12:24.390><c> isn't</c><00:12:24.660><c> just</c><00:12:24.990><c> being</c><00:12:25.110><c> statically</c>
+
+00:12:25.700 --> 00:12:25.710 align:start position:0%
+this data isn't just being statically
+ 
+
+00:12:25.710 --> 00:12:27.620 align:start position:0%
+this data isn't just being statically
+typed<00:12:25.980><c> like</c><00:12:26.250><c> this</c><00:12:26.430><c> in</c><00:12:26.640><c> our</c><00:12:26.760><c> C++</c><00:12:27.270><c> code</c><00:12:27.450><c> maybe</c>
+
+00:12:27.620 --> 00:12:27.630 align:start position:0%
+typed like this in our C++ code maybe
+ 
+
+00:12:27.630 --> 00:12:29.510 align:start position:0%
+typed like this in our C++ code maybe
+it's<00:12:27.839><c> coming</c><00:12:27.990><c> in</c><00:12:28.170><c> from</c><00:12:28.380><c> a</c><00:12:28.470><c> file</c><00:12:28.770><c> or</c><00:12:29.130><c> being</c>
+
+00:12:29.510 --> 00:12:29.520 align:start position:0%
+it's coming in from a file or being
+ 
+
+00:12:29.520 --> 00:12:31.820 align:start position:0%
+it's coming in from a file or being
+generated<00:12:30.000><c> somehow</c><00:12:30.300><c> in</c><00:12:30.570><c> that</c><00:12:31.020><c> case</c><00:12:31.260><c> making</c><00:12:31.620><c> it</c>
+
+00:12:31.820 --> 00:12:31.830 align:start position:0%
+generated somehow in that case making it
+ 
+
+00:12:31.830 --> 00:12:33.200 align:start position:0%
+generated somehow in that case making it
+a<00:12:31.920><c> string</c><00:12:32.160><c> would</c><00:12:32.280><c> just</c><00:12:32.490><c> be</c><00:12:32.610><c> a</c><00:12:32.640><c> more</c><00:12:32.850><c> realistic</c>
+
+00:12:33.200 --> 00:12:33.210 align:start position:0%
+a string would just be a more realistic
+ 
+
+00:12:33.210 --> 00:12:35.150 align:start position:0%
+a string would just be a more realistic
+scenario<00:12:33.630><c> that's</c><00:12:34.290><c> all</c><00:12:34.500><c> I'll</c><00:12:34.710><c> change</c><00:12:34.980><c> this</c>
+
+00:12:35.150 --> 00:12:35.160 align:start position:0%
+scenario that's all I'll change this
+ 
+
+00:12:35.160 --> 00:12:37.850 align:start position:0%
+scenario that's all I'll change this
+code<00:12:35.400><c> back</c><00:12:35.610><c> so</c><00:12:36.030><c> that</c><00:12:36.240><c> it</c><00:12:36.420><c> actually</c><00:12:36.660><c> works</c><00:12:37.410><c> so</c>
+
+00:12:37.850 --> 00:12:37.860 align:start position:0%
+code back so that it actually works so
+ 
+
+00:12:37.860 --> 00:12:39.650 align:start position:0%
+code back so that it actually works so
+we'll<00:12:38.220><c> add</c><00:12:38.400><c> the</c><00:12:38.580><c> dot</c><00:12:38.730><c> C</c><00:12:38.940><c> string</c><00:12:39.180><c> here</c><00:12:39.360><c> to</c><00:12:39.510><c> get</c>
+
+00:12:39.650 --> 00:12:39.660 align:start position:0%
+we'll add the dot C string here to get
+ 
+
+00:12:39.660 --> 00:12:41.810 align:start position:0%
+we'll add the dot C string here to get
+the<00:12:39.780><c> C</c><00:12:39.960><c> string</c><00:12:40.230><c> and</c><00:12:40.410><c> I</c><00:12:40.800><c> will</c><00:12:40.950><c> also</c><00:12:41.280><c> write</c><00:12:41.490><c> two</c>
+
+00:12:41.810 --> 00:12:41.820 align:start position:0%
+the C string and I will also write two
+ 
+
+00:12:41.820 --> 00:12:43.760 align:start position:0%
+the C string and I will also write two
+versions<00:12:42.210><c> of</c><00:12:42.390><c> this</c><00:12:42.630><c> function</c><00:12:43.110><c> one</c><00:12:43.440><c> which</c>
+
+00:12:43.760 --> 00:12:43.770 align:start position:0%
+versions of this function one which
+ 
+
+00:12:43.770 --> 00:12:46.340 align:start position:0%
+versions of this function one which
+doesn't<00:12:44.580><c> use</c><00:12:44.760><c> a</c><00:12:45.000><c> city</c><00:12:45.330><c> string</c><00:12:45.690><c> view</c><00:12:45.900><c> like</c><00:12:46.080><c> this</c>
+
+00:12:46.340 --> 00:12:46.350 align:start position:0%
+doesn't use a city string view like this
+ 
+
+00:12:46.350 --> 00:12:48.740 align:start position:0%
+doesn't use a city string view like this
+and<00:12:46.650><c> one</c><00:12:47.280><c> which</c><00:12:47.490><c> does</c><00:12:47.760><c> and</c><00:12:48.060><c> again</c><00:12:48.240><c> what</c><00:12:48.660><c> I'll</c>
+
+00:12:48.740 --> 00:12:48.750 align:start position:0%
+and one which does and again what I'll
+ 
+
+00:12:48.750 --> 00:12:50.660 align:start position:0%
+and one which does and again what I'll
+do<00:12:48.900><c> is</c><00:12:49.050><c> I'll</c><00:12:49.170><c> put</c><00:12:49.350><c> a</c><00:12:49.410><c> little</c><00:12:49.620><c> preprocessor</c><00:12:50.520><c> if</c>
+
+00:12:50.660 --> 00:12:50.670 align:start position:0%
+do is I'll put a little preprocessor if
+ 
+
+00:12:50.670 --> 00:12:52.340 align:start position:0%
+do is I'll put a little preprocessor if
+and<00:12:50.910><c> else</c><00:12:51.060><c> here</c><00:12:51.390><c> just</c><00:12:51.600><c> to</c><00:12:51.720><c> make</c><00:12:51.870><c> that</c><00:12:52.080><c> happen</c>
+
+00:12:52.340 --> 00:12:52.350 align:start position:0%
+and else here just to make that happen
+ 
+
+00:12:52.350 --> 00:12:56.660 align:start position:0%
+and else here just to make that happen
+what<00:12:53.280><c> I'll</c><00:12:53.400><c> do</c><00:12:53.550><c> is</c><00:12:53.970><c> write</c><00:12:54.660><c> if</c><00:12:54.990><c> string</c><00:12:55.770><c> view</c><00:12:56.100><c> so</c>
+
+00:12:56.660 --> 00:12:56.670 align:start position:0%
+what I'll do is write if string view so
+ 
+
+00:12:56.670 --> 00:12:58.490 align:start position:0%
+what I'll do is write if string view so
+that<00:12:56.820><c> we</c><00:12:56.910><c> use</c><00:12:57.120><c> the</c><00:12:57.300><c> string</c><00:12:57.450><c> view</c><00:12:57.720><c> way</c><00:12:57.870><c> and</c><00:12:58.200><c> I'll</c>
+
+00:12:58.490 --> 00:12:58.500 align:start position:0%
+that we use the string view way and I'll
+ 
+
+00:12:58.500 --> 00:13:00.680 align:start position:0%
+that we use the string view way and I'll
+do<00:12:58.620><c> the</c><00:12:58.740><c> same</c><00:12:58.890><c> thing</c><00:12:59.220><c> for</c><00:12:59.490><c> here</c><00:12:59.910><c> just</c><00:13:00.420><c> to</c><00:13:00.510><c> flip</c>
+
+00:13:00.680 --> 00:13:00.690 align:start position:0%
+do the same thing for here just to flip
+ 
+
+00:13:00.690 --> 00:13:03.260 align:start position:0%
+do the same thing for here just to flip
+these<00:13:00.839><c> two</c><00:13:00.900><c> around</c><00:13:01.790><c> there</c><00:13:02.790><c> we</c><00:13:02.850><c> go</c><00:13:02.970><c> so</c><00:13:03.030><c> now</c><00:13:03.150><c> we</c>
+
+00:13:03.260 --> 00:13:03.270 align:start position:0%
+these two around there we go so now we
+ 
+
+00:13:03.270 --> 00:13:05.450 align:start position:0%
+these two around there we go so now we
+have<00:13:03.480><c> our</c><00:13:03.510><c> if</c><00:13:03.810><c> string</c><00:13:04.140><c> view</c><00:13:04.350><c> and</c><00:13:04.589><c> the</c><00:13:05.280><c> else</c>
+
+00:13:05.450 --> 00:13:05.460 align:start position:0%
+have our if string view and the else
+ 
+
+00:13:05.460 --> 00:13:07.370 align:start position:0%
+have our if string view and the else
+statement<00:13:05.670><c> I'll</c><00:13:06.270><c> come</c><00:13:06.510><c> over</c><00:13:06.540><c> here</c><00:13:06.870><c> and</c><00:13:07.050><c> I</c><00:13:07.170><c> will</c>
+
+00:13:07.370 --> 00:13:07.380 align:start position:0%
+statement I'll come over here and I will
+ 
+
+00:13:07.380 --> 00:13:09.079 align:start position:0%
+statement I'll come over here and I will
+return<00:13:07.560><c> our</c><00:13:08.040><c> print</c><00:13:08.400><c> names</c><00:13:08.610><c> and</c><00:13:08.850><c> I'll</c><00:13:08.940><c> have</c>
+
+00:13:09.079 --> 00:13:09.089 align:start position:0%
+return our print names and I'll have
+ 
+
+00:13:09.089 --> 00:13:10.520 align:start position:0%
+return our print names and I'll have
+three<00:13:09.330><c> different</c><00:13:09.600><c> examples</c><00:13:09.660><c> shown</c><00:13:10.350><c> arrow</c>
+
+00:13:10.520 --> 00:13:10.530 align:start position:0%
+three different examples shown arrow
+ 
+
+00:13:10.530 --> 00:13:12.770 align:start position:0%
+three different examples shown arrow
+first<00:13:10.800><c> name</c><00:13:11.040><c> and</c><00:13:11.250><c> last</c><00:13:11.640><c> name</c><00:13:12.089><c> so</c><00:13:12.240><c> let's</c><00:13:12.570><c> see</c>
+
+00:13:12.770 --> 00:13:12.780 align:start position:0%
+first name and last name so let's see
+ 
+
+00:13:12.780 --> 00:13:15.079 align:start position:0%
+first name and last name so let's see
+what<00:13:13.650><c> this</c><00:13:13.770><c> looks</c><00:13:13.950><c> like</c><00:13:14.100><c> so</c><00:13:14.250><c> with</c><00:13:14.670><c> string</c><00:13:14.910><c> View</c>
+
+00:13:15.079 --> 00:13:15.089 align:start position:0%
+what this looks like so with string View
+ 
+
+00:13:15.089 --> 00:13:16.640 align:start position:0%
+what this looks like so with string View
+turned<00:13:15.360><c> off</c><00:13:15.630><c> I'm</c><00:13:15.900><c> gonna</c><00:13:16.020><c> run</c><00:13:16.290><c> this</c><00:13:16.440><c> program</c>
+
+00:13:16.640 --> 00:13:16.650 align:start position:0%
+turned off I'm gonna run this program
+ 
+
+00:13:16.650 --> 00:13:18.860 align:start position:0%
+turned off I'm gonna run this program
+and<00:13:17.130><c> you</c><00:13:17.160><c> can</c><00:13:17.580><c> see</c><00:13:17.730><c> we</c><00:13:17.880><c> get</c><00:13:18.060><c> four</c><00:13:18.450><c> memory</c>
+
+00:13:18.860 --> 00:13:18.870 align:start position:0%
+and you can see we get four memory
+ 
+
+00:13:18.870 --> 00:13:19.880 align:start position:0%
+and you can see we get four memory
+allocations
+
+00:13:19.880 --> 00:13:19.890 align:start position:0%
+allocations
+ 
+
+00:13:19.890 --> 00:13:21.890 align:start position:0%
+allocations
+whereas<00:13:20.339><c> if</c><00:13:20.610><c> I</c><00:13:20.760><c> go</c><00:13:20.970><c> ahead</c><00:13:21.089><c> and</c><00:13:21.240><c> define</c><00:13:21.870><c> a</c>
+
+00:13:21.890 --> 00:13:21.900 align:start position:0%
+whereas if I go ahead and define a
+ 
+
+00:13:21.900 --> 00:13:25.460 align:start position:0%
+whereas if I go ahead and define a
+string<00:13:22.500><c> of</c><00:13:22.650><c> you</c><00:13:22.860><c> just</c><00:13:23.610><c> like</c><00:13:23.970><c> that</c><00:13:24.600><c> and</c><00:13:25.050><c> I</c><00:13:25.200><c> run</c>
+
+00:13:25.460 --> 00:13:25.470 align:start position:0%
+string of you just like that and I run
+ 
+
+00:13:25.470 --> 00:13:27.380 align:start position:0%
+string of you just like that and I run
+this<00:13:25.650><c> we</c><00:13:26.070><c> have</c><00:13:26.220><c> just</c><00:13:26.250><c> a</c><00:13:26.610><c> single</c><00:13:26.940><c> memory</c>
+
+00:13:27.380 --> 00:13:27.390 align:start position:0%
+this we have just a single memory
+ 
+
+00:13:27.390 --> 00:13:28.820 align:start position:0%
+this we have just a single memory
+allocation<00:13:27.959><c> which</c><00:13:28.140><c> of</c><00:13:28.260><c> course</c><00:13:28.290><c> is</c><00:13:28.650><c> coming</c>
+
+00:13:28.820 --> 00:13:28.830 align:start position:0%
+allocation which of course is coming
+ 
+
+00:13:28.830 --> 00:13:31.910 align:start position:0%
+allocation which of course is coming
+from<00:13:29.130><c> that</c><00:13:29.430><c> original</c><00:13:29.880><c> string</c><00:13:30.660><c> creation</c><00:13:31.530><c> so</c><00:13:31.830><c> if</c>
+
+00:13:31.910 --> 00:13:31.920 align:start position:0%
+from that original string creation so if
+ 
+
+00:13:31.920 --> 00:13:33.590 align:start position:0%
+from that original string creation so if
+you<00:13:31.980><c> guys</c><00:13:32.100><c> want</c><00:13:32.310><c> to</c><00:13:32.339><c> take</c><00:13:32.610><c> this</c><00:13:32.850><c> further</c><00:13:33.270><c> what</c>
+
+00:13:33.590 --> 00:13:33.600 align:start position:0%
+you guys want to take this further what
+ 
+
+00:13:33.600 --> 00:13:35.300 align:start position:0%
+you guys want to take this further what
+you<00:13:33.660><c> can</c><00:13:33.900><c> do</c><00:13:34.110><c> is</c><00:13:34.290><c> copy</c><00:13:34.560><c> down</c><00:13:34.770><c> the</c><00:13:34.950><c> code</c><00:13:35.160><c> that</c>
+
+00:13:35.300 --> 00:13:35.310 align:start position:0%
+you can do is copy down the code that
+ 
+
+00:13:35.310 --> 00:13:36.680 align:start position:0%
+you can do is copy down the code that
+I've<00:13:35.430><c> written</c><00:13:35.459><c> today</c><00:13:35.940><c> and</c><00:13:36.330><c> actually</c>
+
+00:13:36.680 --> 00:13:36.690 align:start position:0%
+I've written today and actually
+ 
+
+00:13:36.690 --> 00:13:38.420 align:start position:0%
+I've written today and actually
+benchmark<00:13:37.410><c> and</c><00:13:37.589><c> try</c><00:13:37.740><c> and</c><00:13:37.890><c> do</c><00:13:37.980><c> it</c><00:13:38.010><c> over</c><00:13:38.220><c> like</c><00:13:38.400><c> a</c>
+
+00:13:38.420 --> 00:13:38.430 align:start position:0%
+benchmark and try and do it over like a
+ 
+
+00:13:38.430 --> 00:13:40.010 align:start position:0%
+benchmark and try and do it over like a
+thousand<00:13:38.850><c> four</c><00:13:39.000><c> loop</c><00:13:39.150><c> iterations</c><00:13:39.600><c> try</c><00:13:39.900><c> and</c>
+
+00:13:40.010 --> 00:13:40.020 align:start position:0%
+thousand four loop iterations try and
+ 
+
+00:13:40.020 --> 00:13:41.930 align:start position:0%
+thousand four loop iterations try and
+put<00:13:40.170><c> it</c><00:13:40.290><c> into</c><00:13:40.589><c> your</c><00:13:40.800><c> game</c><00:13:41.070><c> loop</c><00:13:41.339><c> or</c><00:13:41.520><c> something</c>
+
+00:13:41.930 --> 00:13:41.940 align:start position:0%
+put it into your game loop or something
+ 
+
+00:13:41.940 --> 00:13:44.180 align:start position:0%
+put it into your game loop or something
+like<00:13:42.089><c> that</c><00:13:42.170><c> try</c><00:13:43.170><c> and</c><00:13:43.380><c> look</c><00:13:43.650><c> into</c><00:13:43.890><c> your</c><00:13:44.010><c> own</c>
+
+00:13:44.180 --> 00:13:44.190 align:start position:0%
+like that try and look into your own
+ 
+
+00:13:44.190 --> 00:13:46.340 align:start position:0%
+like that try and look into your own
+existing<00:13:44.970><c> projects</c><00:13:45.420><c> and</c><00:13:45.600><c> start</c><00:13:45.810><c> replacing</c><00:13:46.080><c> a</c>
+
+00:13:46.340 --> 00:13:46.350 align:start position:0%
+existing projects and start replacing a
+ 
+
+00:13:46.350 --> 00:13:47.840 align:start position:0%
+existing projects and start replacing a
+few<00:13:46.500><c> of</c><00:13:46.589><c> these</c><00:13:46.709><c> strings</c><00:13:47.040><c> with</c><00:13:47.310><c> string</c><00:13:47.610><c> views</c>
+
+00:13:47.840 --> 00:13:47.850 align:start position:0%
+few of these strings with string views
+ 
+
+00:13:47.850 --> 00:13:49.670 align:start position:0%
+few of these strings with string views
+and<00:13:48.060><c> see</c><00:13:48.630><c> what</c><00:13:48.750><c> kind</c><00:13:48.900><c> of</c><00:13:48.959><c> performance</c><00:13:49.350><c> impact</c>
+
+00:13:49.670 --> 00:13:49.680 align:start position:0%
+and see what kind of performance impact
+ 
+
+00:13:49.680 --> 00:13:51.230 align:start position:0%
+and see what kind of performance impact
+you<00:13:49.860><c> have</c><00:13:50.100><c> major</c><00:13:50.520><c> speaking</c><00:13:51.000><c> from</c><00:13:51.120><c> experience</c>
+
+00:13:51.230 --> 00:13:51.240 align:start position:0%
+you have major speaking from experience
+ 
+
+00:13:51.240 --> 00:13:53.000 align:start position:0%
+you have major speaking from experience
+I<00:13:51.930><c> know</c><00:13:52.050><c> that</c><00:13:52.350><c> if</c><00:13:52.440><c> you</c><00:13:52.530><c> look</c><00:13:52.680><c> at</c><00:13:52.770><c> pretty</c><00:13:52.950><c> much</c>
+
+00:13:53.000 --> 00:13:53.010 align:start position:0%
+I know that if you look at pretty much
+ 
+
+00:13:53.010 --> 00:13:54.980 align:start position:0%
+I know that if you look at pretty much
+any<00:13:53.250><c> game</c><00:13:53.640><c> and</c><00:13:53.910><c> you</c><00:13:54.060><c> profile</c><00:13:54.570><c> it</c><00:13:54.750><c> and</c><00:13:54.900><c> you</c>
+
+00:13:54.980 --> 00:13:54.990 align:start position:0%
+any game and you profile it and you
+ 
+
+00:13:54.990 --> 00:13:58.010 align:start position:0%
+any game and you profile it and you
+inspect<00:13:55.470><c> it</c><00:13:55.709><c> a</c><00:13:56.420><c> sizable</c><00:13:57.420><c> portion</c><00:13:57.600><c> of</c><00:13:57.870><c> that</c>
+
+00:13:58.010 --> 00:13:58.020 align:start position:0%
+inspect it a sizable portion of that
+ 
+
+00:13:58.020 --> 00:13:59.960 align:start position:0%
+inspect it a sizable portion of that
+will<00:13:58.230><c> be</c><00:13:58.260><c> due</c><00:13:58.530><c> to</c><00:13:58.560><c> string</c><00:13:58.920><c> operations</c><00:13:59.160><c> and</c><00:13:59.730><c> a</c>
+
+00:13:59.960 --> 00:13:59.970 align:start position:0%
+will be due to string operations and a
+ 
+
+00:13:59.970 --> 00:14:01.250 align:start position:0%
+will be due to string operations and a
+lot<00:14:00.209><c> of</c><00:14:00.270><c> the</c><00:14:00.330><c> times</c><00:14:00.570><c> there's</c><00:14:00.839><c> just</c><00:14:00.990><c> not</c><00:14:01.110><c> much</c>
+
+00:14:01.250 --> 00:14:01.260 align:start position:0%
+lot of the times there's just not much
+ 
+
+00:14:01.260 --> 00:14:03.829 align:start position:0%
+lot of the times there's just not much
+you<00:14:01.440><c> can</c><00:14:01.620><c> do</c><00:14:01.890><c> but</c><00:14:02.280><c> of</c><00:14:02.430><c> course</c><00:14:02.690><c> there's</c><00:14:03.690><c> always</c>
+
+00:14:03.829 --> 00:14:03.839 align:start position:0%
+you can do but of course there's always
+ 
+
+00:14:03.839 --> 00:14:06.050 align:start position:0%
+you can do but of course there's always
+a<00:14:04.170><c> little</c><00:14:04.500><c> bit</c><00:14:04.620><c> you</c><00:14:05.100><c> can</c><00:14:05.190><c> probably</c><00:14:05.459><c> get</c><00:14:05.940><c> away</c>
+
+00:14:06.050 --> 00:14:06.060 align:start position:0%
+a little bit you can probably get away
+ 
+
+00:14:06.060 --> 00:14:07.730 align:start position:0%
+a little bit you can probably get away
+with<00:14:06.150><c> anyway</c><00:14:06.690><c> I</c><00:14:06.720><c> hope</c><00:14:06.810><c> you</c><00:14:06.870><c> guys</c><00:14:07.020><c> enjoyed</c><00:14:07.560><c> this</c>
+
+00:14:07.730 --> 00:14:07.740 align:start position:0%
+with anyway I hope you guys enjoyed this
+ 
+
+00:14:07.740 --> 00:14:09.440 align:start position:0%
+with anyway I hope you guys enjoyed this
+video<00:14:07.950><c> if</c><00:14:08.100><c> you</c><00:14:08.430><c> did</c><00:14:08.550><c> please</c><00:14:08.730><c> hit</c><00:14:08.850><c> the</c><00:14:09.060><c> like</c>
+
+00:14:09.440 --> 00:14:09.450 align:start position:0%
+video if you did please hit the like
+ 
+
+00:14:09.450 --> 00:14:10.610 align:start position:0%
+video if you did please hit the like
+button<00:14:09.780><c> let</c><00:14:09.900><c> me</c><00:14:09.990><c> know</c><00:14:10.080><c> what</c><00:14:10.230><c> you</c><00:14:10.290><c> think</c><00:14:10.470><c> about</c>
+
+00:14:10.610 --> 00:14:10.620 align:start position:0%
+button let me know what you think about
+ 
+
+00:14:10.620 --> 00:14:11.780 align:start position:0%
+button let me know what you think about
+all<00:14:10.890><c> these</c><00:14:11.100><c> kind</c><00:14:11.339><c> of</c><00:14:11.370><c> performance</c>
+
+00:14:11.780 --> 00:14:11.790 align:start position:0%
+all these kind of performance
+ 
+
+00:14:11.790 --> 00:14:13.520 align:start position:0%
+all these kind of performance
+optimization<00:14:12.420><c> videos</c><00:14:12.690><c> I</c><00:14:12.839><c> love</c><00:14:13.110><c> this</c><00:14:13.260><c> kind</c><00:14:13.440><c> of</c>
+
+00:14:13.520 --> 00:14:13.530 align:start position:0%
+optimization videos I love this kind of
+ 
+
+00:14:13.530 --> 00:14:15.170 align:start position:0%
+optimization videos I love this kind of
+stuff<00:14:13.589><c> I</c><00:14:13.980><c> love</c><00:14:14.310><c> making</c><00:14:14.520><c> this</c><00:14:14.730><c> kind</c><00:14:14.910><c> of</c><00:14:14.940><c> stuff</c>
+
+00:14:15.170 --> 00:14:15.180 align:start position:0%
+stuff I love making this kind of stuff
+ 
+
+00:14:15.180 --> 00:14:16.670 align:start position:0%
+stuff I love making this kind of stuff
+so<00:14:15.209><c> they'll</c><00:14:15.450><c> definitely</c><00:14:15.570><c> be</c><00:14:15.810><c> more</c><00:14:16.110><c> this</c><00:14:16.440><c> in</c>
+
+00:14:16.670 --> 00:14:16.680 align:start position:0%
+so they'll definitely be more this in
+ 
+
+00:14:16.680 --> 00:14:19.190 align:start position:0%
+so they'll definitely be more this in
+the<00:14:16.830><c> future</c><00:14:17.370><c> as</c><00:14:17.820><c> always</c><00:14:18.209><c> don't</c><00:14:18.630><c> forget</c><00:14:18.750><c> to</c><00:14:19.020><c> put</c>
+
+00:14:19.190 --> 00:14:19.200 align:start position:0%
+the future as always don't forget to put
+ 
+
+00:14:19.200 --> 00:14:20.810 align:start position:0%
+the future as always don't forget to put
+down<00:14:19.350><c> any</c><00:14:19.620><c> kind</c><00:14:19.860><c> of</c><00:14:19.890><c> requests</c><00:14:20.280><c> you</c><00:14:20.370><c> have</c><00:14:20.400><c> for</c>
+
+00:14:20.810 --> 00:14:20.820 align:start position:0%
+down any kind of requests you have for
+ 
+
+00:14:20.820 --> 00:14:22.460 align:start position:0%
+down any kind of requests you have for
+people's<00:14:21.270><c> videos</c><00:14:21.540><c> in</c><00:14:21.690><c> the</c><00:14:21.810><c> comments</c><00:14:22.050><c> below</c><00:14:22.290><c> I</c>
+
+00:14:22.460 --> 00:14:22.470 align:start position:0%
+people's videos in the comments below I
+ 
+
+00:14:22.470 --> 00:14:25.160 align:start position:0%
+people's videos in the comments below I
+know<00:14:22.620><c> my</c><00:14:22.830><c> list</c><00:14:23.040><c> is</c><00:14:23.220><c> huge</c><00:14:23.550><c> but</c><00:14:24.450><c> I'm</c><00:14:24.600><c> always</c>
+
+00:14:25.160 --> 00:14:25.170 align:start position:0%
+know my list is huge but I'm always
+ 
+
+00:14:25.170 --> 00:14:27.680 align:start position:0%
+know my list is huge but I'm always
+looking<00:14:25.290><c> for</c><00:14:25.830><c> new</c><00:14:25.860><c> video</c><00:14:26.370><c> ideas</c><00:14:27.030><c> don't</c><00:14:27.450><c> forget</c>
+
+00:14:27.680 --> 00:14:27.690 align:start position:0%
+looking for new video ideas don't forget
+ 
+
+00:14:27.690 --> 00:14:29.660 align:start position:0%
+looking for new video ideas don't forget
+to<00:14:27.810><c> check</c><00:14:27.990><c> out</c><00:14:28.140><c> that</c><00:14:28.350><c> to</c><00:14:28.650><c> month</c><00:14:28.860><c> free</c><00:14:29.130><c> trial</c><00:14:29.430><c> of</c>
+
+00:14:29.660 --> 00:14:29.670 align:start position:0%
+to check out that to month free trial of
+ 
+
+00:14:29.670 --> 00:14:31.430 align:start position:0%
+to check out that to month free trial of
+skill<00:14:29.970><c> share</c><00:14:30.240><c> by</c><00:14:30.420><c> using</c><00:14:30.660><c> the</c><00:14:30.870><c> link</c><00:14:31.080><c> in</c><00:14:31.230><c> the</c>
+
+00:14:31.430 --> 00:14:31.440 align:start position:0%
+skill share by using the link in the
+ 
+
+00:14:31.440 --> 00:14:33.410 align:start position:0%
+skill share by using the link in the
+description<00:14:31.890><c> below</c><00:14:32.010><c> and</c><00:14:32.490><c> I</c><00:14:33.030><c> will</c><00:14:33.089><c> see</c><00:14:33.330><c> you</c>
+
+00:14:33.410 --> 00:14:33.420 align:start position:0%
+description below and I will see you
+ 
+
+00:14:33.420 --> 00:14:36.710 align:start position:0%
+description below and I will see you
+guys<00:14:33.570><c> next</c><00:14:34.050><c> time</c><00:14:34.230><c> goodbye</c>
+
+00:14:36.710 --> 00:14:36.720 align:start position:0%
+ 
+ 
+
+00:14:36.720 --> 00:15:00.629 align:start position:0%
+ 
+[Music]
+

@@ -1,0 +1,3584 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:01.250 --> 00:00:02.929 align:start position:0%
+ 
+today<00:00:02.250><c> we're</c><00:00:02.340><c> going</c><00:00:02.429><c> to</c><00:00:02.520><c> be</c><00:00:02.580><c> talking</c><00:00:02.879><c> about</c>
+
+00:00:02.929 --> 00:00:02.939 align:start position:0%
+today we're going to be talking about
+ 
+
+00:00:02.939 --> 00:00:04.789 align:start position:0%
+today we're going to be talking about
+continuous<00:00:03.659><c> integration</c><00:00:03.870><c> something</c><00:00:04.650><c> that</c>
+
+00:00:04.789 --> 00:00:04.799 align:start position:0%
+continuous integration something that
+ 
+
+00:00:04.799 --> 00:00:07.249 align:start position:0%
+continuous integration something that
+most<00:00:05.100><c> software</c><00:00:05.549><c> projects</c><00:00:06.299><c> should</c><00:00:06.629><c> be</c><00:00:06.690><c> using</c>
+
+00:00:07.249 --> 00:00:07.259 align:start position:0%
+most software projects should be using
+ 
+
+00:00:07.259 --> 00:00:08.570 align:start position:0%
+most software projects should be using
+now<00:00:07.649><c> for</c><00:00:07.799><c> those</c><00:00:07.859><c> of</c><00:00:07.950><c> you</c><00:00:08.099><c> who</c><00:00:08.220><c> don't</c><00:00:08.400><c> know</c>
+
+00:00:08.570 --> 00:00:08.580 align:start position:0%
+now for those of you who don't know
+ 
+
+00:00:08.580 --> 00:00:11.180 align:start position:0%
+now for those of you who don't know
+continuous<00:00:09.360><c> integration</c><00:00:09.570><c> or</c><00:00:10.290><c> CI</c><00:00:10.710><c> as</c><00:00:11.070><c> it's</c>
+
+00:00:11.180 --> 00:00:11.190 align:start position:0%
+continuous integration or CI as it's
+ 
+
+00:00:11.190 --> 00:00:13.600 align:start position:0%
+continuous integration or CI as it's
+often<00:00:11.429><c> referred</c><00:00:11.550><c> to</c><00:00:11.910><c> is</c><00:00:12.150><c> the</c><00:00:12.410><c> process</c><00:00:13.410><c> of</c>
+
+00:00:13.600 --> 00:00:13.610 align:start position:0%
+often referred to is the process of
+ 
+
+00:00:13.610 --> 00:00:16.880 align:start position:0%
+often referred to is the process of
+continually<00:00:14.610><c> integrating</c><00:00:15.420><c> your</c><00:00:16.170><c> code</c><00:00:16.500><c> during</c>
+
+00:00:16.880 --> 00:00:16.890 align:start position:0%
+continually integrating your code during
+ 
+
+00:00:16.890 --> 00:00:19.279 align:start position:0%
+continually integrating your code during
+development<00:00:17.430><c> now</c><00:00:18.270><c> this</c><00:00:18.510><c> might</c><00:00:18.750><c> not</c><00:00:18.779><c> make</c><00:00:19.050><c> much</c>
+
+00:00:19.279 --> 00:00:19.289 align:start position:0%
+development now this might not make much
+ 
+
+00:00:19.289 --> 00:00:21.380 align:start position:0%
+development now this might not make much
+sense<00:00:19.529><c> but</c><00:00:19.949><c> what</c><00:00:20.310><c> it</c><00:00:20.400><c> essentially</c><00:00:20.789><c> is</c><00:00:21.090><c> is</c>
+
+00:00:21.380 --> 00:00:21.390 align:start position:0%
+sense but what it essentially is is
+ 
+
+00:00:21.390 --> 00:00:23.540 align:start position:0%
+sense but what it essentially is is
+build<00:00:21.689><c> automation</c><00:00:22.170><c> and</c><00:00:22.590><c> testing</c><00:00:23.250><c> to</c><00:00:23.369><c> cut</c><00:00:23.519><c> a</c>
+
+00:00:23.540 --> 00:00:23.550 align:start position:0%
+build automation and testing to cut a
+ 
+
+00:00:23.550 --> 00:00:25.730 align:start position:0%
+build automation and testing to cut a
+long<00:00:23.699><c> story</c><00:00:23.760><c> short</c><00:00:24.090><c> in</c><00:00:24.630><c> a</c><00:00:24.720><c> software</c><00:00:25.170><c> project</c>
+
+00:00:25.730 --> 00:00:25.740 align:start position:0%
+long story short in a software project
+ 
+
+00:00:25.740 --> 00:00:27.589 align:start position:0%
+long story short in a software project
+where<00:00:26.340><c> multiple</c><00:00:26.849><c> developers</c><00:00:27.029><c> across</c>
+
+00:00:27.589 --> 00:00:27.599 align:start position:0%
+where multiple developers across
+ 
+
+00:00:27.599 --> 00:00:29.060 align:start position:0%
+where multiple developers across
+multiple<00:00:27.930><c> different</c><00:00:28.170><c> platforms</c><00:00:28.439><c> are</c><00:00:28.949><c> all</c>
+
+00:00:29.060 --> 00:00:29.070 align:start position:0%
+multiple different platforms are all
+ 
+
+00:00:29.070 --> 00:00:31.460 align:start position:0%
+multiple different platforms are all
+working<00:00:29.460><c> on</c><00:00:29.760><c> that</c><00:00:29.939><c> project</c><00:00:30.240><c> and</c><00:00:30.570><c> continually</c>
+
+00:00:31.460 --> 00:00:31.470 align:start position:0%
+working on that project and continually
+ 
+
+00:00:31.470 --> 00:00:33.709 align:start position:0%
+working on that project and continually
+updating<00:00:31.980><c> that</c><00:00:32.130><c> code</c><00:00:32.430><c> a</c><00:00:32.730><c> lot</c><00:00:33.210><c> of</c><00:00:33.360><c> things</c><00:00:33.540><c> can</c>
+
+00:00:33.709 --> 00:00:33.719 align:start position:0%
+updating that code a lot of things can
+ 
+
+00:00:33.719 --> 00:00:35.840 align:start position:0%
+updating that code a lot of things can
+go<00:00:33.899><c> wrong</c><00:00:33.930><c> someone</c><00:00:34.680><c> for</c><00:00:34.920><c> example</c><00:00:35.010><c> might</c><00:00:35.610><c> not</c>
+
+00:00:35.840 --> 00:00:35.850 align:start position:0%
+go wrong someone for example might not
+ 
+
+00:00:35.850 --> 00:00:37.910 align:start position:0%
+go wrong someone for example might not
+compile<00:00:36.360><c> their</c><00:00:36.600><c> code</c><00:00:36.809><c> on</c><00:00:37.020><c> all</c><00:00:37.050><c> platforms</c><00:00:37.380><c> or</c>
+
+00:00:37.910 --> 00:00:37.920 align:start position:0%
+compile their code on all platforms or
+ 
+
+00:00:37.920 --> 00:00:41.060 align:start position:0%
+compile their code on all platforms or
+in<00:00:38.190><c> all</c><00:00:38.340><c> configurations</c><00:00:39.210><c> and</c><00:00:39.540><c> as</c><00:00:40.200><c> a</c><00:00:40.320><c> result</c><00:00:40.770><c> it</c>
+
+00:00:41.060 --> 00:00:41.070 align:start position:0%
+in all configurations and as a result it
+ 
+
+00:00:41.070 --> 00:00:42.530 align:start position:0%
+in all configurations and as a result it
+might<00:00:41.340><c> completely</c><00:00:41.790><c> break</c><00:00:41.969><c> the</c><00:00:42.090><c> build</c><00:00:42.270><c> for</c>
+
+00:00:42.530 --> 00:00:42.540 align:start position:0%
+might completely break the build for
+ 
+
+00:00:42.540 --> 00:00:44.209 align:start position:0%
+might completely break the build for
+other<00:00:42.690><c> developers</c><00:00:43.290><c> or</c><00:00:43.530><c> it</c><00:00:43.620><c> just</c><00:00:43.649><c> might</c>
+
+00:00:44.209 --> 00:00:44.219 align:start position:0%
+other developers or it just might
+ 
+
+00:00:44.219 --> 00:00:46.160 align:start position:0%
+other developers or it just might
+basically<00:00:44.940><c> contribute</c><00:00:45.690><c> bugs</c>
+
+00:00:46.160 --> 00:00:46.170 align:start position:0%
+basically contribute bugs
+ 
+
+00:00:46.170 --> 00:00:48.410 align:start position:0%
+basically contribute bugs
+additionally<00:00:46.920><c> some</c><00:00:47.280><c> bugs</c><00:00:47.610><c> might</c><00:00:48.059><c> not</c><00:00:48.270><c> be</c>
+
+00:00:48.410 --> 00:00:48.420 align:start position:0%
+additionally some bugs might not be
+ 
+
+00:00:48.420 --> 00:00:50.150 align:start position:0%
+additionally some bugs might not be
+caught<00:00:48.690><c> through</c><00:00:49.079><c> a</c><00:00:49.140><c> compilation</c><00:00:49.469><c> error</c><00:00:49.860><c> I</c>
+
+00:00:50.150 --> 00:00:50.160 align:start position:0%
+caught through a compilation error I
+ 
+
+00:00:50.160 --> 00:00:51.740 align:start position:0%
+caught through a compilation error I
+mean<00:00:50.370><c> I</c><00:00:50.579><c> think</c><00:00:50.789><c> it's</c><00:00:51.059><c> pretty</c><00:00:51.210><c> reasonable</c><00:00:51.719><c> to</c>
+
+00:00:51.740 --> 00:00:51.750 align:start position:0%
+mean I think it's pretty reasonable to
+ 
+
+00:00:51.750 --> 00:00:53.630 align:start position:0%
+mean I think it's pretty reasonable to
+expect<00:00:51.960><c> someone</c><00:00:52.500><c> to</c><00:00:52.649><c> first</c><00:00:52.980><c> compile</c><00:00:53.399><c> their</c>
+
+00:00:53.630 --> 00:00:53.640 align:start position:0%
+expect someone to first compile their
+ 
+
+00:00:53.640 --> 00:00:55.340 align:start position:0%
+expect someone to first compile their
+code<00:00:53.850><c> before</c><00:00:54.360><c> they</c><00:00:54.600><c> actually</c><00:00:54.930><c> committed</c>
+
+00:00:55.340 --> 00:00:55.350 align:start position:0%
+code before they actually committed
+ 
+
+00:00:55.350 --> 00:00:57.500 align:start position:0%
+code before they actually committed
+especially<00:00:55.800><c> if</c><00:00:55.860><c> if</c><00:00:56.160><c> it's</c><00:00:56.399><c> a</c><00:00:56.489><c> serious</c><00:00:56.879><c> software</c>
+
+00:00:57.500 --> 00:00:57.510 align:start position:0%
+especially if if it's a serious software
+ 
+
+00:00:57.510 --> 00:00:59.240 align:start position:0%
+especially if if it's a serious software
+project<00:00:57.989><c> however</c><00:00:58.260><c> a</c><00:00:58.500><c> lot</c><00:00:58.739><c> of</c><00:00:58.829><c> bugs</c><00:00:59.010><c> obviously</c>
+
+00:00:59.240 --> 00:00:59.250 align:start position:0%
+project however a lot of bugs obviously
+ 
+
+00:00:59.250 --> 00:01:01.310 align:start position:0%
+project however a lot of bugs obviously
+manifest<00:00:59.879><c> themselves</c><00:01:00.030><c> at</c><00:01:00.480><c> runtime</c><00:01:00.809><c> and</c><00:01:01.260><c> they</c>
+
+00:01:01.310 --> 00:01:01.320 align:start position:0%
+manifest themselves at runtime and they
+ 
+
+00:01:01.320 --> 00:01:03.110 align:start position:0%
+manifest themselves at runtime and they
+might<00:01:01.469><c> only</c><00:01:01.739><c> occur</c><00:01:02.010><c> on</c><00:01:02.190><c> specific</c><00:01:02.550><c> Hardware</c><00:01:02.969><c> on</c>
+
+00:01:03.110 --> 00:01:03.120 align:start position:0%
+might only occur on specific Hardware on
+ 
+
+00:01:03.120 --> 00:01:05.210 align:start position:0%
+might only occur on specific Hardware on
+a<00:01:03.180><c> specific</c><00:01:03.359><c> platform</c><00:01:04.049><c> or</c><00:01:04.350><c> their</c><00:01:04.680><c> specific</c>
+
+00:01:05.210 --> 00:01:05.220 align:start position:0%
+a specific platform or their specific
+ 
+
+00:01:05.220 --> 00:01:07.160 align:start position:0%
+a specific platform or their specific
+configuration<00:01:06.060><c> it's</c><00:01:06.540><c> really</c><00:01:06.990><c> not</c><00:01:07.110><c> that</c>
+
+00:01:07.160 --> 00:01:07.170 align:start position:0%
+configuration it's really not that
+ 
+
+00:01:07.170 --> 00:01:09.050 align:start position:0%
+configuration it's really not that
+feasible<00:01:07.799><c> for</c><00:01:07.950><c> a</c><00:01:08.010><c> developer</c><00:01:08.369><c> to</c><00:01:08.400><c> sit</c><00:01:08.640><c> down</c><00:01:08.790><c> and</c>
+
+00:01:09.050 --> 00:01:09.060 align:start position:0%
+feasible for a developer to sit down and
+ 
+
+00:01:09.060 --> 00:01:10.789 align:start position:0%
+feasible for a developer to sit down and
+have<00:01:09.180><c> to</c><00:01:09.299><c> spend</c><00:01:09.600><c> like</c><00:01:09.869><c> an</c><00:01:10.020><c> hour</c><00:01:10.170><c> testing</c>
+
+00:01:10.789 --> 00:01:10.799 align:start position:0%
+have to spend like an hour testing
+ 
+
+00:01:10.799 --> 00:01:13.280 align:start position:0%
+have to spend like an hour testing
+everything<00:01:11.220><c> because</c><00:01:11.880><c> they</c><00:01:12.750><c> would</c><00:01:12.930><c> probably</c>
+
+00:01:13.280 --> 00:01:13.290 align:start position:0%
+everything because they would probably
+ 
+
+00:01:13.290 --> 00:01:15.350 align:start position:0%
+everything because they would probably
+rather<00:01:13.770><c> be</c><00:01:13.920><c> working</c><00:01:14.580><c> on</c><00:01:14.640><c> something</c><00:01:14.880><c> else</c><00:01:15.119><c> in</c>
+
+00:01:15.350 --> 00:01:15.360 align:start position:0%
+rather be working on something else in
+ 
+
+00:01:15.360 --> 00:01:16.820 align:start position:0%
+rather be working on something else in
+fact<00:01:15.509><c> you</c><00:01:15.600><c> need</c><00:01:15.810><c> them</c><00:01:16.259><c> to</c><00:01:16.409><c> be</c><00:01:16.530><c> working</c><00:01:16.770><c> on</c>
+
+00:01:16.820 --> 00:01:16.830 align:start position:0%
+fact you need them to be working on
+ 
+
+00:01:16.830 --> 00:01:17.960 align:start position:0%
+fact you need them to be working on
+something<00:01:17.040><c> else</c><00:01:17.159><c> so</c><00:01:17.310><c> obviously</c><00:01:17.670><c> some</c>
+
+00:01:17.960 --> 00:01:17.970 align:start position:0%
+something else so obviously some
+ 
+
+00:01:17.970 --> 00:01:19.609 align:start position:0%
+something else so obviously some
+problems<00:01:18.540><c> can</c><00:01:18.750><c> only</c><00:01:18.840><c> be</c><00:01:18.990><c> caught</c><00:01:19.290><c> during</c>
+
+00:01:19.609 --> 00:01:19.619 align:start position:0%
+problems can only be caught during
+ 
+
+00:01:19.619 --> 00:01:22.010 align:start position:0%
+problems can only be caught during
+runtime<00:01:19.979><c> by</c><00:01:20.549><c> potentially</c><00:01:21.180><c> using</c><00:01:21.479><c> unit</c><00:01:21.720><c> tests</c>
+
+00:01:22.010 --> 00:01:22.020 align:start position:0%
+runtime by potentially using unit tests
+ 
+
+00:01:22.020 --> 00:01:23.660 align:start position:0%
+runtime by potentially using unit tests
+or<00:01:22.110><c> some</c><00:01:22.290><c> kind</c><00:01:22.500><c> of</c><00:01:22.619><c> testing</c><00:01:23.009><c> framework</c><00:01:23.490><c> that</c>
+
+00:01:23.660 --> 00:01:23.670 align:start position:0%
+or some kind of testing framework that
+ 
+
+00:01:23.670 --> 00:01:25.429 align:start position:0%
+or some kind of testing framework that
+you<00:01:23.820><c> probably</c><00:01:24.030><c> integrated</c><00:01:24.720><c> into</c><00:01:24.900><c> the</c><00:01:24.960><c> project</c>
+
+00:01:25.429 --> 00:01:25.439 align:start position:0%
+you probably integrated into the project
+ 
+
+00:01:25.439 --> 00:01:26.780 align:start position:0%
+you probably integrated into the project
+to<00:01:25.890><c> make</c><00:01:26.009><c> sure</c><00:01:26.189><c> that</c><00:01:26.280><c> everything</c><00:01:26.610><c> is</c><00:01:26.640><c> running</c>
+
+00:01:26.780 --> 00:01:26.790 align:start position:0%
+to make sure that everything is running
+ 
+
+00:01:26.790 --> 00:01:28.399 align:start position:0%
+to make sure that everything is running
+correctly<00:01:27.180><c> but</c><00:01:27.630><c> it's</c><00:01:27.750><c> quite</c><00:01:27.900><c> common</c><00:01:28.140><c> for</c><00:01:28.320><c> you</c>
+
+00:01:28.399 --> 00:01:28.409 align:start position:0%
+correctly but it's quite common for you
+ 
+
+00:01:28.409 --> 00:01:29.719 align:start position:0%
+correctly but it's quite common for you
+to<00:01:28.470><c> want</c><00:01:28.590><c> to</c><00:01:28.680><c> run</c><00:01:28.860><c> that</c><00:01:29.040><c> on</c><00:01:29.250><c> multiple</c>
+
+00:01:29.719 --> 00:01:29.729 align:start position:0%
+to want to run that on multiple
+ 
+
+00:01:29.729 --> 00:01:32.060 align:start position:0%
+to want to run that on multiple
+platforms<00:01:29.909><c> multiple</c><00:01:30.810><c> configurations</c><00:01:31.680><c> all</c><00:01:31.950><c> of</c>
+
+00:01:32.060 --> 00:01:32.070 align:start position:0%
+platforms multiple configurations all of
+ 
+
+00:01:32.070 --> 00:01:33.590 align:start position:0%
+platforms multiple configurations all of
+that<00:01:32.220><c> stuff</c><00:01:32.520><c> if</c><00:01:32.700><c> that</c><00:01:32.850><c> burden</c><00:01:33.060><c> falls</c><00:01:33.299><c> on</c><00:01:33.479><c> to</c>
+
+00:01:33.590 --> 00:01:33.600 align:start position:0%
+that stuff if that burden falls on to
+ 
+
+00:01:33.600 --> 00:01:35.120 align:start position:0%
+that stuff if that burden falls on to
+the<00:01:33.689><c> developer</c><00:01:34.229><c> instead</c><00:01:34.470><c> of</c><00:01:34.560><c> a</c><00:01:34.619><c> developer</c>
+
+00:01:35.120 --> 00:01:35.130 align:start position:0%
+the developer instead of a developer
+ 
+
+00:01:35.130 --> 00:01:36.890 align:start position:0%
+the developer instead of a developer
+working<00:01:35.340><c> on</c><00:01:35.640><c> actually</c><00:01:36.060><c> you</c><00:01:36.360><c> know</c><00:01:36.450><c> a</c><00:01:36.479><c> software</c>
+
+00:01:36.890 --> 00:01:36.900 align:start position:0%
+working on actually you know a software
+ 
+
+00:01:36.900 --> 00:01:38.270 align:start position:0%
+working on actually you know a software
+engineering<00:01:37.259><c> and</c><00:01:37.439><c> actually</c><00:01:37.740><c> programming</c>
+
+00:01:38.270 --> 00:01:38.280 align:start position:0%
+engineering and actually programming
+ 
+
+00:01:38.280 --> 00:01:40.730 align:start position:0%
+engineering and actually programming
+more<00:01:38.939><c> code</c><00:01:39.180><c> and</c><00:01:39.390><c> fixing</c><00:01:39.720><c> other</c><00:01:39.840><c> bugs</c><00:01:40.170><c> they're</c>
+
+00:01:40.730 --> 00:01:40.740 align:start position:0%
+more code and fixing other bugs they're
+ 
+
+00:01:40.740 --> 00:01:41.870 align:start position:0%
+more code and fixing other bugs they're
+going<00:01:40.860><c> to</c><00:01:40.920><c> be</c><00:01:41.009><c> stuck</c><00:01:41.280><c> doing</c><00:01:41.430><c> all</c><00:01:41.640><c> of</c><00:01:41.700><c> the</c>
+
+00:01:41.870 --> 00:01:41.880 align:start position:0%
+going to be stuck doing all of the
+ 
+
+00:01:41.880 --> 00:01:44.840 align:start position:0%
+going to be stuck doing all of the
+testing<00:01:42.450><c> now</c><00:01:42.990><c> that</c><00:01:43.409><c> is</c><00:01:43.680><c> not</c><00:01:43.829><c> ideal</c><00:01:44.070><c> and</c><00:01:44.610><c> that's</c>
+
+00:01:44.840 --> 00:01:44.850 align:start position:0%
+testing now that is not ideal and that's
+ 
+
+00:01:44.850 --> 00:01:47.120 align:start position:0%
+testing now that is not ideal and that's
+where<00:01:45.060><c> continuous</c><00:01:45.479><c> integration</c><00:01:45.659><c> comes</c><00:01:46.350><c> in</c><00:01:46.710><c> it</c>
+
+00:01:47.120 --> 00:01:47.130 align:start position:0%
+where continuous integration comes in it
+ 
+
+00:01:47.130 --> 00:01:49.670 align:start position:0%
+where continuous integration comes in it
+can<00:01:47.310><c> help</c><00:01:47.579><c> us</c><00:01:47.820><c> automate</c><00:01:48.180><c> that</c><00:01:48.810><c> entire</c><00:01:49.350><c> process</c>
+
+00:01:49.670 --> 00:01:49.680 align:start position:0%
+can help us automate that entire process
+ 
+
+00:01:49.680 --> 00:01:52.399 align:start position:0%
+can help us automate that entire process
+of<00:01:50.189><c> making</c><00:01:50.399><c> sure</c><00:01:50.790><c> that</c><00:01:51.270><c> the</c><00:01:51.420><c> code</c><00:01:51.630><c> compiles</c><00:01:52.229><c> on</c>
+
+00:01:52.399 --> 00:01:52.409 align:start position:0%
+of making sure that the code compiles on
+ 
+
+00:01:52.409 --> 00:01:54.620 align:start position:0%
+of making sure that the code compiles on
+all<00:01:52.590><c> platforms</c><00:01:52.860><c> in</c><00:01:53.340><c> all</c><00:01:53.490><c> configurations</c><00:01:54.090><c> for</c>
+
+00:01:54.620 --> 00:01:54.630 align:start position:0%
+all platforms in all configurations for
+ 
+
+00:01:54.630 --> 00:01:57.200 align:start position:0%
+all platforms in all configurations for
+everyone<00:01:55.170><c> and</c><00:01:55.380><c> then</c><00:01:55.920><c> also</c><00:01:56.100><c> run</c><00:01:56.909><c> some</c><00:01:57.119><c> basic</c>
+
+00:01:57.200 --> 00:01:57.210 align:start position:0%
+everyone and then also run some basic
+ 
+
+00:01:57.210 --> 00:01:59.060 align:start position:0%
+everyone and then also run some basic
+tests<00:01:57.810><c> or</c><00:01:57.899><c> any</c><00:01:58.049><c> kind</c><00:01:58.290><c> of</c><00:01:58.320><c> automation</c><00:01:58.649><c> tests</c>
+
+00:01:59.060 --> 00:01:59.070 align:start position:0%
+tests or any kind of automation tests
+ 
+
+00:01:59.070 --> 00:02:00.620 align:start position:0%
+tests or any kind of automation tests
+that<00:01:59.189><c> your</c><00:01:59.340><c> heart</c><00:01:59.640><c> desires</c><00:02:00.149><c> that</c><00:02:00.509><c> you've</c>
+
+00:02:00.620 --> 00:02:00.630 align:start position:0%
+that your heart desires that you've
+ 
+
+00:02:00.630 --> 00:02:03.020 align:start position:0%
+that your heart desires that you've
+actually<00:02:00.950><c> created</c><00:02:01.950><c> to</c><00:02:02.369><c> make</c><00:02:02.579><c> sure</c><00:02:02.820><c> that</c>
+
+00:02:03.020 --> 00:02:03.030 align:start position:0%
+actually created to make sure that
+ 
+
+00:02:03.030 --> 00:02:05.420 align:start position:0%
+actually created to make sure that
+everything<00:02:03.540><c> is</c><00:02:03.780><c> a</c><00:02:04.020><c> plus</c><00:02:04.409><c> plus</c><00:02:04.649><c> this</c><00:02:05.219><c> is</c>
+
+00:02:05.420 --> 00:02:05.430 align:start position:0%
+everything is a plus plus this is
+ 
+
+00:02:05.430 --> 00:02:06.859 align:start position:0%
+everything is a plus plus this is
+definitely<00:02:05.880><c> one</c><00:02:06.060><c> of</c><00:02:06.090><c> those</c><00:02:06.210><c> things</c><00:02:06.479><c> that</c><00:02:06.659><c> you</c>
+
+00:02:06.859 --> 00:02:06.869 align:start position:0%
+definitely one of those things that you
+ 
+
+00:02:06.869 --> 00:02:08.779 align:start position:0%
+definitely one of those things that you
+don't<00:02:06.960><c> think</c><00:02:07.320><c> you</c><00:02:07.439><c> need</c><00:02:07.469><c> until</c><00:02:08.099><c> you</c><00:02:08.399><c> realize</c>
+
+00:02:08.779 --> 00:02:08.789 align:start position:0%
+don't think you need until you realize
+ 
+
+00:02:08.789 --> 00:02:11.059 align:start position:0%
+don't think you need until you realize
+that<00:02:08.989><c> everything</c><00:02:09.989><c> just</c><00:02:10.140><c> just</c><00:02:10.349><c> getting</c><00:02:10.920><c> out</c><00:02:11.039><c> of</c>
+
+00:02:11.059 --> 00:02:11.069 align:start position:0%
+that everything just just getting out of
+ 
+
+00:02:11.069 --> 00:02:13.170 align:start position:0%
+that everything just just getting out of
+hand<00:02:11.370><c> if</c><00:02:11.610><c> we</c><00:02:11.819><c> completely</c><00:02:12.330><c> dumb</c><00:02:12.629><c> this</c><00:02:12.870><c> down</c>
+
+00:02:13.170 --> 00:02:13.180 align:start position:0%
+hand if we completely dumb this down
+ 
+
+00:02:13.180 --> 00:02:15.300 align:start position:0%
+hand if we completely dumb this down
+true<00:02:13.450><c> what</c><00:02:13.719><c> it</c><00:02:13.900><c> is</c><00:02:14.079><c> at</c><00:02:14.290><c> its</c><00:02:14.439><c> core</c><00:02:14.709><c> basically</c>
+
+00:02:15.300 --> 00:02:15.310 align:start position:0%
+true what it is at its core basically
+ 
+
+00:02:15.310 --> 00:02:17.819 align:start position:0%
+true what it is at its core basically
+what<00:02:15.549><c> we</c><00:02:15.760><c> want</c><00:02:16.000><c> to</c><00:02:16.060><c> be</c><00:02:16.239><c> able</c><00:02:16.359><c> to</c><00:02:16.480><c> do</c><00:02:16.780><c> is</c><00:02:17.319><c> build</c>
+
+00:02:17.819 --> 00:02:17.829 align:start position:0%
+what we want to be able to do is build
+ 
+
+00:02:17.829 --> 00:02:20.610 align:start position:0%
+what we want to be able to do is build
+our<00:02:18.219><c> code</c><00:02:18.549><c> after</c><00:02:19.269><c> every</c><00:02:19.719><c> commit</c><00:02:20.079><c> that</c><00:02:20.230><c> we</c><00:02:20.379><c> make</c>
+
+00:02:20.610 --> 00:02:20.620 align:start position:0%
+our code after every commit that we make
+ 
+
+00:02:20.620 --> 00:02:23.520 align:start position:0%
+our code after every commit that we make
+and<00:02:20.890><c> then</c><00:02:21.400><c> also</c><00:02:21.579><c> maybe</c><00:02:22.239><c> run</c><00:02:22.780><c> the</c><00:02:22.930><c> application</c>
+
+00:02:23.520 --> 00:02:23.530 align:start position:0%
+and then also maybe run the application
+ 
+
+00:02:23.530 --> 00:02:25.589 align:start position:0%
+and then also maybe run the application
+to<00:02:23.560><c> just</c><00:02:23.890><c> see</c><00:02:24.069><c> does</c><00:02:24.400><c> it</c><00:02:24.430><c> run</c><00:02:24.700><c> without</c><00:02:24.939><c> crashing</c>
+
+00:02:25.589 --> 00:02:25.599 align:start position:0%
+to just see does it run without crashing
+ 
+
+00:02:25.599 --> 00:02:27.750 align:start position:0%
+to just see does it run without crashing
+what's<00:02:25.840><c> the</c><00:02:26.019><c> output</c><00:02:26.230><c> potentially</c><00:02:27.219><c> and</c><00:02:27.370><c> that's</c>
+
+00:02:27.750 --> 00:02:27.760 align:start position:0%
+what's the output potentially and that's
+ 
+
+00:02:27.760 --> 00:02:29.009 align:start position:0%
+what's the output potentially and that's
+what<00:02:28.000><c> we're</c><00:02:28.090><c> going</c><00:02:28.209><c> to</c><00:02:28.269><c> be</c><00:02:28.390><c> doing</c><00:02:28.510><c> today</c><00:02:28.780><c> we're</c>
+
+00:02:29.009 --> 00:02:29.019 align:start position:0%
+what we're going to be doing today we're
+ 
+
+00:02:29.019 --> 00:02:31.289 align:start position:0%
+what we're going to be doing today we're
+going<00:02:29.109><c> to</c><00:02:29.200><c> be</c><00:02:29.290><c> setting</c><00:02:29.620><c> up</c><00:02:29.680><c> a</c><00:02:29.859><c> C++</c><00:02:30.489><c> project</c><00:02:30.760><c> so</c>
+
+00:02:31.289 --> 00:02:31.299 align:start position:0%
+going to be setting up a C++ project so
+ 
+
+00:02:31.299 --> 00:02:33.720 align:start position:0%
+going to be setting up a C++ project so
+that<00:02:31.329><c> we</c><00:02:31.450><c> can</c><00:02:31.659><c> automatically</c><00:02:32.409><c> build</c><00:02:33.129><c> and</c><00:02:33.430><c> then</c>
+
+00:02:33.720 --> 00:02:33.730 align:start position:0%
+that we can automatically build and then
+ 
+
+00:02:33.730 --> 00:02:36.420 align:start position:0%
+that we can automatically build and then
+test<00:02:34.120><c> our</c><00:02:34.420><c> application</c><00:02:34.829><c> every</c><00:02:35.829><c> time</c><00:02:36.069><c> a</c><00:02:36.099><c> new</c>
+
+00:02:36.420 --> 00:02:36.430 align:start position:0%
+test our application every time a new
+ 
+
+00:02:36.430 --> 00:02:38.729 align:start position:0%
+test our application every time a new
+commit<00:02:36.760><c> is</c><00:02:36.939><c> pushed</c><00:02:37.239><c> to</c><00:02:37.540><c> get</c><00:02:37.719><c> her</c><00:02:37.840><c> and</c><00:02:38.019><c> this</c><00:02:38.560><c> is</c>
+
+00:02:38.729 --> 00:02:38.739 align:start position:0%
+commit is pushed to get her and this is
+ 
+
+00:02:38.739 --> 00:02:41.280 align:start position:0%
+commit is pushed to get her and this is
+getting<00:02:38.889><c> really</c><00:02:39.819><c> bright</c><00:02:40.180><c> think</c><00:02:40.420><c> maybe</c><00:02:40.719><c> if</c><00:02:41.079><c> I</c>
+
+00:02:41.280 --> 00:02:41.290 align:start position:0%
+getting really bright think maybe if I
+ 
+
+00:02:41.290 --> 00:02:45.929 align:start position:0%
+getting really bright think maybe if I
+just<00:02:41.560><c> move</c><00:02:42.430><c> this</c><00:02:42.939><c> over</c><00:02:43.269><c> here</c><00:02:44.260><c> we're</c><00:02:45.250><c> going</c><00:02:45.760><c> to</c>
+
+00:02:45.929 --> 00:02:45.939 align:start position:0%
+just move this over here we're going to
+ 
+
+00:02:45.939 --> 00:02:47.759 align:start position:0%
+just move this over here we're going to
+dynamically<00:02:46.540><c> change</c><00:02:46.930><c> the</c><00:02:47.049><c> set</c><00:02:47.530><c> and</c>
+
+00:02:47.759 --> 00:02:47.769 align:start position:0%
+dynamically change the set and
+ 
+
+00:02:47.769 --> 00:02:49.319 align:start position:0%
+dynamically change the set and
+everything's<00:02:48.340><c> gonna</c><00:02:48.489><c> be</c><00:02:48.669><c> a</c><00:02:48.700><c> plus</c><00:02:49.030><c> plus</c>
+
+00:02:49.319 --> 00:02:49.329 align:start position:0%
+everything's gonna be a plus plus
+ 
+
+00:02:49.329 --> 00:02:50.849 align:start position:0%
+everything's gonna be a plus plus
+because<00:02:49.750><c> it</c><00:02:49.780><c> needs</c><00:02:50.049><c> to</c><00:02:50.169><c> because</c><00:02:50.560><c> I</c><00:02:50.680><c> need</c><00:02:50.829><c> to</c>
+
+00:02:50.849 --> 00:02:50.859 align:start position:0%
+because it needs to because I need to
+ 
+
+00:02:50.859 --> 00:02:53.909 align:start position:0%
+because it needs to because I need to
+get<00:02:51.220><c> this</c><00:02:51.400><c> video</c><00:02:51.609><c> done</c><00:02:52.109><c> otherwise</c><00:02:53.109><c> my</c><00:02:53.470><c> family</c>
+
+00:02:53.909 --> 00:02:53.919 align:start position:0%
+get this video done otherwise my family
+ 
+
+00:02:53.919 --> 00:02:55.259 align:start position:0%
+get this video done otherwise my family
+is<00:02:53.980><c> going</c><00:02:54.189><c> to</c><00:02:54.400><c> starve</c><00:02:54.700><c> so</c><00:02:54.970><c> we're</c><00:02:55.060><c> gonna</c><00:02:55.150><c> use</c>
+
+00:02:55.259 --> 00:02:55.269 align:start position:0%
+is going to starve so we're gonna use
+ 
+
+00:02:55.269 --> 00:02:56.789 align:start position:0%
+is going to starve so we're gonna use
+Jenkins<00:02:55.780><c> today</c><00:02:56.019><c> as</c><00:02:56.230><c> our</c><00:02:56.349><c> continuous</c>
+
+00:02:56.789 --> 00:02:56.799 align:start position:0%
+Jenkins today as our continuous
+ 
+
+00:02:56.799 --> 00:02:58.080 align:start position:0%
+Jenkins today as our continuous
+integration<00:02:56.980><c> environment</c>
+
+00:02:58.080 --> 00:02:58.090 align:start position:0%
+integration environment
+ 
+
+00:02:58.090 --> 00:02:59.940 align:start position:0%
+integration environment
+Jenkins<00:02:58.719><c> is</c><00:02:58.870><c> completely</c><00:02:59.439><c> free</c><00:02:59.709><c> and</c>
+
+00:02:59.940 --> 00:02:59.950 align:start position:0%
+Jenkins is completely free and
+ 
+
+00:02:59.950 --> 00:03:01.440 align:start position:0%
+Jenkins is completely free and
+open-source<00:03:00.370><c> I'll</c><00:03:00.969><c> leave</c><00:03:01.120><c> a</c><00:03:01.150><c> link</c><00:03:01.329><c> in</c>
+
+00:03:01.440 --> 00:03:01.450 align:start position:0%
+open-source I'll leave a link in
+ 
+
+00:03:01.450 --> 00:03:02.940 align:start position:0%
+open-source I'll leave a link in
+description<00:03:01.840><c> below</c><00:03:01.870><c> for</c><00:03:02.260><c> you</c><00:03:02.319><c> guys</c><00:03:02.349><c> to</c><00:03:02.739><c> check</c>
+
+00:03:02.940 --> 00:03:02.950 align:start position:0%
+description below for you guys to check
+ 
+
+00:03:02.950 --> 00:03:04.500 align:start position:0%
+description below for you guys to check
+it<00:03:03.010><c> out</c><00:03:03.219><c> it's</c><00:03:03.700><c> also</c><00:03:03.819><c> something</c><00:03:04.030><c> that</c><00:03:04.180><c> we</c><00:03:04.269><c> used</c>
+
+00:03:04.500 --> 00:03:04.510 align:start position:0%
+it out it's also something that we used
+ 
+
+00:03:04.510 --> 00:03:06.809 align:start position:0%
+it out it's also something that we used
+on<00:03:04.659><c> a</c><00:03:04.689><c> number</c><00:03:04.750><c> of</c><00:03:05.049><c> projects</c><00:03:05.409><c> at</c><00:03:05.590><c> EA</c><00:03:05.799><c> so</c><00:03:05.980><c> I</c><00:03:06.489><c> quite</c>
+
+00:03:06.809 --> 00:03:06.819 align:start position:0%
+on a number of projects at EA so I quite
+ 
+
+00:03:06.819 --> 00:03:09.089 align:start position:0%
+on a number of projects at EA so I quite
+like<00:03:06.969><c> it</c><00:03:07.150><c> you</c><00:03:07.299><c> can</c><00:03:07.629><c> just</c><00:03:08.019><c> run</c><00:03:08.200><c> Jenkins</c><00:03:08.680><c> on</c><00:03:08.859><c> any</c>
+
+00:03:09.089 --> 00:03:09.099 align:start position:0%
+like it you can just run Jenkins on any
+ 
+
+00:03:09.099 --> 00:03:10.530 align:start position:0%
+like it you can just run Jenkins on any
+computer<00:03:09.579><c> really</c><00:03:09.730><c> you</c><00:03:09.849><c> could</c><00:03:10.000><c> run</c><00:03:10.120><c> it</c><00:03:10.239><c> on</c><00:03:10.389><c> the</c>
+
+00:03:10.530 --> 00:03:10.540 align:start position:0%
+computer really you could run it on the
+ 
+
+00:03:10.540 --> 00:03:12.000 align:start position:0%
+computer really you could run it on the
+computer<00:03:10.959><c> that</c><00:03:10.989><c> used</c><00:03:11.319><c> to</c><00:03:11.530><c> develop</c><00:03:11.889><c> all</c><00:03:11.980><c> of</c>
+
+00:03:12.000 --> 00:03:12.010 align:start position:0%
+computer that used to develop all of
+ 
+
+00:03:12.010 --> 00:03:14.429 align:start position:0%
+computer that used to develop all of
+your<00:03:12.189><c> code</c><00:03:12.400><c> however</c><00:03:13.030><c> typically</c><00:03:13.780><c> you'd</c><00:03:14.049><c> set</c><00:03:14.319><c> it</c>
+
+00:03:14.429 --> 00:03:14.439 align:start position:0%
+your code however typically you'd set it
+ 
+
+00:03:14.439 --> 00:03:15.959 align:start position:0%
+your code however typically you'd set it
+up<00:03:14.530><c> on</c><00:03:14.650><c> a</c><00:03:14.709><c> server</c><00:03:15.010><c> because</c><00:03:15.250><c> you</c><00:03:15.579><c> would</c><00:03:15.700><c> want</c><00:03:15.730><c> it</c>
+
+00:03:15.959 --> 00:03:15.969 align:start position:0%
+up on a server because you would want it
+ 
+
+00:03:15.969 --> 00:03:18.030 align:start position:0%
+up on a server because you would want it
+to<00:03:16.000><c> be</c><00:03:16.090><c> running</c><00:03:16.450><c> 24/7</c><00:03:17.139><c> and</c><00:03:17.409><c> so</c><00:03:17.620><c> I</c><00:03:17.650><c> partnered</c>
+
+00:03:18.030 --> 00:03:18.040 align:start position:0%
+to be running 24/7 and so I partnered
+ 
+
+00:03:18.040 --> 00:03:19.979 align:start position:0%
+to be running 24/7 and so I partnered
+with<00:03:18.220><c> Leonard</c><00:03:18.549><c> for</c><00:03:18.790><c> this</c><00:03:18.909><c> video</c><00:03:19.150><c> to</c><00:03:19.269><c> make</c><00:03:19.720><c> all</c>
+
+00:03:19.979 --> 00:03:19.989 align:start position:0%
+with Leonard for this video to make all
+ 
+
+00:03:19.989 --> 00:03:21.869 align:start position:0%
+with Leonard for this video to make all
+of<00:03:20.019><c> this</c><00:03:20.260><c> happen</c><00:03:20.319><c> now</c><00:03:20.829><c> what's</c><00:03:21.040><c> Leonard</c><00:03:21.400><c> I</c><00:03:21.609><c> hear</c>
+
+00:03:21.869 --> 00:03:21.879 align:start position:0%
+of this happen now what's Leonard I hear
+ 
+
+00:03:21.879 --> 00:03:24.059 align:start position:0%
+of this happen now what's Leonard I hear
+you<00:03:21.970><c> ask</c><00:03:22.150><c> well</c><00:03:22.510><c> you</c><00:03:22.810><c> know</c><00:03:22.930><c> it</c><00:03:23.049><c> provides</c><00:03:23.470><c> Linux</c>
+
+00:03:24.059 --> 00:03:24.069 align:start position:0%
+you ask well you know it provides Linux
+ 
+
+00:03:24.069 --> 00:03:25.649 align:start position:0%
+you ask well you know it provides Linux
+servers<00:03:24.549><c> that</c><00:03:24.729><c> make</c><00:03:24.879><c> it</c><00:03:25.000><c> easy</c><00:03:25.239><c> for</c><00:03:25.389><c> you</c><00:03:25.629><c> to</c>
+
+00:03:25.649 --> 00:03:25.659 align:start position:0%
+servers that make it easy for you to
+ 
+
+00:03:25.659 --> 00:03:28.890 align:start position:0%
+servers that make it easy for you to
+host<00:03:25.930><c> your</c><00:03:26.590><c> app</c><00:03:26.889><c> side</c><00:03:27.609><c> or</c><00:03:27.940><c> project</c><00:03:28.479><c> in</c><00:03:28.659><c> the</c>
+
+00:03:28.890 --> 00:03:28.900 align:start position:0%
+host your app side or project in the
+ 
+
+00:03:28.900 --> 00:03:30.360 align:start position:0%
+host your app side or project in the
+cloud<00:03:29.139><c> if</c><00:03:29.319><c> it</c><00:03:29.500><c> runs</c><00:03:29.650><c> on</c><00:03:29.799><c> Linux</c>
+
+00:03:30.360 --> 00:03:30.370 align:start position:0%
+cloud if it runs on Linux
+ 
+
+00:03:30.370 --> 00:03:32.189 align:start position:0%
+cloud if it runs on Linux
+it<00:03:30.459><c> runs</c><00:03:30.760><c> on</c><00:03:31.060><c> Leonard</c><00:03:31.479><c> so</c><00:03:31.689><c> if</c><00:03:31.780><c> you</c><00:03:31.840><c> need</c><00:03:31.959><c> a</c><00:03:32.019><c> host</c>
+
+00:03:32.189 --> 00:03:32.199 align:start position:0%
+it runs on Leonard so if you need a host
+ 
+
+00:03:32.199 --> 00:03:34.679 align:start position:0%
+it runs on Leonard so if you need a host
+like<00:03:32.409><c> a</c><00:03:32.470><c> website</c><00:03:32.769><c> or</c><00:03:33.250><c> a</c><00:03:33.280><c> game</c><00:03:33.609><c> server</c><00:03:33.939><c> or</c><00:03:34.359><c> set</c>
+
+00:03:34.679 --> 00:03:34.689 align:start position:0%
+like a website or a game server or set
+ 
+
+00:03:34.689 --> 00:03:36.629 align:start position:0%
+like a website or a game server or set
+up<00:03:34.780><c> a</c><00:03:34.870><c> CI</c><00:03:35.079><c> machine</c><00:03:35.530><c> like</c><00:03:36.099><c> we're</c><00:03:36.310><c> doing</c><00:03:36.459><c> today</c>
+
+00:03:36.629 --> 00:03:36.639 align:start position:0%
+up a CI machine like we're doing today
+ 
+
+00:03:36.639 --> 00:03:38.909 align:start position:0%
+up a CI machine like we're doing today
+in<00:03:36.879><c> this</c><00:03:36.970><c> video</c><00:03:37.199><c> Leonard</c><00:03:38.199><c> has</c><00:03:38.470><c> you</c><00:03:38.739><c> covered</c>
+
+00:03:38.909 --> 00:03:38.919 align:start position:0%
+in this video Leonard has you covered
+ 
+
+00:03:38.919 --> 00:03:40.679 align:start position:0%
+in this video Leonard has you covered
+they<00:03:39.310><c> have</c><00:03:39.519><c> data</c><00:03:39.729><c> centers</c><00:03:40.120><c> all</c><00:03:40.329><c> around</c><00:03:40.599><c> the</c>
+
+00:03:40.679 --> 00:03:40.689 align:start position:0%
+they have data centers all around the
+ 
+
+00:03:40.689 --> 00:03:41.999 align:start position:0%
+they have data centers all around the
+world<00:03:40.900><c> which</c><00:03:41.049><c> means</c><00:03:41.169><c> that</c><00:03:41.379><c> you</c><00:03:41.470><c> can</c><00:03:41.620><c> set</c><00:03:41.799><c> up</c><00:03:41.889><c> a</c>
+
+00:03:41.999 --> 00:03:42.009 align:start position:0%
+world which means that you can set up a
+ 
+
+00:03:42.009 --> 00:03:43.860 align:start position:0%
+world which means that you can set up a
+server<00:03:42.250><c> in</c><00:03:42.519><c> a</c><00:03:42.609><c> location</c><00:03:43.000><c> that</c><00:03:43.419><c> is</c><00:03:43.720><c> like</c>
+
+00:03:43.860 --> 00:03:43.870 align:start position:0%
+server in a location that is like
+ 
+
+00:03:43.870 --> 00:03:45.539 align:start position:0%
+server in a location that is like
+geographically<00:03:44.709><c> close</c><00:03:44.979><c> to</c><00:03:45.159><c> you</c><00:03:45.250><c> which</c><00:03:45.400><c> means</c>
+
+00:03:45.539 --> 00:03:45.549 align:start position:0%
+geographically close to you which means
+ 
+
+00:03:45.549 --> 00:03:47.159 align:start position:0%
+geographically close to you which means
+that<00:03:45.819><c> you'll</c><00:03:45.970><c> get</c><00:03:46.150><c> that</c><00:03:46.269><c> low</c><00:03:46.479><c> latency</c><00:03:47.079><c> and</c>
+
+00:03:47.159 --> 00:03:47.169 align:start position:0%
+that you'll get that low latency and
+ 
+
+00:03:47.169 --> 00:03:48.960 align:start position:0%
+that you'll get that low latency and
+you'll<00:03:47.290><c> get</c><00:03:47.409><c> the</c><00:03:47.560><c> fastest</c><00:03:48.009><c> speeds</c><00:03:48.340><c> possible</c>
+
+00:03:48.960 --> 00:03:48.970 align:start position:0%
+you'll get the fastest speeds possible
+ 
+
+00:03:48.970 --> 00:03:50.699 align:start position:0%
+you'll get the fastest speeds possible
+best<00:03:49.150><c> of</c><00:03:49.269><c> all</c><00:03:49.449><c> in</c><00:03:49.659><c> ER</c><00:03:49.750><c> it</c><00:03:49.810><c> comes</c><00:03:50.019><c> with</c><00:03:50.199><c> 24/7</c>
+
+00:03:50.699 --> 00:03:50.709 align:start position:0%
+best of all in ER it comes with 24/7
+ 
+
+00:03:50.709 --> 00:03:52.020 align:start position:0%
+best of all in ER it comes with 24/7
+support<00:03:51.280><c> that</c><00:03:51.430><c> is</c><00:03:51.519><c> a</c><00:03:51.549><c> hundred</c><00:03:51.909><c> percent</c>
+
+00:03:52.020 --> 00:03:52.030 align:start position:0%
+support that is a hundred percent
+ 
+
+00:03:52.030 --> 00:03:54.210 align:start position:0%
+support that is a hundred percent
+managed<00:03:52.599><c> by</c><00:03:52.720><c> humans</c><00:03:53.139><c> that's</c><00:03:53.769><c> really</c>
+
+00:03:54.210 --> 00:03:54.220 align:start position:0%
+managed by humans that's really
+ 
+
+00:03:54.220 --> 00:03:55.559 align:start position:0%
+managed by humans that's really
+important<00:03:54.639><c> in</c><00:03:54.729><c> case</c><00:03:54.939><c> you</c><00:03:55.090><c> need</c><00:03:55.209><c> some</c><00:03:55.389><c> help</c>
+
+00:03:55.559 --> 00:03:55.569 align:start position:0%
+important in case you need some help
+ 
+
+00:03:55.569 --> 00:03:57.390 align:start position:0%
+important in case you need some help
+they<00:03:56.229><c> have</c><00:03:56.470><c> got</c><00:03:56.680><c> your</c><00:03:56.829><c> back</c><00:03:57.009><c> I</c><00:03:57.099><c> want</c><00:03:57.280><c> to</c><00:03:57.340><c> thank</c>
+
+00:03:57.390 --> 00:03:57.400 align:start position:0%
+they have got your back I want to thank
+ 
+
+00:03:57.400 --> 00:03:58.710 align:start position:0%
+they have got your back I want to thank
+Lynn<00:03:57.639><c> ardour</c><00:03:57.849><c> for</c><00:03:57.879><c> sponsoring</c><00:03:58.389><c> this</c><00:03:58.540><c> video</c>
+
+00:03:58.710 --> 00:03:58.720 align:start position:0%
+Lynn ardour for sponsoring this video
+ 
+
+00:03:58.720 --> 00:04:00.420 align:start position:0%
+Lynn ardour for sponsoring this video
+making<00:03:59.139><c> all</c><00:03:59.259><c> of</c><00:03:59.290><c> this</c><00:03:59.500><c> possible</c><00:03:59.739><c> I'll</c><00:04:00.310><c> show</c>
+
+00:04:00.420 --> 00:04:00.430 align:start position:0%
+making all of this possible I'll show
+ 
+
+00:04:00.430 --> 00:04:02.759 align:start position:0%
+making all of this possible I'll show
+you<00:04:00.519><c> guys</c><00:04:00.669><c> how</c><00:04:00.909><c> to</c><00:04:00.939><c> set</c><00:04:01.299><c> up</c><00:04:01.479><c> an</c><00:04:01.720><c> actual</c><00:04:02.139><c> lynyrd</c>
+
+00:04:02.759 --> 00:04:02.769 align:start position:0%
+you guys how to set up an actual lynyrd
+ 
+
+00:04:02.769 --> 00:04:04.349 align:start position:0%
+you guys how to set up an actual lynyrd
+server<00:04:03.099><c> so</c><00:04:03.340><c> that</c><00:04:03.459><c> we</c><00:04:03.549><c> can</c><00:04:03.669><c> get</c><00:04:03.819><c> our</c><00:04:03.939><c> Jenkins</c>
+
+00:04:04.349 --> 00:04:04.359 align:start position:0%
+server so that we can get our Jenkins
+ 
+
+00:04:04.359 --> 00:04:06.300 align:start position:0%
+server so that we can get our Jenkins
+running<00:04:04.720><c> on</c><00:04:04.870><c> that</c><00:04:05.049><c> and</c><00:04:05.199><c> just</c><00:04:05.229><c> how</c><00:04:05.470><c> easy</c><00:04:05.709><c> it</c><00:04:06.250><c> is</c>
+
+00:04:06.300 --> 00:04:06.310 align:start position:0%
+running on that and just how easy it is
+ 
+
+00:04:06.310 --> 00:04:08.909 align:start position:0%
+running on that and just how easy it is
+to<00:04:06.669><c> set</c><00:04:06.819><c> up</c><00:04:06.849><c> Jenkins</c><00:04:07.389><c> with</c><00:04:07.780><c> Leonard</c><00:04:08.379><c> and</c><00:04:08.560><c> Linda</c>
+
+00:04:08.909 --> 00:04:08.919 align:start position:0%
+to set up Jenkins with Leonard and Linda
+ 
+
+00:04:08.919 --> 00:04:10.110 align:start position:0%
+to set up Jenkins with Leonard and Linda
+have<00:04:09.099><c> been</c><00:04:09.220><c> nice</c><00:04:09.370><c> enough</c><00:04:09.519><c> to</c><00:04:09.639><c> give</c><00:04:09.849><c> you</c><00:04:09.970><c> guys</c>
+
+00:04:10.110 --> 00:04:10.120 align:start position:0%
+have been nice enough to give you guys
+ 
+
+00:04:10.120 --> 00:04:12.990 align:start position:0%
+have been nice enough to give you guys
+$20<00:04:10.750><c> credit</c><00:04:10.900><c> on</c><00:04:11.199><c> a</c><00:04:11.229><c> newly</c><00:04:11.650><c> noted</c><00:04:11.859><c> account</c><00:04:12.129><c> more</c>
+
+00:04:12.990 --> 00:04:13.000 align:start position:0%
+$20 credit on a newly noted account more
+ 
+
+00:04:13.000 --> 00:04:15.119 align:start position:0%
+$20 credit on a newly noted account more
+on<00:04:13.150><c> that</c><00:04:13.269><c> later</c><00:04:13.659><c> now</c><00:04:13.930><c> a</c><00:04:14.019><c> really</c><00:04:14.349><c> basic</c><00:04:14.650><c> staple</c>
+
+00:04:15.119 --> 00:04:15.129 align:start position:0%
+on that later now a really basic staple
+ 
+
+00:04:15.129 --> 00:04:16.529 align:start position:0%
+on that later now a really basic staple
+sauce<00:04:15.310><c> program</c><00:04:15.699><c> that</c><00:04:15.879><c> I've</c><00:04:15.970><c> written</c><00:04:16.150><c> here</c><00:04:16.449><c> and</c>
+
+00:04:16.529 --> 00:04:16.539 align:start position:0%
+sauce program that I've written here and
+ 
+
+00:04:16.539 --> 00:04:17.699 align:start position:0%
+sauce program that I've written here and
+I'll<00:04:16.599><c> take</c><00:04:16.750><c> you</c><00:04:16.870><c> guys</c><00:04:16.900><c> through</c><00:04:17.049><c> that</c><00:04:17.440><c> in</c><00:04:17.590><c> a</c>
+
+00:04:17.699 --> 00:04:17.709 align:start position:0%
+I'll take you guys through that in a
+ 
+
+00:04:17.709 --> 00:04:18.150 align:start position:0%
+I'll take you guys through that in a
+minute
+
+00:04:18.150 --> 00:04:18.160 align:start position:0%
+minute
+ 
+
+00:04:18.160 --> 00:04:20.040 align:start position:0%
+minute
+but<00:04:18.489><c> really</c><00:04:18.670><c> the</c><00:04:18.790><c> first</c><00:04:18.940><c> step</c><00:04:19.090><c> here</c><00:04:19.510><c> is</c><00:04:19.690><c> to</c><00:04:19.840><c> set</c>
+
+00:04:20.040 --> 00:04:20.050 align:start position:0%
+but really the first step here is to set
+ 
+
+00:04:20.050 --> 00:04:21.840 align:start position:0%
+but really the first step here is to set
+up<00:04:20.080><c> something</c><00:04:20.440><c> called</c><00:04:20.470><c> a</c><00:04:20.770><c> Jenkins</c><00:04:21.310><c> file</c><00:04:21.610><c> so</c>
+
+00:04:21.840 --> 00:04:21.850 align:start position:0%
+up something called a Jenkins file so
+ 
+
+00:04:21.850 --> 00:04:23.730 align:start position:0%
+up something called a Jenkins file so
+that<00:04:21.970><c> we</c><00:04:22.030><c> can</c><00:04:22.150><c> actually</c><00:04:22.270><c> tell</c><00:04:22.630><c> Jenkins</c><00:04:23.110><c> what</c>
+
+00:04:23.730 --> 00:04:23.740 align:start position:0%
+that we can actually tell Jenkins what
+ 
+
+00:04:23.740 --> 00:04:25.680 align:start position:0%
+that we can actually tell Jenkins what
+it<00:04:23.860><c> is</c><00:04:23.980><c> we</c><00:04:24.160><c> wanted</c><00:04:24.400><c> to</c><00:04:24.520><c> do</c><00:04:24.730><c> with</c><00:04:25.060><c> our</c><00:04:25.120><c> project</c>
+
+00:04:25.680 --> 00:04:25.690 align:start position:0%
+it is we wanted to do with our project
+ 
+
+00:04:25.690 --> 00:04:28.290 align:start position:0%
+it is we wanted to do with our project
+so<00:04:26.230><c> here</c><00:04:26.410><c> we</c><00:04:26.500><c> have</c><00:04:26.650><c> our</c><00:04:26.860><c> repository</c><00:04:27.550><c> inside</c><00:04:28.090><c> a</c>
+
+00:04:28.290 --> 00:04:28.300 align:start position:0%
+so here we have our repository inside a
+ 
+
+00:04:28.300 --> 00:04:29.790 align:start position:0%
+so here we have our repository inside a
+bunch<00:04:28.510><c> and</c><00:04:28.690><c> this</c><00:04:28.810><c> is</c><00:04:28.930><c> just</c><00:04:29.080><c> a</c><00:04:29.200><c> really</c><00:04:29.590><c> simple</c>
+
+00:04:29.790 --> 00:04:29.800 align:start position:0%
+bunch and this is just a really simple
+ 
+
+00:04:29.800 --> 00:04:31.530 align:start position:0%
+bunch and this is just a really simple
+simple<00:04:30.340><c> sauce</c><00:04:30.490><c> project</c><00:04:30.910><c> as</c><00:04:31.030><c> you'll</c><00:04:31.180><c> see</c><00:04:31.330><c> in</c><00:04:31.450><c> a</c>
+
+00:04:31.530 --> 00:04:31.540 align:start position:0%
+simple sauce project as you'll see in a
+ 
+
+00:04:31.540 --> 00:04:32.550 align:start position:0%
+simple sauce project as you'll see in a
+minute<00:04:31.630><c> so</c><00:04:31.930><c> let</c><00:04:32.050><c> me</c><00:04:32.110><c> just</c><00:04:32.260><c> take</c><00:04:32.410><c> you</c><00:04:32.530><c> through</c>
+
+00:04:32.550 --> 00:04:32.560 align:start position:0%
+minute so let me just take you through
+ 
+
+00:04:32.560 --> 00:04:34.470 align:start position:0%
+minute so let me just take you through
+the<00:04:32.800><c> repository</c><00:04:33.310><c> and</c><00:04:33.520><c> show</c><00:04:34.060><c> you</c><00:04:34.120><c> what</c><00:04:34.330><c> we've</c>
+
+00:04:34.470 --> 00:04:34.480 align:start position:0%
+the repository and show you what we've
+ 
+
+00:04:34.480 --> 00:04:36.570 align:start position:0%
+the repository and show you what we've
+got<00:04:34.510><c> here</c><00:04:34.990><c> so</c><00:04:35.650><c> first</c><00:04:35.890><c> off</c><00:04:36.040><c> there's</c><00:04:36.190><c> this</c><00:04:36.310><c> pre</c>
+
+00:04:36.570 --> 00:04:36.580 align:start position:0%
+got here so first off there's this pre
+ 
+
+00:04:36.580 --> 00:04:38.550 align:start position:0%
+got here so first off there's this pre
+make<00:04:36.760><c> five</c><00:04:37.060><c> that</c><00:04:37.330><c> lower</c><00:04:37.510><c> file</c><00:04:37.780><c> this</c><00:04:37.990><c> is</c><00:04:38.170><c> just</c><00:04:38.410><c> a</c>
+
+00:04:38.550 --> 00:04:38.560 align:start position:0%
+make five that lower file this is just a
+ 
+
+00:04:38.560 --> 00:04:40.380 align:start position:0%
+make five that lower file this is just a
+script<00:04:38.950><c> for</c><00:04:39.190><c> pre</c><00:04:39.460><c> make</c><00:04:39.640><c> so</c><00:04:39.910><c> that</c><00:04:40.060><c> we</c><00:04:40.180><c> can</c>
+
+00:04:40.380 --> 00:04:40.390 align:start position:0%
+script for pre make so that we can
+ 
+
+00:04:40.390 --> 00:04:42.300 align:start position:0%
+script for pre make so that we can
+actually<00:04:40.750><c> construct</c><00:04:41.050><c> our</c><00:04:41.500><c> project</c><00:04:42.040><c> files</c>
+
+00:04:42.300 --> 00:04:42.310 align:start position:0%
+actually construct our project files
+ 
+
+00:04:42.310 --> 00:04:44.460 align:start position:0%
+actually construct our project files
+will<00:04:42.790><c> get</c><00:04:42.940><c> Jenkins</c><00:04:43.390><c> to</c><00:04:43.570><c> automatically</c><00:04:44.080><c> do</c><00:04:44.290><c> all</c>
+
+00:04:44.460 --> 00:04:44.470 align:start position:0%
+will get Jenkins to automatically do all
+ 
+
+00:04:44.470 --> 00:04:46.170 align:start position:0%
+will get Jenkins to automatically do all
+of<00:04:44.500><c> that</c><00:04:44.710><c> stuff</c><00:04:44.950><c> for</c><00:04:44.980><c> us</c><00:04:45.460><c> and</c><00:04:45.760><c> that's</c><00:04:45.880><c> why</c>
+
+00:04:46.170 --> 00:04:46.180 align:start position:0%
+of that stuff for us and that's why
+ 
+
+00:04:46.180 --> 00:04:48.600 align:start position:0%
+of that stuff for us and that's why
+inside<00:04:46.720><c> their</c><00:04:46.960><c> scripts</c><00:04:47.380><c> directory</c><00:04:47.560><c> we've</c><00:04:48.340><c> got</c>
+
+00:04:48.600 --> 00:04:48.610 align:start position:0%
+inside their scripts directory we've got
+ 
+
+00:04:48.610 --> 00:04:51.480 align:start position:0%
+inside their scripts directory we've got
+this<00:04:48.760><c> Linux</c><00:04:49.180><c> build</c><00:04:49.510><c> SH</c><00:04:50.230><c> file</c><00:04:50.560><c> this</c><00:04:51.100><c> script</c>
+
+00:04:51.480 --> 00:04:51.490 align:start position:0%
+this Linux build SH file this script
+ 
+
+00:04:51.490 --> 00:04:53.670 align:start position:0%
+this Linux build SH file this script
+simply<00:04:51.850><c> runs</c><00:04:52.150><c> pre</c><00:04:52.540><c> make</c><00:04:52.720><c> to</c><00:04:52.930><c> generate</c><00:04:53.410><c> make</c>
+
+00:04:53.670 --> 00:04:53.680 align:start position:0%
+simply runs pre make to generate make
+ 
+
+00:04:53.680 --> 00:04:55.350 align:start position:0%
+simply runs pre make to generate make
+files<00:04:53.980><c> for</c><00:04:54.280><c> us</c><00:04:54.430><c> and</c><00:04:54.670><c> once</c><00:04:54.820><c> we've</c><00:04:55.000><c> got</c><00:04:55.030><c> those</c>
+
+00:04:55.350 --> 00:04:55.360 align:start position:0%
+files for us and once we've got those
+ 
+
+00:04:55.360 --> 00:04:57.390 align:start position:0%
+files for us and once we've got those
+make<00:04:55.600><c> files</c><00:04:55.870><c> we</c><00:04:56.110><c> can</c><00:04:56.140><c> call</c><00:04:56.440><c> make</c><00:04:56.710><c> to</c><00:04:57.010><c> actually</c>
+
+00:04:57.390 --> 00:04:57.400 align:start position:0%
+make files we can call make to actually
+ 
+
+00:04:57.400 --> 00:05:00.180 align:start position:0%
+make files we can call make to actually
+compile<00:04:57.820><c> our</c><00:04:58.090><c> project</c><00:04:58.710><c> we've</c><00:04:59.710><c> also</c><00:04:59.860><c> got</c><00:05:00.100><c> this</c>
+
+00:05:00.180 --> 00:05:00.190 align:start position:0%
+compile our project we've also got this
+ 
+
+00:05:00.190 --> 00:05:02.430 align:start position:0%
+compile our project we've also got this
+Linux<00:05:00.490><c> run</c><00:05:00.760><c> of</c><00:05:00.970><c> SH</c><00:05:01.300><c> file</c><00:05:01.540><c> this</c><00:05:01.780><c> script</c><00:05:02.200><c> here</c>
+
+00:05:02.430 --> 00:05:02.440 align:start position:0%
+Linux run of SH file this script here
+ 
+
+00:05:02.440 --> 00:05:05.880 align:start position:0%
+Linux run of SH file this script here
+just<00:05:02.830><c> runs</c><00:05:03.160><c> our</c><00:05:03.490><c> hello</c><00:05:03.730><c> world</c><00:05:03.850><c> program</c><00:05:04.800><c> now</c><00:05:05.800><c> if</c>
+
+00:05:05.880 --> 00:05:05.890 align:start position:0%
+just runs our hello world program now if
+ 
+
+00:05:05.890 --> 00:05:07.470 align:start position:0%
+just runs our hello world program now if
+we<00:05:05.980><c> go</c><00:05:06.100><c> back</c><00:05:06.130><c> to</c><00:05:06.250><c> our</c><00:05:06.430><c> main</c><00:05:06.820><c> repository</c><00:05:07.120><c> folder</c>
+
+00:05:07.470 --> 00:05:07.480 align:start position:0%
+we go back to our main repository folder
+ 
+
+00:05:07.480 --> 00:05:09.150 align:start position:0%
+we go back to our main repository folder
+you'll<00:05:07.810><c> see</c><00:05:07.960><c> this</c><00:05:08.080><c> hello</c><00:05:08.350><c> world</c><00:05:08.380><c> directory</c>
+
+00:05:09.150 --> 00:05:09.160 align:start position:0%
+you'll see this hello world directory
+ 
+
+00:05:09.160 --> 00:05:11.070 align:start position:0%
+you'll see this hello world directory
+inside<00:05:09.850><c> there</c><00:05:10.120><c> inside</c><00:05:10.360><c> source</c><00:05:10.660><c> we</c><00:05:10.810><c> have</c><00:05:10.960><c> this</c>
+
+00:05:11.070 --> 00:05:11.080 align:start position:0%
+inside there inside source we have this
+ 
+
+00:05:11.080 --> 00:05:13.170 align:start position:0%
+inside there inside source we have this
+hello<00:05:11.350><c> world</c><00:05:11.560><c> dot</c><00:05:11.740><c> CPP</c><00:05:12.280><c> file</c><00:05:12.520><c> and</c><00:05:12.790><c> you'll</c><00:05:13.030><c> see</c>
+
+00:05:13.170 --> 00:05:13.180 align:start position:0%
+hello world dot CPP file and you'll see
+ 
+
+00:05:13.180 --> 00:05:15.330 align:start position:0%
+hello world dot CPP file and you'll see
+that<00:05:13.360><c> like</c><00:05:13.750><c> that's</c><00:05:13.960><c> it</c><00:05:14.260><c> this</c><00:05:14.410><c> is</c><00:05:14.590><c> as</c><00:05:14.770><c> simple</c><00:05:15.040><c> as</c>
+
+00:05:15.330 --> 00:05:15.340 align:start position:0%
+that like that's it this is as simple as
+ 
+
+00:05:15.340 --> 00:05:16.920 align:start position:0%
+that like that's it this is as simple as
+it<00:05:15.400><c> gets</c><00:05:15.730><c> really</c><00:05:15.940><c> we</c><00:05:16.150><c> just</c><00:05:16.360><c> have</c><00:05:16.480><c> a</c><00:05:16.510><c> hello</c>
+
+00:05:16.920 --> 00:05:16.930 align:start position:0%
+it gets really we just have a hello
+ 
+
+00:05:16.930 --> 00:05:19.680 align:start position:0%
+it gets really we just have a hello
+world<00:05:16.960><c> program</c><00:05:17.530><c> here</c><00:05:18.010><c> and</c><00:05:18.190><c> so</c><00:05:19.150><c> finally</c><00:05:19.570><c> we</c>
+
+00:05:19.680 --> 00:05:19.690 align:start position:0%
+world program here and so finally we
+ 
+
+00:05:19.690 --> 00:05:21.660 align:start position:0%
+world program here and so finally we
+have<00:05:19.720><c> this</c><00:05:20.110><c> Jenkins</c><00:05:20.800><c> file</c><00:05:21.100><c> in</c><00:05:21.370><c> our</c><00:05:21.490><c> root</c>
+
+00:05:21.660 --> 00:05:21.670 align:start position:0%
+have this Jenkins file in our root
+ 
+
+00:05:21.670 --> 00:05:23.640 align:start position:0%
+have this Jenkins file in our root
+repository<00:05:22.180><c> this</c><00:05:22.360><c> is</c><00:05:22.540><c> this</c><00:05:22.810><c> is</c><00:05:22.990><c> the</c><00:05:23.140><c> important</c>
+
+00:05:23.640 --> 00:05:23.650 align:start position:0%
+repository this is this is the important
+ 
+
+00:05:23.650 --> 00:05:25.950 align:start position:0%
+repository this is this is the important
+file<00:05:23.830><c> this</c><00:05:24.100><c> is</c><00:05:24.310><c> what</c><00:05:24.490><c> tells</c><00:05:24.730><c> Jenkins</c><00:05:25.330><c> what</c><00:05:25.810><c> on</c>
+
+00:05:25.950 --> 00:05:25.960 align:start position:0%
+file this is what tells Jenkins what on
+ 
+
+00:05:25.960 --> 00:05:29.070 align:start position:0%
+file this is what tells Jenkins what on
+earth<00:05:26.110><c> to</c><00:05:26.440><c> do</c><00:05:26.650><c> with</c><00:05:27.310><c> our</c><00:05:27.580><c> project</c><00:05:27.850><c> so</c><00:05:28.810><c> the</c><00:05:28.990><c> way</c>
+
+00:05:29.070 --> 00:05:29.080 align:start position:0%
+earth to do with our project so the way
+ 
+
+00:05:29.080 --> 00:05:30.660 align:start position:0%
+earth to do with our project so the way
+that<00:05:29.230><c> this</c><00:05:29.350><c> works</c><00:05:29.710><c> is</c><00:05:29.950><c> it's</c><00:05:30.130><c> just</c><00:05:30.280><c> a</c><00:05:30.370><c> text</c>
+
+00:05:30.660 --> 00:05:30.670 align:start position:0%
+that this works is it's just a text
+ 
+
+00:05:30.670 --> 00:05:32.850 align:start position:0%
+that this works is it's just a text
+files<00:05:30.850><c> divided</c><00:05:31.330><c> into</c><00:05:31.570><c> stages</c><00:05:31.630><c> here</c><00:05:32.290><c> we</c><00:05:32.680><c> have</c>
+
+00:05:32.850 --> 00:05:32.860 align:start position:0%
+files divided into stages here we have
+ 
+
+00:05:32.860 --> 00:05:35.400 align:start position:0%
+files divided into stages here we have
+this<00:05:33.010><c> build</c><00:05:33.370><c> stage</c><00:05:33.640><c> and</c><00:05:33.940><c> this</c><00:05:34.090><c> test</c><00:05:34.510><c> stage</c><00:05:34.780><c> so</c>
+
+00:05:35.400 --> 00:05:35.410 align:start position:0%
+this build stage and this test stage so
+ 
+
+00:05:35.410 --> 00:05:36.780 align:start position:0%
+this build stage and this test stage so
+over<00:05:35.530><c> here</c><00:05:35.710><c> in</c><00:05:35.860><c> the</c><00:05:35.980><c> build</c><00:05:36.220><c> stage</c><00:05:36.520><c> this</c><00:05:36.670><c> is</c>
+
+00:05:36.780 --> 00:05:36.790 align:start position:0%
+over here in the build stage this is
+ 
+
+00:05:36.790 --> 00:05:39.180 align:start position:0%
+over here in the build stage this is
+what<00:05:36.940><c> Jenkins</c><00:05:37.390><c> needs</c><00:05:37.690><c> to</c><00:05:37.900><c> do</c><00:05:38.110><c> to</c><00:05:38.500><c> build</c><00:05:38.830><c> our</c>
+
+00:05:39.180 --> 00:05:39.190 align:start position:0%
+what Jenkins needs to do to build our
+ 
+
+00:05:39.190 --> 00:05:41.040 align:start position:0%
+what Jenkins needs to do to build our
+project<00:05:39.820><c> so</c><00:05:40.270><c> you</c><00:05:40.300><c> can</c><00:05:40.420><c> see</c><00:05:40.630><c> here</c><00:05:40.840><c> that</c><00:05:40.900><c> there</c>
+
+00:05:41.040 --> 00:05:41.050 align:start position:0%
+project so you can see here that there
+ 
+
+00:05:41.050 --> 00:05:42.150 align:start position:0%
+project so you can see here that there
+are<00:05:41.080><c> multiple</c><00:05:41.260><c> steps</c><00:05:41.650><c> here</c><00:05:41.950><c> and</c><00:05:42.040><c> they're</c><00:05:42.130><c> all</c>
+
+00:05:42.150 --> 00:05:42.160 align:start position:0%
+are multiple steps here and they're all
+ 
+
+00:05:42.160 --> 00:05:44.070 align:start position:0%
+are multiple steps here and they're all
+just<00:05:42.400><c> really</c><00:05:42.610><c> commands</c><00:05:43.300><c> we're</c><00:05:43.660><c> just</c><00:05:43.810><c> echoing</c>
+
+00:05:44.070 --> 00:05:44.080 align:start position:0%
+just really commands we're just echoing
+ 
+
+00:05:44.080 --> 00:05:45.630 align:start position:0%
+just really commands we're just echoing
+out<00:05:44.230><c> building</c><00:05:44.710><c> into</c><00:05:44.920><c> the</c><00:05:45.010><c> command</c><00:05:45.280><c> line</c><00:05:45.340><c> so</c><00:05:45.550><c> we</c>
+
+00:05:45.630 --> 00:05:45.640 align:start position:0%
+out building into the command line so we
+ 
+
+00:05:45.640 --> 00:05:47.370 align:start position:0%
+out building into the command line so we
+can<00:05:45.790><c> see</c><00:05:45.970><c> it</c><00:05:46.120><c> and</c><00:05:46.450><c> we're</c><00:05:46.660><c> marking</c><00:05:46.990><c> our</c><00:05:47.110><c> Linux</c>
+
+00:05:47.370 --> 00:05:47.380 align:start position:0%
+can see it and we're marking our Linux
+ 
+
+00:05:47.380 --> 00:05:49.110 align:start position:0%
+can see it and we're marking our Linux
+build<00:05:47.710><c> script</c><00:05:48.040><c> as</c><00:05:48.220><c> executable</c><00:05:48.850><c> it's</c>
+
+00:05:49.110 --> 00:05:49.120 align:start position:0%
+build script as executable it's
+ 
+
+00:05:49.120 --> 00:05:50.280 align:start position:0%
+build script as executable it's
+important<00:05:49.450><c> to</c><00:05:49.510><c> note</c><00:05:49.690><c> here</c><00:05:49.870><c> that</c><00:05:50.080><c> by</c><00:05:50.230><c> this</c>
+
+00:05:50.280 --> 00:05:50.290 align:start position:0%
+important to note here that by this
+ 
+
+00:05:50.290 --> 00:05:52.380 align:start position:0%
+important to note here that by this
+stage<00:05:50.740><c> Jenkins</c><00:05:51.370><c> has</c><00:05:51.550><c> already</c><00:05:51.820><c> checked</c><00:05:52.210><c> out</c>
+
+00:05:52.380 --> 00:05:52.390 align:start position:0%
+stage Jenkins has already checked out
+ 
+
+00:05:52.390 --> 00:05:54.420 align:start position:0%
+stage Jenkins has already checked out
+our<00:05:52.660><c> repository</c><00:05:53.200><c> so</c><00:05:53.680><c> we've</c><00:05:53.830><c> got</c><00:05:54.040><c> this</c><00:05:54.190><c> we've</c>
+
+00:05:54.420 --> 00:05:54.430 align:start position:0%
+our repository so we've got this we've
+ 
+
+00:05:54.430 --> 00:05:56.460 align:start position:0%
+our repository so we've got this we've
+cloned<00:05:54.730><c> the</c><00:05:54.910><c> repository</c><00:05:55.480><c> and</c><00:05:55.690><c> now</c><00:05:56.140><c> we're</c><00:05:56.320><c> able</c>
+
+00:05:56.460 --> 00:05:56.470 align:start position:0%
+cloned the repository and now we're able
+ 
+
+00:05:56.470 --> 00:05:58.500 align:start position:0%
+cloned the repository and now we're able
+to<00:05:56.620><c> obviously</c><00:05:57.280><c> run</c><00:05:57.550><c> the</c><00:05:57.850><c> script</c><00:05:58.090><c> files</c><00:05:58.330><c> that</c>
+
+00:05:58.500 --> 00:05:58.510 align:start position:0%
+to obviously run the script files that
+ 
+
+00:05:58.510 --> 00:06:00.300 align:start position:0%
+to obviously run the script files that
+we've<00:05:58.660><c> got</c><00:05:58.870><c> within</c><00:05:59.230><c> the</c><00:05:59.440><c> repository</c><00:06:00.040><c> and</c><00:06:00.190><c> we</c>
+
+00:06:00.300 --> 00:06:00.310 align:start position:0%
+we've got within the repository and we
+ 
+
+00:06:00.310 --> 00:06:01.890 align:start position:0%
+we've got within the repository and we
+do<00:06:00.460><c> that</c><00:06:00.640><c> by</c><00:06:00.820><c> first</c><00:06:01.090><c> marking</c><00:06:01.600><c> them</c><00:06:01.780><c> as</c>
+
+00:06:01.890 --> 00:06:01.900 align:start position:0%
+do that by first marking them as
+ 
+
+00:06:01.900 --> 00:06:04.200 align:start position:0%
+do that by first marking them as
+executable<00:06:02.620><c> here</c><00:06:03.010><c> and</c><00:06:03.190><c> then</c><00:06:03.730><c> just</c><00:06:03.940><c> running</c>
+
+00:06:04.200 --> 00:06:04.210 align:start position:0%
+executable here and then just running
+ 
+
+00:06:04.210 --> 00:06:05.640 align:start position:0%
+executable here and then just running
+them<00:06:04.480><c> then</c><00:06:04.810><c> we've</c><00:06:04.930><c> got</c><00:06:05.050><c> this</c><00:06:05.170><c> archive</c>
+
+00:06:05.640 --> 00:06:05.650 align:start position:0%
+them then we've got this archive
+ 
+
+00:06:05.650 --> 00:06:07.770 align:start position:0%
+them then we've got this archive
+artifacts<00:06:06.520><c> part</c><00:06:06.820><c> this</c><00:06:07.150><c> is</c><00:06:07.420><c> what</c><00:06:07.630><c> actually</c>
+
+00:06:07.770 --> 00:06:07.780 align:start position:0%
+artifacts part this is what actually
+ 
+
+00:06:07.780 --> 00:06:11.160 align:start position:0%
+artifacts part this is what actually
+saves<00:06:08.440><c> the</c><00:06:09.220><c> build</c><00:06:09.460><c> program</c><00:06:10.120><c> as</c><00:06:10.390><c> an</c><00:06:10.720><c> artifact</c>
+
+00:06:11.160 --> 00:06:11.170 align:start position:0%
+saves the build program as an artifact
+ 
+
+00:06:11.170 --> 00:06:12.930 align:start position:0%
+saves the build program as an artifact
+so<00:06:11.590><c> that</c><00:06:11.740><c> we</c><00:06:11.800><c> can</c><00:06:11.950><c> then</c><00:06:12.040><c> later</c><00:06:12.280><c> run</c><00:06:12.700><c> this</c>
+
+00:06:12.930 --> 00:06:12.940 align:start position:0%
+so that we can then later run this
+ 
+
+00:06:12.940 --> 00:06:14.610 align:start position:0%
+so that we can then later run this
+because<00:06:13.390><c> you</c><00:06:13.600><c> can</c><00:06:13.720><c> see</c><00:06:13.750><c> that</c><00:06:13.960><c> the</c><00:06:14.080><c> next</c><00:06:14.290><c> stage</c>
+
+00:06:14.610 --> 00:06:14.620 align:start position:0%
+because you can see that the next stage
+ 
+
+00:06:14.620 --> 00:06:17.490 align:start position:0%
+because you can see that the next stage
+is<00:06:14.950><c> test</c><00:06:15.580><c> this</c><00:06:16.000><c> is</c><00:06:16.240><c> the</c><00:06:16.420><c> testing</c><00:06:16.900><c> stage</c><00:06:17.200><c> and</c>
+
+00:06:17.490 --> 00:06:17.500 align:start position:0%
+is test this is the testing stage and
+ 
+
+00:06:17.500 --> 00:06:19.860 align:start position:0%
+is test this is the testing stage and
+what<00:06:17.890><c> happens</c><00:06:18.220><c> here</c><00:06:18.490><c> is</c><00:06:18.700><c> we</c><00:06:18.910><c> again</c><00:06:19.330><c> mark</c><00:06:19.660><c> the</c>
+
+00:06:19.860 --> 00:06:19.870 align:start position:0%
+what happens here is we again mark the
+ 
+
+00:06:19.870 --> 00:06:22.110 align:start position:0%
+what happens here is we again mark the
+run<00:06:20.140><c> script</c><00:06:20.530><c> this</c><00:06:20.680><c> time</c><00:06:20.950><c> as</c><00:06:21.160><c> executable</c><00:06:21.850><c> so</c>
+
+00:06:22.110 --> 00:06:22.120 align:start position:0%
+run script this time as executable so
+ 
+
+00:06:22.120 --> 00:06:23.880 align:start position:0%
+run script this time as executable so
+that<00:06:22.240><c> we</c><00:06:22.300><c> can</c><00:06:22.420><c> run</c><00:06:22.570><c> it</c><00:06:22.750><c> and</c><00:06:22.900><c> then</c><00:06:23.410><c> we</c><00:06:23.590><c> run</c><00:06:23.770><c> it</c>
+
+00:06:23.880 --> 00:06:23.890 align:start position:0%
+that we can run it and then we run it
+ 
+
+00:06:23.890 --> 00:06:26.580 align:start position:0%
+that we can run it and then we run it
+and<00:06:24.010><c> this</c><00:06:24.460><c> runs</c><00:06:24.790><c> our</c><00:06:25.120><c> program</c>
+
+00:06:26.580 --> 00:06:26.590 align:start position:0%
+and this runs our program
+ 
+
+00:06:26.590 --> 00:06:28.110 align:start position:0%
+and this runs our program
+so<00:06:26.860><c> that's</c><00:06:27.040><c> it</c><00:06:27.220><c> that's</c><00:06:27.370><c> really</c><00:06:27.700><c> all</c><00:06:27.850><c> there</c><00:06:27.970><c> is</c>
+
+00:06:28.110 --> 00:06:28.120 align:start position:0%
+so that's it that's really all there is
+ 
+
+00:06:28.120 --> 00:06:30.090 align:start position:0%
+so that's it that's really all there is
+to<00:06:28.330><c> it</c><00:06:28.480><c> now</c><00:06:28.930><c> we</c><00:06:28.990><c> have</c><00:06:29.140><c> a</c><00:06:29.290><c> project</c><00:06:29.590><c> and</c><00:06:30.040><c> a</c>
+
+00:06:30.090 --> 00:06:30.100 align:start position:0%
+to it now we have a project and a
+ 
+
+00:06:30.100 --> 00:06:32.220 align:start position:0%
+to it now we have a project and a
+Jenkins<00:06:30.490><c> file</c><00:06:30.700><c> which</c><00:06:30.940><c> instructs</c><00:06:31.390><c> Jenkins</c><00:06:31.900><c> how</c>
+
+00:06:32.220 --> 00:06:32.230 align:start position:0%
+Jenkins file which instructs Jenkins how
+ 
+
+00:06:32.230 --> 00:06:34.920 align:start position:0%
+Jenkins file which instructs Jenkins how
+to<00:06:32.290><c> build</c><00:06:32.710><c> and</c><00:06:32.920><c> test</c><00:06:33.280><c> our</c><00:06:33.610><c> project</c><00:06:34.120><c> now</c><00:06:34.750><c> let's</c>
+
+00:06:34.920 --> 00:06:34.930 align:start position:0%
+to build and test our project now let's
+ 
+
+00:06:34.930 --> 00:06:36.360 align:start position:0%
+to build and test our project now let's
+pop<00:06:35.080><c> over</c><00:06:35.200><c> to</c><00:06:35.350><c> lynyrd</c><00:06:35.530><c> and</c><00:06:35.830><c> take</c><00:06:36.010><c> a</c><00:06:36.040><c> look</c><00:06:36.280><c> at</c>
+
+00:06:36.360 --> 00:06:36.370 align:start position:0%
+pop over to lynyrd and take a look at
+ 
+
+00:06:36.370 --> 00:06:37.860 align:start position:0%
+pop over to lynyrd and take a look at
+how<00:06:36.490><c> we</c><00:06:36.550><c> can</c><00:06:36.730><c> actually</c><00:06:36.880><c> set</c><00:06:37.210><c> up</c><00:06:37.240><c> a</c><00:06:37.390><c> new</c><00:06:37.540><c> server</c>
+
+00:06:37.860 --> 00:06:37.870 align:start position:0%
+how we can actually set up a new server
+ 
+
+00:06:37.870 --> 00:06:40.170 align:start position:0%
+how we can actually set up a new server
+and<00:06:38.200><c> install</c><00:06:38.530><c> Jenkins</c><00:06:39.250><c> the</c><00:06:39.730><c> first</c><00:06:40.000><c> thing</c>
+
+00:06:40.170 --> 00:06:40.180 align:start position:0%
+and install Jenkins the first thing
+ 
+
+00:06:40.180 --> 00:06:41.490 align:start position:0%
+and install Jenkins the first thing
+we'll<00:06:40.300><c> need</c><00:06:40.330><c> to</c><00:06:40.570><c> do</c><00:06:40.720><c> is</c><00:06:40.750><c> create</c><00:06:41.050><c> some</c><00:06:41.260><c> kind</c><00:06:41.380><c> of</c>
+
+00:06:41.490 --> 00:06:41.500 align:start position:0%
+we'll need to do is create some kind of
+ 
+
+00:06:41.500 --> 00:06:43.410 align:start position:0%
+we'll need to do is create some kind of
+server<00:06:41.830><c> to</c><00:06:42.070><c> run</c><00:06:42.220><c> our</c><00:06:42.430><c> Jenkins</c><00:06:42.880><c> instance</c>
+
+00:06:43.410 --> 00:06:43.420 align:start position:0%
+server to run our Jenkins instance
+ 
+
+00:06:43.420 --> 00:06:45.930 align:start position:0%
+server to run our Jenkins instance
+Leonard<00:06:44.320><c> makes</c><00:06:44.560><c> this</c><00:06:44.740><c> really</c><00:06:45.070><c> easy</c><00:06:45.220><c> all</c><00:06:45.700><c> we</c>
+
+00:06:45.930 --> 00:06:45.940 align:start position:0%
+Leonard makes this really easy all we
+ 
+
+00:06:45.940 --> 00:06:47.400 align:start position:0%
+Leonard makes this really easy all we
+need<00:06:46.060><c> to</c><00:06:46.150><c> do</c><00:06:46.270><c> is</c><00:06:46.390><c> click</c><00:06:46.570><c> on</c><00:06:46.690><c> one-click</c><00:06:47.170><c> apps</c>
+
+00:06:47.400 --> 00:06:47.410 align:start position:0%
+need to do is click on one-click apps
+ 
+
+00:06:47.410 --> 00:06:49.800 align:start position:0%
+need to do is click on one-click apps
+select<00:06:47.920><c> Jenkins</c><00:06:48.700><c> and</c><00:06:48.910><c> then</c><00:06:49.450><c> choose</c><00:06:49.660><c> our</c>
+
+00:06:49.800 --> 00:06:49.810 align:start position:0%
+select Jenkins and then choose our
+ 
+
+00:06:49.810 --> 00:06:52.170 align:start position:0%
+select Jenkins and then choose our
+region<00:06:50.200><c> and</c><00:06:50.380><c> Leonard</c><00:06:50.710><c> plan</c><00:06:51.010><c> this</c><00:06:51.730><c> first</c><00:06:52.000><c> one</c>
+
+00:06:52.170 --> 00:06:52.180 align:start position:0%
+region and Leonard plan this first one
+ 
+
+00:06:52.180 --> 00:06:54.480 align:start position:0%
+region and Leonard plan this first one
+should<00:06:52.330><c> be</c><00:06:52.450><c> fine</c><00:06:52.660><c> for</c><00:06:52.690><c> our</c><00:06:52.990><c> needs</c><00:06:53.220><c> we</c><00:06:54.220><c> can</c><00:06:54.340><c> give</c>
+
+00:06:54.480 --> 00:06:54.490 align:start position:0%
+should be fine for our needs we can give
+ 
+
+00:06:54.490 --> 00:06:56.430 align:start position:0%
+should be fine for our needs we can give
+it<00:06:54.580><c> a</c><00:06:54.640><c> name</c><00:06:54.820><c> and</c><00:06:55.150><c> a</c><00:06:55.270><c> root</c><00:06:55.450><c> password</c><00:06:55.630><c> and</c><00:06:56.170><c> that's</c>
+
+00:06:56.430 --> 00:06:56.440 align:start position:0%
+it a name and a root password and that's
+ 
+
+00:06:56.440 --> 00:06:57.330 align:start position:0%
+it a name and a root password and that's
+it<00:06:56.710><c> we're</c><00:06:56.980><c> done</c>
+
+00:06:57.330 --> 00:06:57.340 align:start position:0%
+it we're done
+ 
+
+00:06:57.340 --> 00:06:59.310 align:start position:0%
+it we're done
+Leonard<00:06:58.090><c> is</c><00:06:58.270><c> now</c><00:06:58.390><c> automatically</c><00:06:58.990><c> going</c><00:06:59.230><c> to</c>
+
+00:06:59.310 --> 00:06:59.320 align:start position:0%
+Leonard is now automatically going to
+ 
+
+00:06:59.320 --> 00:07:01.110 align:start position:0%
+Leonard is now automatically going to
+allocate<00:06:59.650><c> a</c><00:06:59.800><c> server</c><00:07:00.070><c> for</c><00:07:00.280><c> us</c><00:07:00.430><c> and</c><00:07:00.700><c> install</c>
+
+00:07:01.110 --> 00:07:01.120 align:start position:0%
+allocate a server for us and install
+ 
+
+00:07:01.120 --> 00:07:02.820 align:start position:0%
+allocate a server for us and install
+Jenkins<00:07:01.540><c> on</c><00:07:01.690><c> it</c><00:07:01.840><c> so</c><00:07:02.140><c> we're</c><00:07:02.290><c> ready</c><00:07:02.380><c> to</c><00:07:02.470><c> go</c><00:07:02.650><c> it's</c>
+
+00:07:02.820 --> 00:07:02.830 align:start position:0%
+Jenkins on it so we're ready to go it's
+ 
+
+00:07:02.830 --> 00:07:04.350 align:start position:0%
+Jenkins on it so we're ready to go it's
+that<00:07:03.040><c> easy</c><00:07:03.220><c> and</c><00:07:03.520><c> that's</c><00:07:03.850><c> one</c><00:07:04.000><c> of</c><00:07:04.090><c> the</c><00:07:04.180><c> things</c>
+
+00:07:04.350 --> 00:07:04.360 align:start position:0%
+that easy and that's one of the things
+ 
+
+00:07:04.360 --> 00:07:06.180 align:start position:0%
+that easy and that's one of the things
+that<00:07:04.480><c> I</c><00:07:04.540><c> love</c><00:07:04.810><c> about</c><00:07:04.840><c> Leonard</c><00:07:05.320><c> it's</c><00:07:05.710><c> so</c><00:07:05.950><c> easy</c>
+
+00:07:06.180 --> 00:07:06.190 align:start position:0%
+that I love about Leonard it's so easy
+ 
+
+00:07:06.190 --> 00:07:07.830 align:start position:0%
+that I love about Leonard it's so easy
+to<00:07:06.370><c> get</c><00:07:06.520><c> going</c><00:07:06.730><c> because</c><00:07:07.150><c> I</c><00:07:07.450><c> don't</c><00:07:07.630><c> want</c><00:07:07.750><c> to</c>
+
+00:07:07.830 --> 00:07:07.840 align:start position:0%
+to get going because I don't want to
+ 
+
+00:07:07.840 --> 00:07:09.810 align:start position:0%
+to get going because I don't want to
+spend<00:07:08.080><c> time</c><00:07:08.350><c> setting</c><00:07:08.800><c> up</c><00:07:08.920><c> server</c><00:07:09.250><c> stuff</c><00:07:09.610><c> I</c>
+
+00:07:09.810 --> 00:07:09.820 align:start position:0%
+spend time setting up server stuff I
+ 
+
+00:07:09.820 --> 00:07:11.640 align:start position:0%
+spend time setting up server stuff I
+want<00:07:10.090><c> to</c><00:07:10.150><c> spend</c><00:07:10.390><c> time</c><00:07:10.510><c> actually</c><00:07:10.840><c> using</c><00:07:11.500><c> my</c>
+
+00:07:11.640 --> 00:07:11.650 align:start position:0%
+want to spend time actually using my
+ 
+
+00:07:11.650 --> 00:07:13.560 align:start position:0%
+want to spend time actually using my
+server<00:07:11.950><c> to</c><00:07:12.220><c> do</c><00:07:12.490><c> the</c><00:07:12.640><c> things</c><00:07:12.820><c> I</c><00:07:12.970><c> got</c><00:07:13.210><c> the</c><00:07:13.330><c> server</c>
+
+00:07:13.560 --> 00:07:13.570 align:start position:0%
+server to do the things I got the server
+ 
+
+00:07:13.570 --> 00:07:15.540 align:start position:0%
+server to do the things I got the server
+for<00:07:13.810><c> to</c><00:07:14.320><c> gain</c><00:07:14.470><c> access</c><00:07:14.710><c> to</c><00:07:14.950><c> our</c><00:07:15.220><c> servers</c>
+
+00:07:15.540 --> 00:07:15.550 align:start position:0%
+for to gain access to our servers
+ 
+
+00:07:15.550 --> 00:07:17.940 align:start position:0%
+for to gain access to our servers
+command<00:07:15.880><c> line</c><00:07:16.030><c> we</c><00:07:16.180><c> can</c><00:07:16.330><c> either</c><00:07:16.420><c> SSH</c><00:07:17.050><c> in</c><00:07:17.290><c> or</c><00:07:17.500><c> we</c>
+
+00:07:17.940 --> 00:07:17.950 align:start position:0%
+command line we can either SSH in or we
+ 
+
+00:07:17.950 --> 00:07:19.530 align:start position:0%
+command line we can either SSH in or we
+can<00:07:18.100><c> just</c><00:07:18.250><c> use</c><00:07:18.400><c> this</c><00:07:18.550><c> console</c><00:07:19.000><c> built</c><00:07:19.300><c> into</c>
+
+00:07:19.530 --> 00:07:19.540 align:start position:0%
+can just use this console built into
+ 
+
+00:07:19.540 --> 00:07:21.690 align:start position:0%
+can just use this console built into
+Leonard's<00:07:19.870><c> website</c><00:07:20.290><c> once</c><00:07:21.190><c> Leonard</c><00:07:21.520><c> has</c>
+
+00:07:21.690 --> 00:07:21.700 align:start position:0%
+Leonard's website once Leonard has
+ 
+
+00:07:21.700 --> 00:07:23.370 align:start position:0%
+Leonard's website once Leonard has
+finished<00:07:21.910><c> installing</c><00:07:22.330><c> Jenkins</c><00:07:22.870><c> for</c><00:07:23.080><c> us</c><00:07:23.170><c> we</c>
+
+00:07:23.370 --> 00:07:23.380 align:start position:0%
+finished installing Jenkins for us we
+ 
+
+00:07:23.380 --> 00:07:25.080 align:start position:0%
+finished installing Jenkins for us we
+can<00:07:23.530><c> simply</c><00:07:23.830><c> navigate</c><00:07:24.250><c> our</c><00:07:24.430><c> browser</c><00:07:24.730><c> to</c><00:07:25.030><c> our</c>
+
+00:07:25.080 --> 00:07:25.090 align:start position:0%
+can simply navigate our browser to our
+ 
+
+00:07:25.090 --> 00:07:27.180 align:start position:0%
+can simply navigate our browser to our
+server's<00:07:25.570><c> IP</c><00:07:25.780><c> address</c><00:07:26.290><c> and</c><00:07:26.500><c> finish</c><00:07:27.070><c> the</c>
+
+00:07:27.180 --> 00:07:27.190 align:start position:0%
+server's IP address and finish the
+ 
+
+00:07:27.190 --> 00:07:29.280 align:start position:0%
+server's IP address and finish the
+Jenkins<00:07:27.520><c> setup</c><00:07:27.850><c> process</c><00:07:28.300><c> you</c><00:07:28.870><c> can</c><00:07:29.020><c> see</c><00:07:29.140><c> that</c>
+
+00:07:29.280 --> 00:07:29.290 align:start position:0%
+Jenkins setup process you can see that
+ 
+
+00:07:29.290 --> 00:07:31.140 align:start position:0%
+Jenkins setup process you can see that
+now<00:07:29.440><c> Jenkins</c><00:07:29.920><c> is</c><00:07:30.070><c> in</c><00:07:30.220><c> fact</c><00:07:30.430><c> up</c><00:07:30.640><c> and</c><00:07:30.850><c> running</c>
+
+00:07:31.140 --> 00:07:31.150 align:start position:0%
+now Jenkins is in fact up and running
+ 
+
+00:07:31.150 --> 00:07:32.970 align:start position:0%
+now Jenkins is in fact up and running
+and<00:07:31.300><c> it's</c><00:07:31.480><c> asking</c><00:07:31.750><c> us</c><00:07:31.900><c> to</c><00:07:31.960><c> retrieve</c><00:07:32.620><c> the</c><00:07:32.800><c> root</c>
+
+00:07:32.970 --> 00:07:32.980 align:start position:0%
+and it's asking us to retrieve the root
+ 
+
+00:07:32.980 --> 00:07:34.860 align:start position:0%
+and it's asking us to retrieve the root
+password<00:07:33.250><c> from</c><00:07:33.760><c> our</c><00:07:33.910><c> file</c><00:07:34.210><c> so</c><00:07:34.510><c> let's</c><00:07:34.570><c> go</c><00:07:34.780><c> ahead</c>
+
+00:07:34.860 --> 00:07:34.870 align:start position:0%
+password from our file so let's go ahead
+ 
+
+00:07:34.870 --> 00:07:36.990 align:start position:0%
+password from our file so let's go ahead
+and<00:07:34.960><c> do</c><00:07:35.200><c> that</c><00:07:35.320><c> using</c><00:07:35.650><c> the</c><00:07:35.860><c> command</c><00:07:36.160><c> line</c><00:07:36.250><c> we'll</c>
+
+00:07:36.990 --> 00:07:37.000 align:start position:0%
+and do that using the command line we'll
+ 
+
+00:07:37.000 --> 00:07:38.640 align:start position:0%
+and do that using the command line we'll
+plug<00:07:37.180><c> in</c><00:07:37.360><c> that</c><00:07:37.450><c> password</c><00:07:37.720><c> that</c><00:07:38.110><c> we</c><00:07:38.260><c> retrieved</c>
+
+00:07:38.640 --> 00:07:38.650 align:start position:0%
+plug in that password that we retrieved
+ 
+
+00:07:38.650 --> 00:07:40.410 align:start position:0%
+plug in that password that we retrieved
+and<00:07:38.950><c> now</c><00:07:39.010><c> Jenkins</c><00:07:39.430><c> is</c><00:07:39.580><c> unlocked</c><00:07:40.000><c> and</c><00:07:40.180><c> we</c><00:07:40.300><c> can</c>
+
+00:07:40.410 --> 00:07:40.420 align:start position:0%
+and now Jenkins is unlocked and we can
+ 
+
+00:07:40.420 --> 00:07:42.720 align:start position:0%
+and now Jenkins is unlocked and we can
+continue<00:07:40.870><c> on</c><00:07:40.990><c> with</c><00:07:41.200><c> the</c><00:07:41.320><c> setup</c><00:07:41.590><c> process</c><00:07:41.800><c> I</c><00:07:42.280><c> was</c>
+
+00:07:42.720 --> 00:07:42.730 align:start position:0%
+continue on with the setup process I was
+ 
+
+00:07:42.730 --> 00:07:44.040 align:start position:0%
+continue on with the setup process I was
+going<00:07:42.880><c> to</c><00:07:42.940><c> select</c><00:07:43.180><c> Install</c><00:07:43.570><c> suggested</c>
+
+00:07:44.040 --> 00:07:44.050 align:start position:0%
+going to select Install suggested
+ 
+
+00:07:44.050 --> 00:07:45.450 align:start position:0%
+going to select Install suggested
+plugins<00:07:44.440><c> but</c><00:07:44.680><c> if</c><00:07:44.770><c> you</c><00:07:44.890><c> like</c><00:07:45.100><c> you</c><00:07:45.310><c> can</c>
+
+00:07:45.450 --> 00:07:45.460 align:start position:0%
+plugins but if you like you can
+ 
+
+00:07:45.460 --> 00:07:47.220 align:start position:0%
+plugins but if you like you can
+customize<00:07:45.970><c> which</c><00:07:46.180><c> plugins</c><00:07:46.420><c> actually</c><00:07:47.050><c> get</c>
+
+00:07:47.220 --> 00:07:47.230 align:start position:0%
+customize which plugins actually get
+ 
+
+00:07:47.230 --> 00:07:49.020 align:start position:0%
+customize which plugins actually get
+installed<00:07:47.650><c> once</c><00:07:48.220><c> Jenkins</c><00:07:48.670><c> has</c><00:07:48.820><c> finished</c>
+
+00:07:49.020 --> 00:07:49.030 align:start position:0%
+installed once Jenkins has finished
+ 
+
+00:07:49.030 --> 00:07:50.670 align:start position:0%
+installed once Jenkins has finished
+installing<00:07:49.420><c> all</c><00:07:49.690><c> of</c><00:07:49.720><c> our</c><00:07:49.930><c> plugins</c><00:07:50.170><c> we'll</c><00:07:50.560><c> need</c>
+
+00:07:50.670 --> 00:07:50.680 align:start position:0%
+installing all of our plugins we'll need
+ 
+
+00:07:50.680 --> 00:07:52.890 align:start position:0%
+installing all of our plugins we'll need
+to<00:07:50.800><c> create</c><00:07:51.070><c> our</c><00:07:51.190><c> first</c><00:07:51.220><c> admin</c><00:07:52.030><c> user</c><00:07:52.300><c> I'll</c><00:07:52.660><c> just</c>
+
+00:07:52.890 --> 00:07:52.900 align:start position:0%
+to create our first admin user I'll just
+ 
+
+00:07:52.900 --> 00:07:54.660 align:start position:0%
+to create our first admin user I'll just
+fill<00:07:53.050><c> in</c><00:07:53.170><c> these</c><00:07:53.290><c> details</c><00:07:53.740><c> here</c><00:07:53.980><c> and</c><00:07:54.220><c> click</c>
+
+00:07:54.660 --> 00:07:54.670 align:start position:0%
+fill in these details here and click
+ 
+
+00:07:54.670 --> 00:07:56.520 align:start position:0%
+fill in these details here and click
+Save<00:07:54.910><c> and</c><00:07:55.030><c> continue</c><00:07:55.120><c> I'll</c><00:07:55.840><c> leave</c><00:07:56.140><c> this</c><00:07:56.260><c> URL</c>
+
+00:07:56.520 --> 00:07:56.530 align:start position:0%
+Save and continue I'll leave this URL
+ 
+
+00:07:56.530 --> 00:07:58.680 align:start position:0%
+Save and continue I'll leave this URL
+here<00:07:56.860><c> as</c><00:07:57.070><c> is</c><00:07:57.400><c> and</c><00:07:57.670><c> that's</c><00:07:57.940><c> it</c><00:07:58.120><c> Jenkins</c><00:07:58.570><c> is</c>
+
+00:07:58.680 --> 00:07:58.690 align:start position:0%
+here as is and that's it Jenkins is
+ 
+
+00:07:58.690 --> 00:08:00.810 align:start position:0%
+here as is and that's it Jenkins is
+ready<00:07:58.900><c> we</c><00:07:59.170><c> can</c><00:07:59.200><c> now</c><00:07:59.440><c> start</c><00:07:59.500><c> using</c><00:08:00.010><c> Jenkins</c><00:08:00.220><c> now</c>
+
+00:08:00.810 --> 00:08:00.820 align:start position:0%
+ready we can now start using Jenkins now
+ 
+
+00:08:00.820 --> 00:08:02.730 align:start position:0%
+ready we can now start using Jenkins now
+on<00:08:00.940><c> a</c><00:08:00.970><c> fresh</c><00:08:01.330><c> Jenkins</c><00:08:01.810><c> install</c><00:08:02.350><c> one</c><00:08:02.590><c> of</c><00:08:02.680><c> the</c>
+
+00:08:02.730 --> 00:08:02.740 align:start position:0%
+on a fresh Jenkins install one of the
+ 
+
+00:08:02.740 --> 00:08:03.870 align:start position:0%
+on a fresh Jenkins install one of the
+things<00:08:02.920><c> that</c><00:08:03.040><c> you</c><00:08:03.130><c> might</c><00:08:03.250><c> want</c><00:08:03.310><c> to</c><00:08:03.520><c> do</c><00:08:03.700><c> is</c>
+
+00:08:03.870 --> 00:08:03.880 align:start position:0%
+things that you might want to do is
+ 
+
+00:08:03.880 --> 00:08:06.090 align:start position:0%
+things that you might want to do is
+install<00:08:04.240><c> blue</c><00:08:04.540><c> ocean</c><00:08:05.050><c> blue</c><00:08:05.260><c> ocean</c><00:08:05.590><c> is</c><00:08:05.710><c> just</c><00:08:05.950><c> a</c>
+
+00:08:06.090 --> 00:08:06.100 align:start position:0%
+install blue ocean blue ocean is just a
+ 
+
+00:08:06.100 --> 00:08:08.970 align:start position:0%
+install blue ocean blue ocean is just a
+kind<00:08:06.700><c> of</c><00:08:06.820><c> newer</c><00:08:07.120><c> more</c><00:08:07.480><c> modern</c><00:08:07.540><c> looking</c><00:08:08.140><c> UI</c><00:08:08.410><c> for</c>
+
+00:08:08.970 --> 00:08:08.980 align:start position:0%
+kind of newer more modern looking UI for
+ 
+
+00:08:08.980 --> 00:08:10.800 align:start position:0%
+kind of newer more modern looking UI for
+Jenkins<00:08:09.520><c> this</c><00:08:09.670><c> is</c><00:08:09.730><c> completely</c><00:08:10.180><c> optional</c><00:08:10.450><c> you</c>
+
+00:08:10.800 --> 00:08:10.810 align:start position:0%
+Jenkins this is completely optional you
+ 
+
+00:08:10.810 --> 00:08:12.540 align:start position:0%
+Jenkins this is completely optional you
+don't<00:08:10.870><c> really</c><00:08:11.050><c> have</c><00:08:11.230><c> to</c><00:08:11.380><c> do</c><00:08:11.530><c> this</c><00:08:11.710><c> and</c><00:08:11.980><c> in</c><00:08:12.370><c> fact</c>
+
+00:08:12.540 --> 00:08:12.550 align:start position:0%
+don't really have to do this and in fact
+ 
+
+00:08:12.550 --> 00:08:14.130 align:start position:0%
+don't really have to do this and in fact
+I<00:08:12.700><c> tend</c><00:08:12.910><c> to</c><00:08:13.060><c> kind</c><00:08:13.240><c> of</c><00:08:13.300><c> switch</c><00:08:13.570><c> between</c><00:08:13.780><c> the</c><00:08:14.110><c> two</c>
+
+00:08:14.130 --> 00:08:14.140 align:start position:0%
+I tend to kind of switch between the two
+ 
+
+00:08:14.140 --> 00:08:15.750 align:start position:0%
+I tend to kind of switch between the two
+depending<00:08:14.590><c> on</c><00:08:14.680><c> what</c><00:08:14.830><c> task</c><00:08:15.040><c> I'm</c><00:08:15.280><c> doing</c><00:08:15.550><c> but</c><00:08:15.670><c> I'm</c>
+
+00:08:15.750 --> 00:08:15.760 align:start position:0%
+depending on what task I'm doing but I'm
+ 
+
+00:08:15.760 --> 00:08:17.250 align:start position:0%
+depending on what task I'm doing but I'm
+going<00:08:15.850><c> to</c><00:08:16.120><c> install</c><00:08:16.390><c> blue</c><00:08:16.600><c> ocean</c><00:08:16.900><c> and</c><00:08:17.050><c> show</c><00:08:17.170><c> you</c>
+
+00:08:17.250 --> 00:08:17.260 align:start position:0%
+going to install blue ocean and show you
+ 
+
+00:08:17.260 --> 00:08:18.660 align:start position:0%
+going to install blue ocean and show you
+what<00:08:17.380><c> that's</c><00:08:17.560><c> like</c><00:08:17.650><c> so</c><00:08:18.070><c> we'll</c><00:08:18.190><c> select</c><00:08:18.340><c> a</c><00:08:18.520><c> blue</c>
+
+00:08:18.660 --> 00:08:18.670 align:start position:0%
+what that's like so we'll select a blue
+ 
+
+00:08:18.670 --> 00:08:20.640 align:start position:0%
+what that's like so we'll select a blue
+ocean<00:08:18.820><c> aggregator</c><00:08:19.390><c> here</c><00:08:19.720><c> and</c><00:08:19.900><c> just</c><00:08:20.260><c> click</c>
+
+00:08:20.640 --> 00:08:20.650 align:start position:0%
+ocean aggregator here and just click
+ 
+
+00:08:20.650 --> 00:08:22.710 align:start position:0%
+ocean aggregator here and just click
+install<00:08:20.890><c> without</c><00:08:21.280><c> restart</c><00:08:21.790><c> once</c><00:08:22.300><c> that's</c><00:08:22.540><c> done</c>
+
+00:08:22.710 --> 00:08:22.720 align:start position:0%
+install without restart once that's done
+ 
+
+00:08:22.720 --> 00:08:24.540 align:start position:0%
+install without restart once that's done
+we<00:08:22.900><c> can</c><00:08:22.930><c> just</c><00:08:23.200><c> click</c><00:08:23.380><c> open</c><00:08:23.800><c> blue</c><00:08:23.950><c> ocean</c><00:08:24.370><c> and</c>
+
+00:08:24.540 --> 00:08:24.550 align:start position:0%
+we can just click open blue ocean and
+ 
+
+00:08:24.550 --> 00:08:26.580 align:start position:0%
+we can just click open blue ocean and
+then<00:08:24.910><c> let's</c><00:08:25.090><c> create</c><00:08:25.270><c> our</c><00:08:25.450><c> first</c><00:08:25.900><c> pipeline</c><00:08:26.200><c> a</c>
+
+00:08:26.580 --> 00:08:26.590 align:start position:0%
+then let's create our first pipeline a
+ 
+
+00:08:26.590 --> 00:08:28.380 align:start position:0%
+then let's create our first pipeline a
+pipeline<00:08:27.010><c> is</c><00:08:27.160><c> going</c><00:08:27.430><c> to</c><00:08:27.550><c> be</c><00:08:27.730><c> the</c><00:08:28.030><c> actual</c>
+
+00:08:28.380 --> 00:08:28.390 align:start position:0%
+pipeline is going to be the actual
+ 
+
+00:08:28.390 --> 00:08:30.540 align:start position:0%
+pipeline is going to be the actual
+continuous<00:08:28.960><c> integration</c><00:08:29.320><c> automation</c><00:08:30.310><c> that</c>
+
+00:08:30.540 --> 00:08:30.550 align:start position:0%
+continuous integration automation that
+ 
+
+00:08:30.550 --> 00:08:32.280 align:start position:0%
+continuous integration automation that
+we've<00:08:30.670><c> been</c><00:08:30.820><c> talking</c><00:08:31.120><c> about</c><00:08:31.180><c> our</c><00:08:31.690><c> goal</c><00:08:31.930><c> is</c><00:08:32.110><c> to</c>
+
+00:08:32.280 --> 00:08:32.290 align:start position:0%
+we've been talking about our goal is to
+ 
+
+00:08:32.290 --> 00:08:34.620 align:start position:0%
+we've been talking about our goal is to
+build<00:08:32.530><c> and</c><00:08:32.860><c> then</c><00:08:32.980><c> test</c><00:08:33.310><c> our</c><00:08:33.580><c> project</c><00:08:34.060><c> let's</c>
+
+00:08:34.620 --> 00:08:34.630 align:start position:0%
+build and then test our project let's
+ 
+
+00:08:34.630 --> 00:08:36.150 align:start position:0%
+build and then test our project let's
+hook<00:08:34.870><c> this</c><00:08:35.020><c> up</c><00:08:35.200><c> automatically</c><00:08:35.800><c> through</c>
+
+00:08:36.150 --> 00:08:36.160 align:start position:0%
+hook this up automatically through
+ 
+
+00:08:36.160 --> 00:08:37.770 align:start position:0%
+hook this up automatically through
+github<00:08:36.460><c> now</c><00:08:37.030><c> to</c><00:08:37.090><c> do</c><00:08:37.300><c> that</c><00:08:37.480><c> we're</c><00:08:37.600><c> going</c><00:08:37.690><c> to</c>
+
+00:08:37.770 --> 00:08:37.780 align:start position:0%
+github now to do that we're going to
+ 
+
+00:08:37.780 --> 00:08:39.840 align:start position:0%
+github now to do that we're going to
+have<00:08:37.930><c> to</c><00:08:38.080><c> create</c><00:08:38.290><c> a</c><00:08:38.500><c> github</c><00:08:38.740><c> access</c><00:08:39.340><c> token</c><00:08:39.730><c> so</c>
+
+00:08:39.840 --> 00:08:39.850 align:start position:0%
+have to create a github access token so
+ 
+
+00:08:39.850 --> 00:08:40.149 align:start position:0%
+have to create a github access token so
+let's
+
+00:08:40.149 --> 00:08:40.159 align:start position:0%
+let's
+ 
+
+00:08:40.159 --> 00:08:41.980 align:start position:0%
+let's
+over<00:08:40.430><c> to</c><00:08:40.490><c> github</c><00:08:40.639><c> and</c><00:08:40.969><c> set</c><00:08:41.269><c> that</c><00:08:41.419><c> up</c><00:08:41.449><c> in</c><00:08:41.810><c> our</c>
+
+00:08:41.980 --> 00:08:41.990 align:start position:0%
+over to github and set that up in our
+ 
+
+00:08:41.990 --> 00:08:43.449 align:start position:0%
+over to github and set that up in our
+github<00:08:42.319><c> profile</c><00:08:42.769><c> settings</c><00:08:43.129><c> I'm</c><00:08:43.250><c> going</c><00:08:43.399><c> to</c>
+
+00:08:43.449 --> 00:08:43.459 align:start position:0%
+github profile settings I'm going to
+ 
+
+00:08:43.459 --> 00:08:45.129 align:start position:0%
+github profile settings I'm going to
+click<00:08:43.610><c> on</c><00:08:43.699><c> developer</c><00:08:44.300><c> settings</c><00:08:44.509><c> and</c><00:08:44.930><c> then</c>
+
+00:08:45.129 --> 00:08:45.139 align:start position:0%
+click on developer settings and then
+ 
+
+00:08:45.139 --> 00:08:47.230 align:start position:0%
+click on developer settings and then
+personal<00:08:45.620><c> access</c><00:08:46.009><c> tokens</c><00:08:46.490><c> I'm</c><00:08:46.699><c> then</c><00:08:47.089><c> gonna</c>
+
+00:08:47.230 --> 00:08:47.240 align:start position:0%
+personal access tokens I'm then gonna
+ 
+
+00:08:47.240 --> 00:08:49.240 align:start position:0%
+personal access tokens I'm then gonna
+click<00:08:47.540><c> generate</c><00:08:47.930><c> new</c><00:08:48.139><c> token</c><00:08:48.589><c> and</c><00:08:48.829><c> I'll</c><00:08:49.100><c> give</c>
+
+00:08:49.240 --> 00:08:49.250 align:start position:0%
+click generate new token and I'll give
+ 
+
+00:08:49.250 --> 00:08:51.490 align:start position:0%
+click generate new token and I'll give
+it<00:08:49.370><c> the</c><00:08:49.399><c> name</c><00:08:49.579><c> Jenkins</c><00:08:50.120><c> example</c><00:08:50.779><c> will</c><00:08:51.259><c> give</c><00:08:51.410><c> it</c>
+
+00:08:51.490 --> 00:08:51.500 align:start position:0%
+it the name Jenkins example will give it
+ 
+
+00:08:51.500 --> 00:08:53.559 align:start position:0%
+it the name Jenkins example will give it
+full<00:08:51.709><c> repository</c><00:08:52.250><c> access</c><00:08:52.670><c> full</c><00:08:53.180><c> control</c><00:08:53.540><c> of</c>
+
+00:08:53.559 --> 00:08:53.569 align:start position:0%
+full repository access full control of
+ 
+
+00:08:53.569 --> 00:08:55.780 align:start position:0%
+full repository access full control of
+repository<00:08:54.290><c> hooks</c><00:08:54.560><c> and</c><00:08:54.860><c> I'll</c><00:08:55.190><c> also</c><00:08:55.370><c> let</c><00:08:55.670><c> it</c>
+
+00:08:55.780 --> 00:08:55.790 align:start position:0%
+repository hooks and I'll also let it
+ 
+
+00:08:55.790 --> 00:08:57.850 align:start position:0%
+repository hooks and I'll also let it
+read<00:08:56.060><c> our</c><00:08:56.300><c> user</c><00:08:56.569><c> profile</c><00:08:57.050><c> data</c><00:08:57.290><c> and</c><00:08:57.529><c> email</c>
+
+00:08:57.850 --> 00:08:57.860 align:start position:0%
+read our user profile data and email
+ 
+
+00:08:57.860 --> 00:08:59.290 align:start position:0%
+read our user profile data and email
+addresses<00:08:58.129><c> this</c><00:08:58.370><c> is</c><00:08:58.519><c> important</c><00:08:58.970><c> for</c><00:08:59.060><c> Jenkins</c>
+
+00:08:59.290 --> 00:08:59.300 align:start position:0%
+addresses this is important for Jenkins
+ 
+
+00:08:59.300 --> 00:09:01.119 align:start position:0%
+addresses this is important for Jenkins
+because<00:08:59.750><c> it</c><00:08:59.870><c> requires</c><00:09:00.199><c> it</c><00:09:00.439><c> I'll</c><00:09:00.860><c> click</c>
+
+00:09:01.119 --> 00:09:01.129 align:start position:0%
+because it requires it I'll click
+ 
+
+00:09:01.129 --> 00:09:02.980 align:start position:0%
+because it requires it I'll click
+generate<00:09:01.550><c> token</c><00:09:01.970><c> and</c><00:09:02.120><c> that's</c><00:09:02.449><c> it</c><00:09:02.629><c> we've</c><00:09:02.839><c> now</c>
+
+00:09:02.980 --> 00:09:02.990 align:start position:0%
+generate token and that's it we've now
+ 
+
+00:09:02.990 --> 00:09:04.689 align:start position:0%
+generate token and that's it we've now
+got<00:09:03.199><c> a</c><00:09:03.230><c> token</c><00:09:03.649><c> now</c><00:09:03.949><c> I</c><00:09:04.009><c> can</c><00:09:04.220><c> copy</c><00:09:04.430><c> and</c><00:09:04.670><c> paste</c>
+
+00:09:04.689 --> 00:09:04.699 align:start position:0%
+got a token now I can copy and paste
+ 
+
+00:09:04.699 --> 00:09:07.150 align:start position:0%
+got a token now I can copy and paste
+this<00:09:05.089><c> into</c><00:09:05.389><c> Jenkins</c><00:09:06.050><c> without</c><00:09:06.620><c> showing</c><00:09:07.040><c> you</c>
+
+00:09:07.150 --> 00:09:07.160 align:start position:0%
+this into Jenkins without showing you
+ 
+
+00:09:07.160 --> 00:09:08.829 align:start position:0%
+this into Jenkins without showing you
+what<00:09:07.339><c> it</c><00:09:07.430><c> is</c><00:09:07.519><c> of</c><00:09:07.699><c> course</c><00:09:07.879><c> and</c><00:09:08.180><c> I'll</c><00:09:08.600><c> click</c>
+
+00:09:08.829 --> 00:09:08.839 align:start position:0%
+what it is of course and I'll click
+ 
+
+00:09:08.839 --> 00:09:10.990 align:start position:0%
+what it is of course and I'll click
+connect<00:09:09.290><c> I'll</c><00:09:09.949><c> select</c><00:09:10.220><c> the</c><00:09:10.370><c> organization</c>
+
+00:09:10.990 --> 00:09:11.000 align:start position:0%
+connect I'll select the organization
+ 
+
+00:09:11.000 --> 00:09:12.819 align:start position:0%
+connect I'll select the organization
+that<00:09:11.120><c> contains</c><00:09:11.480><c> my</c><00:09:11.689><c> repository</c><00:09:11.959><c> and</c><00:09:12.500><c> then</c><00:09:12.620><c> the</c>
+
+00:09:12.819 --> 00:09:12.829 align:start position:0%
+that contains my repository and then the
+ 
+
+00:09:12.829 --> 00:09:15.009 align:start position:0%
+that contains my repository and then the
+actual<00:09:13.160><c> repository</c><00:09:13.939><c> and</c><00:09:14.120><c> that's</c><00:09:14.660><c> it</c><00:09:14.870><c> you</c><00:09:14.990><c> can</c>
+
+00:09:15.009 --> 00:09:15.019 align:start position:0%
+actual repository and that's it you can
+ 
+
+00:09:15.019 --> 00:09:16.960 align:start position:0%
+actual repository and that's it you can
+see<00:09:15.230><c> the</c><00:09:15.350><c> Jenkins</c><00:09:15.709><c> is</c><00:09:15.920><c> immediately</c><00:09:16.610><c> going</c><00:09:16.790><c> to</c>
+
+00:09:16.960 --> 00:09:16.970 align:start position:0%
+see the Jenkins is immediately going to
+ 
+
+00:09:16.970 --> 00:09:18.999 align:start position:0%
+see the Jenkins is immediately going to
+try<00:09:17.209><c> and</c><00:09:17.329><c> execute</c><00:09:17.629><c> our</c><00:09:17.959><c> pipeline</c><00:09:18.500><c> by</c><00:09:18.769><c> trying</c>
+
+00:09:18.999 --> 00:09:19.009 align:start position:0%
+try and execute our pipeline by trying
+ 
+
+00:09:19.009 --> 00:09:20.559 align:start position:0%
+try and execute our pipeline by trying
+to<00:09:19.069><c> clean</c><00:09:19.279><c> the</c><00:09:19.370><c> repository</c><00:09:19.910><c> and</c><00:09:19.939><c> then</c><00:09:20.269><c> do</c>
+
+00:09:20.559 --> 00:09:20.569 align:start position:0%
+to clean the repository and then do
+ 
+
+00:09:20.569 --> 00:09:22.540 align:start position:0%
+to clean the repository and then do
+whatever<00:09:20.810><c> our</c><00:09:20.990><c> jenkins</c><00:09:21.500><c> file</c><00:09:21.709><c> says</c><00:09:22.040><c> let's</c>
+
+00:09:22.540 --> 00:09:22.550 align:start position:0%
+whatever our jenkins file says let's
+ 
+
+00:09:22.550 --> 00:09:23.889 align:start position:0%
+whatever our jenkins file says let's
+click<00:09:22.699><c> on</c><00:09:22.819><c> this</c><00:09:22.939><c> run</c><00:09:23.149><c> here</c><00:09:23.360><c> to</c><00:09:23.480><c> see</c><00:09:23.660><c> what</c>
+
+00:09:23.889 --> 00:09:23.899 align:start position:0%
+click on this run here to see what
+ 
+
+00:09:23.899 --> 00:09:26.499 align:start position:0%
+click on this run here to see what
+exactly<00:09:24.110><c> Jenkins</c><00:09:24.740><c> is</c><00:09:24.889><c> doing</c><00:09:25.279><c> and</c><00:09:25.459><c> oh</c><00:09:26.000><c> you</c><00:09:26.360><c> can</c>
+
+00:09:26.499 --> 00:09:26.509 align:start position:0%
+exactly Jenkins is doing and oh you can
+ 
+
+00:09:26.509 --> 00:09:28.119 align:start position:0%
+exactly Jenkins is doing and oh you can
+see<00:09:26.629><c> that</c><00:09:26.779><c> it</c><00:09:26.870><c> failed</c><00:09:27.110><c> let's</c><00:09:27.589><c> see</c><00:09:27.800><c> what</c><00:09:27.980><c> went</c>
+
+00:09:28.119 --> 00:09:28.129 align:start position:0%
+see that it failed let's see what went
+ 
+
+00:09:28.129 --> 00:09:30.309 align:start position:0%
+see that it failed let's see what went
+wrong<00:09:28.370><c> so</c><00:09:29.300><c> scrolling</c><00:09:29.689><c> through</c><00:09:29.810><c> all</c><00:09:29.870><c> this</c><00:09:30.019><c> code</c>
+
+00:09:30.309 --> 00:09:30.319 align:start position:0%
+wrong so scrolling through all this code
+ 
+
+00:09:30.319 --> 00:09:32.410 align:start position:0%
+wrong so scrolling through all this code
+here<00:09:30.649><c> you</c><00:09:30.829><c> can</c><00:09:30.980><c> see</c><00:09:31.220><c> that</c><00:09:31.459><c> it</c><00:09:31.730><c> cannot</c><00:09:32.209><c> run</c>
+
+00:09:32.410 --> 00:09:32.420 align:start position:0%
+here you can see that it cannot run
+ 
+
+00:09:32.420 --> 00:09:34.389 align:start position:0%
+here you can see that it cannot run
+program<00:09:32.899><c> git</c><00:09:33.199><c> and</c><00:09:33.350><c> it</c><00:09:33.470><c> says</c><00:09:33.680><c> no</c><00:09:33.889><c> such</c><00:09:34.100><c> file</c><00:09:34.370><c> or</c>
+
+00:09:34.389 --> 00:09:34.399 align:start position:0%
+program git and it says no such file or
+ 
+
+00:09:34.399 --> 00:09:35.980 align:start position:0%
+program git and it says no such file or
+directory<00:09:34.550><c> that's</c><00:09:35.180><c> because</c><00:09:35.509><c> our</c><00:09:35.600><c> server</c>
+
+00:09:35.980 --> 00:09:35.990 align:start position:0%
+directory that's because our server
+ 
+
+00:09:35.990 --> 00:09:37.990 align:start position:0%
+directory that's because our server
+doesn't<00:09:36.170><c> actually</c><00:09:36.470><c> have</c><00:09:36.860><c> git</c><00:09:37.220><c> installed</c><00:09:37.250><c> and</c>
+
+00:09:37.990 --> 00:09:38.000 align:start position:0%
+doesn't actually have git installed and
+ 
+
+00:09:38.000 --> 00:09:39.460 align:start position:0%
+doesn't actually have git installed and
+it<00:09:38.089><c> needs</c><00:09:38.269><c> get</c><00:09:38.569><c> so</c><00:09:38.810><c> that</c><00:09:38.930><c> it</c><00:09:39.019><c> can</c><00:09:39.139><c> clone</c><00:09:39.350><c> the</c>
+
+00:09:39.460 --> 00:09:39.470 align:start position:0%
+it needs get so that it can clone the
+ 
+
+00:09:39.470 --> 00:09:41.319 align:start position:0%
+it needs get so that it can clone the
+repository<00:09:39.560><c> let's</c><00:09:40.370><c> go</c><00:09:40.519><c> back</c><00:09:40.699><c> to</c><00:09:40.819><c> our</c><00:09:40.939><c> service</c>
+
+00:09:41.319 --> 00:09:41.329 align:start position:0%
+repository let's go back to our service
+ 
+
+00:09:41.329 --> 00:09:43.749 align:start position:0%
+repository let's go back to our service
+command<00:09:41.689><c> line</c><00:09:41.870><c> and</c><00:09:42.170><c> install</c><00:09:42.560><c> git</c><00:09:42.860><c> we're</c>
+
+00:09:43.749 --> 00:09:43.759 align:start position:0%
+command line and install git we're
+ 
+
+00:09:43.759 --> 00:09:45.280 align:start position:0%
+command line and install git we're
+already<00:09:44.000><c> logged</c><00:09:44.240><c> in</c><00:09:44.449><c> as</c><00:09:44.569><c> root</c><00:09:44.600><c> here</c><00:09:44.959><c> so</c><00:09:45.170><c> no</c>
+
+00:09:45.280 --> 00:09:45.290 align:start position:0%
+already logged in as root here so no
+ 
+
+00:09:45.290 --> 00:09:46.840 align:start position:0%
+already logged in as root here so no
+need<00:09:45.410><c> to</c><00:09:45.529><c> type</c><00:09:45.709><c> sudo</c><00:09:45.980><c> I'll</c><00:09:46.310><c> just</c><00:09:46.459><c> type</c><00:09:46.670><c> in</c>
+
+00:09:46.840 --> 00:09:46.850 align:start position:0%
+need to type sudo I'll just type in
+ 
+
+00:09:46.850 --> 00:09:49.780 align:start position:0%
+need to type sudo I'll just type in
+apt-get<00:09:47.329><c> install</c><00:09:47.389><c> git</c><00:09:48.199><c> once</c><00:09:49.040><c> that's</c><00:09:49.279><c> done</c><00:09:49.550><c> and</c>
+
+00:09:49.780 --> 00:09:49.790 align:start position:0%
+apt-get install git once that's done and
+ 
+
+00:09:49.790 --> 00:09:50.980 align:start position:0%
+apt-get install git once that's done and
+while<00:09:50.089><c> we've</c><00:09:50.240><c> still</c><00:09:50.420><c> got</c><00:09:50.509><c> our</c><00:09:50.630><c> command</c><00:09:50.930><c> line</c>
+
+00:09:50.980 --> 00:09:50.990 align:start position:0%
+while we've still got our command line
+ 
+
+00:09:50.990 --> 00:09:52.509 align:start position:0%
+while we've still got our command line
+open<00:09:51.380><c> let's</c><00:09:51.529><c> install</c><00:09:51.800><c> everything</c><00:09:52.220><c> else</c><00:09:52.370><c> that</c>
+
+00:09:52.509 --> 00:09:52.519 align:start position:0%
+open let's install everything else that
+ 
+
+00:09:52.519 --> 00:09:54.100 align:start position:0%
+open let's install everything else that
+we'll<00:09:52.670><c> need</c><00:09:52.819><c> we'll</c><00:09:53.329><c> need</c><00:09:53.480><c> to</c><00:09:53.600><c> install</c><00:09:53.660><c> make</c>
+
+00:09:54.100 --> 00:09:54.110 align:start position:0%
+we'll need we'll need to install make
+ 
+
+00:09:54.110 --> 00:09:55.600 align:start position:0%
+we'll need we'll need to install make
+and<00:09:54.350><c> then</c><00:09:54.560><c> G</c><00:09:54.740><c> plus</c><00:09:54.949><c> plus</c><00:09:55.189><c> so</c><00:09:55.310><c> that</c><00:09:55.430><c> we</c><00:09:55.490><c> can</c>
+
+00:09:55.600 --> 00:09:55.610 align:start position:0%
+and then G plus plus so that we can
+ 
+
+00:09:55.610 --> 00:09:57.490 align:start position:0%
+and then G plus plus so that we can
+actually<00:09:55.759><c> compile</c><00:09:56.300><c> our</c><00:09:56.480><c> code</c><00:09:56.720><c> once</c><00:09:57.350><c> our</c>
+
+00:09:57.490 --> 00:09:57.500 align:start position:0%
+actually compile our code once our
+ 
+
+00:09:57.500 --> 00:09:58.990 align:start position:0%
+actually compile our code once our
+server<00:09:57.709><c> finishes</c><00:09:58.160><c> installing</c><00:09:58.399><c> everything</c>
+
+00:09:58.990 --> 00:09:59.000 align:start position:0%
+server finishes installing everything
+ 
+
+00:09:59.000 --> 00:10:00.579 align:start position:0%
+server finishes installing everything
+let's<00:09:59.149><c> go</c><00:09:59.300><c> back</c><00:09:59.449><c> to</c><00:09:59.569><c> Jenkins</c><00:10:00.019><c> and</c><00:10:00.230><c> we'll</c><00:10:00.439><c> just</c>
+
+00:10:00.579 --> 00:10:00.589 align:start position:0%
+let's go back to Jenkins and we'll just
+ 
+
+00:10:00.589 --> 00:10:02.650 align:start position:0%
+let's go back to Jenkins and we'll just
+click<00:10:00.709><c> this</c><00:10:00.920><c> rerun</c><00:10:01.370><c> button</c><00:10:01.670><c> here</c><00:10:01.939><c> this</c><00:10:02.540><c> is</c>
+
+00:10:02.650 --> 00:10:02.660 align:start position:0%
+click this rerun button here this is
+ 
+
+00:10:02.660 --> 00:10:05.170 align:start position:0%
+click this rerun button here this is
+going<00:10:02.899><c> to</c><00:10:03.050><c> rerun</c><00:10:03.470><c> this</c><00:10:03.769><c> specific</c><00:10:04.430><c> run</c><00:10:04.670><c> meaning</c>
+
+00:10:05.170 --> 00:10:05.180 align:start position:0%
+going to rerun this specific run meaning
+ 
+
+00:10:05.180 --> 00:10:06.069 align:start position:0%
+going to rerun this specific run meaning
+it's<00:10:05.300><c> not</c><00:10:05.420><c> going</c><00:10:05.540><c> to</c><00:10:05.600><c> check</c><00:10:05.779><c> out</c><00:10:05.930><c> a</c><00:10:05.959><c> different</c>
+
+00:10:06.069 --> 00:10:06.079 align:start position:0%
+it's not going to check out a different
+ 
+
+00:10:06.079 --> 00:10:07.480 align:start position:0%
+it's not going to check out a different
+commit<00:10:06.620><c> or</c><00:10:06.740><c> anything</c><00:10:06.920><c> is</c><00:10:07.130><c> literally</c><00:10:07.459><c> just</c>
+
+00:10:07.480 --> 00:10:07.490 align:start position:0%
+commit or anything is literally just
+ 
+
+00:10:07.490 --> 00:10:09.550 align:start position:0%
+commit or anything is literally just
+going<00:10:07.759><c> to</c><00:10:07.910><c> rerun</c><00:10:08.329><c> what</c><00:10:08.600><c> just</c><00:10:08.779><c> happened</c><00:10:09.110><c> all</c>
+
+00:10:09.550 --> 00:10:09.560 align:start position:0%
+going to rerun what just happened all
+ 
+
+00:10:09.560 --> 00:10:11.110 align:start position:0%
+going to rerun what just happened all
+right<00:10:09.589><c> check</c><00:10:10.310><c> out</c><00:10:10.430><c> from</c><00:10:10.579><c> version</c><00:10:10.759><c> control</c>
+
+00:10:11.110 --> 00:10:11.120 align:start position:0%
+right check out from version control
+ 
+
+00:10:11.120 --> 00:10:12.819 align:start position:0%
+right check out from version control
+succeeded<00:10:11.630><c> and</c><00:10:11.810><c> you</c><00:10:11.870><c> can</c><00:10:12.230><c> see</c><00:10:12.410><c> everything</c>
+
+00:10:12.819 --> 00:10:12.829 align:start position:0%
+succeeded and you can see everything
+ 
+
+00:10:12.829 --> 00:10:17.139 align:start position:0%
+succeeded and you can see everything
+else<00:10:12.980><c> succeeded</c><00:10:13.459><c> as</c><00:10:13.579><c> well</c><00:10:13.990><c> awesome</c><00:10:16.149><c> sorry</c>
+
+00:10:17.139 --> 00:10:17.149 align:start position:0%
+else succeeded as well awesome sorry
+ 
+
+00:10:17.149 --> 00:10:18.460 align:start position:0%
+else succeeded as well awesome sorry
+about<00:10:17.300><c> that</c><00:10:17.420><c> you</c><00:10:17.720><c> can</c><00:10:17.870><c> see</c><00:10:18.019><c> here</c><00:10:18.230><c> that</c><00:10:18.319><c> there</c>
+
+00:10:18.460 --> 00:10:18.470 align:start position:0%
+about that you can see here that there
+ 
+
+00:10:18.470 --> 00:10:20.350 align:start position:0%
+about that you can see here that there
+are<00:10:18.500><c> two</c><00:10:18.620><c> phases</c><00:10:19.100><c> to</c><00:10:19.490><c> our</c><00:10:19.639><c> pipeline</c><00:10:20.060><c> we've</c><00:10:20.209><c> got</c>
+
+00:10:20.350 --> 00:10:20.360 align:start position:0%
+are two phases to our pipeline we've got
+ 
+
+00:10:20.360 --> 00:10:22.389 align:start position:0%
+are two phases to our pipeline we've got
+the<00:10:20.480><c> build</c><00:10:20.750><c> that</c><00:10:21.079><c> passed</c><00:10:21.319><c> in</c><00:10:21.529><c> two</c><00:10:21.829><c> seconds</c><00:10:22.279><c> and</c>
+
+00:10:22.389 --> 00:10:22.399 align:start position:0%
+the build that passed in two seconds and
+ 
+
+00:10:22.399 --> 00:10:24.579 align:start position:0%
+the build that passed in two seconds and
+then<00:10:22.880><c> the</c><00:10:23.029><c> tests</c><00:10:23.269><c> that</c><00:10:23.420><c> pass</c><00:10:23.839><c> in</c><00:10:24.050><c> one</c><00:10:24.230><c> second</c>
+
+00:10:24.579 --> 00:10:24.589 align:start position:0%
+then the tests that pass in one second
+ 
+
+00:10:24.589 --> 00:10:26.650 align:start position:0%
+then the tests that pass in one second
+if<00:10:24.740><c> we</c><00:10:25.040><c> drop</c><00:10:25.220><c> down</c><00:10:25.250><c> this</c><00:10:25.550><c> Linux</c><00:10:26.000><c> run</c><00:10:26.269><c> script</c>
+
+00:10:26.650 --> 00:10:26.660 align:start position:0%
+if we drop down this Linux run script
+ 
+
+00:10:26.660 --> 00:10:28.030 align:start position:0%
+if we drop down this Linux run script
+you<00:10:26.779><c> can</c><00:10:26.930><c> see</c><00:10:27.079><c> the</c><00:10:27.199><c> output</c><00:10:27.559><c> of</c><00:10:27.589><c> our</c><00:10:27.740><c> script</c>
+
+00:10:28.030 --> 00:10:28.040 align:start position:0%
+you can see the output of our script
+ 
+
+00:10:28.040 --> 00:10:29.290 align:start position:0%
+you can see the output of our script
+which<00:10:28.339><c> says</c><00:10:28.579><c> hello</c><00:10:28.910><c> world</c>
+
+00:10:29.290 --> 00:10:29.300 align:start position:0%
+which says hello world
+ 
+
+00:10:29.300 --> 00:10:31.540 align:start position:0%
+which says hello world
+so<00:10:29.480><c> our</c><00:10:29.630><c> program</c><00:10:29.779><c> ran</c><00:10:30.199><c> successfully</c><00:10:30.439><c> yay</c><00:10:31.309><c> and</c>
+
+00:10:31.540 --> 00:10:31.550 align:start position:0%
+so our program ran successfully yay and
+ 
+
+00:10:31.550 --> 00:10:33.699 align:start position:0%
+so our program ran successfully yay and
+going<00:10:32.269><c> back</c><00:10:32.449><c> to</c><00:10:32.480><c> our</c><00:10:32.809><c> list</c><00:10:33.050><c> of</c><00:10:33.170><c> runs</c><00:10:33.410><c> you</c><00:10:33.559><c> can</c>
+
+00:10:33.699 --> 00:10:33.709 align:start position:0%
+going back to our list of runs you can
+ 
+
+00:10:33.709 --> 00:10:35.379 align:start position:0%
+going back to our list of runs you can
+see<00:10:33.889><c> that</c><00:10:34.100><c> this</c><00:10:34.309><c> has</c><00:10:34.519><c> a</c><00:10:34.550><c> green</c><00:10:35.029><c> checkmark</c>
+
+00:10:35.379 --> 00:10:35.389 align:start position:0%
+see that this has a green checkmark
+ 
+
+00:10:35.389 --> 00:10:37.540 align:start position:0%
+see that this has a green checkmark
+status<00:10:36.019><c> everything</c><00:10:36.559><c> succeeded</c><00:10:37.100><c> and</c><00:10:37.279><c> our</c>
+
+00:10:37.540 --> 00:10:37.550 align:start position:0%
+status everything succeeded and our
+ 
+
+00:10:37.550 --> 00:10:39.819 align:start position:0%
+status everything succeeded and our
+project<00:10:37.970><c> is</c><00:10:38.149><c> in</c><00:10:38.329><c> fact</c><00:10:38.569><c> sunny</c><00:10:39.019><c> let's</c><00:10:39.470><c> get</c><00:10:39.649><c> out</c>
+
+00:10:39.819 --> 00:10:39.829 align:start position:0%
+project is in fact sunny let's get out
+ 
+
+00:10:39.829 --> 00:10:41.199 align:start position:0%
+project is in fact sunny let's get out
+of<00:10:39.860><c> blue</c><00:10:40.100><c> ocean</c><00:10:40.430><c> and</c><00:10:40.550><c> see</c><00:10:40.670><c> what</c><00:10:40.850><c> regular</c>
+
+00:10:41.199 --> 00:10:41.209 align:start position:0%
+of blue ocean and see what regular
+ 
+
+00:10:41.209 --> 00:10:42.819 align:start position:0%
+of blue ocean and see what regular
+Jenkins<00:10:41.569><c> looks</c><00:10:41.809><c> like</c><00:10:41.990><c> so</c><00:10:42.439><c> we're</c><00:10:42.589><c> inside</c>
+
+00:10:42.819 --> 00:10:42.829 align:start position:0%
+Jenkins looks like so we're inside
+ 
+
+00:10:42.829 --> 00:10:44.860 align:start position:0%
+Jenkins looks like so we're inside
+Jenkins<00:10:43.279><c> example</c><00:10:43.790><c> let's</c><00:10:44.120><c> click</c><00:10:44.209><c> on</c><00:10:44.360><c> master</c>
+
+00:10:44.860 --> 00:10:44.870 align:start position:0%
+Jenkins example let's click on master
+ 
+
+00:10:44.870 --> 00:10:46.900 align:start position:0%
+Jenkins example let's click on master
+if<00:10:45.019><c> we</c><00:10:45.709><c> click</c><00:10:45.889><c> build</c><00:10:46.220><c> now</c><00:10:46.490><c> what's</c><00:10:46.790><c> gonna</c>
+
+00:10:46.900 --> 00:10:46.910 align:start position:0%
+if we click build now what's gonna
+ 
+
+00:10:46.910 --> 00:10:48.699 align:start position:0%
+if we click build now what's gonna
+happen<00:10:47.029><c> is</c><00:10:47.449><c> Jenkins</c><00:10:47.809><c> is</c><00:10:47.990><c> actually</c><00:10:48.319><c> going</c><00:10:48.500><c> to</c>
+
+00:10:48.699 --> 00:10:48.709 align:start position:0%
+happen is Jenkins is actually going to
+ 
+
+00:10:48.709 --> 00:10:50.110 align:start position:0%
+happen is Jenkins is actually going to
+retrieve<00:10:49.130><c> the</c><00:10:49.279><c> latest</c><00:10:49.519><c> commits</c><00:10:49.850><c> it's</c><00:10:50.000><c> gonna</c>
+
+00:10:50.110 --> 00:10:50.120 align:start position:0%
+retrieve the latest commits it's gonna
+ 
+
+00:10:50.120 --> 00:10:52.360 align:start position:0%
+retrieve the latest commits it's gonna
+rerun<00:10:50.689><c> that</c><00:10:50.870><c> whole</c><00:10:51.170><c> clone</c><00:10:51.500><c> process</c><00:10:52.100><c> and</c>
+
+00:10:52.360 --> 00:10:52.370 align:start position:0%
+rerun that whole clone process and
+ 
+
+00:10:52.370 --> 00:10:54.090 align:start position:0%
+rerun that whole clone process and
+execute<00:10:52.970><c> our</c><00:10:53.120><c> pipeline</c>
+
+00:10:54.090 --> 00:10:54.100 align:start position:0%
+execute our pipeline
+ 
+
+00:10:54.100 --> 00:10:56.129 align:start position:0%
+execute our pipeline
+let's<00:10:54.730><c> see</c><00:10:54.880><c> if</c><00:10:54.940><c> that</c><00:10:55.089><c> works</c><00:10:55.329><c> out</c><00:10:55.480><c> let's</c><00:10:55.959><c> click</c>
+
+00:10:56.129 --> 00:10:56.139 align:start position:0%
+let's see if that works out let's click
+ 
+
+00:10:56.139 --> 00:10:57.509 align:start position:0%
+let's see if that works out let's click
+on<00:10:56.259><c> this</c><00:10:56.380><c> specific</c><00:10:56.769><c> run</c><00:10:56.980><c> to</c><00:10:57.160><c> get</c><00:10:57.310><c> more</c>
+
+00:10:57.509 --> 00:10:57.519 align:start position:0%
+on this specific run to get more
+ 
+
+00:10:57.519 --> 00:10:59.340 align:start position:0%
+on this specific run to get more
+information<00:10:57.850><c> about</c><00:10:58.240><c> it</c><00:10:58.420><c> you</c><00:10:58.899><c> can</c><00:10:59.019><c> see</c><00:10:59.139><c> here</c>
+
+00:10:59.340 --> 00:10:59.350 align:start position:0%
+information about it you can see here
+ 
+
+00:10:59.350 --> 00:11:00.870 align:start position:0%
+information about it you can see here
+that<00:10:59.440><c> it's</c><00:10:59.589><c> already</c><00:10:59.920><c> finished</c><00:11:00.160><c> running</c><00:11:00.610><c> this</c>
+
+00:11:00.870 --> 00:11:00.880 align:start position:0%
+that it's already finished running this
+ 
+
+00:11:00.880 --> 00:11:02.790 align:start position:0%
+that it's already finished running this
+and<00:11:01.149><c> we</c><00:11:01.300><c> do</c><00:11:01.420><c> in</c><00:11:01.540><c> fact</c><00:11:01.569><c> have</c><00:11:01.870><c> a</c><00:11:01.990><c> build</c><00:11:02.259><c> artifact</c>
+
+00:11:02.790 --> 00:11:02.800 align:start position:0%
+and we do in fact have a build artifact
+ 
+
+00:11:02.800 --> 00:11:04.350 align:start position:0%
+and we do in fact have a build artifact
+that<00:11:03.040><c> we</c><00:11:03.190><c> chose</c><00:11:03.399><c> to</c><00:11:03.610><c> keep</c><00:11:03.790><c> from</c><00:11:04.000><c> our</c><00:11:04.149><c> build</c>
+
+00:11:04.350 --> 00:11:04.360 align:start position:0%
+that we chose to keep from our build
+ 
+
+00:11:04.360 --> 00:11:06.300 align:start position:0%
+that we chose to keep from our build
+which<00:11:04.630><c> is</c><00:11:04.839><c> the</c><00:11:05.079><c> hello</c><00:11:05.350><c> world</c><00:11:05.560><c> program</c><00:11:05.769><c> this</c><00:11:06.160><c> is</c>
+
+00:11:06.300 --> 00:11:06.310 align:start position:0%
+which is the hello world program this is
+ 
+
+00:11:06.310 --> 00:11:08.400 align:start position:0%
+which is the hello world program this is
+literally<00:11:06.699><c> the</c><00:11:07.300><c> Linux</c><00:11:07.600><c> program</c><00:11:07.990><c> that</c><00:11:08.170><c> we</c><00:11:08.259><c> can</c>
+
+00:11:08.400 --> 00:11:08.410 align:start position:0%
+literally the Linux program that we can
+ 
+
+00:11:08.410 --> 00:11:10.920 align:start position:0%
+literally the Linux program that we can
+well<00:11:08.889><c> download</c><00:11:09.430><c> and</c><00:11:09.610><c> run</c><00:11:09.759><c> on</c><00:11:09.850><c> Linux</c><00:11:10.000><c> if</c><00:11:10.750><c> I</c>
+
+00:11:10.920 --> 00:11:10.930 align:start position:0%
+well download and run on Linux if I
+ 
+
+00:11:10.930 --> 00:11:12.569 align:start position:0%
+well download and run on Linux if I
+click<00:11:11.170><c> it</c><00:11:11.259><c> is</c><00:11:11.380><c> just</c><00:11:11.560><c> going</c><00:11:11.680><c> to</c><00:11:11.769><c> download</c><00:11:11.949><c> it</c><00:11:12.130><c> we</c>
+
+00:11:12.569 --> 00:11:12.579 align:start position:0%
+click it is just going to download it we
+ 
+
+00:11:12.579 --> 00:11:13.860 align:start position:0%
+click it is just going to download it we
+can<00:11:12.699><c> also</c><00:11:12.819><c> look</c><00:11:13.029><c> at</c><00:11:13.120><c> our</c><00:11:13.240><c> console</c><00:11:13.660><c> output</c>
+
+00:11:13.860 --> 00:11:13.870 align:start position:0%
+can also look at our console output
+ 
+
+00:11:13.870 --> 00:11:16.079 align:start position:0%
+can also look at our console output
+which<00:11:14.319><c> is</c><00:11:14.350><c> just</c><00:11:14.769><c> a</c><00:11:14.920><c> kind</c><00:11:15.130><c> of</c><00:11:15.250><c> less</c><00:11:15.490><c> formatted</c>
+
+00:11:16.079 --> 00:11:16.089 align:start position:0%
+which is just a kind of less formatted
+ 
+
+00:11:16.089 --> 00:11:17.730 align:start position:0%
+which is just a kind of less formatted
+less<00:11:16.240><c> sorted</c><00:11:16.660><c> version</c><00:11:16.990><c> of</c><00:11:17.079><c> what</c><00:11:17.230><c> we</c><00:11:17.350><c> saw</c><00:11:17.529><c> in</c>
+
+00:11:17.730 --> 00:11:17.740 align:start position:0%
+less sorted version of what we saw in
+ 
+
+00:11:17.740 --> 00:11:19.470 align:start position:0%
+less sorted version of what we saw in
+blue<00:11:17.980><c> ocean</c><00:11:18.370><c> you</c><00:11:18.730><c> can</c><00:11:18.850><c> see</c><00:11:18.970><c> that</c><00:11:19.089><c> it's</c><00:11:19.240><c> built</c>
+
+00:11:19.470 --> 00:11:19.480 align:start position:0%
+blue ocean you can see that it's built
+ 
+
+00:11:19.480 --> 00:11:21.300 align:start position:0%
+blue ocean you can see that it's built
+it<00:11:19.690><c> and</c><00:11:19.810><c> then</c><00:11:20.050><c> has</c><00:11:20.170><c> run</c><00:11:20.410><c> it</c><00:11:20.589><c> here's</c><00:11:20.889><c> our</c><00:11:21.040><c> hello</c>
+
+00:11:21.300 --> 00:11:21.310 align:start position:0%
+it and then has run it here's our hello
+ 
+
+00:11:21.310 --> 00:11:23.400 align:start position:0%
+it and then has run it here's our hello
+world<00:11:21.339><c> output</c><00:11:22.000><c> if</c><00:11:22.149><c> we</c><00:11:22.720><c> flip</c><00:11:22.930><c> back</c><00:11:22.959><c> to</c><00:11:23.139><c> our</c>
+
+00:11:23.400 --> 00:11:23.410 align:start position:0%
+world output if we flip back to our
+ 
+
+00:11:23.410 --> 00:11:25.139 align:start position:0%
+world output if we flip back to our
+github<00:11:23.620><c> repository</c><00:11:23.769><c> you</c><00:11:24.519><c> can</c><00:11:24.550><c> see</c><00:11:24.880><c> that</c><00:11:25.029><c> in</c>
+
+00:11:25.139 --> 00:11:25.149 align:start position:0%
+github repository you can see that in
+ 
+
+00:11:25.149 --> 00:11:27.389 align:start position:0%
+github repository you can see that in
+fact<00:11:25.360><c> our</c><00:11:25.720><c> last</c><00:11:25.959><c> commit</c><00:11:26.380><c> was</c><00:11:26.589><c> successful</c><00:11:27.190><c> all</c>
+
+00:11:27.389 --> 00:11:27.399 align:start position:0%
+fact our last commit was successful all
+ 
+
+00:11:27.399 --> 00:11:29.430 align:start position:0%
+fact our last commit was successful all
+checks<00:11:27.730><c> have</c><00:11:27.940><c> been</c><00:11:28.089><c> passed</c><00:11:28.360><c> because</c><00:11:28.870><c> Jenkins</c>
+
+00:11:29.430 --> 00:11:29.440 align:start position:0%
+checks have been passed because Jenkins
+ 
+
+00:11:29.440 --> 00:11:31.319 align:start position:0%
+checks have been passed because Jenkins
+automatically<00:11:30.040><c> reflects</c><00:11:30.459><c> that</c><00:11:30.670><c> data</c><00:11:30.970><c> back</c><00:11:31.300><c> to</c>
+
+00:11:31.319 --> 00:11:31.329 align:start position:0%
+automatically reflects that data back to
+ 
+
+00:11:31.329 --> 00:11:33.449 align:start position:0%
+automatically reflects that data back to
+github<00:11:31.839><c> so</c><00:11:32.199><c> that's</c><00:11:32.350><c> super</c><00:11:32.740><c> useful</c><00:11:32.769><c> now</c><00:11:33.399><c> the</c>
+
+00:11:33.449 --> 00:11:33.459 align:start position:0%
+github so that's super useful now the
+ 
+
+00:11:33.459 --> 00:11:35.370 align:start position:0%
+github so that's super useful now the
+only<00:11:33.670><c> issue</c><00:11:33.819><c> here</c><00:11:34.180><c> is</c><00:11:34.569><c> that</c><00:11:34.750><c> at</c><00:11:34.870><c> the</c><00:11:34.990><c> moment</c><00:11:35.019><c> we</c>
+
+00:11:35.370 --> 00:11:35.380 align:start position:0%
+only issue here is that at the moment we
+ 
+
+00:11:35.380 --> 00:11:37.499 align:start position:0%
+only issue here is that at the moment we
+have<00:11:35.529><c> to</c><00:11:35.709><c> manually</c><00:11:36.040><c> click</c><00:11:36.370><c> build</c><00:11:36.670><c> now</c><00:11:36.910><c> if</c><00:11:37.269><c> we</c>
+
+00:11:37.499 --> 00:11:37.509 align:start position:0%
+have to manually click build now if we
+ 
+
+00:11:37.509 --> 00:11:38.939 align:start position:0%
+have to manually click build now if we
+want<00:11:37.720><c> to</c><00:11:37.839><c> actually</c><00:11:38.019><c> build</c><00:11:38.470><c> the</c><00:11:38.680><c> latest</c>
+
+00:11:38.939 --> 00:11:38.949 align:start position:0%
+want to actually build the latest
+ 
+
+00:11:38.949 --> 00:11:40.710 align:start position:0%
+want to actually build the latest
+commits<00:11:39.250><c> in</c><00:11:39.370><c> our</c><00:11:39.490><c> repository</c><00:11:40.089><c> but</c><00:11:40.480><c> what</c><00:11:40.630><c> we</c>
+
+00:11:40.710 --> 00:11:40.720 align:start position:0%
+commits in our repository but what we
+ 
+
+00:11:40.720 --> 00:11:42.809 align:start position:0%
+commits in our repository but what we
+can<00:11:40.870><c> actually</c><00:11:41.019><c> do</c><00:11:41.440><c> is</c><00:11:41.740><c> set</c><00:11:41.920><c> up</c><00:11:41.949><c> a</c><00:11:42.130><c> web</c><00:11:42.339><c> hook</c><00:11:42.550><c> so</c>
+
+00:11:42.809 --> 00:11:42.819 align:start position:0%
+can actually do is set up a web hook so
+ 
+
+00:11:42.819 --> 00:11:44.639 align:start position:0%
+can actually do is set up a web hook so
+that<00:11:42.940><c> every</c><00:11:43.269><c> time</c><00:11:43.480><c> that</c><00:11:43.630><c> we</c><00:11:43.750><c> commit</c><00:11:44.139><c> Jenkins</c>
+
+00:11:44.639 --> 00:11:44.649 align:start position:0%
+that every time that we commit Jenkins
+ 
+
+00:11:44.649 --> 00:11:46.680 align:start position:0%
+that every time that we commit Jenkins
+will<00:11:44.800><c> automatically</c><00:11:45.610><c> run</c><00:11:45.790><c> a</c><00:11:45.850><c> build</c><00:11:46.180><c> on</c><00:11:46.360><c> that</c>
+
+00:11:46.680 --> 00:11:46.690 align:start position:0%
+will automatically run a build on that
+ 
+
+00:11:46.690 --> 00:11:48.420 align:start position:0%
+will automatically run a build on that
+latest<00:11:47.050><c> commit</c><00:11:47.380><c> let's</c><00:11:48.069><c> click</c><00:11:48.250><c> on</c><00:11:48.339><c> our</c>
+
+00:11:48.420 --> 00:11:48.430 align:start position:0%
+latest commit let's click on our
+ 
+
+00:11:48.430 --> 00:11:50.309 align:start position:0%
+latest commit let's click on our
+repository<00:11:48.940><c> settings</c><00:11:49.329><c> and</c><00:11:49.660><c> then</c><00:11:49.839><c> web</c><00:11:50.050><c> hooks</c>
+
+00:11:50.309 --> 00:11:50.319 align:start position:0%
+repository settings and then web hooks
+ 
+
+00:11:50.319 --> 00:11:52.470 align:start position:0%
+repository settings and then web hooks
+and<00:11:50.589><c> unless</c><00:11:50.980><c> add</c><00:11:51.160><c> a</c><00:11:51.190><c> web</c><00:11:51.430><c> hook</c><00:11:51.579><c> now</c><00:11:52.060><c> to</c><00:11:52.120><c> set</c><00:11:52.389><c> up</c>
+
+00:11:52.470 --> 00:11:52.480 align:start position:0%
+and unless add a web hook now to set up
+ 
+
+00:11:52.480 --> 00:11:54.329 align:start position:0%
+and unless add a web hook now to set up
+this<00:11:52.600><c> web</c><00:11:52.839><c> hook</c><00:11:53.050><c> with</c><00:11:53.259><c> Jenkins</c><00:11:53.529><c> we</c><00:11:53.980><c> just</c><00:11:54.160><c> need</c>
+
+00:11:54.329 --> 00:11:54.339 align:start position:0%
+this web hook with Jenkins we just need
+ 
+
+00:11:54.339 --> 00:11:56.910 align:start position:0%
+this web hook with Jenkins we just need
+to<00:11:54.490><c> drop</c><00:11:54.759><c> in</c><00:11:54.940><c> the</c><00:11:55.149><c> URL</c><00:11:55.449><c> of</c><00:11:55.870><c> our</c><00:11:56.139><c> server</c><00:11:56.529><c> and</c>
+
+00:11:56.910 --> 00:11:56.920 align:start position:0%
+to drop in the URL of our server and
+ 
+
+00:11:56.920 --> 00:11:59.429 align:start position:0%
+to drop in the URL of our server and
+then<00:11:57.250><c> add</c><00:11:57.459><c> four</c><00:11:57.759><c> slash</c><00:11:58.029><c> github</c><00:11:58.569><c> -</c><00:11:58.870><c> web</c><00:11:59.199><c> hook</c>
+
+00:11:59.429 --> 00:11:59.439 align:start position:0%
+then add four slash github - web hook
+ 
+
+00:11:59.439 --> 00:12:01.530 align:start position:0%
+then add four slash github - web hook
+we'll<00:11:59.800><c> change</c><00:12:00.069><c> the</c><00:12:00.189><c> content</c><00:12:00.610><c> type</c><00:12:00.819><c> to</c><00:12:00.850><c> be</c><00:12:01.120><c> JSON</c>
+
+00:12:01.530 --> 00:12:01.540 align:start position:0%
+we'll change the content type to be JSON
+ 
+
+00:12:01.540 --> 00:12:03.210 align:start position:0%
+we'll change the content type to be JSON
+and<00:12:01.750><c> we</c><00:12:02.290><c> can</c><00:12:02.410><c> leave</c><00:12:02.529><c> the</c><00:12:02.649><c> secret</c><00:12:02.980><c> blank</c>
+
+00:12:03.210 --> 00:12:03.220 align:start position:0%
+and we can leave the secret blank
+ 
+
+00:12:03.220 --> 00:12:05.610 align:start position:0%
+and we can leave the secret blank
+because<00:12:03.519><c> we</c><00:12:03.790><c> have</c><00:12:03.910><c> no</c><00:12:04.089><c> secrets</c><00:12:04.439><c> make</c><00:12:05.439><c> sure</c>
+
+00:12:05.610 --> 00:12:05.620 align:start position:0%
+because we have no secrets make sure
+ 
+
+00:12:05.620 --> 00:12:07.679 align:start position:0%
+because we have no secrets make sure
+that<00:12:05.769><c> pushes</c><00:12:06.279><c> is</c><00:12:06.519><c> selected</c><00:12:07.029><c> here</c><00:12:07.269><c> under</c><00:12:07.569><c> the</c>
+
+00:12:07.679 --> 00:12:07.689 align:start position:0%
+that pushes is selected here under the
+ 
+
+00:12:07.689 --> 00:12:09.540 align:start position:0%
+that pushes is selected here under the
+individual<00:12:08.170><c> events</c><00:12:08.589><c> and</c><00:12:08.800><c> that's</c><00:12:09.040><c> it</c><00:12:09.250><c> let's</c>
+
+00:12:09.540 --> 00:12:09.550 align:start position:0%
+individual events and that's it let's
+ 
+
+00:12:09.550 --> 00:12:12.179 align:start position:0%
+individual events and that's it let's
+click<00:12:09.730><c> add</c><00:12:09.970><c> web</c><00:12:10.240><c> hook</c><00:12:10.769><c> now</c><00:12:11.769><c> let's</c><00:12:11.920><c> go</c><00:12:12.009><c> back</c><00:12:12.160><c> to</c>
+
+00:12:12.179 --> 00:12:12.189 align:start position:0%
+click add web hook now let's go back to
+ 
+
+00:12:12.189 --> 00:12:14.129 align:start position:0%
+click add web hook now let's go back to
+Jenkins<00:12:12.699><c> and</c><00:12:13.000><c> we'll</c><00:12:13.209><c> open</c><00:12:13.360><c> blue</c><00:12:13.660><c> ocean</c><00:12:13.990><c> and</c>
+
+00:12:14.129 --> 00:12:14.139 align:start position:0%
+Jenkins and we'll open blue ocean and
+ 
+
+00:12:14.139 --> 00:12:15.509 align:start position:0%
+Jenkins and we'll open blue ocean and
+we'll<00:12:14.290><c> just</c><00:12:14.410><c> keep</c><00:12:14.529><c> this</c><00:12:14.709><c> view</c><00:12:14.980><c> here</c><00:12:15.220><c> with</c><00:12:15.399><c> all</c>
+
+00:12:15.509 --> 00:12:15.519 align:start position:0%
+we'll just keep this view here with all
+ 
+
+00:12:15.519 --> 00:12:17.129 align:start position:0%
+we'll just keep this view here with all
+of<00:12:15.610><c> our</c><00:12:15.730><c> builds</c><00:12:16.089><c> open</c><00:12:16.540><c> so</c><00:12:16.779><c> that</c><00:12:16.930><c> when</c><00:12:17.050><c> we</c>
+
+00:12:17.129 --> 00:12:17.139 align:start position:0%
+of our builds open so that when we
+ 
+
+00:12:17.139 --> 00:12:18.990 align:start position:0%
+of our builds open so that when we
+commit<00:12:17.470><c> something</c><00:12:17.740><c> new</c><00:12:18.040><c> we</c><00:12:18.459><c> can</c><00:12:18.610><c> see</c><00:12:18.790><c> if</c><00:12:18.880><c> it</c>
+
+00:12:18.990 --> 00:12:19.000 align:start position:0%
+commit something new we can see if it
+ 
+
+00:12:19.000 --> 00:12:20.970 align:start position:0%
+commit something new we can see if it
+worked<00:12:19.180><c> or</c><00:12:19.300><c> not</c><00:12:19.360><c> so</c><00:12:19.959><c> going</c><00:12:20.110><c> back</c><00:12:20.319><c> to</c><00:12:20.470><c> our</c><00:12:20.500><c> Linux</c>
+
+00:12:20.970 --> 00:12:20.980 align:start position:0%
+worked or not so going back to our Linux
+ 
+
+00:12:20.980 --> 00:12:22.110 align:start position:0%
+worked or not so going back to our Linux
+computer<00:12:21.399><c> now</c><00:12:21.519><c> let's</c><00:12:21.730><c> go</c><00:12:21.850><c> into</c><00:12:22.060><c> the</c>
+
+00:12:22.110 --> 00:12:22.120 align:start position:0%
+computer now let's go into the
+ 
+
+00:12:22.120 --> 00:12:24.179 align:start position:0%
+computer now let's go into the
+repository<00:12:22.360><c> and</c><00:12:22.930><c> change</c><00:12:23.290><c> something</c><00:12:23.620><c> I'll</c><00:12:23.980><c> go</c>
+
+00:12:24.179 --> 00:12:24.189 align:start position:0%
+repository and change something I'll go
+ 
+
+00:12:24.189 --> 00:12:26.040 align:start position:0%
+repository and change something I'll go
+into<00:12:24.399><c> that</c><00:12:24.430><c> HelloWorld</c><00:12:24.880><c> source</c><00:12:25.449><c> file</c><00:12:25.750><c> and</c>
+
+00:12:26.040 --> 00:12:26.050 align:start position:0%
+into that HelloWorld source file and
+ 
+
+00:12:26.050 --> 00:12:27.780 align:start position:0%
+into that HelloWorld source file and
+I'll<00:12:26.350><c> change</c><00:12:26.589><c> it</c><00:12:26.709><c> to</c><00:12:26.800><c> say</c><00:12:26.949><c> hello</c><00:12:27.250><c> Jenkins</c>
+
+00:12:27.780 --> 00:12:27.790 align:start position:0%
+I'll change it to say hello Jenkins
+ 
+
+00:12:27.790 --> 00:12:29.639 align:start position:0%
+I'll change it to say hello Jenkins
+instead<00:12:28.209><c> of</c><00:12:28.329><c> hello</c><00:12:28.540><c> world</c><00:12:28.569><c> once</c><00:12:29.380><c> we've</c><00:12:29.529><c> done</c>
+
+00:12:29.639 --> 00:12:29.649 align:start position:0%
+instead of hello world once we've done
+ 
+
+00:12:29.649 --> 00:12:31.410 align:start position:0%
+instead of hello world once we've done
+that<00:12:29.709><c> let's</c><00:12:30.069><c> commit</c><00:12:30.399><c> this</c><00:12:30.610><c> we'll</c><00:12:31.120><c> go</c><00:12:31.209><c> to</c><00:12:31.269><c> our</c>
+
+00:12:31.410 --> 00:12:31.420 align:start position:0%
+that let's commit this we'll go to our
+ 
+
+00:12:31.420 --> 00:12:33.329 align:start position:0%
+that let's commit this we'll go to our
+terminal<00:12:31.660><c> let's</c><00:12:32.230><c> just</c><00:12:32.380><c> check</c><00:12:32.529><c> out</c><00:12:32.709><c> get</c><00:12:32.889><c> status</c>
+
+00:12:33.329 --> 00:12:33.339 align:start position:0%
+terminal let's just check out get status
+ 
+
+00:12:33.339 --> 00:12:35.579 align:start position:0%
+terminal let's just check out get status
+ok<00:12:33.880><c> cool</c><00:12:34.089><c> we've</c><00:12:34.269><c> got</c><00:12:34.420><c> that</c><00:12:34.569><c> changed</c><00:12:34.899><c> file</c><00:12:35.199><c> and</c>
+
+00:12:35.579 --> 00:12:35.589 align:start position:0%
+ok cool we've got that changed file and
+ 
+
+00:12:35.589 --> 00:12:37.050 align:start position:0%
+ok cool we've got that changed file and
+it's<00:12:35.860><c> the</c><00:12:35.980><c> only</c><00:12:36.160><c> file</c><00:12:36.339><c> that's</c><00:12:36.519><c> changed</c><00:12:36.819><c> inside</c>
+
+00:12:37.050 --> 00:12:37.060 align:start position:0%
+it's the only file that's changed inside
+ 
+
+00:12:37.060 --> 00:12:38.370 align:start position:0%
+it's the only file that's changed inside
+this<00:12:37.180><c> repository</c><00:12:37.779><c> so</c><00:12:37.870><c> let's</c><00:12:37.990><c> go</c><00:12:38.110><c> ahead</c><00:12:38.230><c> and</c>
+
+00:12:38.370 --> 00:12:38.380 align:start position:0%
+this repository so let's go ahead and
+ 
+
+00:12:38.380 --> 00:12:40.860 align:start position:0%
+this repository so let's go ahead and
+add<00:12:38.649><c> it</c><00:12:38.920><c> and</c><00:12:39.040><c> then</c><00:12:39.579><c> we'll</c><00:12:39.730><c> commit</c><00:12:40.000><c> it</c><00:12:40.180><c> I'll</c>
+
+00:12:40.860 --> 00:12:40.870 align:start position:0%
+add it and then we'll commit it I'll
+ 
+
+00:12:40.870 --> 00:12:42.809 align:start position:0%
+add it and then we'll commit it I'll
+just<00:12:41.139><c> set</c><00:12:41.290><c> the</c><00:12:41.380><c> message</c><00:12:41.680><c> to</c><00:12:41.829><c> be</c><00:12:41.860><c> updated</c>
+
+00:12:42.809 --> 00:12:42.819 align:start position:0%
+just set the message to be updated
+ 
+
+00:12:42.819 --> 00:12:44.699 align:start position:0%
+just set the message to be updated
+program<00:12:43.240><c> once</c><00:12:43.720><c> we've</c><00:12:43.870><c> done</c><00:12:44.019><c> that</c><00:12:44.199><c> let's</c><00:12:44.439><c> push</c>
+
+00:12:44.699 --> 00:12:44.709 align:start position:0%
+program once we've done that let's push
+ 
+
+00:12:44.709 --> 00:12:46.889 align:start position:0%
+program once we've done that let's push
+it<00:12:44.740><c> to</c><00:12:44.949><c> github</c>
+
+00:12:46.889 --> 00:12:46.899 align:start position:0%
+it to github
+ 
+
+00:12:46.899 --> 00:12:48.210 align:start position:0%
+it to github
+you<00:12:46.930><c> can</c><00:12:47.019><c> say</c><00:12:47.170><c> that</c><00:12:47.319><c> as</c><00:12:47.410><c> soon</c><00:12:47.559><c> as</c><00:12:47.709><c> we've</c><00:12:47.829><c> pushed</c>
+
+00:12:48.210 --> 00:12:48.220 align:start position:0%
+you can say that as soon as we've pushed
+ 
+
+00:12:48.220 --> 00:12:50.009 align:start position:0%
+you can say that as soon as we've pushed
+and<00:12:48.399><c> you</c><00:12:48.430><c> commit</c><00:12:48.759><c> to</c><00:12:48.850><c> the</c><00:12:48.939><c> repository</c><00:12:49.180><c> Jenkins</c>
+
+00:12:50.009 --> 00:12:50.019 align:start position:0%
+and you commit to the repository Jenkins
+ 
+
+00:12:50.019 --> 00:12:51.720 align:start position:0%
+and you commit to the repository Jenkins
+has<00:12:50.139><c> received</c><00:12:50.559><c> this</c><00:12:50.709><c> push</c><00:12:51.069><c> event</c><00:12:51.369><c> branch</c>
+
+00:12:51.720 --> 00:12:51.730 align:start position:0%
+has received this push event branch
+ 
+
+00:12:51.730 --> 00:12:53.549 align:start position:0%
+has received this push event branch
+master<00:12:51.999><c> and</c><00:12:52.480><c> it's</c><00:12:52.600><c> already</c><00:12:53.079><c> running</c><00:12:53.290><c> our</c>
+
+00:12:53.549 --> 00:12:53.559 align:start position:0%
+master and it's already running our
+ 
+
+00:12:53.559 --> 00:12:56.009 align:start position:0%
+master and it's already running our
+pipeline<00:12:54.009><c> that</c><00:12:54.550><c> was</c><00:12:54.730><c> honestly</c><00:12:55.029><c> seconds</c><00:12:55.689><c> after</c>
+
+00:12:56.009 --> 00:12:56.019 align:start position:0%
+pipeline that was honestly seconds after
+ 
+
+00:12:56.019 --> 00:12:57.840 align:start position:0%
+pipeline that was honestly seconds after
+that<00:12:56.050><c> push</c><00:12:56.379><c> was</c><00:12:56.589><c> actually</c><00:12:56.920><c> made</c><00:12:57.129><c> and</c><00:12:57.579><c> you</c><00:12:57.730><c> can</c>
+
+00:12:57.840 --> 00:12:57.850 align:start position:0%
+that push was actually made and you can
+ 
+
+00:12:57.850 --> 00:12:59.850 align:start position:0%
+that push was actually made and you can
+see<00:12:57.999><c> that</c><00:12:58.149><c> a</c><00:12:58.180><c> few</c><00:12:58.329><c> seconds</c><00:12:58.720><c> later</c><00:12:58.869><c> six</c><00:12:59.410><c> seconds</c>
+
+00:12:59.850 --> 00:12:59.860 align:start position:0%
+see that a few seconds later six seconds
+ 
+
+00:12:59.860 --> 00:13:01.499 align:start position:0%
+see that a few seconds later six seconds
+later<00:13:00.100><c> it's</c><00:13:00.579><c> all</c><00:13:00.730><c> completed</c><00:13:01.209><c> successfully</c>
+
+00:13:01.499 --> 00:13:01.509 align:start position:0%
+later it's all completed successfully
+ 
+
+00:13:01.509 --> 00:13:03.329 align:start position:0%
+later it's all completed successfully
+and<00:13:01.959><c> our</c><00:13:02.110><c> get</c><00:13:02.350><c> message</c><00:13:02.740><c> has</c><00:13:02.949><c> come</c><00:13:03.009><c> through</c>
+
+00:13:03.329 --> 00:13:03.339 align:start position:0%
+and our get message has come through
+ 
+
+00:13:03.339 --> 00:13:05.369 align:start position:0%
+and our get message has come through
+here<00:13:03.639><c> updated</c><00:13:04.089><c> program</c><00:13:04.449><c> so</c><00:13:04.959><c> let's</c><00:13:05.139><c> click</c><00:13:05.319><c> on</c>
+
+00:13:05.369 --> 00:13:05.379 align:start position:0%
+here updated program so let's click on
+ 
+
+00:13:05.379 --> 00:13:07.019 align:start position:0%
+here updated program so let's click on
+it<00:13:05.619><c> and</c><00:13:05.769><c> see</c><00:13:05.889><c> what</c><00:13:06.040><c> the</c><00:13:06.129><c> result</c><00:13:06.399><c> was</c><00:13:06.550><c> and</c><00:13:06.879><c> you</c>
+
+00:13:07.019 --> 00:13:07.029 align:start position:0%
+it and see what the result was and you
+ 
+
+00:13:07.029 --> 00:13:08.999 align:start position:0%
+it and see what the result was and you
+can<00:13:07.149><c> see</c><00:13:07.179><c> that</c><00:13:07.540><c> our</c><00:13:07.689><c> output</c><00:13:08.170><c> is</c><00:13:08.319><c> in</c><00:13:08.499><c> fact</c><00:13:08.740><c> hello</c>
+
+00:13:08.999 --> 00:13:09.009 align:start position:0%
+can see that our output is in fact hello
+ 
+
+00:13:09.009 --> 00:13:11.160 align:start position:0%
+can see that our output is in fact hello
+Jenkins<00:13:09.490><c> all</c><00:13:09.730><c> of</c><00:13:09.879><c> our</c><00:13:09.999><c> new</c><00:13:10.209><c> changes</c><00:13:10.689><c> have</c><00:13:10.929><c> come</c>
+
+00:13:11.160 --> 00:13:11.170 align:start position:0%
+Jenkins all of our new changes have come
+ 
+
+00:13:11.170 --> 00:13:13.019 align:start position:0%
+Jenkins all of our new changes have come
+through<00:13:11.379><c> and</c><00:13:11.709><c> run</c><00:13:11.920><c> successfully</c><00:13:12.759><c> so</c>
+
+00:13:13.019 --> 00:13:13.029 align:start position:0%
+through and run successfully so
+ 
+
+00:13:13.029 --> 00:13:14.489 align:start position:0%
+through and run successfully so
+hopefully<00:13:13.209><c> that</c><00:13:13.480><c> gave</c><00:13:13.629><c> you</c><00:13:13.779><c> guys</c><00:13:13.929><c> an</c><00:13:14.110><c> idea</c><00:13:14.350><c> of</c>
+
+00:13:14.489 --> 00:13:14.499 align:start position:0%
+hopefully that gave you guys an idea of
+ 
+
+00:13:14.499 --> 00:13:16.530 align:start position:0%
+hopefully that gave you guys an idea of
+how<00:13:14.619><c> you</c><00:13:14.679><c> can</c><00:13:14.889><c> actually</c><00:13:14.949><c> set</c><00:13:15.639><c> up</c><00:13:15.670><c> CI</c><00:13:15.999><c> for</c><00:13:16.389><c> your</c>
+
+00:13:16.530 --> 00:13:16.540 align:start position:0%
+how you can actually set up CI for your
+ 
+
+00:13:16.540 --> 00:13:17.790 align:start position:0%
+how you can actually set up CI for your
+project<00:13:16.990><c> so</c><00:13:17.139><c> that</c><00:13:17.170><c> you're</c><00:13:17.350><c> continually</c>
+
+00:13:17.790 --> 00:13:17.800 align:start position:0%
+project so that you're continually
+ 
+
+00:13:17.800 --> 00:13:20.040 align:start position:0%
+project so that you're continually
+working<00:13:18.309><c> in</c><00:13:18.550><c> a</c><00:13:18.819><c> stable</c><00:13:19.240><c> environment</c><00:13:19.389><c> now</c><00:13:19.990><c> we</c>
+
+00:13:20.040 --> 00:13:20.050 align:start position:0%
+working in a stable environment now we
+ 
+
+00:13:20.050 --> 00:13:22.290 align:start position:0%
+working in a stable environment now we
+did<00:13:20.290><c> use</c><00:13:20.499><c> linux</c><00:13:20.920><c> completely</c><00:13:21.579><c> for</c><00:13:21.879><c> our</c><00:13:21.999><c> whole</c>
+
+00:13:22.290 --> 00:13:22.300 align:start position:0%
+did use linux completely for our whole
+ 
+
+00:13:22.300 --> 00:13:23.579 align:start position:0%
+did use linux completely for our whole
+environment<00:13:22.809><c> today</c><00:13:22.959><c> but</c><00:13:23.230><c> you</c><00:13:23.319><c> can</c><00:13:23.439><c> definitely</c>
+
+00:13:23.579 --> 00:13:23.589 align:start position:0%
+environment today but you can definitely
+ 
+
+00:13:23.589 --> 00:13:25.949 align:start position:0%
+environment today but you can definitely
+apply<00:13:24.129><c> this</c><00:13:24.189><c> to</c><00:13:24.579><c> multiple</c><00:13:25.089><c> platforms</c><00:13:25.779><c> that's</c>
+
+00:13:25.949 --> 00:13:25.959 align:start position:0%
+apply this to multiple platforms that's
+ 
+
+00:13:25.959 --> 00:13:27.359 align:start position:0%
+apply this to multiple platforms that's
+kind<00:13:26.199><c> of</c><00:13:26.259><c> the</c><00:13:26.379><c> whole</c><00:13:26.559><c> point</c><00:13:26.829><c> it's</c><00:13:27.160><c> very</c>
+
+00:13:27.359 --> 00:13:27.369 align:start position:0%
+kind of the whole point it's very
+ 
+
+00:13:27.369 --> 00:13:28.859 align:start position:0%
+kind of the whole point it's very
+popular<00:13:27.550><c> of</c><00:13:27.819><c> course</c><00:13:27.970><c> for</c><00:13:28.179><c> applications</c><00:13:28.689><c> these</c>
+
+00:13:28.859 --> 00:13:28.869 align:start position:0%
+popular of course for applications these
+ 
+
+00:13:28.869 --> 00:13:31.199 align:start position:0%
+popular of course for applications these
+days<00:13:28.929><c> true</c><00:13:29.499><c> target</c><00:13:29.980><c> multiple</c><00:13:30.220><c> platforms</c><00:13:31.059><c> but</c>
+
+00:13:31.199 --> 00:13:31.209 align:start position:0%
+days true target multiple platforms but
+ 
+
+00:13:31.209 --> 00:13:33.480 align:start position:0%
+days true target multiple platforms but
+if<00:13:31.329><c> I'm</c><00:13:31.509><c> working</c><00:13:31.990><c> on</c><00:13:32.050><c> Windows</c><00:13:32.319><c> using</c><00:13:33.069><c> Visual</c>
+
+00:13:33.480 --> 00:13:33.490 align:start position:0%
+if I'm working on Windows using Visual
+ 
+
+00:13:33.490 --> 00:13:36.780 align:start position:0%
+if I'm working on Windows using Visual
+Studio<00:13:33.629><c> but</c><00:13:34.629><c> my</c><00:13:34.839><c> app</c><00:13:35.079><c> also</c><00:13:35.589><c> runs</c><00:13:35.829><c> on</c><00:13:36.100><c> like</c><00:13:36.550><c> a</c>
+
+00:13:36.780 --> 00:13:36.790 align:start position:0%
+Studio but my app also runs on like a
+ 
+
+00:13:36.790 --> 00:13:40.319 align:start position:0%
+Studio but my app also runs on like a
+mobile<00:13:37.029><c> device</c><00:13:37.480><c> or</c><00:13:37.809><c> Mac</c><00:13:38.470><c> or</c><00:13:38.709><c> Linux</c><00:13:38.769><c> I</c><00:13:39.429><c> don't</c>
+
+00:13:40.319 --> 00:13:40.329 align:start position:0%
+mobile device or Mac or Linux I don't
+ 
+
+00:13:40.329 --> 00:13:42.689 align:start position:0%
+mobile device or Mac or Linux I don't
+want<00:13:40.480><c> to</c><00:13:40.569><c> have</c><00:13:40.720><c> to</c><00:13:40.929><c> continually</c><00:13:41.800><c> just</c><00:13:42.040><c> open</c><00:13:42.579><c> up</c>
+
+00:13:42.689 --> 00:13:42.699 align:start position:0%
+want to have to continually just open up
+ 
+
+00:13:42.699 --> 00:13:44.519 align:start position:0%
+want to have to continually just open up
+that<00:13:42.850><c> computer</c><00:13:43.389><c> and</c><00:13:43.540><c> run</c><00:13:43.749><c> all</c><00:13:43.839><c> the</c><00:13:43.959><c> tests</c><00:13:44.379><c> and</c>
+
+00:13:44.519 --> 00:13:44.529 align:start position:0%
+that computer and run all the tests and
+ 
+
+00:13:44.529 --> 00:13:46.470 align:start position:0%
+that computer and run all the tests and
+actually<00:13:45.160><c> make</c><00:13:45.339><c> sure</c><00:13:45.369><c> that</c><00:13:45.550><c> my</c><00:13:45.790><c> code</c><00:13:46.029><c> compiles</c>
+
+00:13:46.470 --> 00:13:46.480 align:start position:0%
+actually make sure that my code compiles
+ 
+
+00:13:46.480 --> 00:13:49.470 align:start position:0%
+actually make sure that my code compiles
+on<00:13:46.569><c> clang</c><00:13:46.839><c> and</c><00:13:47.110><c> not</c><00:13:47.529><c> just</c><00:13:47.740><c> em</c><00:13:47.889><c> SVC</c><00:13:48.429><c> I</c><00:13:48.639><c> want</c><00:13:49.179><c> CI</c>
+
+00:13:49.470 --> 00:13:49.480 align:start position:0%
+on clang and not just em SVC I want CI
+ 
+
+00:13:49.480 --> 00:13:51.360 align:start position:0%
+on clang and not just em SVC I want CI
+to<00:13:49.629><c> do</c><00:13:49.869><c> that</c><00:13:50.050><c> for</c><00:13:50.379><c> me</c><00:13:50.529><c> and</c><00:13:50.709><c> that's</c><00:13:50.889><c> one</c><00:13:51.160><c> of</c><00:13:51.279><c> the</c>
+
+00:13:51.360 --> 00:13:51.370 align:start position:0%
+to do that for me and that's one of the
+ 
+
+00:13:51.370 --> 00:13:53.069 align:start position:0%
+to do that for me and that's one of the
+really<00:13:51.610><c> strong</c><00:13:51.759><c> benefits</c><00:13:52.569><c> of</c><00:13:52.749><c> setting</c>
+
+00:13:53.069 --> 00:13:53.079 align:start position:0%
+really strong benefits of setting
+ 
+
+00:13:53.079 --> 00:13:54.569 align:start position:0%
+really strong benefits of setting
+something<00:13:53.529><c> like</c><00:13:53.649><c> this</c><00:13:53.800><c> up</c><00:13:54.069><c> anyway</c><00:13:54.370><c> that's</c>
+
+00:13:54.569 --> 00:13:54.579 align:start position:0%
+something like this up anyway that's
+ 
+
+00:13:54.579 --> 00:13:56.069 align:start position:0%
+something like this up anyway that's
+probably<00:13:54.790><c> a</c><00:13:54.850><c> story</c><00:13:55.059><c> for</c><00:13:55.300><c> another</c><00:13:55.389><c> video</c><00:13:55.720><c> I</c>
+
+00:13:56.069 --> 00:13:56.079 align:start position:0%
+probably a story for another video I
+ 
+
+00:13:56.079 --> 00:13:57.509 align:start position:0%
+probably a story for another video I
+hope<00:13:56.259><c> you</c><00:13:56.350><c> guys</c><00:13:56.499><c> enjoyed</c><00:13:56.920><c> this</c><00:13:57.040><c> video</c><00:13:57.189><c> if</c><00:13:57.370><c> you</c>
+
+00:13:57.509 --> 00:13:57.519 align:start position:0%
+hope you guys enjoyed this video if you
+ 
+
+00:13:57.519 --> 00:13:59.129 align:start position:0%
+hope you guys enjoyed this video if you
+did<00:13:57.639><c> please</c><00:13:57.699><c> hit</c><00:13:58.059><c> that</c><00:13:58.089><c> like</c><00:13:58.480><c> button</c><00:13:58.509><c> a</c><00:13:58.870><c> huge</c>
+
+00:13:59.129 --> 00:13:59.139 align:start position:0%
+did please hit that like button a huge
+ 
+
+00:13:59.139 --> 00:14:00.749 align:start position:0%
+did please hit that like button a huge
+thank<00:13:59.379><c> you</c><00:13:59.470><c> again</c><00:13:59.620><c> to</c><00:13:59.949><c> Leonard</c><00:14:00.160><c> for</c>
+
+00:14:00.749 --> 00:14:00.759 align:start position:0%
+thank you again to Leonard for
+ 
+
+00:14:00.759 --> 00:14:02.519 align:start position:0%
+thank you again to Leonard for
+sponsoring<00:14:01.209><c> this</c><00:14:01.449><c> video</c><00:14:01.660><c> you</c><00:14:02.139><c> guys</c><00:14:02.259><c> can</c><00:14:02.439><c> try</c>
+
+00:14:02.519 --> 00:14:02.529 align:start position:0%
+sponsoring this video you guys can try
+ 
+
+00:14:02.529 --> 00:14:04.049 align:start position:0%
+sponsoring this video you guys can try
+later<00:14:02.740><c> it</c><00:14:02.949><c> out</c><00:14:03.069><c> for</c><00:14:03.309><c> yourselves</c><00:14:03.730><c> there's</c><00:14:03.999><c> a</c>
+
+00:14:04.049 --> 00:14:04.059 align:start position:0%
+later it out for yourselves there's a
+ 
+
+00:14:04.059 --> 00:14:05.819 align:start position:0%
+later it out for yourselves there's a
+link<00:14:04.240><c> in</c><00:14:04.360><c> the</c><00:14:04.449><c> description</c><00:14:04.870><c> to</c><00:14:04.990><c> get</c><00:14:05.139><c> $20</c>
+
+00:14:05.819 --> 00:14:05.829 align:start position:0%
+link in the description to get $20
+ 
+
+00:14:05.829 --> 00:14:08.160 align:start position:0%
+link in the description to get $20
+credit<00:14:05.980><c> toward</c><00:14:06.459><c> a</c><00:14:06.639><c> new</c><00:14:06.850><c> Lonard</c><00:14:07.179><c> account</c><00:14:07.509><c> check</c>
+
+00:14:08.160 --> 00:14:08.170 align:start position:0%
+credit toward a new Lonard account check
+ 
+
+00:14:08.170 --> 00:14:09.179 align:start position:0%
+credit toward a new Lonard account check
+it<00:14:08.290><c> out</c><00:14:08.379><c> and</c><00:14:08.499><c> let</c><00:14:08.589><c> me</c><00:14:08.649><c> know</c><00:14:08.740><c> what</c><00:14:08.889><c> you</c><00:14:08.949><c> think</c>
+
+00:14:09.179 --> 00:14:09.189 align:start position:0%
+it out and let me know what you think
+ 
+
+00:14:09.189 --> 00:14:10.470 align:start position:0%
+it out and let me know what you think
+you<00:14:09.370><c> can</c><00:14:09.519><c> use</c><00:14:09.639><c> that</c><00:14:09.670><c> credit</c><00:14:10.059><c> to</c><00:14:10.089><c> try</c><00:14:10.329><c> out</c>
+
+00:14:10.470 --> 00:14:10.480 align:start position:0%
+you can use that credit to try out
+ 
+
+00:14:10.480 --> 00:14:12.269 align:start position:0%
+you can use that credit to try out
+Leonard's<00:14:10.870><c> growing</c><00:14:11.199><c> list</c><00:14:11.379><c> of</c><00:14:11.499><c> applications</c>
+
+00:14:12.269 --> 00:14:12.279 align:start position:0%
+Leonard's growing list of applications
+ 
+
+00:14:12.279 --> 00:14:14.160 align:start position:0%
+Leonard's growing list of applications
+such<00:14:12.550><c> as</c><00:14:12.579><c> setting</c><00:14:13.059><c> up</c><00:14:13.179><c> a</c><00:14:13.329><c> Jenkins</c><00:14:13.720><c> server</c><00:14:13.929><c> like</c>
+
+00:14:14.160 --> 00:14:14.170 align:start position:0%
+such as setting up a Jenkins server like
+ 
+
+00:14:14.170 --> 00:14:16.350 align:start position:0%
+such as setting up a Jenkins server like
+I<00:14:14.290><c> did</c><00:14:14.470><c> in</c><00:14:14.649><c> this</c><00:14:14.829><c> video</c><00:14:15.129><c> we</c><00:14:15.699><c> can</c><00:14:15.850><c> really</c><00:14:16.059><c> use</c><00:14:16.209><c> it</c>
+
+00:14:16.350 --> 00:14:16.360 align:start position:0%
+I did in this video we can really use it
+ 
+
+00:14:16.360 --> 00:14:17.669 align:start position:0%
+I did in this video we can really use it
+to<00:14:16.449><c> host</c><00:14:16.569><c> any</c><00:14:16.749><c> projects</c><00:14:17.170><c> you</c><00:14:17.230><c> like</c><00:14:17.410><c> online</c>
+
+00:14:17.669 --> 00:14:17.679 align:start position:0%
+to host any projects you like online
+ 
+
+00:14:17.679 --> 00:14:19.230 align:start position:0%
+to host any projects you like online
+give<00:14:18.189><c> them</c><00:14:18.309><c> a</c><00:14:18.339><c> shot</c><00:14:18.550><c> and</c><00:14:18.579><c> let</c><00:14:18.819><c> me</c><00:14:18.999><c> know</c><00:14:19.120><c> what</c>
+
+00:14:19.230 --> 00:14:19.240 align:start position:0%
+give them a shot and let me know what
+ 
+
+00:14:19.240 --> 00:14:20.910 align:start position:0%
+give them a shot and let me know what
+you<00:14:19.300><c> guys</c><00:14:19.389><c> think</c><00:14:19.749><c> and</c><00:14:19.990><c> I</c><00:14:20.410><c> will</c><00:14:20.559><c> see</c><00:14:20.679><c> you</c><00:14:20.740><c> next</c>
+
+00:14:20.910 --> 00:14:20.920 align:start position:0%
+you guys think and I will see you next
+ 
+
+00:14:20.920 --> 00:14:21.560 align:start position:0%
+you guys think and I will see you next
+time<00:14:21.040><c> goodbye</c>
+
+00:14:21.560 --> 00:14:21.570 align:start position:0%
+time goodbye
+ 
+
+00:14:21.570 --> 00:14:36.850 align:start position:0%
+time goodbye
+[Music]
+
+00:14:36.850 --> 00:14:36.860 align:start position:0%
+ 
+ 
+
+00:14:36.860 --> 00:14:38.920 align:start position:0%
+ 
+you
+

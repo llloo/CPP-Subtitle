@@ -1,0 +1,3048 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:00.000 --> 00:00:01.610 align:start position:0%
+ 
+hey<00:00:00.149><c> what's</c><00:00:00.329><c> up</c><00:00:00.390><c> guys</c><00:00:00.539><c> my</c><00:00:00.989><c> name</c><00:00:01.020><c> is</c><00:00:01.199><c> a</c><00:00:01.319><c> Cherno</c>
+
+00:00:01.610 --> 00:00:01.620 align:start position:0%
+hey what's up guys my name is a Cherno
+ 
+
+00:00:01.620 --> 00:00:04.400 align:start position:0%
+hey what's up guys my name is a Cherno
+welcome<00:00:02.399><c> to</c><00:00:02.580><c> another</c><00:00:02.730><c> video</c><00:00:03.179><c> so</c><00:00:03.810><c> I'm</c><00:00:04.170><c> on</c><00:00:04.319><c> the</c>
+
+00:00:04.400 --> 00:00:04.410 align:start position:0%
+welcome to another video so I'm on the
+ 
+
+00:00:04.410 --> 00:00:06.499 align:start position:0%
+welcome to another video so I'm on the
+couch<00:00:04.589><c> this</c><00:00:04.890><c> time</c><00:00:05.130><c> after</c><00:00:05.819><c> a</c><00:00:05.850><c> long</c><00:00:06.089><c> day</c><00:00:06.359><c> of</c><00:00:06.390><c> work</c>
+
+00:00:06.499 --> 00:00:06.509 align:start position:0%
+couch this time after a long day of work
+ 
+
+00:00:06.509 --> 00:00:09.169 align:start position:0%
+couch this time after a long day of work
+for<00:00:06.960><c> I've</c><00:00:07.080><c> mixed</c><00:00:07.290><c> it</c><00:00:07.500><c> up</c><00:00:07.849><c> let's</c><00:00:08.849><c> talk</c><00:00:09.030><c> about</c>
+
+00:00:09.169 --> 00:00:09.179 align:start position:0%
+for I've mixed it up let's talk about
+ 
+
+00:00:09.179 --> 00:00:10.790 align:start position:0%
+for I've mixed it up let's talk about
+variables<00:00:09.690><c> in</c><00:00:09.960><c> step</c><00:00:10.200><c> above</c>
+
+00:00:10.790 --> 00:00:10.800 align:start position:0%
+variables in step above
+ 
+
+00:00:10.800 --> 00:00:14.509 align:start position:0%
+variables in step above
+so<00:00:11.040><c> when</c><00:00:11.429><c> we</c><00:00:11.550><c> write</c><00:00:11.700><c> a</c><00:00:11.759><c> program</c><00:00:12.179><c> in</c><00:00:12.780><c> C++</c><00:00:13.769><c> we</c>
+
+00:00:14.509 --> 00:00:14.519 align:start position:0%
+so when we write a program in C++ we
+ 
+
+00:00:14.519 --> 00:00:17.210 align:start position:0%
+so when we write a program in C++ we
+want<00:00:14.730><c> to</c><00:00:14.790><c> be</c><00:00:14.849><c> able</c><00:00:14.940><c> to</c><00:00:15.240><c> use</c><00:00:15.690><c> data</c><00:00:16.170><c> most</c><00:00:16.949><c> of</c><00:00:17.100><c> what</c>
+
+00:00:17.210 --> 00:00:17.220 align:start position:0%
+want to be able to use data most of what
+ 
+
+00:00:17.220 --> 00:00:19.429 align:start position:0%
+want to be able to use data most of what
+programming<00:00:17.730><c> is</c><00:00:17.820><c> about</c><00:00:17.910><c> is</c><00:00:18.359><c> actually</c><00:00:18.810><c> using</c>
+
+00:00:19.429 --> 00:00:19.439 align:start position:0%
+programming is about is actually using
+ 
+
+00:00:19.439 --> 00:00:23.090 align:start position:0%
+programming is about is actually using
+data<00:00:19.890><c> we</c><00:00:20.930><c> manipulate</c><00:00:21.930><c> data</c><00:00:22.170><c> that's</c><00:00:22.800><c> what</c><00:00:22.980><c> we</c>
+
+00:00:23.090 --> 00:00:23.100 align:start position:0%
+data we manipulate data that's what we
+ 
+
+00:00:23.100 --> 00:00:24.950 align:start position:0%
+data we manipulate data that's what we
+do<00:00:23.279><c> so</c><00:00:23.670><c> any</c><00:00:23.880><c> kind</c><00:00:24.029><c> of</c><00:00:24.119><c> data</c><00:00:24.359><c> that</c><00:00:24.449><c> we</c><00:00:24.600><c> use</c><00:00:24.810><c> in</c>
+
+00:00:24.950 --> 00:00:24.960 align:start position:0%
+do so any kind of data that we use in
+ 
+
+00:00:24.960 --> 00:00:27.170 align:start position:0%
+do so any kind of data that we use in
+our<00:00:25.019><c> program</c><00:00:25.289><c> that</c><00:00:25.529><c> we</c><00:00:25.859><c> want</c><00:00:26.070><c> to</c><00:00:26.250><c> change</c><00:00:26.730><c> that</c>
+
+00:00:27.170 --> 00:00:27.180 align:start position:0%
+our program that we want to change that
+ 
+
+00:00:27.180 --> 00:00:28.790 align:start position:0%
+our program that we want to change that
+we<00:00:27.269><c> want</c><00:00:27.390><c> to</c><00:00:27.510><c> modify</c><00:00:27.869><c> that</c><00:00:28.199><c> we</c><00:00:28.289><c> want</c><00:00:28.470><c> to</c><00:00:28.560><c> read</c>
+
+00:00:28.790 --> 00:00:28.800 align:start position:0%
+we want to modify that we want to read
+ 
+
+00:00:28.800 --> 00:00:30.890 align:start position:0%
+we want to modify that we want to read
+and<00:00:28.980><c> write</c><00:00:29.220><c> from</c><00:00:29.550><c> we</c><00:00:30.210><c> need</c><00:00:30.390><c> to</c><00:00:30.480><c> store</c><00:00:30.750><c> this</c>
+
+00:00:30.890 --> 00:00:30.900 align:start position:0%
+and write from we need to store this
+ 
+
+00:00:30.900 --> 00:00:33.110 align:start position:0%
+and write from we need to store this
+data<00:00:30.960><c> in</c><00:00:31.439><c> something</c><00:00:31.890><c> called</c><00:00:32.070><c> a</c><00:00:32.160><c> variable</c><00:00:32.579><c> so</c>
+
+00:00:33.110 --> 00:00:33.120 align:start position:0%
+data in something called a variable so
+ 
+
+00:00:33.120 --> 00:00:35.180 align:start position:0%
+data in something called a variable so
+variables<00:00:33.480><c> basically</c><00:00:33.840><c> allow</c><00:00:34.020><c> us</c><00:00:34.200><c> to</c><00:00:34.469><c> name</c><00:00:34.860><c> a</c>
+
+00:00:35.180 --> 00:00:35.190 align:start position:0%
+variables basically allow us to name a
+ 
+
+00:00:35.190 --> 00:00:38.090 align:start position:0%
+variables basically allow us to name a
+piece<00:00:35.820><c> of</c><00:00:36.000><c> data</c><00:00:36.180><c> that</c><00:00:36.600><c> we</c><00:00:37.170><c> store</c><00:00:37.440><c> in</c><00:00:37.500><c> memory</c><00:00:37.710><c> so</c>
+
+00:00:38.090 --> 00:00:38.100 align:start position:0%
+piece of data that we store in memory so
+ 
+
+00:00:38.100 --> 00:00:39.740 align:start position:0%
+piece of data that we store in memory so
+that<00:00:38.129><c> we</c><00:00:38.309><c> can</c><00:00:38.460><c> keep</c><00:00:38.820><c> using</c><00:00:39.090><c> it</c><00:00:39.329><c> as</c><00:00:39.480><c> an</c><00:00:39.660><c> example</c>
+
+00:00:39.740 --> 00:00:39.750 align:start position:0%
+that we can keep using it as an example
+ 
+
+00:00:39.750 --> 00:00:41.750 align:start position:0%
+that we can keep using it as an example
+pretend<00:00:40.649><c> that</c><00:00:40.739><c> you're</c><00:00:40.890><c> making</c><00:00:41.040><c> a</c><00:00:41.250><c> game</c><00:00:41.460><c> and</c>
+
+00:00:41.750 --> 00:00:41.760 align:start position:0%
+pretend that you're making a game and
+ 
+
+00:00:41.760 --> 00:00:43.790 align:start position:0%
+pretend that you're making a game and
+you've<00:00:42.600><c> got</c><00:00:42.750><c> a</c><00:00:42.780><c> player</c><00:00:43.020><c> in</c><00:00:43.230><c> your</c><00:00:43.379><c> game</c><00:00:43.590><c> and</c>
+
+00:00:43.790 --> 00:00:43.800 align:start position:0%
+you've got a player in your game and
+ 
+
+00:00:43.800 --> 00:00:46.010 align:start position:0%
+you've got a player in your game and
+that<00:00:44.610><c> player</c><00:00:44.879><c> character</c><00:00:45.360><c> has</c><00:00:45.510><c> some</c><00:00:45.719><c> kind</c><00:00:45.930><c> of</c>
+
+00:00:46.010 --> 00:00:46.020 align:start position:0%
+that player character has some kind of
+ 
+
+00:00:46.020 --> 00:00:47.750 align:start position:0%
+that player character has some kind of
+position<00:00:46.410><c> on</c><00:00:46.500><c> the</c><00:00:46.590><c> map</c><00:00:46.770><c> and</c><00:00:47.039><c> the</c><00:00:47.610><c> player</c>
+
+00:00:47.750 --> 00:00:47.760 align:start position:0%
+position on the map and the player
+ 
+
+00:00:47.760 --> 00:00:49.639 align:start position:0%
+position on the map and the player
+character<00:00:48.149><c> can</c><00:00:48.180><c> move</c><00:00:48.570><c> so</c><00:00:49.050><c> we</c><00:00:49.200><c> need</c><00:00:49.320><c> to</c><00:00:49.410><c> be</c><00:00:49.500><c> able</c>
+
+00:00:49.639 --> 00:00:49.649 align:start position:0%
+character can move so we need to be able
+ 
+
+00:00:49.649 --> 00:00:51.350 align:start position:0%
+character can move so we need to be able
+to<00:00:49.739><c> store</c><00:00:49.920><c> the</c><00:00:50.070><c> player's</c><00:00:50.280><c> position</c><00:00:50.520><c> as</c><00:00:51.090><c> some</c>
+
+00:00:51.350 --> 00:00:51.360 align:start position:0%
+to store the player's position as some
+ 
+
+00:00:51.360 --> 00:00:53.330 align:start position:0%
+to store the player's position as some
+kind<00:00:51.539><c> of</c><00:00:51.719><c> variable</c><00:00:52.230><c> in</c><00:00:52.350><c> our</c><00:00:52.469><c> memory</c><00:00:52.829><c> so</c><00:00:53.129><c> that</c>
+
+00:00:53.330 --> 00:00:53.340 align:start position:0%
+kind of variable in our memory so that
+ 
+
+00:00:53.340 --> 00:00:55.069 align:start position:0%
+kind of variable in our memory so that
+when<00:00:53.850><c> it</c><00:00:53.940><c> comes</c><00:00:54.090><c> time</c><00:00:54.329><c> to</c><00:00:54.510><c> draw</c><00:00:54.690><c> the</c><00:00:54.750><c> player</c><00:00:54.960><c> on</c>
+
+00:00:55.069 --> 00:00:55.079 align:start position:0%
+when it comes time to draw the player on
+ 
+
+00:00:55.079 --> 00:00:57.110 align:start position:0%
+when it comes time to draw the player on
+the<00:00:55.199><c> screen</c><00:00:55.530><c> or</c><00:00:55.829><c> interact</c><00:00:56.520><c> with</c><00:00:56.699><c> the</c><00:00:56.789><c> rest</c><00:00:57.000><c> of</c>
+
+00:00:57.110 --> 00:00:57.120 align:start position:0%
+the screen or interact with the rest of
+ 
+
+00:00:57.120 --> 00:00:59.299 align:start position:0%
+the screen or interact with the rest of
+the<00:00:57.239><c> level</c><00:00:57.539><c> we</c><00:00:57.930><c> can</c><00:00:58.109><c> actually</c><00:00:58.469><c> see</c><00:00:58.680><c> hey</c><00:00:58.949><c> where</c>
+
+00:00:59.299 --> 00:00:59.309 align:start position:0%
+the level we can actually see hey where
+ 
+
+00:00:59.309 --> 00:01:01.250 align:start position:0%
+the level we can actually see hey where
+on<00:00:59.460><c> earth</c><00:00:59.670><c> is</c><00:00:59.910><c> the</c><00:01:00.059><c> player</c><00:01:00.300><c> so</c><00:01:00.780><c> we</c><00:01:00.930><c> would</c><00:01:01.079><c> want</c>
+
+00:01:01.250 --> 00:01:01.260 align:start position:0%
+on earth is the player so we would want
+ 
+
+00:01:01.260 --> 00:01:02.569 align:start position:0%
+on earth is the player so we would want
+to<00:01:01.289><c> store</c><00:01:01.530><c> the</c><00:01:01.620><c> players</c><00:01:01.829><c> position</c><00:01:02.039><c> in</c><00:01:02.460><c> a</c>
+
+00:01:02.569 --> 00:01:02.579 align:start position:0%
+to store the players position in a
+ 
+
+00:01:02.579 --> 00:01:04.369 align:start position:0%
+to store the players position in a
+variable<00:01:02.879><c> this</c><00:01:03.270><c> is</c><00:01:03.480><c> basically</c><00:01:03.870><c> one</c><00:01:04.110><c> of</c><00:01:04.229><c> the</c>
+
+00:01:04.369 --> 00:01:04.379 align:start position:0%
+variable this is basically one of the
+ 
+
+00:01:04.379 --> 00:01:06.830 align:start position:0%
+variable this is basically one of the
+fundamentals<00:01:05.159><c> of</c><00:01:05.280><c> writing</c><00:01:05.339><c> a</c><00:01:05.670><c> program</c><00:01:06.119><c> in</c><00:01:06.510><c> any</c>
+
+00:01:06.830 --> 00:01:06.840 align:start position:0%
+fundamentals of writing a program in any
+ 
+
+00:01:06.840 --> 00:01:09.109 align:start position:0%
+fundamentals of writing a program in any
+language<00:01:07.080><c> we</c><00:01:07.860><c> need</c><00:01:08.010><c> to</c><00:01:08.159><c> be</c><00:01:08.280><c> able</c><00:01:08.400><c> to</c><00:01:08.549><c> play</c><00:01:08.909><c> with</c>
+
+00:01:09.109 --> 00:01:09.119 align:start position:0%
+language we need to be able to play with
+ 
+
+00:01:09.119 --> 00:01:12.050 align:start position:0%
+language we need to be able to play with
+data<00:01:09.360><c> and</c><00:01:09.740><c> store</c><00:01:10.740><c> that</c><00:01:10.770><c> data</c><00:01:11.250><c> somewhere</c><00:01:11.520><c> when</c>
+
+00:01:12.050 --> 00:01:12.060 align:start position:0%
+data and store that data somewhere when
+ 
+
+00:01:12.060 --> 00:01:13.550 align:start position:0%
+data and store that data somewhere when
+we<00:01:12.180><c> create</c><00:01:12.390><c> a</c><00:01:12.420><c> variable</c><00:01:12.780><c> is</c><00:01:13.049><c> going</c><00:01:13.260><c> to</c><00:01:13.409><c> be</c>
+
+00:01:13.550 --> 00:01:13.560 align:start position:0%
+we create a variable is going to be
+ 
+
+00:01:13.560 --> 00:01:15.800 align:start position:0%
+we create a variable is going to be
+stored<00:01:13.860><c> in</c><00:01:14.100><c> memory</c><00:01:14.490><c> in</c><00:01:14.880><c> one</c><00:01:15.299><c> of</c><00:01:15.420><c> two</c><00:01:15.659><c> places</c>
+
+00:01:15.800 --> 00:01:15.810 align:start position:0%
+stored in memory in one of two places
+ 
+
+00:01:15.810 --> 00:01:17.960 align:start position:0%
+stored in memory in one of two places
+the<00:01:16.380><c> stack</c><00:01:16.650><c> or</c><00:01:16.890><c> the</c><00:01:16.950><c> heap</c><00:01:17.070><c> don't</c><00:01:17.580><c> worry</c><00:01:17.759><c> we're</c>
+
+00:01:17.960 --> 00:01:17.970 align:start position:0%
+the stack or the heap don't worry we're
+ 
+
+00:01:17.970 --> 00:01:19.880 align:start position:0%
+the stack or the heap don't worry we're
+going<00:01:18.060><c> to</c><00:01:18.119><c> have</c><00:01:18.270><c> a</c><00:01:18.479><c> lot</c><00:01:18.840><c> of</c><00:01:18.869><c> videos</c><00:01:19.439><c> discussing</c>
+
+00:01:19.880 --> 00:01:19.890 align:start position:0%
+going to have a lot of videos discussing
+ 
+
+00:01:19.890 --> 00:01:22.340 align:start position:0%
+going to have a lot of videos discussing
+how<00:01:20.250><c> memory</c><00:01:20.640><c> actually</c><00:01:21.180><c> work</c><00:01:21.420><c> so</c><00:01:22.110><c> if</c><00:01:22.229><c> you're</c>
+
+00:01:22.340 --> 00:01:22.350 align:start position:0%
+how memory actually work so if you're
+ 
+
+00:01:22.350 --> 00:01:23.870 align:start position:0%
+how memory actually work so if you're
+looking<00:01:22.560><c> for</c><00:01:22.680><c> a</c><00:01:22.770><c> more</c><00:01:22.950><c> more</c><00:01:23.280><c> of</c><00:01:23.340><c> an</c><00:01:23.400><c> in-depth</c>
+
+00:01:23.870 --> 00:01:23.880 align:start position:0%
+looking for a more more of an in-depth
+ 
+
+00:01:23.880 --> 00:01:25.730 align:start position:0%
+looking for a more more of an in-depth
+kind<00:01:24.240><c> of</c><00:01:24.330><c> explanation</c><00:01:24.900><c> that'll</c><00:01:25.590><c> definitely</c>
+
+00:01:25.730 --> 00:01:25.740 align:start position:0%
+kind of explanation that'll definitely
+ 
+
+00:01:25.740 --> 00:01:27.260 align:start position:0%
+kind of explanation that'll definitely
+come<00:01:26.220><c> but</c><00:01:26.610><c> for</c><00:01:26.640><c> now</c><00:01:26.850><c> just</c><00:01:26.880><c> know</c><00:01:27.240><c> that</c>
+
+00:01:27.260 --> 00:01:27.270 align:start position:0%
+come but for now just know that
+ 
+
+00:01:27.270 --> 00:01:29.719 align:start position:0%
+come but for now just know that
+variables<00:01:27.780><c> do</c><00:01:28.020><c> occupy</c><00:01:28.619><c> memory</c><00:01:29.130><c> that's</c><00:01:29.430><c> where</c>
+
+00:01:29.719 --> 00:01:29.729 align:start position:0%
+variables do occupy memory that's where
+ 
+
+00:01:29.729 --> 00:01:31.640 align:start position:0%
+variables do occupy memory that's where
+we<00:01:29.909><c> actually</c><00:01:30.090><c> store</c><00:01:30.630><c> the</c><00:01:30.750><c> data</c><00:01:30.960><c> in</c><00:01:31.290><c> our</c>
+
+00:01:31.640 --> 00:01:31.650 align:start position:0%
+we actually store the data in our
+ 
+
+00:01:31.650 --> 00:01:34.219 align:start position:0%
+we actually store the data in our
+computer's<00:01:32.189><c> memory</c><00:01:32.340><c> in</c><00:01:32.759><c> C++</c><00:01:33.509><c> were</c><00:01:33.750><c> given</c><00:01:34.079><c> a</c>
+
+00:01:34.219 --> 00:01:34.229 align:start position:0%
+computer's memory in C++ were given a
+ 
+
+00:01:34.229 --> 00:01:36.170 align:start position:0%
+computer's memory in C++ were given a
+bunch<00:01:34.439><c> of</c><00:01:34.650><c> primitive</c><00:01:35.369><c> data</c><00:01:35.400><c> types</c>
+
+00:01:36.170 --> 00:01:36.180 align:start position:0%
+bunch of primitive data types
+ 
+
+00:01:36.180 --> 00:01:38.990 align:start position:0%
+bunch of primitive data types
+these<00:01:36.720><c> primitive</c><00:01:37.020><c> data</c><00:01:37.409><c> types</c><00:01:38.000><c> essentially</c>
+
+00:01:38.990 --> 00:01:39.000 align:start position:0%
+these primitive data types essentially
+ 
+
+00:01:39.000 --> 00:01:41.450 align:start position:0%
+these primitive data types essentially
+form<00:01:39.299><c> the</c><00:01:39.450><c> building</c><00:01:39.780><c> blocks</c><00:01:40.020><c> of</c><00:01:40.200><c> any</c><00:01:40.619><c> kind</c><00:01:41.310><c> of</c>
+
+00:01:41.450 --> 00:01:41.460 align:start position:0%
+form the building blocks of any kind of
+ 
+
+00:01:41.460 --> 00:01:43.639 align:start position:0%
+form the building blocks of any kind of
+data<00:01:41.700><c> we</c><00:01:42.000><c> store</c><00:01:42.060><c> in</c><00:01:42.390><c> our</c><00:01:42.509><c> program</c><00:01:42.960><c> each</c><00:01:43.259><c> data</c>
+
+00:01:43.639 --> 00:01:43.649 align:start position:0%
+data we store in our program each data
+ 
+
+00:01:43.649 --> 00:01:45.289 align:start position:0%
+data we store in our program each data
+type<00:01:43.890><c> that</c><00:01:43.920><c> Super</c><00:01:44.369><c> Plus</c><00:01:44.460><c> gives</c><00:01:44.729><c> us</c><00:01:44.909><c> has</c><00:01:45.270><c> a</c>
+
+00:01:45.289 --> 00:01:45.299 align:start position:0%
+type that Super Plus gives us has a
+ 
+
+00:01:45.299 --> 00:01:47.810 align:start position:0%
+type that Super Plus gives us has a
+specific<00:01:46.020><c> purpose</c><00:01:46.200><c> whilst</c><00:01:47.100><c> it</c><00:01:47.310><c> has</c><00:01:47.549><c> a</c>
+
+00:01:47.810 --> 00:01:47.820 align:start position:0%
+specific purpose whilst it has a
+ 
+
+00:01:47.820 --> 00:01:51.050 align:start position:0%
+specific purpose whilst it has a
+specific<00:01:48.060><c> purpose</c><00:01:49.399><c> you</c><00:01:50.399><c> don't</c><00:01:50.549><c> actually</c><00:01:50.790><c> have</c>
+
+00:01:51.050 --> 00:01:51.060 align:start position:0%
+specific purpose you don't actually have
+ 
+
+00:01:51.060 --> 00:01:52.639 align:start position:0%
+specific purpose you don't actually have
+to<00:01:51.450><c> use</c><00:01:51.689><c> it</c><00:01:51.840><c> for</c><00:01:52.020><c> that</c><00:01:52.079><c> purpose</c><00:01:52.140><c> if</c>
+
+00:01:52.639 --> 00:01:52.649 align:start position:0%
+to use it for that purpose if
+ 
+
+00:01:52.649 --> 00:01:54.230 align:start position:0%
+to use it for that purpose if
+interesting<00:01:53.369><c> because</c><00:01:53.490><c> if</c><00:01:53.790><c> applause</c><00:01:54.030><c> is</c><00:01:54.180><c> a</c>
+
+00:01:54.230 --> 00:01:54.240 align:start position:0%
+interesting because if applause is a
+ 
+
+00:01:54.240 --> 00:01:56.539 align:start position:0%
+interesting because if applause is a
+very<00:01:54.390><c> powerful</c><00:01:54.630><c> language</c><00:01:55.079><c> which</c><00:01:55.829><c> means</c><00:01:56.009><c> there</c>
+
+00:01:56.539 --> 00:01:56.549 align:start position:0%
+very powerful language which means there
+ 
+
+00:01:56.549 --> 00:01:58.760 align:start position:0%
+very powerful language which means there
+are<00:01:56.700><c> actually</c><00:01:57.210><c> very</c><00:01:57.509><c> few</c><00:01:57.630><c> rules</c><00:01:58.079><c> when</c><00:01:58.560><c> you</c>
+
+00:01:58.760 --> 00:01:58.770 align:start position:0%
+are actually very few rules when you
+ 
+
+00:01:58.770 --> 00:02:01.760 align:start position:0%
+are actually very few rules when you
+actually<00:01:58.979><c> get</c><00:01:59.610><c> down</c><00:01:59.670><c> to</c><00:02:00.240><c> it</c><00:02:00.360><c> so</c><00:02:01.049><c> when</c><00:02:01.740><c> I</c>
+
+00:02:01.760 --> 00:02:01.770 align:start position:0%
+actually get down to it so when I
+ 
+
+00:02:01.770 --> 00:02:03.530 align:start position:0%
+actually get down to it so when I
+explain<00:02:02.280><c> variables</c><00:02:02.790><c> I</c><00:02:02.969><c> like</c><00:02:03.180><c> to</c><00:02:03.329><c> say</c><00:02:03.509><c> that</c>
+
+00:02:03.530 --> 00:02:03.540 align:start position:0%
+explain variables I like to say that
+ 
+
+00:02:03.540 --> 00:02:05.870 align:start position:0%
+explain variables I like to say that
+really<00:02:04.229><c> the</c><00:02:04.409><c> only</c><00:02:04.619><c> distinction</c><00:02:05.189><c> between</c><00:02:05.549><c> the</c>
+
+00:02:05.870 --> 00:02:05.880 align:start position:0%
+really the only distinction between the
+ 
+
+00:02:05.880 --> 00:02:07.280 align:start position:0%
+really the only distinction between the
+different<00:02:06.180><c> variable</c><00:02:06.630><c> types</c><00:02:06.810><c> you</c><00:02:07.020><c> have</c><00:02:07.049><c> in</c>
+
+00:02:07.280 --> 00:02:07.290 align:start position:0%
+different variable types you have in
+ 
+
+00:02:07.290 --> 00:02:10.669 align:start position:0%
+different variable types you have in
+Super<00:02:07.530><c> Plus</c><00:02:07.740><c> is</c><00:02:08.069><c> the</c><00:02:08.940><c> size</c><00:02:09.209><c> how</c><00:02:09.959><c> much</c><00:02:10.229><c> memory</c>
+
+00:02:10.669 --> 00:02:10.679 align:start position:0%
+Super Plus is the size how much memory
+ 
+
+00:02:10.679 --> 00:02:13.580 align:start position:0%
+Super Plus is the size how much memory
+does<00:02:11.640><c> this</c><00:02:11.910><c> variable</c><00:02:12.360><c> occupy</c><00:02:12.840><c> when</c><00:02:13.319><c> it</c><00:02:13.410><c> comes</c>
+
+00:02:13.580 --> 00:02:13.590 align:start position:0%
+does this variable occupy when it comes
+ 
+
+00:02:13.590 --> 00:02:14.100 align:start position:0%
+does this variable occupy when it comes
+down<00:02:13.709><c> to</c><00:02:13.770><c> it</c>
+
+00:02:14.100 --> 00:02:14.110 align:start position:0%
+down to it
+ 
+
+00:02:14.110 --> 00:02:15.870 align:start position:0%
+down to it
+really<00:02:14.530><c> the</c><00:02:14.650><c> only</c><00:02:14.830><c> difference</c><00:02:15.130><c> between</c><00:02:15.520><c> these</c>
+
+00:02:15.870 --> 00:02:15.880 align:start position:0%
+really the only difference between these
+ 
+
+00:02:15.880 --> 00:02:17.790 align:start position:0%
+really the only difference between these
+primitive<00:02:16.300><c> data</c><00:02:16.480><c> types</c><00:02:16.720><c> how</c><00:02:17.290><c> big</c><00:02:17.530><c> are</c><00:02:17.680><c> they</c>
+
+00:02:17.790 --> 00:02:17.800 align:start position:0%
+primitive data types how big are they
+ 
+
+00:02:17.800 --> 00:02:19.260 align:start position:0%
+primitive data types how big are they
+let's<00:02:18.250><c> go</c><00:02:18.370><c> ahead</c><00:02:18.490><c> and</c><00:02:18.670><c> jump</c><00:02:18.820><c> into</c><00:02:18.970><c> Visual</c>
+
+00:02:19.260 --> 00:02:19.270 align:start position:0%
+let's go ahead and jump into Visual
+ 
+
+00:02:19.270 --> 00:02:20.790 align:start position:0%
+let's go ahead and jump into Visual
+Studio<00:02:19.330><c> and</c><00:02:19.600><c> take</c><00:02:19.870><c> a</c><00:02:19.900><c> look</c><00:02:20.110><c> at</c><00:02:20.170><c> some</c><00:02:20.290><c> examples</c>
+
+00:02:20.790 --> 00:02:20.800 align:start position:0%
+Studio and take a look at some examples
+ 
+
+00:02:20.800 --> 00:02:22.890 align:start position:0%
+Studio and take a look at some examples
+so<00:02:21.250><c> we've</c><00:02:21.580><c> actually</c><00:02:21.700><c> already</c><00:02:22.000><c> got</c><00:02:22.330><c> a</c><00:02:22.540><c> variable</c>
+
+00:02:22.890 --> 00:02:22.900 align:start position:0%
+so we've actually already got a variable
+ 
+
+00:02:22.900 --> 00:02:25.680 align:start position:0%
+so we've actually already got a variable
+type<00:02:23.200><c> that</c><00:02:23.380><c> we're</c><00:02:23.500><c> using</c><00:02:23.680><c> here</c><00:02:24.040><c> int</c><00:02:24.370><c> in</c><00:02:24.760><c> stands</c>
+
+00:02:25.680 --> 00:02:25.690 align:start position:0%
+type that we're using here int in stands
+ 
+
+00:02:25.690 --> 00:02:27.870 align:start position:0%
+type that we're using here int in stands
+for<00:02:25.900><c> integer</c><00:02:26.380><c> and</c><00:02:26.590><c> it</c><00:02:26.950><c> lets</c><00:02:27.130><c> us</c><00:02:27.220><c> store</c><00:02:27.580><c> an</c>
+
+00:02:27.870 --> 00:02:27.880 align:start position:0%
+for integer and it lets us store an
+ 
+
+00:02:27.880 --> 00:02:30.360 align:start position:0%
+for integer and it lets us store an
+integer<00:02:28.240><c> in</c><00:02:28.720><c> a</c><00:02:28.900><c> given</c><00:02:29.170><c> range</c><00:02:29.380><c> if</c><00:02:29.950><c> we</c><00:02:30.130><c> want</c><00:02:30.310><c> to</c>
+
+00:02:30.360 --> 00:02:30.370 align:start position:0%
+integer in a given range if we want to
+ 
+
+00:02:30.370 --> 00:02:32.220 align:start position:0%
+integer in a given range if we want to
+declare<00:02:30.490><c> a</c><00:02:30.670><c> brand</c><00:02:30.970><c> new</c><00:02:31.180><c> variable</c><00:02:31.660><c> we</c><00:02:31.960><c> can</c><00:02:32.140><c> do</c>
+
+00:02:32.220 --> 00:02:32.230 align:start position:0%
+declare a brand new variable we can do
+ 
+
+00:02:32.230 --> 00:02:34.100 align:start position:0%
+declare a brand new variable we can do
+so<00:02:32.410><c> by</c><00:02:32.590><c> typing</c><00:02:32.770><c> the</c><00:02:33.160><c> type</c><00:02:33.370><c> of</c><00:02:33.400><c> the</c><00:02:33.670><c> variable</c>
+
+00:02:34.100 --> 00:02:34.110 align:start position:0%
+so by typing the type of the variable
+ 
+
+00:02:34.110 --> 00:02:36.990 align:start position:0%
+so by typing the type of the variable
+giving<00:02:35.110><c> it</c><00:02:35.230><c> some</c><00:02:35.470><c> kind</c><00:02:35.650><c> of</c><00:02:35.860><c> name</c><00:02:36.100><c> for</c><00:02:36.370><c> example</c>
+
+00:02:36.990 --> 00:02:37.000 align:start position:0%
+giving it some kind of name for example
+ 
+
+00:02:37.000 --> 00:02:39.540 align:start position:0%
+giving it some kind of name for example
+variable<00:02:37.450><c> and</c><00:02:37.660><c> then</c><00:02:38.260><c> giving</c><00:02:38.680><c> it</c><00:02:38.800><c> a</c><00:02:38.920><c> value</c>
+
+00:02:39.540 --> 00:02:39.550 align:start position:0%
+variable and then giving it a value
+ 
+
+00:02:39.550 --> 00:02:41.340 align:start position:0%
+variable and then giving it a value
+now<00:02:39.670><c> this</c><00:02:39.820><c> last</c><00:02:40.060><c> part</c><00:02:40.360><c> is</c><00:02:40.660><c> optional</c><00:02:40.900><c> you</c><00:02:41.320><c> don't</c>
+
+00:02:41.340 --> 00:02:41.350 align:start position:0%
+now this last part is optional you don't
+ 
+
+00:02:41.350 --> 00:02:43.740 align:start position:0%
+now this last part is optional you don't
+have<00:02:41.560><c> to</c><00:02:41.980><c> give</c><00:02:42.190><c> it</c><00:02:42.280><c> a</c><00:02:42.340><c> value</c><00:02:42.490><c> immediately</c><00:02:42.970><c> but</c>
+
+00:02:43.740 --> 00:02:43.750 align:start position:0%
+have to give it a value immediately but
+ 
+
+00:02:43.750 --> 00:02:44.880 align:start position:0%
+have to give it a value immediately but
+for<00:02:43.930><c> now</c><00:02:44.050><c> let's</c><00:02:44.320><c> just</c><00:02:44.410><c> give</c><00:02:44.680><c> it</c><00:02:44.770><c> the</c><00:02:44.800><c> value</c>
+
+00:02:44.880 --> 00:02:44.890 align:start position:0%
+for now let's just give it the value
+ 
+
+00:02:44.890 --> 00:02:46.980 align:start position:0%
+for now let's just give it the value
+eight<00:02:45.370><c> an</c><00:02:45.610><c> integer</c><00:02:46.150><c> is</c><00:02:46.480><c> the</c><00:02:46.600><c> data</c><00:02:46.780><c> type</c><00:02:46.930><c> that</c>
+
+00:02:46.980 --> 00:02:46.990 align:start position:0%
+eight an integer is the data type that
+ 
+
+00:02:46.990 --> 00:02:48.570 align:start position:0%
+eight an integer is the data type that
+is<00:02:47.260><c> traditionally</c><00:02:47.740><c> four</c><00:02:48.100><c> bytes</c>
+
+00:02:48.570 --> 00:02:48.580 align:start position:0%
+is traditionally four bytes
+ 
+
+00:02:48.580 --> 00:02:50.790 align:start position:0%
+is traditionally four bytes
+large<00:02:49.030><c> the</c><00:02:49.540><c> actual</c><00:02:49.930><c> size</c><00:02:50.230><c> of</c><00:02:50.380><c> a</c><00:02:50.470><c> data</c><00:02:50.620><c> type</c>
+
+00:02:50.790 --> 00:02:50.800 align:start position:0%
+large the actual size of a data type
+ 
+
+00:02:50.800 --> 00:02:52.979 align:start position:0%
+large the actual size of a data type
+depends<00:02:51.340><c> on</c><00:02:51.400><c> the</c><00:02:51.550><c> compiler</c><00:02:52.030><c> so</c><00:02:52.270><c> it</c><00:02:52.540><c> may</c><00:02:52.930><c> be</c>
+
+00:02:52.979 --> 00:02:52.989 align:start position:0%
+depends on the compiler so it may be
+ 
+
+00:02:52.989 --> 00:02:54.540 align:start position:0%
+depends on the compiler so it may be
+different<00:02:53.350><c> depending</c><00:02:53.680><c> on</c><00:02:54.040><c> what</c><00:02:54.190><c> compiler</c>
+
+00:02:54.540 --> 00:02:54.550 align:start position:0%
+different depending on what compiler
+ 
+
+00:02:54.550 --> 00:02:55.949 align:start position:0%
+different depending on what compiler
+you're<00:02:54.730><c> using</c><00:02:54.940><c> ultimately</c><00:02:55.660><c> it's</c><00:02:55.870><c> the</c>
+
+00:02:55.949 --> 00:02:55.959 align:start position:0%
+you're using ultimately it's the
+ 
+
+00:02:55.959 --> 00:02:57.930 align:start position:0%
+you're using ultimately it's the
+compilers<00:02:56.410><c> choice</c><00:02:56.709><c> to</c><00:02:57.010><c> tell</c><00:02:57.220><c> you</c><00:02:57.400><c> how</c><00:02:57.670><c> big</c>
+
+00:02:57.930 --> 00:02:57.940 align:start position:0%
+compilers choice to tell you how big
+ 
+
+00:02:57.940 --> 00:02:59.790 align:start position:0%
+compilers choice to tell you how big
+your<00:02:58.090><c> data</c><00:02:58.239><c> is</c><00:02:58.450><c> going</c><00:02:58.600><c> to</c><00:02:58.660><c> be</c><00:02:58.720><c> the</c><00:02:59.200><c> Imps</c><00:02:59.560><c> data</c>
+
+00:02:59.790 --> 00:02:59.800 align:start position:0%
+your data is going to be the Imps data
+ 
+
+00:02:59.800 --> 00:03:02.190 align:start position:0%
+your data is going to be the Imps data
+type<00:03:00.100><c> is</c><00:03:00.370><c> meant</c><00:03:00.760><c> for</c><00:03:00.850><c> storing</c><00:03:01.330><c> integers</c><00:03:01.840><c> in</c><00:03:02.080><c> a</c>
+
+00:03:02.190 --> 00:03:02.200 align:start position:0%
+type is meant for storing integers in a
+ 
+
+00:03:02.200 --> 00:03:04.500 align:start position:0%
+type is meant for storing integers in a
+certain<00:03:02.620><c> range</c><00:03:02.950><c> because</c><00:03:03.820><c> it's</c><00:03:04.000><c> four</c><00:03:04.300><c> bytes</c>
+
+00:03:04.500 --> 00:03:04.510 align:start position:0%
+certain range because it's four bytes
+ 
+
+00:03:04.510 --> 00:03:07.650 align:start position:0%
+certain range because it's four bytes
+large<00:03:04.930><c> we</c><00:03:05.709><c> are</c><00:03:05.739><c> limited</c><00:03:06.400><c> as</c><00:03:06.580><c> to</c><00:03:06.610><c> what</c><00:03:06.880><c> kind</c><00:03:07.510><c> of</c>
+
+00:03:07.650 --> 00:03:07.660 align:start position:0%
+large we are limited as to what kind of
+ 
+
+00:03:07.660 --> 00:03:08.870 align:start position:0%
+large we are limited as to what kind of
+numbers<00:03:08.050><c> we</c><00:03:08.200><c> can</c><00:03:08.320><c> store</c><00:03:08.620><c> with</c><00:03:08.800><c> it</c>
+
+00:03:08.870 --> 00:03:08.880 align:start position:0%
+numbers we can store with it
+ 
+
+00:03:08.880 --> 00:03:10.770 align:start position:0%
+numbers we can store with it
+specifically<00:03:09.880><c> this</c><00:03:10.090><c> is</c><00:03:10.150><c> something</c><00:03:10.510><c> called</c><00:03:10.690><c> a</c>
+
+00:03:10.770 --> 00:03:10.780 align:start position:0%
+specifically this is something called a
+ 
+
+00:03:10.780 --> 00:03:13.199 align:start position:0%
+specifically this is something called a
+signed<00:03:11.110><c> integer</c><00:03:11.440><c> that</c><00:03:12.250><c> can</c><00:03:12.430><c> store</c><00:03:12.670><c> a</c><00:03:12.700><c> value</c><00:03:12.880><c> of</c>
+
+00:03:13.199 --> 00:03:13.209 align:start position:0%
+signed integer that can store a value of
+ 
+
+00:03:13.209 --> 00:03:15.390 align:start position:0%
+signed integer that can store a value of
+around<00:03:13.330><c> negative</c><00:03:13.720><c> two</c><00:03:14.110><c> billion</c><00:03:14.500><c> to</c><00:03:14.860><c> positive</c>
+
+00:03:15.390 --> 00:03:15.400 align:start position:0%
+around negative two billion to positive
+ 
+
+00:03:15.400 --> 00:03:17.610 align:start position:0%
+around negative two billion to positive
+2<00:03:15.640><c> billion</c><00:03:16.030><c> anything</c><00:03:16.959><c> larger</c><00:03:17.410><c> or</c><00:03:17.590><c> smaller</c>
+
+00:03:17.610 --> 00:03:17.620 align:start position:0%
+2 billion anything larger or smaller
+ 
+
+00:03:17.620 --> 00:03:19.920 align:start position:0%
+2 billion anything larger or smaller
+than<00:03:18.100><c> that</c><00:03:18.370><c> is</c><00:03:18.549><c> going</c><00:03:18.790><c> to</c><00:03:18.910><c> require</c><00:03:19.269><c> more</c><00:03:19.630><c> data</c>
+
+00:03:19.920 --> 00:03:19.930 align:start position:0%
+than that is going to require more data
+ 
+
+00:03:19.930 --> 00:03:22.530 align:start position:0%
+than that is going to require more data
+to<00:03:20.110><c> store</c><00:03:20.500><c> than</c><00:03:20.830><c> this</c><00:03:21.340><c> int</c><00:03:21.640><c> actually</c><00:03:22.120><c> support</c>
+
+00:03:22.530 --> 00:03:22.540 align:start position:0%
+to store than this int actually support
+ 
+
+00:03:22.540 --> 00:03:24.990 align:start position:0%
+to store than this int actually support
+so<00:03:23.080><c> with</c><00:03:23.230><c> 4</c><00:03:23.440><c> bytes</c><00:03:23.620><c> of</c><00:03:23.739><c> data</c><00:03:23.799><c> we</c><00:03:24.370><c> can</c><00:03:24.519><c> store</c><00:03:24.790><c> a</c>
+
+00:03:24.990 --> 00:03:25.000 align:start position:0%
+so with 4 bytes of data we can store a
+ 
+
+00:03:25.000 --> 00:03:27.509 align:start position:0%
+so with 4 bytes of data we can store a
+value<00:03:25.180><c> between</c><00:03:25.540><c> this</c><00:03:26.170><c> range</c><00:03:26.500><c> so</c><00:03:27.250><c> let's</c><00:03:27.400><c> go</c>
+
+00:03:27.509 --> 00:03:27.519 align:start position:0%
+value between this range so let's go
+ 
+
+00:03:27.519 --> 00:03:29.250 align:start position:0%
+value between this range so let's go
+ahead<00:03:27.760><c> and</c><00:03:27.910><c> try</c><00:03:28.090><c> and</c><00:03:28.180><c> print</c><00:03:28.360><c> out</c><00:03:28.600><c> our</c><00:03:28.780><c> variable</c>
+
+00:03:29.250 --> 00:03:29.260 align:start position:0%
+ahead and try and print out our variable
+ 
+
+00:03:29.260 --> 00:03:30.509 align:start position:0%
+ahead and try and print out our variable
+to<00:03:29.380><c> the</c><00:03:29.470><c> console</c><00:03:29.799><c> to</c><00:03:29.950><c> see</c><00:03:30.100><c> what</c><00:03:30.250><c> it</c><00:03:30.340><c> actually</c>
+
+00:03:30.509 --> 00:03:30.519 align:start position:0%
+to the console to see what it actually
+ 
+
+00:03:30.519 --> 00:03:32.850 align:start position:0%
+to the console to see what it actually
+is<00:03:30.730><c> I'll</c><00:03:31.060><c> substitute</c><00:03:31.660><c> this</c><00:03:32.080><c> hello</c><00:03:32.320><c> world</c><00:03:32.350><c> with</c>
+
+00:03:32.850 --> 00:03:32.860 align:start position:0%
+is I'll substitute this hello world with
+ 
+
+00:03:32.860 --> 00:03:35.250 align:start position:0%
+is I'll substitute this hello world with
+this<00:03:33.070><c> actual</c><00:03:33.489><c> variable</c><00:03:34.090><c> this</c><00:03:34.630><c> is</c><00:03:34.690><c> how</c><00:03:34.959><c> we</c><00:03:35.019><c> can</c>
+
+00:03:35.250 --> 00:03:35.260 align:start position:0%
+this actual variable this is how we can
+ 
+
+00:03:35.260 --> 00:03:37.710 align:start position:0%
+this actual variable this is how we can
+log<00:03:35.470><c> a</c><00:03:35.500><c> variable</c><00:03:36.130><c> to</c><00:03:36.280><c> the</c><00:03:36.370><c> console</c><00:03:36.760><c> at</c><00:03:37.030><c> nf5</c><00:03:37.390><c> to</c>
+
+00:03:37.710 --> 00:03:37.720 align:start position:0%
+log a variable to the console at nf5 to
+ 
+
+00:03:37.720 --> 00:03:39.420 align:start position:0%
+log a variable to the console at nf5 to
+run<00:03:37.840><c> our</c><00:03:37.959><c> program</c><00:03:37.989><c> and</c><00:03:38.560><c> you</c><00:03:39.070><c> can</c><00:03:39.100><c> see</c><00:03:39.340><c> it</c>
+
+00:03:39.420 --> 00:03:39.430 align:start position:0%
+run our program and you can see it
+ 
+
+00:03:39.430 --> 00:03:42.000 align:start position:0%
+run our program and you can see it
+prints<00:03:39.670><c> out</c><00:03:39.790><c> the</c><00:03:40.000><c> number</c><00:03:40.299><c> 8</c><00:03:40.480><c> awesome</c><00:03:41.380><c> we</c><00:03:41.830><c> can</c>
+
+00:03:42.000 --> 00:03:42.010 align:start position:0%
+prints out the number 8 awesome we can
+ 
+
+00:03:42.010 --> 00:03:43.740 align:start position:0%
+prints out the number 8 awesome we can
+go<00:03:42.100><c> ahead</c><00:03:42.220><c> and</c><00:03:42.370><c> modify</c><00:03:42.580><c> our</c><00:03:42.910><c> variable</c><00:03:43.510><c> for</c>
+
+00:03:43.740 --> 00:03:43.750 align:start position:0%
+go ahead and modify our variable for
+ 
+
+00:03:43.750 --> 00:03:45.300 align:start position:0%
+go ahead and modify our variable for
+example<00:03:44.140><c> by</c><00:03:44.260><c> reassigning</c><00:03:44.799><c> it</c><00:03:44.980><c> to</c><00:03:45.100><c> something</c>
+
+00:03:45.300 --> 00:03:45.310 align:start position:0%
+example by reassigning it to something
+ 
+
+00:03:45.310 --> 00:03:48.660 align:start position:0%
+example by reassigning it to something
+else<00:03:45.549><c> like</c><00:03:46.090><c> 20</c><00:03:46.950><c> let's</c><00:03:47.950><c> go</c><00:03:48.070><c> ahead</c><00:03:48.190><c> and</c><00:03:48.370><c> print</c><00:03:48.580><c> it</c>
+
+00:03:48.660 --> 00:03:48.670 align:start position:0%
+else like 20 let's go ahead and print it
+ 
+
+00:03:48.670 --> 00:03:50.100 align:start position:0%
+else like 20 let's go ahead and print it
+again<00:03:48.940><c> and</c><00:03:49.120><c> see</c><00:03:49.239><c> what</c><00:03:49.390><c> happens</c><00:03:49.750><c> so</c><00:03:49.989><c> we're</c>
+
+00:03:50.100 --> 00:03:50.110 align:start position:0%
+again and see what happens so we're
+ 
+
+00:03:50.110 --> 00:03:51.750 align:start position:0%
+again and see what happens so we're
+printing<00:03:50.380><c> it</c><00:03:50.500><c> once</c><00:03:50.769><c> here</c><00:03:51.250><c> and</c><00:03:51.430><c> then</c><00:03:51.640><c> again</c>
+
+00:03:51.750 --> 00:03:51.760 align:start position:0%
+printing it once here and then again
+ 
+
+00:03:51.760 --> 00:03:53.610 align:start position:0%
+printing it once here and then again
+here<00:03:52.299><c> so</c><00:03:52.570><c> we</c><00:03:52.690><c> should</c><00:03:52.840><c> get</c><00:03:52.989><c> the</c><00:03:53.140><c> value</c><00:03:53.410><c> 8</c>
+
+00:03:53.610 --> 00:03:53.620 align:start position:0%
+here so we should get the value 8
+ 
+
+00:03:53.620 --> 00:03:55.740 align:start position:0%
+here so we should get the value 8
+printing<00:03:54.100><c> first</c><00:03:54.340><c> and</c><00:03:54.610><c> then</c><00:03:54.850><c> the</c><00:03:54.970><c> value</c><00:03:55.209><c> 20</c><00:03:55.540><c> and</c>
+
+00:03:55.740 --> 00:03:55.750 align:start position:0%
+printing first and then the value 20 and
+ 
+
+00:03:55.750 --> 00:03:57.120 align:start position:0%
+printing first and then the value 20 and
+you<00:03:55.959><c> can</c><00:03:56.080><c> see</c><00:03:56.230><c> if</c><00:03:56.290><c> we</c><00:03:56.320><c> run</c><00:03:56.500><c> our</c><00:03:56.620><c> program</c><00:03:56.650><c> that's</c>
+
+00:03:57.120 --> 00:03:57.130 align:start position:0%
+you can see if we run our program that's
+ 
+
+00:03:57.130 --> 00:03:59.520 align:start position:0%
+you can see if we run our program that's
+exactly<00:03:57.489><c> what</c><00:03:57.610><c> we</c><00:03:57.700><c> get</c><00:03:57.880><c> cool</c><00:03:58.269><c> so</c><00:03:58.750><c> as</c><00:03:58.900><c> I</c><00:03:59.049><c> said</c><00:03:59.290><c> an</c>
+
+00:03:59.520 --> 00:03:59.530 align:start position:0%
+exactly what we get cool so as I said an
+ 
+
+00:03:59.530 --> 00:04:01.740 align:start position:0%
+exactly what we get cool so as I said an
+inch<00:04:00.070><c> data</c><00:04:00.489><c> type</c><00:04:00.730><c> can</c><00:04:00.970><c> store</c><00:04:01.239><c> a</c><00:04:01.269><c> value</c><00:04:01.630><c> between</c>
+
+00:04:01.740 --> 00:04:01.750 align:start position:0%
+inch data type can store a value between
+ 
+
+00:04:01.750 --> 00:04:03.720 align:start position:0%
+inch data type can store a value between
+negative<00:04:01.930><c> 2</c><00:04:02.500><c> billion</c><00:04:02.920><c> and</c><00:04:03.100><c> positive</c><00:04:03.610><c> 2</c>
+
+00:04:03.720 --> 00:04:03.730 align:start position:0%
+negative 2 billion and positive 2
+ 
+
+00:04:03.730 --> 00:04:06.449 align:start position:0%
+negative 2 billion and positive 2
+billion<00:04:04.090><c> so</c><00:04:04.510><c> you</c><00:04:04.570><c> might</c><00:04:04.810><c> be</c><00:04:04.840><c> like</c><00:04:05.080><c> why</c><00:04:05.620><c> is</c><00:04:06.040><c> it</c>
+
+00:04:06.449 --> 00:04:06.459 align:start position:0%
+billion so you might be like why is it
+ 
+
+00:04:06.459 --> 00:04:08.280 align:start position:0%
+billion so you might be like why is it
+negative<00:04:06.790><c> 2</c><00:04:07.239><c> billion</c><00:04:07.600><c> and</c><00:04:07.720><c> positive</c><00:04:08.140><c> 2</c>
+
+00:04:08.280 --> 00:04:08.290 align:start position:0%
+negative 2 billion and positive 2
+ 
+
+00:04:08.290 --> 00:04:09.930 align:start position:0%
+negative 2 billion and positive 2
+billion<00:04:08.680><c> it's</c><00:04:08.890><c> not</c><00:04:09.010><c> exactly</c><00:04:09.400><c> 2</c><00:04:09.580><c> billion</c><00:04:09.850><c> by</c>
+
+00:04:09.930 --> 00:04:09.940 align:start position:0%
+billion it's not exactly 2 billion by
+ 
+
+00:04:09.940 --> 00:04:11.190 align:start position:0%
+billion it's not exactly 2 billion by
+the<00:04:09.970><c> way</c><00:04:10.150><c> it's</c><00:04:10.299><c> like</c><00:04:10.390><c> 2</c><00:04:10.780><c> point</c><00:04:11.019><c> something</c>
+
+00:04:11.190 --> 00:04:11.200 align:start position:0%
+the way it's like 2 point something
+ 
+
+00:04:11.200 --> 00:04:13.470 align:start position:0%
+the way it's like 2 point something
+billion<00:04:11.620><c> where</c><00:04:12.070><c> are</c><00:04:12.160><c> these</c><00:04:12.250><c> limits</c><00:04:12.820><c> coming</c>
+
+00:04:13.470 --> 00:04:13.480 align:start position:0%
+billion where are these limits coming
+ 
+
+00:04:13.480 --> 00:04:15.390 align:start position:0%
+billion where are these limits coming
+from<00:04:13.690><c> do</c><00:04:13.900><c> they</c><00:04:14.019><c> make</c><00:04:14.170><c> any</c><00:04:14.290><c> sense</c><00:04:14.650><c> and</c><00:04:14.980><c> the</c>
+
+00:04:15.390 --> 00:04:15.400 align:start position:0%
+from do they make any sense and the
+ 
+
+00:04:15.400 --> 00:04:17.250 align:start position:0%
+from do they make any sense and the
+answer<00:04:15.670><c> is</c><00:04:15.790><c> yes</c><00:04:16.209><c> they</c><00:04:16.510><c> make</c><00:04:16.690><c> sense</c><00:04:16.959><c> they</c><00:04:17.229><c> are</c>
+
+00:04:17.250 --> 00:04:17.260 align:start position:0%
+answer is yes they make sense they are
+ 
+
+00:04:17.260 --> 00:04:19.800 align:start position:0%
+answer is yes they make sense they are
+directly<00:04:17.829><c> tied</c><00:04:17.950><c> with</c><00:04:18.850><c> the</c><00:04:19.060><c> size</c><00:04:19.450><c> of</c><00:04:19.720><c> the</c>
+
+00:04:19.800 --> 00:04:19.810 align:start position:0%
+directly tied with the size of the
+ 
+
+00:04:19.810 --> 00:04:21.659 align:start position:0%
+directly tied with the size of the
+variable<00:04:20.229><c> that</c><00:04:20.320><c> is</c><00:04:20.440><c> how</c><00:04:20.859><c> much</c><00:04:21.070><c> data</c><00:04:21.430><c> were</c>
+
+00:04:21.659 --> 00:04:21.669 align:start position:0%
+variable that is how much data were
+ 
+
+00:04:21.669 --> 00:04:23.790 align:start position:0%
+variable that is how much data were
+allowed<00:04:21.910><c> to</c><00:04:21.940><c> store</c><00:04:22.240><c> in</c><00:04:22.390><c> it</c><00:04:22.539><c> an</c><00:04:22.720><c> integer</c><00:04:23.500><c> is</c><00:04:23.770><c> 4</c>
+
+00:04:23.790 --> 00:04:23.800 align:start position:0%
+allowed to store in it an integer is 4
+ 
+
+00:04:23.800 --> 00:04:26.400 align:start position:0%
+allowed to store in it an integer is 4
+bytes<00:04:24.400><c> with</c><00:04:24.880><c> 4</c><00:04:25.120><c> bytes</c><00:04:25.300><c> of</c><00:04:25.450><c> data</c><00:04:25.510><c> we</c><00:04:26.050><c> can</c><00:04:26.080><c> store</c>
+
+00:04:26.400 --> 00:04:26.410 align:start position:0%
+bytes with 4 bytes of data we can store
+ 
+
+00:04:26.410 --> 00:04:27.580 align:start position:0%
+bytes with 4 bytes of data we can store
+values<00:04:26.770><c> in</c><00:04:26.950><c> that</c>
+
+00:04:27.580 --> 00:04:27.590 align:start position:0%
+values in that
+ 
+
+00:04:27.590 --> 00:04:29.320 align:start position:0%
+values in that
+let's<00:04:28.100><c> break</c><00:04:28.310><c> this</c><00:04:28.430><c> down</c><00:04:28.610><c> a</c><00:04:28.669><c> little</c><00:04:28.760><c> bit</c><00:04:28.970><c> so</c>
+
+00:04:29.320 --> 00:04:29.330 align:start position:0%
+let's break this down a little bit so
+ 
+
+00:04:29.330 --> 00:04:31.960 align:start position:0%
+let's break this down a little bit so
+one<00:04:29.630><c> byte</c><00:04:29.930><c> is</c><00:04:30.260><c> eight</c><00:04:30.620><c> bits</c><00:04:30.680><c> of</c><00:04:31.280><c> data</c><00:04:31.460><c> which</c>
+
+00:04:31.960 --> 00:04:31.970 align:start position:0%
+one byte is eight bits of data which
+ 
+
+00:04:31.970 --> 00:04:34.510 align:start position:0%
+one byte is eight bits of data which
+means<00:04:32.150><c> that</c><00:04:32.300><c> four</c><00:04:32.630><c> bytes</c><00:04:32.870><c> is</c><00:04:33.110><c> 32</c><00:04:33.949><c> bits</c><00:04:34.190><c> of</c><00:04:34.340><c> data</c>
+
+00:04:34.510 --> 00:04:34.520 align:start position:0%
+means that four bytes is 32 bits of data
+ 
+
+00:04:34.520 --> 00:04:37.120 align:start position:0%
+means that four bytes is 32 bits of data
+because<00:04:35.180><c> this</c><00:04:35.330><c> variable</c><00:04:35.870><c> is</c><00:04:36.050><c> signed</c><00:04:36.470><c> meaning</c>
+
+00:04:37.120 --> 00:04:37.130 align:start position:0%
+because this variable is signed meaning
+ 
+
+00:04:37.130 --> 00:04:39.460 align:start position:0%
+because this variable is signed meaning
+it<00:04:37.310><c> can</c><00:04:37.580><c> be</c><00:04:37.790><c> negative</c><00:04:38.300><c> it</c><00:04:38.510><c> contains</c><00:04:38.900><c> a</c><00:04:39.050><c> sign</c>
+
+00:04:39.460 --> 00:04:39.470 align:start position:0%
+it can be negative it contains a sign
+ 
+
+00:04:39.470 --> 00:04:41.680 align:start position:0%
+it can be negative it contains a sign
+like<00:04:39.949><c> a</c><00:04:39.979><c> negative</c><00:04:40.310><c> sign</c><00:04:40.850><c> because</c><00:04:41.150><c> this</c>
+
+00:04:41.680 --> 00:04:41.690 align:start position:0%
+like a negative sign because this
+ 
+
+00:04:41.690 --> 00:04:44.170 align:start position:0%
+like a negative sign because this
+variable<00:04:42.080><c> is</c><00:04:42.229><c> find</c><00:04:42.560><c> one</c><00:04:43.160><c> of</c><00:04:43.190><c> those</c><00:04:43.430><c> bits</c><00:04:43.820><c> one</c>
+
+00:04:44.170 --> 00:04:44.180 align:start position:0%
+variable is find one of those bits one
+ 
+
+00:04:44.180 --> 00:04:46.870 align:start position:0%
+variable is find one of those bits one
+of<00:04:44.300><c> those</c><00:04:44.419><c> 32</c><00:04:44.810><c> bits</c><00:04:45.229><c> has</c><00:04:45.860><c> to</c><00:04:46.100><c> be</c><00:04:46.250><c> for</c><00:04:46.490><c> the</c><00:04:46.639><c> sign</c>
+
+00:04:46.870 --> 00:04:46.880 align:start position:0%
+of those 32 bits has to be for the sign
+ 
+
+00:04:46.880 --> 00:04:48.820 align:start position:0%
+of those 32 bits has to be for the sign
+so<00:04:47.630><c> that</c><00:04:47.780><c> we</c><00:04:47.900><c> know</c><00:04:48.050><c> if</c><00:04:48.199><c> it's</c><00:04:48.320><c> positive</c><00:04:48.740><c> or</c>
+
+00:04:48.820 --> 00:04:48.830 align:start position:0%
+so that we know if it's positive or
+ 
+
+00:04:48.830 --> 00:04:51.250 align:start position:0%
+so that we know if it's positive or
+negative<00:04:48.889><c> which</c><00:04:49.669><c> only</c><00:04:49.850><c> leaves</c><00:04:50.060><c> 31</c><00:04:50.750><c> bits</c><00:04:50.990><c> left</c>
+
+00:04:51.250 --> 00:04:51.260 align:start position:0%
+negative which only leaves 31 bits left
+ 
+
+00:04:51.260 --> 00:04:53.110 align:start position:0%
+negative which only leaves 31 bits left
+for<00:04:51.440><c> the</c><00:04:51.530><c> actual</c><00:04:51.860><c> number</c><00:04:52.280><c> now</c><00:04:52.610><c> a</c><00:04:52.639><c> bit</c><00:04:52.940><c> can</c>
+
+00:04:53.110 --> 00:04:53.120 align:start position:0%
+for the actual number now a bit can
+ 
+
+00:04:53.120 --> 00:04:55.450 align:start position:0%
+for the actual number now a bit can
+either<00:04:53.270><c> be</c><00:04:53.449><c> 0</c><00:04:53.600><c> or</c><00:04:54.110><c> 1</c><00:04:54.139><c> so</c><00:04:54.500><c> there</c><00:04:54.590><c> are</c><00:04:54.680><c> 2</c><00:04:54.889><c> possible</c>
+
+00:04:55.450 --> 00:04:55.460 align:start position:0%
+either be 0 or 1 so there are 2 possible
+ 
+
+00:04:55.460 --> 00:04:57.580 align:start position:0%
+either be 0 or 1 so there are 2 possible
+values<00:04:55.520><c> for</c><00:04:55.940><c> 1</c><00:04:56.300><c> bit</c><00:04:56.479><c> of</c><00:04:56.570><c> data</c><00:04:56.750><c> so</c><00:04:57.229><c> using</c><00:04:57.530><c> a</c>
+
+00:04:57.580 --> 00:04:57.590 align:start position:0%
+values for 1 bit of data so using a
+ 
+
+00:04:57.590 --> 00:04:59.650 align:start position:0%
+values for 1 bit of data so using a
+little<00:04:57.800><c> bit</c><00:04:57.889><c> of</c><00:04:57.979><c> maths</c><00:04:58.160><c> here</c><00:04:58.430><c> we</c><00:04:59.090><c> can</c><00:04:59.270><c> say</c><00:04:59.479><c> that</c>
+
+00:04:59.650 --> 00:04:59.660 align:start position:0%
+little bit of maths here we can say that
+ 
+
+00:04:59.660 --> 00:05:01.300 align:start position:0%
+little bit of maths here we can say that
+we<00:04:59.750><c> have</c><00:04:59.780><c> 31</c><00:05:00.080><c> bits</c><00:05:00.320><c> to</c><00:05:00.410><c> play</c><00:05:00.590><c> with</c><00:05:00.770><c> 2</c><00:05:00.979><c> possible</c>
+
+00:05:01.300 --> 00:05:01.310 align:start position:0%
+we have 31 bits to play with 2 possible
+ 
+
+00:05:01.310 --> 00:05:03.670 align:start position:0%
+we have 31 bits to play with 2 possible
+values<00:05:01.370><c> took</c><00:05:01.790><c> bit</c><00:05:02.060><c> so</c><00:05:02.600><c> what</c><00:05:02.990><c> is</c><00:05:03.229><c> 2</c><00:05:03.500><c> to</c><00:05:03.650><c> the</c>
+
+00:05:03.670 --> 00:05:03.680 align:start position:0%
+values took bit so what is 2 to the
+ 
+
+00:05:03.680 --> 00:05:05.650 align:start position:0%
+values took bit so what is 2 to the
+power<00:05:03.770><c> of</c><00:05:03.979><c> 31</c><00:05:04.340><c> if</c><00:05:04.790><c> we</c><00:05:05.000><c> crack</c><00:05:05.270><c> open</c><00:05:05.600><c> a</c>
+
+00:05:05.650 --> 00:05:05.660 align:start position:0%
+power of 31 if we crack open a
+ 
+
+00:05:05.660 --> 00:05:07.690 align:start position:0%
+power of 31 if we crack open a
+calculator<00:05:06.139><c> here</c><00:05:06.350><c> and</c><00:05:06.410><c> type</c><00:05:06.889><c> in</c><00:05:07.070><c> 2</c><00:05:07.370><c> to</c><00:05:07.610><c> the</c>
+
+00:05:07.690 --> 00:05:07.700 align:start position:0%
+calculator here and type in 2 to the
+ 
+
+00:05:07.700 --> 00:05:10.690 align:start position:0%
+calculator here and type in 2 to the
+power<00:05:07.820><c> of</c><00:05:08.090><c> 31</c><00:05:08.510><c> we</c><00:05:09.320><c> will</c><00:05:09.500><c> get</c><00:05:09.650><c> about</c><00:05:09.919><c> 2</c><00:05:10.460><c> billion</c>
+
+00:05:10.690 --> 00:05:10.700 align:start position:0%
+power of 31 we will get about 2 billion
+ 
+
+00:05:10.700 --> 00:05:13.719 align:start position:0%
+power of 31 we will get about 2 billion
+that<00:05:11.330><c> value</c><00:05:11.840><c> there</c><00:05:12.050><c> that</c><00:05:12.080><c> 2.1</c><00:05:13.040><c> billion</c><00:05:13.280><c> that</c>
+
+00:05:13.719 --> 00:05:13.729 align:start position:0%
+that value there that 2.1 billion that
+ 
+
+00:05:13.729 --> 00:05:16.060 align:start position:0%
+that value there that 2.1 billion that
+is<00:05:13.760><c> the</c><00:05:14.030><c> maximum</c><00:05:14.690><c> number</c><00:05:15.260><c> that</c><00:05:15.290><c> we</c><00:05:15.620><c> can</c><00:05:15.800><c> store</c>
+
+00:05:16.060 --> 00:05:16.070 align:start position:0%
+is the maximum number that we can store
+ 
+
+00:05:16.070 --> 00:05:17.890 align:start position:0%
+is the maximum number that we can store
+with<00:05:16.520><c> an</c><00:05:16.639><c> integer</c><00:05:16.880><c> now</c><00:05:17.300><c> remember</c><00:05:17.600><c> we</c><00:05:17.750><c> also</c>
+
+00:05:17.890 --> 00:05:17.900 align:start position:0%
+with an integer now remember we also
+ 
+
+00:05:17.900 --> 00:05:19.870 align:start position:0%
+with an integer now remember we also
+have<00:05:18.260><c> one</c><00:05:18.680><c> bit</c><00:05:19.070><c> that</c><00:05:19.340><c> is</c><00:05:19.460><c> reserved</c><00:05:19.820><c> for</c>
+
+00:05:19.870 --> 00:05:19.880 align:start position:0%
+have one bit that is reserved for
+ 
+
+00:05:19.880 --> 00:05:21.100 align:start position:0%
+have one bit that is reserved for
+whether<00:05:20.090><c> or</c><00:05:20.240><c> not</c><00:05:20.300><c> that</c><00:05:20.450><c> number</c><00:05:20.510><c> is</c><00:05:20.810><c> negative</c>
+
+00:05:21.100 --> 00:05:21.110 align:start position:0%
+whether or not that number is negative
+ 
+
+00:05:21.110 --> 00:05:22.930 align:start position:0%
+whether or not that number is negative
+so<00:05:21.650><c> because</c><00:05:21.889><c> of</c><00:05:21.979><c> that</c><00:05:22.010><c> we</c><00:05:22.190><c> can</c><00:05:22.340><c> store</c><00:05:22.550><c> up</c><00:05:22.729><c> to</c>
+
+00:05:22.930 --> 00:05:22.940 align:start position:0%
+so because of that we can store up to
+ 
+
+00:05:22.940 --> 00:05:24.700 align:start position:0%
+so because of that we can store up to
+that<00:05:23.120><c> number</c><00:05:23.389><c> from</c><00:05:23.690><c> 0</c><00:05:23.960><c> but</c><00:05:24.169><c> also</c><00:05:24.320><c> we</c><00:05:24.500><c> can</c><00:05:24.620><c> go</c>
+
+00:05:24.700 --> 00:05:24.710 align:start position:0%
+that number from 0 but also we can go
+ 
+
+00:05:24.710 --> 00:05:26.560 align:start position:0%
+that number from 0 but also we can go
+the<00:05:24.800><c> other</c><00:05:24.950><c> way</c><00:05:25.160><c> and</c><00:05:25.310><c> store</c><00:05:25.789><c> all</c><00:05:25.820><c> the</c><00:05:26.180><c> negative</c>
+
+00:05:26.560 --> 00:05:26.570 align:start position:0%
+the other way and store all the negative
+ 
+
+00:05:26.570 --> 00:05:28.870 align:start position:0%
+the other way and store all the negative
+values<00:05:26.960><c> down</c><00:05:27.320><c> to</c><00:05:27.590><c> negative</c><00:05:28.130><c> 2</c><00:05:28.310><c> by</c><00:05:28.460><c> 1</c><00:05:28.639><c> billion</c>
+
+00:05:28.870 --> 00:05:28.880 align:start position:0%
+values down to negative 2 by 1 billion
+ 
+
+00:05:28.880 --> 00:05:31.360 align:start position:0%
+values down to negative 2 by 1 billion
+but<00:05:29.419><c> I</c><00:05:29.449><c> don't</c><00:05:29.750><c> want</c><00:05:30.080><c> negative</c><00:05:30.320><c> values</c><00:05:30.889><c> I</c><00:05:31.039><c> hear</c>
+
+00:05:31.360 --> 00:05:31.370 align:start position:0%
+but I don't want negative values I hear
+ 
+
+00:05:31.370 --> 00:05:33.279 align:start position:0%
+but I don't want negative values I hear
+you<00:05:31.550><c> say</c><00:05:31.880><c> is</c><00:05:32.210><c> there</c><00:05:32.479><c> a</c><00:05:32.510><c> way</c><00:05:32.630><c> to</c><00:05:32.660><c> just</c><00:05:32.810><c> get</c><00:05:33.139><c> rid</c>
+
+00:05:33.279 --> 00:05:33.289 align:start position:0%
+you say is there a way to just get rid
+ 
+
+00:05:33.289 --> 00:05:34.750 align:start position:0%
+you say is there a way to just get rid
+of<00:05:33.350><c> that</c><00:05:33.440><c> one</c><00:05:33.740><c> bit</c><00:05:33.950><c> being</c><00:05:34.190><c> for</c><00:05:34.370><c> the</c><00:05:34.430><c> negative</c>
+
+00:05:34.750 --> 00:05:34.760 align:start position:0%
+of that one bit being for the negative
+ 
+
+00:05:34.760 --> 00:05:36.760 align:start position:0%
+of that one bit being for the negative
+sign<00:05:34.970><c> and</c><00:05:35.300><c> just</c><00:05:35.720><c> use</c><00:05:36.020><c> it</c><00:05:36.050><c> as</c><00:05:36.289><c> part</c><00:05:36.590><c> of</c><00:05:36.620><c> my</c>
+
+00:05:36.760 --> 00:05:36.770 align:start position:0%
+sign and just use it as part of my
+ 
+
+00:05:36.770 --> 00:05:40.390 align:start position:0%
+sign and just use it as part of my
+number<00:05:37.100><c> why</c><00:05:37.520><c> yes</c><00:05:38.030><c> yes</c><00:05:38.720><c> there</c><00:05:39.110><c> is</c><00:05:39.289><c> that</c><00:05:39.650><c> is</c><00:05:40.250><c> what</c>
+
+00:05:40.390 --> 00:05:40.400 align:start position:0%
+number why yes yes there is that is what
+ 
+
+00:05:40.400 --> 00:05:42.460 align:start position:0%
+number why yes yes there is that is what
+we<00:05:40.520><c> call</c><00:05:40.669><c> an</c><00:05:40.820><c> unsigned</c><00:05:41.450><c> number</c><00:05:41.960><c> that</c><00:05:42.229><c> means</c>
+
+00:05:42.460 --> 00:05:42.470 align:start position:0%
+we call an unsigned number that means
+ 
+
+00:05:42.470 --> 00:05:43.900 align:start position:0%
+we call an unsigned number that means
+it's<00:05:42.710><c> the</c><00:05:42.889><c> number</c><00:05:43.190><c> that</c><00:05:43.310><c> does</c><00:05:43.550><c> not</c><00:05:43.639><c> have</c><00:05:43.880><c> a</c>
+
+00:05:43.900 --> 00:05:43.910 align:start position:0%
+it's the number that does not have a
+ 
+
+00:05:43.910 --> 00:05:46.960 align:start position:0%
+it's the number that does not have a
+sign<00:05:44.210><c> meaning</c><00:05:44.780><c> is</c><00:05:45.020><c> always</c><00:05:45.710><c> positive</c><00:05:45.919><c> in</c><00:05:46.430><c> C++</c>
+
+00:05:46.960 --> 00:05:46.970 align:start position:0%
+sign meaning is always positive in C++
+ 
+
+00:05:46.970 --> 00:05:49.089 align:start position:0%
+sign meaning is always positive in C++
+we<00:05:47.210><c> can</c><00:05:47.810><c> make</c><00:05:48.080><c> one</c><00:05:48.260><c> of</c><00:05:48.349><c> those</c><00:05:48.440><c> by</c><00:05:48.680><c> just</c><00:05:48.919><c> typing</c>
+
+00:05:49.089 --> 00:05:49.099 align:start position:0%
+we can make one of those by just typing
+ 
+
+00:05:49.099 --> 00:05:51.640 align:start position:0%
+we can make one of those by just typing
+in<00:05:49.370><c> unsigned</c><00:05:49.940><c> in</c><00:05:50.210><c> front</c><00:05:50.539><c> of</c><00:05:50.660><c> our</c><00:05:50.780><c> integer</c><00:05:51.200><c> so</c>
+
+00:05:51.640 --> 00:05:51.650 align:start position:0%
+in unsigned in front of our integer so
+ 
+
+00:05:51.650 --> 00:05:53.710 align:start position:0%
+in unsigned in front of our integer so
+now<00:05:51.770><c> what</c><00:05:51.950><c> we've</c><00:05:52.099><c> done</c><00:05:52.130><c> is</c><00:05:52.520><c> we</c><00:05:52.820><c> have</c><00:05:53.030><c> 32</c><00:05:53.510><c> bits</c>
+
+00:05:53.710 --> 00:05:53.720 align:start position:0%
+now what we've done is we have 32 bits
+ 
+
+00:05:53.720 --> 00:05:56.080 align:start position:0%
+now what we've done is we have 32 bits
+to<00:05:54.110><c> play</c><00:05:54.289><c> with</c><00:05:54.530><c> and</c><00:05:54.710><c> 2</c><00:05:55.070><c> to</c><00:05:55.190><c> the</c><00:05:55.280><c> power</c><00:05:55.400><c> of</c><00:05:55.520><c> 32</c><00:05:55.910><c> of</c>
+
+00:05:56.080 --> 00:05:56.090 align:start position:0%
+to play with and 2 to the power of 32 of
+ 
+
+00:05:56.090 --> 00:05:59.110 align:start position:0%
+to play with and 2 to the power of 32 of
+course<00:05:56.450><c> is</c><00:05:56.660><c> double</c><00:05:57.229><c> what</c><00:05:57.380><c> we</c><00:05:57.530><c> have</c><00:05:57.710><c> here</c><00:05:58.120><c> for</c>
+
+00:05:59.110 --> 00:05:59.120 align:start position:0%
+course is double what we have here for
+ 
+
+00:05:59.120 --> 00:06:01.210 align:start position:0%
+course is double what we have here for
+point<00:05:59.419><c> two</c><00:05:59.720><c> nine</c><00:05:59.930><c> billion</c><00:06:00.440><c> and</c><00:06:00.650><c> that's</c>
+
+00:06:01.210 --> 00:06:01.220 align:start position:0%
+point two nine billion and that's
+ 
+
+00:06:01.220 --> 00:06:03.760 align:start position:0%
+point two nine billion and that's
+basically<00:06:01.669><c> what</c><00:06:01.940><c> the</c><00:06:02.090><c> unsigned</c><00:06:02.690><c> keyword</c><00:06:03.500><c> does</c>
+
+00:06:03.760 --> 00:06:03.770 align:start position:0%
+basically what the unsigned keyword does
+ 
+
+00:06:03.770 --> 00:06:06.040 align:start position:0%
+basically what the unsigned keyword does
+in<00:06:04.130><c> Sabre</c><00:06:04.430><c> slot</c><00:06:04.639><c> it</c><00:06:04.849><c> lets</c><00:06:05.120><c> us</c><00:06:05.300><c> define</c><00:06:05.539><c> an</c>
+
+00:06:06.040 --> 00:06:06.050 align:start position:0%
+in Sabre slot it lets us define an
+ 
+
+00:06:06.050 --> 00:06:08.500 align:start position:0%
+in Sabre slot it lets us define an
+integer<00:06:06.410><c> that</c><00:06:07.039><c> does</c><00:06:07.250><c> not</c><00:06:07.400><c> have</c><00:06:07.700><c> a</c><00:06:07.970><c> sign</c><00:06:08.270><c> bit</c>
+
+00:06:08.500 --> 00:06:08.510 align:start position:0%
+integer that does not have a sign bit
+ 
+
+00:06:08.510 --> 00:06:10.450 align:start position:0%
+integer that does not have a sign bit
+okay<00:06:08.840><c> so</c><00:06:09.020><c> what</c><00:06:09.289><c> other</c><00:06:09.500><c> data</c><00:06:09.800><c> types</c><00:06:10.070><c> do</c><00:06:10.220><c> we</c><00:06:10.310><c> have</c>
+
+00:06:10.450 --> 00:06:10.460 align:start position:0%
+okay so what other data types do we have
+ 
+
+00:06:10.460 --> 00:06:11.710 align:start position:0%
+okay so what other data types do we have
+available<00:06:10.849><c> to</c><00:06:10.970><c> us</c><00:06:11.000><c> what</c><00:06:11.210><c> if</c><00:06:11.300><c> I</c><00:06:11.360><c> don't</c><00:06:11.419><c> want</c><00:06:11.660><c> to</c>
+
+00:06:11.710 --> 00:06:11.720 align:start position:0%
+available to us what if I don't want to
+ 
+
+00:06:11.720 --> 00:06:13.510 align:start position:0%
+available to us what if I don't want to
+for<00:06:11.900><c> byte</c><00:06:12.050><c> integer</c><00:06:12.440><c> what</c><00:06:12.650><c> other</c><00:06:12.860><c> types</c><00:06:13.250><c> are</c>
+
+00:06:13.510 --> 00:06:13.520 align:start position:0%
+for byte integer what other types are
+ 
+
+00:06:13.520 --> 00:06:15.520 align:start position:0%
+for byte integer what other types are
+there<00:06:13.820><c> so</c><00:06:14.210><c> as</c><00:06:14.300><c> far</c><00:06:14.419><c> as</c><00:06:14.479><c> integer</c><00:06:14.990><c> values</c><00:06:15.289><c> goes</c>
+
+00:06:15.520 --> 00:06:15.530 align:start position:0%
+there so as far as integer values goes
+ 
+
+00:06:15.530 --> 00:06:17.500 align:start position:0%
+there so as far as integer values goes
+we<00:06:15.800><c> actually</c><00:06:16.099><c> have</c><00:06:16.250><c> quite</c><00:06:16.280><c> a</c><00:06:16.490><c> few</c><00:06:16.820><c> we've</c><00:06:17.330><c> got</c>
+
+00:06:17.500 --> 00:06:17.510 align:start position:0%
+we actually have quite a few we've got
+ 
+
+00:06:17.510 --> 00:06:19.960 align:start position:0%
+we actually have quite a few we've got
+char<00:06:17.840><c> which</c><00:06:18.289><c> is</c><00:06:18.440><c> one</c><00:06:18.680><c> byte</c><00:06:18.889><c> of</c><00:06:18.919><c> data</c><00:06:19.099><c> we've</c><00:06:19.760><c> got</c>
+
+00:06:19.960 --> 00:06:19.970 align:start position:0%
+char which is one byte of data we've got
+ 
+
+00:06:19.970 --> 00:06:22.330 align:start position:0%
+char which is one byte of data we've got
+short<00:06:20.330><c> which</c><00:06:20.690><c> is</c><00:06:20.720><c> two</c><00:06:21.110><c> bytes</c><00:06:21.320><c> of</c><00:06:21.470><c> data</c><00:06:21.530><c> we</c><00:06:22.130><c> have</c>
+
+00:06:22.330 --> 00:06:22.340 align:start position:0%
+short which is two bytes of data we have
+ 
+
+00:06:22.340 --> 00:06:24.730 align:start position:0%
+short which is two bytes of data we have
+int<00:06:22.610><c> which</c><00:06:23.060><c> is</c><00:06:23.270><c> four</c><00:06:23.510><c> bytes</c><00:06:23.690><c> of</c><00:06:23.840><c> data</c><00:06:23.900><c> we</c><00:06:24.710><c> have</c>
+
+00:06:24.730 --> 00:06:24.740 align:start position:0%
+int which is four bytes of data we have
+ 
+
+00:06:24.740 --> 00:06:27.700 align:start position:0%
+int which is four bytes of data we have
+long<00:06:25.280><c> which</c><00:06:25.849><c> is</c><00:06:25.880><c> also</c><00:06:26.539><c> usually</c><00:06:26.840><c> four</c><00:06:27.320><c> bytes</c><00:06:27.530><c> of</c>
+
+00:06:27.700 --> 00:06:27.710 align:start position:0%
+long which is also usually four bytes of
+ 
+
+00:06:27.710 --> 00:06:29.950 align:start position:0%
+long which is also usually four bytes of
+data<00:06:27.770><c> depending</c><00:06:28.460><c> on</c><00:06:28.520><c> the</c><00:06:28.610><c> compiler</c><00:06:28.880><c> and</c><00:06:29.300><c> then</c>
+
+00:06:29.950 --> 00:06:29.960 align:start position:0%
+data depending on the compiler and then
+ 
+
+00:06:29.960 --> 00:06:32.260 align:start position:0%
+data depending on the compiler and then
+we<00:06:30.080><c> have</c><00:06:30.229><c> long</c><00:06:30.470><c> long</c><00:06:30.740><c> which</c><00:06:31.220><c> is</c><00:06:31.250><c> usually</c><00:06:32.060><c> eight</c>
+
+00:06:32.260 --> 00:06:32.270 align:start position:0%
+we have long long which is usually eight
+ 
+
+00:06:32.270 --> 00:06:34.150 align:start position:0%
+we have long long which is usually eight
+bytes<00:06:32.570><c> of</c><00:06:32.750><c> data</c><00:06:32.810><c> there's</c><00:06:33.650><c> also</c><00:06:33.770><c> other</c><00:06:33.979><c> types</c>
+
+00:06:34.150 --> 00:06:34.160 align:start position:0%
+bytes of data there's also other types
+ 
+
+00:06:34.160 --> 00:06:35.709 align:start position:0%
+bytes of data there's also other types
+like<00:06:34.430><c> long</c><00:06:34.639><c> and</c><00:06:34.849><c> there</c><00:06:35.060><c> are</c><00:06:35.150><c> a</c><00:06:35.180><c> few</c><00:06:35.360><c> different</c>
+
+00:06:35.709 --> 00:06:35.719 align:start position:0%
+like long and there are a few different
+ 
+
+00:06:35.719 --> 00:06:37.240 align:start position:0%
+like long and there are a few different
+modifications<00:06:36.469><c> I'm</c><00:06:36.740><c> not</c><00:06:36.919><c> going</c><00:06:37.070><c> to</c><00:06:37.130><c> go</c>
+
+00:06:37.240 --> 00:06:37.250 align:start position:0%
+modifications I'm not going to go
+ 
+
+00:06:37.250 --> 00:06:38.679 align:start position:0%
+modifications I'm not going to go
+through<00:06:37.490><c> all</c><00:06:37.700><c> of</c><00:06:37.729><c> them</c><00:06:38.000><c> but</c>
+
+00:06:38.679 --> 00:06:38.689 align:start position:0%
+through all of them but
+ 
+
+00:06:38.689 --> 00:06:41.589 align:start position:0%
+through all of them but
+basic<00:06:39.019><c> ones</c><00:06:39.259><c> are</c><00:06:39.529><c> these</c><00:06:40.159><c> five</c><00:06:40.789><c> you</c><00:06:41.330><c> can</c><00:06:41.479><c> also</c>
+
+00:06:41.589 --> 00:06:41.599 align:start position:0%
+basic ones are these five you can also
+ 
+
+00:06:41.599 --> 00:06:44.049 align:start position:0%
+basic ones are these five you can also
+add<00:06:41.839><c> on</c><00:06:42.080><c> signs</c><00:06:42.439><c> to</c><00:06:42.739><c> any</c><00:06:42.979><c> of</c><00:06:43.159><c> these</c><00:06:43.339><c> and</c><00:06:43.639><c> it</c><00:06:43.969><c> will</c>
+
+00:06:44.049 --> 00:06:44.059 align:start position:0%
+add on signs to any of these and it will
+ 
+
+00:06:44.059 --> 00:06:45.850 align:start position:0%
+add on signs to any of these and it will
+remove<00:06:44.330><c> that</c><00:06:44.539><c> sign</c><00:06:44.779><c> bit</c><00:06:45.019><c> and</c><00:06:45.169><c> let</c><00:06:45.439><c> you</c><00:06:45.559><c> set</c><00:06:45.830><c> a</c>
+
+00:06:45.850 --> 00:06:45.860 align:start position:0%
+remove that sign bit and let you set a
+ 
+
+00:06:45.860 --> 00:06:47.799 align:start position:0%
+remove that sign bit and let you set a
+larger<00:06:46.399><c> number</c><00:06:46.580><c> chart</c><00:06:47.119><c> traditionally</c><00:06:47.659><c> is</c>
+
+00:06:47.799 --> 00:06:47.809 align:start position:0%
+larger number chart traditionally is
+ 
+
+00:06:47.809 --> 00:06:49.959 align:start position:0%
+larger number chart traditionally is
+also<00:06:48.110><c> used</c><00:06:48.319><c> for</c><00:06:48.469><c> storing</c><00:06:48.979><c> characters</c><00:06:49.610><c> not</c>
+
+00:06:49.959 --> 00:06:49.969 align:start position:0%
+also used for storing characters not
+ 
+
+00:06:49.969 --> 00:06:51.729 align:start position:0%
+also used for storing characters not
+just<00:06:50.209><c> numbers</c><00:06:50.569><c> so</c><00:06:50.839><c> above</c><00:06:51.349><c> I'm</c><00:06:51.469><c> assigning</c>
+
+00:06:51.729 --> 00:06:51.739 align:start position:0%
+just numbers so above I'm assigning
+ 
+
+00:06:51.739 --> 00:06:53.619 align:start position:0%
+just numbers so above I'm assigning
+numbers<00:06:51.949><c> to</c><00:06:52.189><c> it</c><00:06:52.399><c> like</c><00:06:52.549><c> 50</c><00:06:52.999><c> you</c><00:06:53.299><c> can</c><00:06:53.479><c> also</c>
+
+00:06:53.619 --> 00:06:53.629 align:start position:0%
+numbers to it like 50 you can also
+ 
+
+00:06:53.629 --> 00:06:55.719 align:start position:0%
+numbers to it like 50 you can also
+assign<00:06:54.049><c> characters</c><00:06:54.649><c> to</c><00:06:54.829><c> it</c><00:06:54.949><c> like</c><00:06:55.129><c> a</c><00:06:55.249><c> now</c>
+
+00:06:55.719 --> 00:06:55.729 align:start position:0%
+assign characters to it like a now
+ 
+
+00:06:55.729 --> 00:06:56.859 align:start position:0%
+assign characters to it like a now
+that's<00:06:55.849><c> not</c><00:06:56.059><c> to</c><00:06:56.179><c> say</c><00:06:56.329><c> you</c><00:06:56.360><c> can't</c><00:06:56.479><c> assign</c>
+
+00:06:56.859 --> 00:06:56.869 align:start position:0%
+that's not to say you can't assign
+ 
+
+00:06:56.869 --> 00:06:58.449 align:start position:0%
+that's not to say you can't assign
+characters<00:06:57.289><c> to</c><00:06:57.439><c> other</c><00:06:57.649><c> integers</c><00:06:58.309><c> you</c><00:06:58.429><c> can</c>
+
+00:06:58.449 --> 00:06:58.459 align:start position:0%
+characters to other integers you can
+ 
+
+00:06:58.459 --> 00:07:00.279 align:start position:0%
+characters to other integers you can
+because<00:06:59.299><c> at</c><00:06:59.509><c> the</c><00:06:59.659><c> end</c><00:06:59.779><c> of</c><00:06:59.839><c> the</c><00:06:59.899><c> day</c><00:07:00.049><c> this</c>
+
+00:07:00.279 --> 00:07:00.289 align:start position:0%
+because at the end of the day this
+ 
+
+00:07:00.289 --> 00:07:01.779 align:start position:0%
+because at the end of the day this
+character<00:07:00.709><c> that</c><00:07:00.739><c> I</c><00:07:00.889><c> five</c><00:07:01.129><c> to</c><00:07:01.279><c> this</c><00:07:01.339><c> letter</c><00:07:01.579><c> a</c>
+
+00:07:01.779 --> 00:07:01.789 align:start position:0%
+character that I five to this letter a
+ 
+
+00:07:01.789 --> 00:07:04.659 align:start position:0%
+character that I five to this letter a
+is<00:07:02.059><c> just</c><00:07:02.749><c> a</c><00:07:02.899><c> number</c><00:07:03.229><c> in</c><00:07:03.679><c> fact</c><00:07:04.099><c> that</c><00:07:04.339><c> number</c>
+
+00:07:04.659 --> 00:07:04.669 align:start position:0%
+is just a number in fact that number
+ 
+
+00:07:04.669 --> 00:07:06.939 align:start position:0%
+is just a number in fact that number
+that<00:07:05.239><c> numeric</c><00:07:05.749><c> value</c><00:07:06.110><c> associated</c><00:07:06.409><c> with</c><00:07:06.709><c> that</c>
+
+00:07:06.939 --> 00:07:06.949 align:start position:0%
+that numeric value associated with that
+ 
+
+00:07:06.949 --> 00:07:10.299 align:start position:0%
+that numeric value associated with that
+character<00:07:07.549><c> the</c><00:07:07.849><c> character</c><00:07:07.879><c> a</c><00:07:08.360><c> is</c><00:07:08.649><c> 65</c><00:07:09.679><c> now</c><00:07:10.129><c> if</c>
+
+00:07:10.299 --> 00:07:10.309 align:start position:0%
+character the character a is 65 now if
+ 
+
+00:07:10.309 --> 00:07:11.769 align:start position:0%
+character the character a is 65 now if
+numbers<00:07:10.639><c> are</c><00:07:10.759><c> just</c><00:07:10.849><c> characters</c><00:07:11.539><c> and</c><00:07:11.719><c> if</c>
+
+00:07:11.769 --> 00:07:11.779 align:start position:0%
+numbers are just characters and if
+ 
+
+00:07:11.779 --> 00:07:13.959 align:start position:0%
+numbers are just characters and if
+characters<00:07:12.199><c> are</c><00:07:12.289><c> just</c><00:07:12.439><c> numbers</c><00:07:12.679><c> then</c><00:07:13.279><c> why</c>
+
+00:07:13.959 --> 00:07:13.969 align:start position:0%
+characters are just numbers then why
+ 
+
+00:07:13.969 --> 00:07:16.269 align:start position:0%
+characters are just numbers then why
+exactly<00:07:14.329><c> do</c><00:07:15.079><c> we</c><00:07:15.169><c> have</c><00:07:15.379><c> this</c><00:07:15.559><c> distinction</c><00:07:15.949><c> why</c>
+
+00:07:16.269 --> 00:07:16.279 align:start position:0%
+exactly do we have this distinction why
+ 
+
+00:07:16.279 --> 00:07:18.399 align:start position:0%
+exactly do we have this distinction why
+do<00:07:16.339><c> I</c><00:07:16.489><c> say</c><00:07:16.849><c> that</c><00:07:17.089><c> char</c><00:07:17.389><c> is</c><00:07:17.629><c> specifically</c><00:07:18.110><c> used</c>
+
+00:07:18.399 --> 00:07:18.409 align:start position:0%
+do I say that char is specifically used
+ 
+
+00:07:18.409 --> 00:07:20.409 align:start position:0%
+do I say that char is specifically used
+for<00:07:18.529><c> characters</c><00:07:19.339><c> whereas</c><00:07:19.879><c> it's</c><00:07:20.059><c> really</c><00:07:20.269><c> not</c>
+
+00:07:20.409 --> 00:07:20.419 align:start position:0%
+for characters whereas it's really not
+ 
+
+00:07:20.419 --> 00:07:22.869 align:start position:0%
+for characters whereas it's really not
+that<00:07:20.689><c> is</c><00:07:20.959><c> because</c><00:07:21.289><c> we</c><00:07:21.769><c> often</c><00:07:22.219><c> as</c><00:07:22.459><c> programmers</c>
+
+00:07:22.869 --> 00:07:22.879 align:start position:0%
+that is because we often as programmers
+ 
+
+00:07:22.879 --> 00:07:24.669 align:start position:0%
+that is because we often as programmers
+make<00:07:23.119><c> assumptions</c><00:07:23.779><c> about</c><00:07:23.899><c> certain</c><00:07:24.439><c> data</c>
+
+00:07:24.669 --> 00:07:24.679 align:start position:0%
+make assumptions about certain data
+ 
+
+00:07:24.679 --> 00:07:27.129 align:start position:0%
+make assumptions about certain data
+types<00:07:24.949><c> if</c><00:07:25.459><c> I</c><00:07:25.669><c> pass</c><00:07:25.939><c> in</c><00:07:25.969><c> a</c><00:07:26.209><c> char</c><00:07:26.479><c> and</c><00:07:26.809><c> call</c><00:07:27.019><c> it</c>
+
+00:07:27.129 --> 00:07:27.139 align:start position:0%
+types if I pass in a char and call it
+ 
+
+00:07:27.139 --> 00:07:29.319 align:start position:0%
+types if I pass in a char and call it
+something<00:07:27.439><c> like</c><00:07:27.489><c> character</c><00:07:28.489><c> I</c><00:07:28.729><c> usually</c>
+
+00:07:29.319 --> 00:07:29.329 align:start position:0%
+something like character I usually
+ 
+
+00:07:29.329 --> 00:07:30.429 align:start position:0%
+something like character I usually
+expect<00:07:29.599><c> you</c><00:07:29.839><c> to</c><00:07:29.959><c> actually</c><00:07:30.110><c> assign</c><00:07:30.409><c> a</c>
+
+00:07:30.429 --> 00:07:30.439 align:start position:0%
+expect you to actually assign a
+ 
+
+00:07:30.439 --> 00:07:32.049 align:start position:0%
+expect you to actually assign a
+character<00:07:30.860><c> to</c><00:07:30.979><c> it</c><00:07:31.129><c> so</c><00:07:31.369><c> a</c><00:07:31.399><c> good</c><00:07:31.550><c> example</c><00:07:31.669><c> of</c>
+
+00:07:32.049 --> 00:07:32.059 align:start position:0%
+character to it so a good example of
+ 
+
+00:07:32.059 --> 00:07:33.939 align:start position:0%
+character to it so a good example of
+this<00:07:32.239><c> is</c><00:07:32.479><c> if</c><00:07:32.809><c> you</c><00:07:32.929><c> actually</c><00:07:33.110><c> try</c><00:07:33.529><c> and</c><00:07:33.559><c> print</c>
+
+00:07:33.939 --> 00:07:33.949 align:start position:0%
+this is if you actually try and print
+ 
+
+00:07:33.949 --> 00:07:36.459 align:start position:0%
+this is if you actually try and print
+out<00:07:34.219><c> a</c><00:07:34.429><c> char</c><00:07:34.759><c> if</c><00:07:35.029><c> I</c><00:07:35.389><c> print</c><00:07:35.659><c> out</c><00:07:35.869><c> this</c><00:07:36.079><c> variable</c>
+
+00:07:36.459 --> 00:07:36.469 align:start position:0%
+out a char if I print out this variable
+ 
+
+00:07:36.469 --> 00:07:39.729 align:start position:0%
+out a char if I print out this variable
+a<00:07:36.799><c> for</c><00:07:37.369><c> example</c><00:07:37.459><c> and</c><00:07:37.999><c> I</c><00:07:38.209><c> hit</c><00:07:38.419><c> f5</c><00:07:38.749><c> I'm</c><00:07:39.199><c> not</c><00:07:39.499><c> going</c>
+
+00:07:39.729 --> 00:07:39.739 align:start position:0%
+a for example and I hit f5 I'm not going
+ 
+
+00:07:39.739 --> 00:07:41.409 align:start position:0%
+a for example and I hit f5 I'm not going
+to<00:07:39.860><c> get</c><00:07:40.099><c> the</c><00:07:40.249><c> number</c><00:07:40.369><c> associated</c><00:07:40.789><c> with</c><00:07:41.089><c> it</c><00:07:41.209><c> I'm</c>
+
+00:07:41.409 --> 00:07:41.419 align:start position:0%
+to get the number associated with it I'm
+ 
+
+00:07:41.419 --> 00:07:43.239 align:start position:0%
+to get the number associated with it I'm
+going<00:07:41.599><c> to</c><00:07:41.749><c> get</c><00:07:41.869><c> the</c><00:07:41.989><c> character</c><00:07:42.289><c> a</c><00:07:42.559><c> printed</c><00:07:43.129><c> out</c>
+
+00:07:43.239 --> 00:07:43.249 align:start position:0%
+going to get the character a printed out
+ 
+
+00:07:43.249 --> 00:07:45.159 align:start position:0%
+going to get the character a printed out
+so<00:07:43.669><c> if</c><00:07:43.789><c> I</c><00:07:43.879><c> replace</c><00:07:44.029><c> this</c><00:07:44.509><c> with</c><00:07:44.749><c> this</c><00:07:44.809><c> actual</c>
+
+00:07:45.159 --> 00:07:45.169 align:start position:0%
+so if I replace this with this actual
+ 
+
+00:07:45.169 --> 00:07:47.679 align:start position:0%
+so if I replace this with this actual
+numeric<00:07:45.559><c> value</c><00:07:45.889><c> like</c><00:07:46.039><c> 65</c><00:07:46.639><c> I'm</c><00:07:46.969><c> also</c><00:07:47.300><c> going</c><00:07:47.629><c> to</c>
+
+00:07:47.679 --> 00:07:47.689 align:start position:0%
+numeric value like 65 I'm also going to
+ 
+
+00:07:47.689 --> 00:07:49.629 align:start position:0%
+numeric value like 65 I'm also going to
+get<00:07:47.839><c> the</c><00:07:48.019><c> value</c><00:07:48.319><c> a</c><00:07:48.349><c> printed</c><00:07:48.889><c> out</c><00:07:49.009><c> as</c><00:07:49.189><c> you</c><00:07:49.519><c> can</c>
+
+00:07:49.629 --> 00:07:49.639 align:start position:0%
+get the value a printed out as you can
+ 
+
+00:07:49.639 --> 00:07:52.749 align:start position:0%
+get the value a printed out as you can
+see<00:07:49.819><c> over</c><00:07:49.939><c> here</c><00:07:50.089><c> because</c><00:07:50.989><c> C</c><00:07:51.469><c> out</c><00:07:51.739><c> if</c><00:07:52.099><c> I</c><00:07:52.309><c> pass</c><00:07:52.550><c> in</c>
+
+00:07:52.749 --> 00:07:52.759 align:start position:0%
+see over here because C out if I pass in
+ 
+
+00:07:52.759 --> 00:07:55.329 align:start position:0%
+see over here because C out if I pass in
+a<00:07:52.849><c> char</c><00:07:53.149><c> into</c><00:07:53.569><c> C</c><00:07:53.809><c> out</c><00:07:54.050><c> is</c><00:07:54.319><c> going</c><00:07:54.860><c> to</c><00:07:54.979><c> treat</c><00:07:55.219><c> it</c>
+
+00:07:55.329 --> 00:07:55.339 align:start position:0%
+a char into C out is going to treat it
+ 
+
+00:07:55.339 --> 00:07:57.819 align:start position:0%
+a char into C out is going to treat it
+like<00:07:55.369><c> a</c><00:07:55.759><c> character</c><00:07:56.419><c> not</c><00:07:56.629><c> like</c><00:07:56.869><c> a</c><00:07:56.899><c> number</c><00:07:57.319><c> if</c><00:07:57.619><c> I</c>
+
+00:07:57.819 --> 00:07:57.829 align:start position:0%
+like a character not like a number if I
+ 
+
+00:07:57.829 --> 00:07:59.350 align:start position:0%
+like a character not like a number if I
+change<00:07:58.069><c> it</c><00:07:58.159><c> to</c><00:07:58.219><c> be</c><00:07:58.399><c> some</c><00:07:58.610><c> other</c><00:07:58.759><c> type</c><00:07:59.089><c> like</c><00:07:59.329><c> a</c>
+
+00:07:59.350 --> 00:07:59.360 align:start position:0%
+change it to be some other type like a
+ 
+
+00:07:59.360 --> 00:08:02.319 align:start position:0%
+change it to be some other type like a
+short<00:07:59.719><c> for</c><00:07:59.989><c> example</c><00:08:00.469><c> and</c><00:08:00.649><c> hit</c><00:08:01.159><c> f5</c><00:08:01.489><c> you</c><00:08:02.059><c> can</c><00:08:02.209><c> see</c>
+
+00:08:02.319 --> 00:08:02.329 align:start position:0%
+short for example and hit f5 you can see
+ 
+
+00:08:02.329 --> 00:08:04.209 align:start position:0%
+short for example and hit f5 you can see
+that<00:08:02.509><c> C</c><00:08:02.659><c> out</c><00:08:02.869><c> no</c><00:08:03.079><c> longer</c><00:08:03.319><c> treats</c><00:08:03.800><c> it</c><00:08:04.009><c> like</c><00:08:04.039><c> a</c>
+
+00:08:04.209 --> 00:08:04.219 align:start position:0%
+that C out no longer treats it like a
+ 
+
+00:08:04.219 --> 00:08:05.709 align:start position:0%
+that C out no longer treats it like a
+character<00:08:04.699><c> it's</c><00:08:04.909><c> going</c><00:08:05.089><c> to</c><00:08:05.179><c> actually</c><00:08:05.539><c> print</c>
+
+00:08:05.709 --> 00:08:05.719 align:start position:0%
+character it's going to actually print
+ 
+
+00:08:05.719 --> 00:08:07.899 align:start position:0%
+character it's going to actually print
+out<00:08:05.869><c> the</c><00:08:06.019><c> numeric</c><00:08:06.379><c> value</c><00:08:06.829><c> and</c><00:08:07.039><c> even</c><00:08:07.669><c> if</c><00:08:07.789><c> I</c>
+
+00:08:07.899 --> 00:08:07.909 align:start position:0%
+out the numeric value and even if I
+ 
+
+00:08:07.909 --> 00:08:09.639 align:start position:0%
+out the numeric value and even if I
+assign<00:08:08.149><c> a</c><00:08:08.209><c> character</c><00:08:08.659><c> here</c><00:08:08.899><c> it's</c><00:08:09.169><c> just</c><00:08:09.259><c> really</c>
+
+00:08:09.639 --> 00:08:09.649 align:start position:0%
+assign a character here it's just really
+ 
+
+00:08:09.649 --> 00:08:12.189 align:start position:0%
+assign a character here it's just really
+assigning<00:08:10.189><c> the</c><00:08:10.579><c> value</c><00:08:10.610><c> 65</c><00:08:11.360><c> so</c><00:08:11.809><c> if</c><00:08:11.899><c> I</c><00:08:11.959><c> run</c><00:08:12.139><c> this</c>
+
+00:08:12.189 --> 00:08:12.199 align:start position:0%
+assigning the value 65 so if I run this
+ 
+
+00:08:12.199 --> 00:08:15.189 align:start position:0%
+assigning the value 65 so if I run this
+again<00:08:12.349><c> you</c><00:08:13.009><c> can</c><00:08:13.219><c> see</c><00:08:13.339><c> that</c><00:08:13.489><c> we</c><00:08:13.610><c> get</c><00:08:13.759><c> 65</c><00:08:14.449><c> so</c><00:08:15.079><c> the</c>
+
+00:08:15.189 --> 00:08:15.199 align:start position:0%
+again you can see that we get 65 so the
+ 
+
+00:08:15.199 --> 00:08:16.179 align:start position:0%
+again you can see that we get 65 so the
+reason<00:08:15.409><c> I'm</c><00:08:15.499><c> telling</c><00:08:15.679><c> you</c><00:08:15.829><c> all</c><00:08:15.919><c> this</c><00:08:16.039><c> is</c>
+
+00:08:16.179 --> 00:08:16.189 align:start position:0%
+reason I'm telling you all this is
+ 
+
+00:08:16.189 --> 00:08:17.350 align:start position:0%
+reason I'm telling you all this is
+because<00:08:16.399><c> I</c><00:08:16.579><c> want</c><00:08:16.729><c> you</c><00:08:16.789><c> to</c><00:08:16.819><c> understand</c><00:08:17.239><c> that</c>
+
+00:08:17.350 --> 00:08:17.360 align:start position:0%
+because I want you to understand that
+ 
+
+00:08:17.360 --> 00:08:20.739 align:start position:0%
+because I want you to understand that
+data<00:08:17.989><c> types</c><00:08:18.289><c> the</c><00:08:18.589><c> usage</c><00:08:19.519><c> of</c><00:08:19.699><c> data</c><00:08:20.089><c> types</c><00:08:20.389><c> is</c>
+
+00:08:20.739 --> 00:08:20.749 align:start position:0%
+data types the usage of data types is
+ 
+
+00:08:20.749 --> 00:08:23.919 align:start position:0%
+data types the usage of data types is
+just<00:08:21.499><c> up</c><00:08:21.709><c> to</c><00:08:22.009><c> the</c><00:08:22.129><c> programmer</c><00:08:22.669><c> really</c><00:08:23.449><c> there</c>
+
+00:08:23.919 --> 00:08:23.929 align:start position:0%
+just up to the programmer really there
+ 
+
+00:08:23.929 --> 00:08:25.419 align:start position:0%
+just up to the programmer really there
+are<00:08:24.050><c> certain</c><00:08:24.259><c> conventions</c><00:08:24.829><c> that</c><00:08:25.009><c> we</c><00:08:25.129><c> have</c><00:08:25.279><c> in</c>
+
+00:08:25.419 --> 00:08:25.429 align:start position:0%
+are certain conventions that we have in
+ 
+
+00:08:25.429 --> 00:08:27.759 align:start position:0%
+are certain conventions that we have in
+place<00:08:25.699><c> but</c><00:08:26.360><c> there's</c><00:08:26.569><c> nothing</c><00:08:26.929><c> concrete</c><00:08:27.139><c> that</c>
+
+00:08:27.759 --> 00:08:27.769 align:start position:0%
+place but there's nothing concrete that
+ 
+
+00:08:27.769 --> 00:08:29.949 align:start position:0%
+place but there's nothing concrete that
+you<00:08:27.919><c> have</c><00:08:28.189><c> to</c><00:08:28.369><c> actually</c><00:08:28.879><c> follow</c><00:08:29.149><c> there</c><00:08:29.809><c> are</c>
+
+00:08:29.949 --> 00:08:29.959 align:start position:0%
+you have to actually follow there are
+ 
+
+00:08:29.959 --> 00:08:32.559 align:start position:0%
+you have to actually follow there are
+very<00:08:30.289><c> little</c><00:08:30.559><c> rules</c><00:08:30.919><c> and</c><00:08:31.159><c> c++</c><00:08:31.699><c> after</c><00:08:32.059><c> all</c><00:08:32.209><c> so</c>
+
+00:08:32.559 --> 00:08:32.569 align:start position:0%
+very little rules and c++ after all so
+ 
+
+00:08:32.569 --> 00:08:34.299 align:start position:0%
+very little rules and c++ after all so
+because<00:08:32.870><c> of</c><00:08:32.959><c> that</c><00:08:33.110><c> I</c><00:08:33.319><c> do</c><00:08:33.439><c> want</c><00:08:33.860><c> you</c><00:08:33.949><c> to</c><00:08:34.039><c> realize</c>
+
+00:08:34.299 --> 00:08:34.309 align:start position:0%
+because of that I do want you to realize
+ 
+
+00:08:34.309 --> 00:08:35.949 align:start position:0%
+because of that I do want you to realize
+that<00:08:34.550><c> the</c><00:08:34.849><c> only</c><00:08:34.909><c> real</c><00:08:35.449><c> difference</c><00:08:35.899><c> between</c>
+
+00:08:35.949 --> 00:08:35.959 align:start position:0%
+that the only real difference between
+ 
+
+00:08:35.959 --> 00:08:38.499 align:start position:0%
+that the only real difference between
+these<00:08:36.319><c> data</c><00:08:36.559><c> types</c><00:08:36.740><c> is</c><00:08:37.039><c> how</c><00:08:37.669><c> much</c><00:08:37.849><c> memory</c><00:08:38.120><c> will</c>
+
+00:08:38.499 --> 00:08:38.509 align:start position:0%
+these data types is how much memory will
+ 
+
+00:08:38.509 --> 00:08:40.959 align:start position:0%
+these data types is how much memory will
+be<00:08:38.629><c> allocated</c><00:08:39.319><c> when</c><00:08:39.649><c> you</c><00:08:39.829><c> create</c><00:08:40.399><c> a</c><00:08:40.430><c> variable</c>
+
+00:08:40.959 --> 00:08:40.969 align:start position:0%
+be allocated when you create a variable
+ 
+
+00:08:40.969 --> 00:08:42.459 align:start position:0%
+be allocated when you create a variable
+with<00:08:41.389><c> that</c><00:08:41.659><c> data</c><00:08:41.959><c> type</c>
+
+00:08:42.459 --> 00:08:42.469 align:start position:0%
+with that data type
+ 
+
+00:08:42.469 --> 00:08:44.319 align:start position:0%
+with that data type
+so<00:08:42.620><c> with</c><00:08:42.769><c> those</c><00:08:42.889><c> integer</c><00:08:43.339><c> types</c><00:08:43.550><c> aside</c><00:08:43.969><c> what</c>
+
+00:08:44.319 --> 00:08:44.329 align:start position:0%
+so with those integer types aside what
+ 
+
+00:08:44.329 --> 00:08:46.660 align:start position:0%
+so with those integer types aside what
+if<00:08:44.509><c> I</c><00:08:44.660><c> want</c><00:08:44.959><c> to</c><00:08:45.079><c> store</c><00:08:45.350><c> a</c><00:08:45.529><c> decimal</c><00:08:46.160><c> value</c><00:08:46.220><c> for</c>
+
+00:08:46.660 --> 00:08:46.670 align:start position:0%
+if I want to store a decimal value for
+ 
+
+00:08:46.670 --> 00:08:48.639 align:start position:0%
+if I want to store a decimal value for
+example<00:08:46.759><c> five</c><00:08:47.300><c> point</c><00:08:47.630><c> five</c><00:08:47.839><c> how</c><00:08:48.230><c> do</c><00:08:48.290><c> I</c><00:08:48.410><c> do</c><00:08:48.500><c> that</c>
+
+00:08:48.639 --> 00:08:48.649 align:start position:0%
+example five point five how do I do that
+ 
+
+00:08:48.649 --> 00:08:50.650 align:start position:0%
+example five point five how do I do that
+well<00:08:49.100><c> for</c><00:08:49.250><c> that</c><00:08:49.370><c> we</c><00:08:49.429><c> have</c><00:08:49.699><c> two</c><00:08:49.939><c> data</c><00:08:50.179><c> types</c><00:08:50.269><c> we</c>
+
+00:08:50.650 --> 00:08:50.660 align:start position:0%
+well for that we have two data types we
+ 
+
+00:08:50.660 --> 00:08:51.820 align:start position:0%
+well for that we have two data types we
+have<00:08:50.689><c> float</c><00:08:51.079><c> and</c><00:08:51.350><c> we</c>
+
+00:08:51.820 --> 00:08:51.830 align:start position:0%
+have float and we
+ 
+
+00:08:51.830 --> 00:08:53.560 align:start position:0%
+have float and we
+have<00:08:51.950><c> double</c><00:08:52.460><c> there</c><00:08:52.580><c> are</c><00:08:52.640><c> also</c><00:08:52.730><c> some</c><00:08:53.060><c> modifies</c>
+
+00:08:53.560 --> 00:08:53.570 align:start position:0%
+have double there are also some modifies
+ 
+
+00:08:53.570 --> 00:08:55.510 align:start position:0%
+have double there are also some modifies
+that<00:08:53.600><c> you</c><00:08:53.840><c> can</c><00:08:53.990><c> do</c><00:08:54.140><c> like</c><00:08:54.410><c> long</c><00:08:54.740><c> double</c><00:08:55.190><c> we're</c>
+
+00:08:55.510 --> 00:08:55.520 align:start position:0%
+that you can do like long double we're
+ 
+
+00:08:55.520 --> 00:08:57.010 align:start position:0%
+that you can do like long double we're
+not<00:08:55.640><c> going</c><00:08:55.760><c> to</c><00:08:55.820><c> get</c><00:08:55.910><c> into</c><00:08:56.090><c> those</c><00:08:56.210><c> so</c><00:08:56.600><c> a</c><00:08:56.630><c> float</c>
+
+00:08:57.010 --> 00:08:57.020 align:start position:0%
+not going to get into those so a float
+ 
+
+00:08:57.020 --> 00:09:00.010 align:start position:0%
+not going to get into those so a float
+is<00:08:57.260><c> basically</c><00:08:57.830><c> a</c><00:08:58.180><c> decimal</c><00:08:59.180><c> value</c><00:08:59.240><c> that</c><00:08:59.720><c> we</c><00:08:59.870><c> can</c>
+
+00:09:00.010 --> 00:09:00.020 align:start position:0%
+is basically a decimal value that we can
+ 
+
+00:09:00.020 --> 00:09:02.200 align:start position:0%
+is basically a decimal value that we can
+store<00:09:00.320><c> that</c><00:09:00.740><c> occupies</c><00:09:01.220><c> four</c><00:09:01.580><c> bytes</c><00:09:01.880><c> of</c><00:09:02.090><c> data</c>
+
+00:09:02.200 --> 00:09:02.210 align:start position:0%
+store that occupies four bytes of data
+ 
+
+00:09:02.210 --> 00:09:04.690 align:start position:0%
+store that occupies four bytes of data
+so<00:09:02.900><c> let's</c><00:09:03.080><c> define</c><00:09:03.200><c> a</c><00:09:03.350><c> variable</c><00:09:03.830><c> here</c><00:09:04.010><c> such</c><00:09:04.520><c> as</c>
+
+00:09:04.690 --> 00:09:04.700 align:start position:0%
+so let's define a variable here such as
+ 
+
+00:09:04.700 --> 00:09:06.310 align:start position:0%
+so let's define a variable here such as
+5.5<00:09:05.390><c> how</c><00:09:05.600><c> do</c><00:09:05.660><c> we</c><00:09:05.780><c> do</c><00:09:05.930><c> that</c>
+
+00:09:06.310 --> 00:09:06.320 align:start position:0%
+5.5 how do we do that
+ 
+
+00:09:06.320 --> 00:09:08.230 align:start position:0%
+5.5 how do we do that
+let's<00:09:06.620><c> also</c><00:09:06.800><c> replace</c><00:09:07.220><c> this</c><00:09:07.370><c> variable</c><00:09:07.580><c> a</c><00:09:07.910><c> we're</c>
+
+00:09:08.230 --> 00:09:08.240 align:start position:0%
+let's also replace this variable a we're
+ 
+
+00:09:08.240 --> 00:09:09.880 align:start position:0%
+let's also replace this variable a we're
+printing<00:09:08.540><c> out</c><00:09:08.780><c> our</c><00:09:08.960><c> float</c><00:09:09.230><c> variable</c><00:09:09.710><c> and</c>
+
+00:09:09.880 --> 00:09:09.890 align:start position:0%
+printing out our float variable and
+ 
+
+00:09:09.890 --> 00:09:10.960 align:start position:0%
+printing out our float variable and
+compile<00:09:10.370><c> our</c><00:09:10.520><c> file</c>
+
+00:09:10.960 --> 00:09:10.970 align:start position:0%
+compile our file
+ 
+
+00:09:10.970 --> 00:09:12.880 align:start position:0%
+compile our file
+let's<00:09:11.150><c> hit</c><00:09:11.300><c> f5</c><00:09:11.690><c> to</c><00:09:11.750><c> run</c><00:09:11.990><c> our</c><00:09:12.110><c> program</c><00:09:12.500><c> and</c><00:09:12.680><c> you</c>
+
+00:09:12.880 --> 00:09:12.890 align:start position:0%
+let's hit f5 to run our program and you
+ 
+
+00:09:12.890 --> 00:09:15.370 align:start position:0%
+let's hit f5 to run our program and you
+can<00:09:12.920><c> see</c><00:09:13.160><c> we</c><00:09:13.280><c> get</c><00:09:13.400><c> 5.5</c><00:09:14.000><c> printed</c><00:09:14.300><c> out</c><00:09:14.420><c> fantastic</c>
+
+00:09:15.370 --> 00:09:15.380 align:start position:0%
+can see we get 5.5 printed out fantastic
+ 
+
+00:09:15.380 --> 00:09:17.140 align:start position:0%
+can see we get 5.5 printed out fantastic
+now<00:09:15.500><c> you</c><00:09:15.560><c> may</c><00:09:15.740><c> think</c><00:09:15.770><c> that</c><00:09:16.160><c> you've</c><00:09:16.400><c> defined</c><00:09:16.670><c> a</c>
+
+00:09:17.140 --> 00:09:17.150 align:start position:0%
+now you may think that you've defined a
+ 
+
+00:09:17.150 --> 00:09:19.690 align:start position:0%
+now you may think that you've defined a
+float<00:09:17.660><c> here</c><00:09:17.990><c> but</c><00:09:18.590><c> you</c><00:09:18.740><c> actually</c><00:09:19.340><c> haven't</c>
+
+00:09:19.690 --> 00:09:19.700 align:start position:0%
+float here but you actually haven't
+ 
+
+00:09:19.700 --> 00:09:22.360 align:start position:0%
+float here but you actually haven't
+you've<00:09:19.850><c> actually</c><00:09:20.090><c> defined</c><00:09:20.990><c> a</c><00:09:21.200><c> double</c><00:09:21.920><c> if</c><00:09:22.160><c> we</c>
+
+00:09:22.360 --> 00:09:22.370 align:start position:0%
+you've actually defined a double if we
+ 
+
+00:09:22.370 --> 00:09:23.500 align:start position:0%
+you've actually defined a double if we
+go<00:09:22.490><c> back</c><00:09:22.610><c> to</c><00:09:22.640><c> visual</c><00:09:22.880><c> studio</c><00:09:23.000><c> and</c><00:09:23.240><c> we</c><00:09:23.300><c> hover</c>
+
+00:09:23.500 --> 00:09:23.510 align:start position:0%
+go back to visual studio and we hover
+ 
+
+00:09:23.510 --> 00:09:25.210 align:start position:0%
+go back to visual studio and we hover
+our<00:09:23.720><c> mouse</c><00:09:23.780><c> over</c><00:09:24.380><c> this</c><00:09:24.470><c> value</c><00:09:24.830><c> you</c><00:09:24.920><c> can</c><00:09:25.070><c> see</c>
+
+00:09:25.210 --> 00:09:25.220 align:start position:0%
+our mouse over this value you can see
+ 
+
+00:09:25.220 --> 00:09:26.890 align:start position:0%
+our mouse over this value you can see
+that<00:09:25.370><c> in</c><00:09:25.460><c> brackets</c><00:09:25.790><c> it</c><00:09:25.910><c> says</c><00:09:26.060><c> double</c><00:09:26.510><c> as</c><00:09:26.630><c> I</c>
+
+00:09:26.890 --> 00:09:26.900 align:start position:0%
+that in brackets it says double as I
+ 
+
+00:09:26.900 --> 00:09:29.080 align:start position:0%
+that in brackets it says double as I
+just<00:09:27.170><c> mentioned</c><00:09:27.650><c> we</c><00:09:27.830><c> have</c><00:09:28.010><c> two</c><00:09:28.400><c> different</c>
+
+00:09:29.080 --> 00:09:29.090 align:start position:0%
+just mentioned we have two different
+ 
+
+00:09:29.090 --> 00:09:30.970 align:start position:0%
+just mentioned we have two different
+variables<00:09:29.510><c> that</c><00:09:29.780><c> we</c><00:09:29.930><c> can</c><00:09:30.140><c> use</c><00:09:30.560><c> to</c><00:09:30.830><c> store</c>
+
+00:09:30.970 --> 00:09:30.980 align:start position:0%
+variables that we can use to store
+ 
+
+00:09:30.980 --> 00:09:33.760 align:start position:0%
+variables that we can use to store
+decimal<00:09:31.160><c> numbers</c><00:09:31.400><c> float</c><00:09:31.970><c> and</c><00:09:32.210><c> double</c><00:09:32.660><c> so</c><00:09:33.560><c> how</c>
+
+00:09:33.760 --> 00:09:33.770 align:start position:0%
+decimal numbers float and double so how
+ 
+
+00:09:33.770 --> 00:09:35.590 align:start position:0%
+decimal numbers float and double so how
+do<00:09:33.830><c> we</c><00:09:33.920><c> discern</c><00:09:34.370><c> between</c><00:09:34.580><c> what</c><00:09:35.000><c> a</c><00:09:35.030><c> double</c><00:09:35.480><c> is</c>
+
+00:09:35.590 --> 00:09:35.600 align:start position:0%
+do we discern between what a double is
+ 
+
+00:09:35.600 --> 00:09:37.390 align:start position:0%
+do we discern between what a double is
+and<00:09:35.810><c> what</c><00:09:35.930><c> a</c><00:09:35.960><c> float</c><00:09:36.260><c> is</c><00:09:36.500><c> the</c><00:09:36.860><c> way</c><00:09:36.980><c> we</c><00:09:37.100><c> do</c><00:09:37.250><c> that</c>
+
+00:09:37.390 --> 00:09:37.400 align:start position:0%
+and what a float is the way we do that
+ 
+
+00:09:37.400 --> 00:09:40.090 align:start position:0%
+and what a float is the way we do that
+is<00:09:37.640><c> by</c><00:09:38.000><c> basically</c><00:09:38.480><c> appending</c><00:09:39.260><c> an</c><00:09:39.350><c> F</c><00:09:39.650><c> to</c><00:09:39.920><c> our</c>
+
+00:09:40.090 --> 00:09:40.100 align:start position:0%
+is by basically appending an F to our
+ 
+
+00:09:40.100 --> 00:09:42.250 align:start position:0%
+is by basically appending an F to our
+float<00:09:40.490><c> variables</c><00:09:41.000><c> it</c><00:09:41.330><c> can</c><00:09:41.510><c> be</c><00:09:41.600><c> lowercase</c><00:09:41.930><c> or</c>
+
+00:09:42.250 --> 00:09:42.260 align:start position:0%
+float variables it can be lowercase or
+ 
+
+00:09:42.260 --> 00:09:44.380 align:start position:0%
+float variables it can be lowercase or
+uppercase<00:09:42.430><c> doesn't</c><00:09:43.430><c> matter</c><00:09:43.580><c> but</c><00:09:44.030><c> the</c><00:09:44.090><c> point</c>
+
+00:09:44.380 --> 00:09:44.390 align:start position:0%
+uppercase doesn't matter but the point
+ 
+
+00:09:44.390 --> 00:09:46.480 align:start position:0%
+uppercase doesn't matter but the point
+is<00:09:44.540><c> if</c><00:09:44.720><c> we</c><00:09:44.780><c> have</c><00:09:45.080><c> an</c><00:09:45.200><c> F</c><00:09:45.440><c> you</c><00:09:45.950><c> can</c><00:09:46.130><c> see</c><00:09:46.310><c> that</c>
+
+00:09:46.480 --> 00:09:46.490 align:start position:0%
+is if we have an F you can see that
+ 
+
+00:09:46.490 --> 00:09:48.460 align:start position:0%
+is if we have an F you can see that
+we've<00:09:46.640><c> actually</c><00:09:46.970><c> declared</c><00:09:47.570><c> a</c><00:09:47.720><c> flirt</c><00:09:48.080><c> so</c>
+
+00:09:48.460 --> 00:09:48.470 align:start position:0%
+we've actually declared a flirt so
+ 
+
+00:09:48.470 --> 00:09:50.530 align:start position:0%
+we've actually declared a flirt so
+floats<00:09:48.770><c> are</c><00:09:48.890><c> basically</c><00:09:49.190><c> four</c><00:09:49.700><c> bytes</c><00:09:50.000><c> large</c>
+
+00:09:50.530 --> 00:09:50.540 align:start position:0%
+floats are basically four bytes large
+ 
+
+00:09:50.540 --> 00:09:53.110 align:start position:0%
+floats are basically four bytes large
+and<00:09:51.220><c> doubles</c><00:09:52.220><c> are</c><00:09:52.370><c> eight</c><00:09:52.580><c> bytes</c><00:09:52.850><c> large</c>
+
+00:09:53.110 --> 00:09:53.120 align:start position:0%
+and doubles are eight bytes large
+ 
+
+00:09:53.120 --> 00:09:55.390 align:start position:0%
+and doubles are eight bytes large
+finally<00:09:53.840><c> we</c><00:09:53.960><c> have</c><00:09:54.110><c> one</c><00:09:54.410><c> more</c><00:09:54.680><c> primitive</c>
+
+00:09:55.390 --> 00:09:55.400 align:start position:0%
+finally we have one more primitive
+ 
+
+00:09:55.400 --> 00:09:57.700 align:start position:0%
+finally we have one more primitive
+datatype<00:09:55.940><c> to</c><00:09:56.150><c> play</c><00:09:56.300><c> with</c><00:09:56.510><c> and</c><00:09:56.720><c> that</c><00:09:56.930><c> is</c><00:09:57.170><c> bull</c>
+
+00:09:57.700 --> 00:09:57.710 align:start position:0%
+datatype to play with and that is bull
+ 
+
+00:09:57.710 --> 00:09:59.920 align:start position:0%
+datatype to play with and that is bull
+now<00:09:58.160><c> bull</c><00:09:58.430><c> stands</c><00:09:58.820><c> for</c><00:09:58.940><c> bullying</c><00:09:59.300><c> and</c><00:09:59.540><c> it</c><00:09:59.810><c> can</c>
+
+00:09:59.920 --> 00:09:59.930 align:start position:0%
+now bull stands for bullying and it can
+ 
+
+00:09:59.930 --> 00:10:03.220 align:start position:0%
+now bull stands for bullying and it can
+either<00:10:00.080><c> be</c><00:10:00.290><c> true</c><00:10:00.560><c> or</c><00:10:01.040><c> false</c><00:10:01.610><c> if</c><00:10:02.570><c> we</c><00:10:02.960><c> try</c><00:10:03.140><c> and</c>
+
+00:10:03.220 --> 00:10:03.230 align:start position:0%
+either be true or false if we try and
+ 
+
+00:10:03.230 --> 00:10:05.860 align:start position:0%
+either be true or false if we try and
+print<00:10:03.410><c> it</c><00:10:03.530><c> to</c><00:10:03.620><c> our</c><00:10:03.740><c> console</c><00:10:04.160><c> and</c><00:10:04.400><c> hit</c><00:10:04.880><c> f5</c><00:10:05.210><c> you</c>
+
+00:10:05.860 --> 00:10:05.870 align:start position:0%
+print it to our console and hit f5 you
+ 
+
+00:10:05.870 --> 00:10:06.910 align:start position:0%
+print it to our console and hit f5 you
+can<00:10:06.020><c> see</c><00:10:06.170><c> that</c><00:10:06.290><c> we'll</c><00:10:06.440><c> actually</c><00:10:06.590><c> get</c><00:10:06.860><c> a</c>
+
+00:10:06.910 --> 00:10:06.920 align:start position:0%
+can see that we'll actually get a
+ 
+
+00:10:06.920 --> 00:10:09.190 align:start position:0%
+can see that we'll actually get a
+numeric<00:10:07.370><c> value</c><00:10:07.520><c> one</c><00:10:08.120><c> because</c><00:10:08.690><c> of</c><00:10:08.930><c> course</c>
+
+00:10:09.190 --> 00:10:09.200 align:start position:0%
+numeric value one because of course
+ 
+
+00:10:09.200 --> 00:10:11.740 align:start position:0%
+numeric value one because of course
+there's<00:10:09.500><c> no</c><00:10:09.620><c> such</c><00:10:09.800><c> thing</c><00:10:10.010><c> as</c><00:10:10.040><c> true</c><00:10:10.790><c> or</c><00:10:11.030><c> false</c>
+
+00:10:11.740 --> 00:10:11.750 align:start position:0%
+there's no such thing as true or false
+ 
+
+00:10:11.750 --> 00:10:14.200 align:start position:0%
+there's no such thing as true or false
+those<00:10:12.260><c> are</c><00:10:12.470><c> English</c><00:10:12.890><c> words</c><00:10:13.280><c> computer</c><00:10:14.030><c> deal</c>
+
+00:10:14.200 --> 00:10:14.210 align:start position:0%
+those are English words computer deal
+ 
+
+00:10:14.210 --> 00:10:16.600 align:start position:0%
+those are English words computer deal
+with<00:10:14.360><c> numbers</c><00:10:14.750><c> so</c><00:10:14.960><c> basically</c><00:10:15.620><c> zero</c><00:10:16.130><c> means</c>
+
+00:10:16.600 --> 00:10:16.610 align:start position:0%
+with numbers so basically zero means
+ 
+
+00:10:16.610 --> 00:10:19.930 align:start position:0%
+with numbers so basically zero means
+false<00:10:16.760><c> and</c><00:10:17.240><c> anything</c><00:10:18.020><c> except</c><00:10:18.650><c> zero</c><00:10:18.980><c> any</c><00:10:19.430><c> other</c>
+
+00:10:19.930 --> 00:10:19.940 align:start position:0%
+false and anything except zero any other
+ 
+
+00:10:19.940 --> 00:10:22.600 align:start position:0%
+false and anything except zero any other
+number<00:10:20.510><c> means</c><00:10:21.110><c> true</c><00:10:21.620><c> in</c><00:10:21.890><c> this</c><00:10:22.130><c> case</c><00:10:22.340><c> we'll</c>
+
+00:10:22.600 --> 00:10:22.610 align:start position:0%
+number means true in this case we'll
+ 
+
+00:10:22.610 --> 00:10:24.280 align:start position:0%
+number means true in this case we'll
+actually<00:10:22.820><c> get</c><00:10:23.150><c> one</c><00:10:23.420><c> printing</c><00:10:23.810><c> to</c><00:10:23.870><c> the</c><00:10:23.900><c> console</c>
+
+00:10:24.280 --> 00:10:24.290 align:start position:0%
+actually get one printing to the console
+ 
+
+00:10:24.290 --> 00:10:26.860 align:start position:0%
+actually get one printing to the console
+indicating<00:10:24.890><c> that</c><00:10:24.950><c> it</c><00:10:25.220><c> is</c><00:10:25.250><c> true</c><00:10:25.790><c> if</c><00:10:26.060><c> we</c><00:10:26.420><c> change</c>
+
+00:10:26.860 --> 00:10:26.870 align:start position:0%
+indicating that it is true if we change
+ 
+
+00:10:26.870 --> 00:10:29.260 align:start position:0%
+indicating that it is true if we change
+the<00:10:26.990><c> default</c><00:10:27.350><c> and</c><00:10:27.590><c> run</c><00:10:28.040><c> our</c><00:10:28.160><c> program</c><00:10:28.580><c> we</c><00:10:29.150><c> will</c>
+
+00:10:29.260 --> 00:10:29.270 align:start position:0%
+the default and run our program we will
+ 
+
+00:10:29.270 --> 00:10:31.540 align:start position:0%
+the default and run our program we will
+get<00:10:29.450><c> 0</c><00:10:29.750><c> which</c><00:10:30.320><c> means</c><00:10:30.470><c> false</c><00:10:30.710><c> the</c><00:10:31.100><c> bull'</c><00:10:31.310><c> data</c>
+
+00:10:31.540 --> 00:10:31.550 align:start position:0%
+get 0 which means false the bull' data
+ 
+
+00:10:31.550 --> 00:10:34.270 align:start position:0%
+get 0 which means false the bull' data
+type<00:10:31.790><c> occupies</c><00:10:32.360><c> one</c><00:10:32.390><c> byte</c><00:10:33.200><c> of</c><00:10:33.440><c> memory</c><00:10:33.500><c> now</c><00:10:34.220><c> you</c>
+
+00:10:34.270 --> 00:10:34.280 align:start position:0%
+type occupies one byte of memory now you
+ 
+
+00:10:34.280 --> 00:10:37.690 align:start position:0%
+type occupies one byte of memory now you
+might<00:10:34.460><c> be</c><00:10:34.490><c> wondering</c><00:10:34.760><c> one</c><00:10:35.390><c> byte</c><00:10:35.750><c> why</c><00:10:36.560><c> the</c><00:10:37.430><c> bull</c>
+
+00:10:37.690 --> 00:10:37.700 align:start position:0%
+might be wondering one byte why the bull
+ 
+
+00:10:37.700 --> 00:10:39.130 align:start position:0%
+might be wondering one byte why the bull
+can<00:10:37.880><c> either</c><00:10:38.060><c> be</c><00:10:38.180><c> true</c><00:10:38.210><c> or</c><00:10:38.510><c> false</c>
+
+00:10:39.130 --> 00:10:39.140 align:start position:0%
+can either be true or false
+ 
+
+00:10:39.140 --> 00:10:40.990 align:start position:0%
+can either be true or false
+surely<00:10:39.620><c> that</c><00:10:39.770><c> only</c><00:10:39.950><c> takes</c><00:10:40.220><c> one</c><00:10:40.520><c> bit</c><00:10:40.820><c> to</c>
+
+00:10:40.990 --> 00:10:41.000 align:start position:0%
+surely that only takes one bit to
+ 
+
+00:10:41.000 --> 00:10:43.510 align:start position:0%
+surely that only takes one bit to
+represent<00:10:41.480><c> and</c><00:10:41.660><c> you</c><00:10:42.080><c> are</c><00:10:42.230><c> correct</c><00:10:42.470><c> it</c><00:10:43.160><c> does</c>
+
+00:10:43.510 --> 00:10:43.520 align:start position:0%
+represent and you are correct it does
+ 
+
+00:10:43.520 --> 00:10:45.730 align:start position:0%
+represent and you are correct it does
+take<00:10:43.850><c> one</c><00:10:44.060><c> bit</c><00:10:44.270><c> to</c><00:10:44.420><c> represent</c><00:10:44.870><c> however</c><00:10:45.350><c> when</c>
+
+00:10:45.730 --> 00:10:45.740 align:start position:0%
+take one bit to represent however when
+ 
+
+00:10:45.740 --> 00:10:47.350 align:start position:0%
+take one bit to represent however when
+we're<00:10:45.920><c> dealing</c><00:10:46.010><c> with</c><00:10:46.190><c> addressing</c><00:10:47.000><c> memory</c>
+
+00:10:47.350 --> 00:10:47.360 align:start position:0%
+we're dealing with addressing memory
+ 
+
+00:10:47.360 --> 00:10:49.600 align:start position:0%
+we're dealing with addressing memory
+that<00:10:47.540><c> is</c><00:10:47.630><c> we</c><00:10:47.780><c> to</c><00:10:47.960><c> retrieve</c><00:10:48.590><c> our</c><00:10:48.920><c> ball</c><00:10:49.340><c> from</c>
+
+00:10:49.600 --> 00:10:49.610 align:start position:0%
+that is we to retrieve our ball from
+ 
+
+00:10:49.610 --> 00:10:51.760 align:start position:0%
+that is we to retrieve our ball from
+memory<00:10:50.030><c> or</c><00:10:50.090><c> stored</c><00:10:50.540><c> in</c><00:10:50.690><c> memory</c><00:10:50.900><c> there</c><00:10:51.620><c> is</c><00:10:51.650><c> no</c>
+
+00:10:51.760 --> 00:10:51.770 align:start position:0%
+memory or stored in memory there is no
+ 
+
+00:10:51.770 --> 00:10:53.170 align:start position:0%
+memory or stored in memory there is no
+way<00:10:52.070><c> for</c><00:10:52.100><c> us</c><00:10:52.340><c> to</c><00:10:52.400><c> actually</c><00:10:52.880><c> address</c>
+
+00:10:53.170 --> 00:10:53.180 align:start position:0%
+way for us to actually address
+ 
+
+00:10:53.180 --> 00:10:55.690 align:start position:0%
+way for us to actually address
+individual<00:10:53.930><c> bits</c><00:10:54.260><c> we</c><00:10:54.800><c> can</c><00:10:54.830><c> only</c><00:10:55.220><c> address</c>
+
+00:10:55.690 --> 00:10:55.700 align:start position:0%
+individual bits we can only address
+ 
+
+00:10:55.700 --> 00:10:57.520 align:start position:0%
+individual bits we can only address
+bytes<00:10:56.180><c> so</c><00:10:56.720><c> because</c><00:10:56.960><c> of</c><00:10:57.080><c> that</c><00:10:57.140><c> we</c><00:10:57.290><c> can't</c>
+
+00:10:57.520 --> 00:10:57.530 align:start position:0%
+bytes so because of that we can't
+ 
+
+00:10:57.530 --> 00:10:59.050 align:start position:0%
+bytes so because of that we can't
+actually<00:10:57.740><c> create</c><00:10:58.160><c> a</c><00:10:58.190><c> variable</c><00:10:58.520><c> type</c><00:10:58.670><c> that</c><00:10:58.850><c> is</c>
+
+00:10:59.050 --> 00:10:59.060 align:start position:0%
+actually create a variable type that is
+ 
+
+00:10:59.060 --> 00:11:01.540 align:start position:0%
+actually create a variable type that is
+one<00:10:59.420><c> bit</c><00:10:59.810><c> because</c><00:11:00.110><c> we'd</c><00:11:00.710><c> need</c><00:11:00.860><c> to</c><00:11:01.040><c> be</c><00:11:01.160><c> able</c><00:11:01.250><c> to</c>
+
+00:11:01.540 --> 00:11:01.550 align:start position:0%
+one bit because we'd need to be able to
+ 
+
+00:11:01.550 --> 00:11:04.090 align:start position:0%
+one bit because we'd need to be able to
+access<00:11:02.240><c> it</c><00:11:02.480><c> and</c><00:11:02.840><c> we</c><00:11:03.140><c> can't</c><00:11:03.470><c> we</c><00:11:03.770><c> can</c><00:11:03.920><c> only</c>
+
+00:11:04.090 --> 00:11:04.100 align:start position:0%
+access it and we can't we can only
+ 
+
+00:11:04.100 --> 00:11:06.790 align:start position:0%
+access it and we can't we can only
+access<00:11:04.430><c> by</c><00:11:04.850><c> now</c><00:11:05.450><c> course</c><00:11:05.750><c> one</c><00:11:06.140><c> thing</c><00:11:06.170><c> you</c><00:11:06.500><c> could</c>
+
+00:11:06.790 --> 00:11:06.800 align:start position:0%
+access by now course one thing you could
+ 
+
+00:11:06.800 --> 00:11:08.590 align:start position:0%
+access by now course one thing you could
+do<00:11:07.100><c> on</c><00:11:07.250><c> the</c><00:11:07.280><c> other</c><00:11:07.460><c> hand</c><00:11:07.730><c> is</c><00:11:07.850><c> be</c><00:11:08.000><c> really</c><00:11:08.390><c> smart</c>
+
+00:11:08.590 --> 00:11:08.600 align:start position:0%
+do on the other hand is be really smart
+ 
+
+00:11:08.600 --> 00:11:10.960 align:start position:0%
+do on the other hand is be really smart
+about<00:11:08.750><c> how</c><00:11:09.080><c> you</c><00:11:09.110><c> store</c><00:11:09.470><c> data</c><00:11:09.770><c> and</c><00:11:10.040><c> store</c><00:11:10.730><c> eight</c>
+
+00:11:10.960 --> 00:11:10.970 align:start position:0%
+about how you store data and store eight
+ 
+
+00:11:10.970 --> 00:11:14.830 align:start position:0%
+about how you store data and store eight
+all<00:11:11.450><c> in</c><00:11:11.960><c> one</c><00:11:12.410><c> bite</c><00:11:12.650><c> that's</c><00:11:13.310><c> totally</c><00:11:13.880><c> okay</c><00:11:14.270><c> one</c>
+
+00:11:14.830 --> 00:11:14.840 align:start position:0%
+all in one bite that's totally okay one
+ 
+
+00:11:14.840 --> 00:11:16.810 align:start position:0%
+all in one bite that's totally okay one
+bit<00:11:15.170><c> per</c><00:11:15.470><c> bull</c><00:11:15.680><c> but</c><00:11:15.980><c> you</c><00:11:16.130><c> still</c><00:11:16.400><c> have</c><00:11:16.580><c> that</c><00:11:16.760><c> one</c>
+
+00:11:16.810 --> 00:11:16.820 align:start position:0%
+bit per bull but you still have that one
+ 
+
+00:11:16.820 --> 00:11:19.090 align:start position:0%
+bit per bull but you still have that one
+byte<00:11:17.390><c> of</c><00:11:17.600><c> allocating</c><00:11:17.960><c> memory</c><00:11:18.200><c> we'll</c><00:11:18.830><c> probably</c>
+
+00:11:19.090 --> 00:11:19.100 align:start position:0%
+byte of allocating memory we'll probably
+ 
+
+00:11:19.100 --> 00:11:21.640 align:start position:0%
+byte of allocating memory we'll probably
+talk<00:11:19.490><c> about</c><00:11:19.790><c> advanced</c><00:11:20.630><c> fun</c><00:11:20.990><c> tricks</c><00:11:21.410><c> like</c><00:11:21.590><c> that</c>
+
+00:11:21.640 --> 00:11:21.650 align:start position:0%
+talk about advanced fun tricks like that
+ 
+
+00:11:21.650 --> 00:11:24.640 align:start position:0%
+talk about advanced fun tricks like that
+in<00:11:22.070><c> the</c><00:11:22.340><c> future</c><00:11:22.550><c> but</c><00:11:22.910><c> for</c><00:11:23.180><c> now</c><00:11:23.300><c> a</c><00:11:23.630><c> bull</c><00:11:24.170><c> is</c><00:11:24.410><c> one</c>
+
+00:11:24.640 --> 00:11:24.650 align:start position:0%
+in the future but for now a bull is one
+ 
+
+00:11:24.650 --> 00:11:27.150 align:start position:0%
+in the future but for now a bull is one
+byte<00:11:24.920><c> of</c><00:11:25.130><c> memory</c><00:11:25.190><c> so</c><00:11:25.880><c> with</c><00:11:26.030><c> all</c><00:11:26.120><c> this</c><00:11:26.240><c> talk</c><00:11:26.600><c> of</c>
+
+00:11:27.150 --> 00:11:27.160 align:start position:0%
+byte of memory so with all this talk of
+ 
+
+00:11:27.160 --> 00:11:30.220 align:start position:0%
+byte of memory so with all this talk of
+sizes<00:11:28.160><c> and</c><00:11:28.190><c> bytes</c><00:11:28.790><c> and</c><00:11:29.180><c> how</c><00:11:29.390><c> much</c><00:11:29.690><c> everything</c>
+
+00:11:30.220 --> 00:11:30.230 align:start position:0%
+sizes and bytes and how much everything
+ 
+
+00:11:30.230 --> 00:11:33.820 align:start position:0%
+sizes and bytes and how much everything
+takes<00:11:30.560><c> how</c><00:11:31.460><c> how</c><00:11:32.240><c> do</c><00:11:32.300><c> we</c><00:11:32.450><c> actually</c><00:11:32.690><c> know</c><00:11:33.230><c> how</c>
+
+00:11:33.820 --> 00:11:33.830 align:start position:0%
+takes how how do we actually know how
+ 
+
+00:11:33.830 --> 00:11:35.980 align:start position:0%
+takes how how do we actually know how
+big<00:11:34.190><c> a</c><00:11:34.370><c> data</c><00:11:34.610><c> type</c><00:11:34.880><c> is</c><00:11:35.060><c> it</c><00:11:35.330><c> is</c><00:11:35.480><c> dependent</c><00:11:35.900><c> on</c>
+
+00:11:35.980 --> 00:11:35.990 align:start position:0%
+big a data type is it is dependent on
+ 
+
+00:11:35.990 --> 00:11:37.180 align:start position:0%
+big a data type is it is dependent on
+the<00:11:36.080><c> compiler</c><00:11:36.500><c> after</c><00:11:36.800><c> all</c><00:11:36.920><c> is</c><00:11:37.040><c> there</c>
+
+00:11:37.180 --> 00:11:37.190 align:start position:0%
+the compiler after all is there
+ 
+
+00:11:37.190 --> 00:11:39.520 align:start position:0%
+the compiler after all is there
+somewhere<00:11:37.490><c> we</c><00:11:37.550><c> can</c><00:11:37.790><c> check</c><00:11:37.970><c> yes</c><00:11:38.450><c> yes</c><00:11:39.080><c> there</c><00:11:39.380><c> is</c>
+
+00:11:39.520 --> 00:11:39.530 align:start position:0%
+somewhere we can check yes yes there is
+ 
+
+00:11:39.530 --> 00:11:41.680 align:start position:0%
+somewhere we can check yes yes there is
+there's<00:11:40.370><c> an</c><00:11:40.490><c> operator</c><00:11:40.850><c> we</c><00:11:41.030><c> have</c><00:11:41.210><c> available</c><00:11:41.390><c> to</c>
+
+00:11:41.680 --> 00:11:41.690 align:start position:0%
+there's an operator we have available to
+ 
+
+00:11:41.690 --> 00:11:43.930 align:start position:0%
+there's an operator we have available to
+us<00:11:41.720><c> and</c><00:11:41.900><c> zip</c><00:11:42.050><c> applause</c><00:11:42.320><c> called</c><00:11:42.620><c> size</c><00:11:42.980><c> of</c><00:11:43.310><c> so</c><00:11:43.880><c> if</c>
+
+00:11:43.930 --> 00:11:43.940 align:start position:0%
+us and zip applause called size of so if
+ 
+
+00:11:43.940 --> 00:11:46.270 align:start position:0%
+us and zip applause called size of so if
+we<00:11:44.060><c> come</c><00:11:44.210><c> over</c><00:11:44.240><c> here</c><00:11:44.450><c> and</c><00:11:44.810><c> we</c><00:11:45.230><c> print</c><00:11:45.590><c> size</c><00:11:46.040><c> of</c>
+
+00:11:46.270 --> 00:11:46.280 align:start position:0%
+we come over here and we print size of
+ 
+
+00:11:46.280 --> 00:11:48.730 align:start position:0%
+we come over here and we print size of
+wool<00:11:46.760><c> for</c><00:11:47.210><c> example</c><00:11:47.720><c> we</c><00:11:48.080><c> basically</c><00:11:48.380><c> just</c><00:11:48.650><c> type</c>
+
+00:11:48.730 --> 00:11:48.740 align:start position:0%
+wool for example we basically just type
+ 
+
+00:11:48.740 --> 00:11:50.620 align:start position:0%
+wool for example we basically just type
+in<00:11:48.830><c> the</c><00:11:48.920><c> word</c><00:11:48.950><c> size</c><00:11:49.250><c> of</c><00:11:49.430><c> and</c><00:11:49.640><c> then</c><00:11:49.970><c> either</c><00:11:50.240><c> in</c>
+
+00:11:50.620 --> 00:11:50.630 align:start position:0%
+in the word size of and then either in
+ 
+
+00:11:50.630 --> 00:11:52.870 align:start position:0%
+in the word size of and then either in
+brackets<00:11:51.080><c> or</c><00:11:51.230><c> not</c><00:11:51.620><c> doesn't</c><00:11:52.040><c> really</c><00:11:52.490><c> matter</c>
+
+00:11:52.870 --> 00:11:52.880 align:start position:0%
+brackets or not doesn't really matter
+ 
+
+00:11:52.880 --> 00:11:55.360 align:start position:0%
+brackets or not doesn't really matter
+although<00:11:53.450><c> I</c><00:11:53.480><c> do</c><00:11:53.690><c> prefer</c><00:11:54.020><c> to</c><00:11:54.290><c> use</c><00:11:54.590><c> brackets</c><00:11:54.950><c> or</c>
+
+00:11:55.360 --> 00:11:55.370 align:start position:0%
+although I do prefer to use brackets or
+ 
+
+00:11:55.370 --> 00:11:57.640 align:start position:0%
+although I do prefer to use brackets or
+parentheses<00:11:56.180><c> I</c><00:11:56.330><c> should</c><00:11:56.510><c> say</c><00:11:56.690><c> we</c><00:11:57.170><c> type</c><00:11:57.380><c> in</c><00:11:57.530><c> our</c>
+
+00:11:57.640 --> 00:11:57.650 align:start position:0%
+parentheses I should say we type in our
+ 
+
+00:11:57.650 --> 00:11:59.710 align:start position:0%
+parentheses I should say we type in our
+data<00:11:57.890><c> type</c><00:11:58.100><c> header</c><00:11:58.460><c> five</c><00:11:58.820><c> you</c><00:11:59.360><c> can</c><00:11:59.510><c> see</c><00:11:59.630><c> it</c>
+
+00:11:59.710 --> 00:11:59.720 align:start position:0%
+data type header five you can see it
+ 
+
+00:11:59.720 --> 00:12:01.930 align:start position:0%
+data type header five you can see it
+tells<00:11:59.840><c> us</c><00:12:00.020><c> that</c><00:12:00.050><c> a</c><00:12:00.200><c> bull</c><00:12:00.380><c> is</c><00:12:00.620><c> one</c><00:12:00.980><c> byte</c><00:12:01.280><c> if</c><00:12:01.550><c> I</c>
+
+00:12:01.930 --> 00:12:01.940 align:start position:0%
+tells us that a bull is one byte if I
+ 
+
+00:12:01.940 --> 00:12:04.660 align:start position:0%
+tells us that a bull is one byte if I
+replace<00:12:02.270><c> this</c><00:12:02.510><c> with</c><00:12:02.720><c> int</c><00:12:02.990><c> and</c><00:12:03.230><c> hit</c><00:12:03.560><c> f5</c><00:12:03.890><c> we</c><00:12:04.460><c> have</c>
+
+00:12:04.660 --> 00:12:04.670 align:start position:0%
+replace this with int and hit f5 we have
+ 
+
+00:12:04.670 --> 00:12:06.850 align:start position:0%
+replace this with int and hit f5 we have
+four<00:12:05.030><c> and</c><00:12:05.270><c> if</c><00:12:05.750><c> I</c><00:12:05.840><c> do</c><00:12:05.900><c> something</c><00:12:06.110><c> like</c><00:12:06.440><c> double</c>
+
+00:12:06.850 --> 00:12:06.860 align:start position:0%
+four and if I do something like double
+ 
+
+00:12:06.860 --> 00:12:09.760 align:start position:0%
+four and if I do something like double
+and<00:12:07.040><c> hit</c><00:12:07.160><c> f5</c><00:12:07.520><c> we</c><00:12:08.120><c> have</c><00:12:08.330><c> eight</c><00:12:08.770><c> awesome</c>
+
+00:12:09.760 --> 00:12:09.770 align:start position:0%
+and hit f5 we have eight awesome
+ 
+
+00:12:09.770 --> 00:12:12.010 align:start position:0%
+and hit f5 we have eight awesome
+critical<00:12:10.610><c> stuff</c><00:12:10.880><c> so</c><00:12:11.360><c> that's</c><00:12:11.480><c> basically</c><00:12:11.900><c> all</c>
+
+00:12:12.010 --> 00:12:12.020 align:start position:0%
+critical stuff so that's basically all
+ 
+
+00:12:12.020 --> 00:12:14.500 align:start position:0%
+critical stuff so that's basically all
+there<00:12:12.380><c> is</c><00:12:12.590><c> to</c><00:12:13.010><c> variables</c><00:12:13.700><c> or</c><00:12:13.910><c> at</c><00:12:14.180><c> least</c><00:12:14.330><c> the</c>
+
+00:12:14.500 --> 00:12:14.510 align:start position:0%
+there is to variables or at least the
+ 
+
+00:12:14.510 --> 00:12:16.000 align:start position:0%
+there is to variables or at least the
+primitive<00:12:14.930><c> types</c><00:12:15.170><c> that</c><00:12:15.380><c> I've</c><00:12:15.500><c> covered</c><00:12:15.770><c> there</c>
+
+00:12:16.000 --> 00:12:16.010 align:start position:0%
+primitive types that I've covered there
+ 
+
+00:12:16.010 --> 00:12:17.680 align:start position:0%
+primitive types that I've covered there
+are<00:12:16.130><c> many</c><00:12:16.520><c> different</c><00:12:17.000><c> types</c><00:12:17.150><c> that</c><00:12:17.420><c> you</c><00:12:17.540><c> can</c>
+
+00:12:17.680 --> 00:12:17.690 align:start position:0%
+are many different types that you can
+ 
+
+00:12:17.690 --> 00:12:19.840 align:start position:0%
+are many different types that you can
+actually<00:12:17.840><c> create</c><00:12:18.290><c> in</c><00:12:18.650><c> C++</c><00:12:19.220><c> and</c><00:12:19.490><c> that</c><00:12:19.700><c> have</c>
+
+00:12:19.840 --> 00:12:19.850 align:start position:0%
+actually create in C++ and that have
+ 
+
+00:12:19.850 --> 00:12:21.400 align:start position:0%
+actually create in C++ and that have
+already<00:12:20.030><c> been</c><00:12:20.330><c> created</c><00:12:20.540><c> for</c><00:12:20.960><c> you</c><00:12:21.110><c> however</c>
+
+00:12:21.400 --> 00:12:21.410 align:start position:0%
+already been created for you however
+ 
+
+00:12:21.410 --> 00:12:22.990 align:start position:0%
+already been created for you however
+they're<00:12:21.710><c> all</c><00:12:21.830><c> custom</c><00:12:22.310><c> types</c><00:12:22.520><c> that</c><00:12:22.730><c> are</c><00:12:22.850><c> all</c>
+
+00:12:22.990 --> 00:12:23.000 align:start position:0%
+they're all custom types that are all
+ 
+
+00:12:23.000 --> 00:12:25.540 align:start position:0%
+they're all custom types that are all
+based<00:12:23.510><c> on</c><00:12:23.870><c> these</c><00:12:24.410><c> primitive</c><00:12:24.890><c> types</c><00:12:24.920><c> these</c><00:12:25.340><c> are</c>
+
+00:12:25.540 --> 00:12:25.550 align:start position:0%
+based on these primitive types these are
+ 
+
+00:12:25.550 --> 00:12:27.550 align:start position:0%
+based on these primitive types these are
+the<00:12:25.640><c> building</c><00:12:26.090><c> blocks</c><00:12:26.330><c> that</c><00:12:26.420><c> we</c><00:12:26.630><c> use</c><00:12:26.930><c> to</c>
+
+00:12:27.550 --> 00:12:27.560 align:start position:0%
+the building blocks that we use to
+ 
+
+00:12:27.560 --> 00:12:30.250 align:start position:0%
+the building blocks that we use to
+define<00:12:27.740><c> and</c><00:12:28.280><c> store</c><00:12:28.700><c> any</c><00:12:29.120><c> kind</c><00:12:29.660><c> of</c><00:12:29.750><c> data</c><00:12:30.020><c> we</c>
+
+00:12:30.250 --> 00:12:30.260 align:start position:0%
+define and store any kind of data we
+ 
+
+00:12:30.260 --> 00:12:32.230 align:start position:0%
+define and store any kind of data we
+could<00:12:30.380><c> possibly</c><00:12:30.650><c> create</c><00:12:31.280><c> now</c><00:12:31.700><c> with</c><00:12:31.880><c> any</c><00:12:32.120><c> of</c>
+
+00:12:32.230 --> 00:12:32.240 align:start position:0%
+could possibly create now with any of
+ 
+
+00:12:32.240 --> 00:12:34.180 align:start position:0%
+could possibly create now with any of
+these<00:12:32.360><c> primitive</c><00:12:32.660><c> data</c><00:12:33.050><c> types</c><00:12:33.350><c> we</c><00:12:33.560><c> also</c><00:12:33.800><c> have</c>
+
+00:12:34.180 --> 00:12:34.190 align:start position:0%
+these primitive data types we also have
+ 
+
+00:12:34.190 --> 00:12:35.950 align:start position:0%
+these primitive data types we also have
+the<00:12:34.400><c> ability</c><00:12:34.490><c> to</c><00:12:34.820><c> turn</c><00:12:35.060><c> them</c><00:12:35.240><c> into</c><00:12:35.390><c> pointers</c>
+
+00:12:35.950 --> 00:12:35.960 align:start position:0%
+the ability to turn them into pointers
+ 
+
+00:12:35.960 --> 00:12:38.140 align:start position:0%
+the ability to turn them into pointers
+or<00:12:36.140><c> references</c><00:12:36.640><c> pointers</c><00:12:37.640><c> can</c><00:12:37.820><c> be</c><00:12:37.940><c> declared</c>
+
+00:12:38.140 --> 00:12:38.150 align:start position:0%
+or references pointers can be declared
+ 
+
+00:12:38.150 --> 00:12:40.960 align:start position:0%
+or references pointers can be declared
+by<00:12:38.480><c> writing</c><00:12:39.260><c> an</c><00:12:39.440><c> asterisk</c><00:12:40.010><c> next</c><00:12:40.220><c> to</c><00:12:40.490><c> your</c><00:12:40.670><c> type</c>
+
+00:12:40.960 --> 00:12:40.970 align:start position:0%
+by writing an asterisk next to your type
+ 
+
+00:12:40.970 --> 00:12:44.170 align:start position:0%
+by writing an asterisk next to your type
+like<00:12:41.300><c> this</c><00:12:41.480><c> and</c><00:12:41.800><c> references</c><00:12:42.800><c> by</c><00:12:43.130><c> an</c><00:12:43.520><c> ampersand</c>
+
+00:12:44.170 --> 00:12:44.180 align:start position:0%
+like this and references by an ampersand
+ 
+
+00:12:44.180 --> 00:12:46.240 align:start position:0%
+like this and references by an ampersand
+next<00:12:44.630><c> year</c><00:12:44.750><c> type</c><00:12:44.960><c> pointers</c><00:12:45.680><c> and</c><00:12:45.830><c> references</c>
+
+00:12:46.240 --> 00:12:46.250 align:start position:0%
+next year type pointers and references
+ 
+
+00:12:46.250 --> 00:12:49.360 align:start position:0%
+next year type pointers and references
+are<00:12:46.370><c> such</c><00:12:46.610><c> huge</c><00:12:47.120><c> and</c><00:12:47.560><c> complicated</c><00:12:48.560><c> and</c><00:12:48.710><c> vital</c>
+
+00:12:49.360 --> 00:12:49.370 align:start position:0%
+are such huge and complicated and vital
+ 
+
+00:12:49.370 --> 00:12:51.490 align:start position:0%
+are such huge and complicated and vital
+topics<00:12:49.850><c> that</c><00:12:50.360><c> I</c><00:12:50.390><c> really</c><00:12:50.900><c> want</c><00:12:51.050><c> to</c><00:12:51.140><c> save</c><00:12:51.320><c> them</c>
+
+00:12:51.490 --> 00:12:51.500 align:start position:0%
+topics that I really want to save them
+ 
+
+00:12:51.500 --> 00:12:53.110 align:start position:0%
+topics that I really want to save them
+for<00:12:51.680><c> separate</c><00:12:52.130><c> videos</c><00:12:52.580><c> so</c><00:12:52.820><c> that</c><00:12:52.970><c> you</c><00:12:53.060><c> guys</c>
+
+00:12:53.110 --> 00:12:53.120 align:start position:0%
+for separate videos so that you guys
+ 
+
+00:12:53.120 --> 00:12:54.820 align:start position:0%
+for separate videos so that you guys
+understand<00:12:53.720><c> them</c><00:12:53.840><c> properly</c><00:12:53.960><c> so</c><00:12:54.380><c> for</c><00:12:54.680><c> now</c><00:12:54.770><c> for</c>
+
+00:12:54.820 --> 00:12:54.830 align:start position:0%
+understand them properly so for now for
+ 
+
+00:12:54.830 --> 00:12:56.230 align:start position:0%
+understand them properly so for now for
+this<00:12:55.070><c> video</c><00:12:55.220><c> we're</c><00:12:55.610><c> just</c><00:12:55.820><c> kind</c><00:12:56.000><c> of</c><00:12:56.030><c> stick</c><00:12:56.210><c> with</c>
+
+00:12:56.230 --> 00:12:56.240 align:start position:0%
+this video we're just kind of stick with
+ 
+
+00:12:56.240 --> 00:12:57.520 align:start position:0%
+this video we're just kind of stick with
+these<00:12:56.450><c> primitive</c><00:12:56.810><c> types</c><00:12:56.840><c> make</c><00:12:57.260><c> sure</c><00:12:57.440><c> you</c>
+
+00:12:57.520 --> 00:12:57.530 align:start position:0%
+these primitive types make sure you
+ 
+
+00:12:57.530 --> 00:12:59.410 align:start position:0%
+these primitive types make sure you
+understand<00:12:58.040><c> them</c><00:12:58.220><c> they're</c><00:12:59.030><c> going</c><00:12:59.180><c> to</c><00:12:59.270><c> be</c><00:12:59.330><c> the</c>
+
+00:12:59.410 --> 00:12:59.420 align:start position:0%
+understand them they're going to be the
+ 
+
+00:12:59.420 --> 00:13:01.810 align:start position:0%
+understand them they're going to be the
+basis<00:12:59.750><c> for</c><00:12:59.780><c> pretty</c><00:13:00.170><c> much</c><00:13:00.260><c> every</c><00:13:01.070><c> scene</c><00:13:01.670><c> you</c>
+
+00:13:01.810 --> 00:13:01.820 align:start position:0%
+basis for pretty much every scene you
+ 
+
+00:13:01.820 --> 00:13:03.550 align:start position:0%
+basis for pretty much every scene you
+ever<00:13:02.060><c> write</c><00:13:02.330><c> so</c><00:13:02.660><c> they're</c><00:13:02.810><c> really</c><00:13:03.020><c> important</c>
+
+00:13:03.550 --> 00:13:03.560 align:start position:0%
+ever write so they're really important
+ 
+
+00:13:03.560 --> 00:13:05.200 align:start position:0%
+ever write so they're really important
+but<00:13:03.920><c> anyway</c><00:13:04.280><c> I</c><00:13:04.310><c> hope</c><00:13:04.490><c> you</c><00:13:04.550><c> guys</c><00:13:04.730><c> enjoyed</c><00:13:05.060><c> this</c>
+
+00:13:05.200 --> 00:13:05.210 align:start position:0%
+but anyway I hope you guys enjoyed this
+ 
+
+00:13:05.210 --> 00:13:06.790 align:start position:0%
+but anyway I hope you guys enjoyed this
+video<00:13:05.450><c> if</c><00:13:05.900><c> you</c><00:13:06.020><c> did</c><00:13:06.170><c> please</c><00:13:06.230><c> hit</c><00:13:06.620><c> that</c><00:13:06.650><c> like</c>
+
+00:13:06.790 --> 00:13:06.800 align:start position:0%
+video if you did please hit that like
+ 
+
+00:13:06.800 --> 00:13:09.010 align:start position:0%
+video if you did please hit that like
+button<00:13:07.040><c> you</c><00:13:07.850><c> can</c><00:13:07.970><c> also</c><00:13:08.030><c> follow</c><00:13:08.300><c> me</c><00:13:08.510><c> on</c><00:13:08.540><c> Twitter</c>
+
+00:13:09.010 --> 00:13:09.020 align:start position:0%
+button you can also follow me on Twitter
+ 
+
+00:13:09.020 --> 00:13:11.440 align:start position:0%
+button you can also follow me on Twitter
+and<00:13:09.260><c> Instagram</c><00:13:09.680><c> and</c><00:13:10.370><c> if</c><00:13:10.700><c> you</c><00:13:10.820><c> really</c><00:13:11.120><c> like</c>
+
+00:13:11.440 --> 00:13:11.450 align:start position:0%
+and Instagram and if you really like
+ 
+
+00:13:11.450 --> 00:13:13.240 align:start position:0%
+and Instagram and if you really like
+this<00:13:11.630><c> video</c><00:13:11.870><c> and</c><00:13:12.230><c> you</c><00:13:12.260><c> want</c><00:13:12.560><c> to</c><00:13:12.620><c> be</c><00:13:12.710><c> a</c><00:13:12.740><c> part</c><00:13:13.040><c> of</c>
+
+00:13:13.240 --> 00:13:13.250 align:start position:0%
+this video and you want to be a part of
+ 
+
+00:13:13.250 --> 00:13:13.980 align:start position:0%
+this video and you want to be a part of
+how<00:13:13.550><c> to</c>
+
+00:13:13.980 --> 00:13:13.990 align:start position:0%
+how to
+ 
+
+00:13:13.990 --> 00:13:15.900 align:start position:0%
+how to
+videos<00:13:14.320><c> get</c><00:13:14.649><c> made</c><00:13:15.040><c> you</c><00:13:15.279><c> want</c><00:13:15.459><c> to</c><00:13:15.520><c> contribute</c>
+
+00:13:15.900 --> 00:13:15.910 align:start position:0%
+videos get made you want to contribute
+ 
+
+00:13:15.910 --> 00:13:17.730 align:start position:0%
+videos get made you want to contribute
+to<00:13:16.240><c> the</c><00:13:16.330><c> planning</c><00:13:16.750><c> of</c><00:13:16.839><c> these</c><00:13:16.990><c> videos</c><00:13:17.410><c> as</c><00:13:17.680><c> well</c>
+
+00:13:17.730 --> 00:13:17.740 align:start position:0%
+to the planning of these videos as well
+ 
+
+00:13:17.740 --> 00:13:20.760 align:start position:0%
+to the planning of these videos as well
+as<00:13:18.279><c> receive</c><00:13:18.610><c> early</c><00:13:19.149><c> drafts</c><00:13:19.540><c> of</c><00:13:19.839><c> videos</c><00:13:20.200><c> as</c><00:13:20.410><c> I'm</c>
+
+00:13:20.760 --> 00:13:20.770 align:start position:0%
+as receive early drafts of videos as I'm
+ 
+
+00:13:20.770 --> 00:13:22.560 align:start position:0%
+as receive early drafts of videos as I'm
+making<00:13:21.190><c> them</c><00:13:21.339><c> then</c><00:13:21.760><c> please</c><00:13:22.089><c> support</c><00:13:22.390><c> me</c><00:13:22.540><c> on</c>
+
+00:13:22.560 --> 00:13:22.570 align:start position:0%
+making them then please support me on
+ 
+
+00:13:22.570 --> 00:13:24.420 align:start position:0%
+making them then please support me on
+patreon<00:13:23.110><c> link</c><00:13:23.230><c> will</c><00:13:23.560><c> be</c><00:13:23.649><c> in</c><00:13:23.830><c> the</c><00:13:23.920><c> description</c>
+
+00:13:24.420 --> 00:13:24.430 align:start position:0%
+patreon link will be in the description
+ 
+
+00:13:24.430 --> 00:13:26.699 align:start position:0%
+patreon link will be in the description
+of<00:13:24.580><c> this</c><00:13:24.760><c> video</c><00:13:25.000><c> your</c><00:13:25.660><c> support</c><00:13:26.020><c> there</c><00:13:26.200><c> is</c><00:13:26.410><c> what</c>
+
+00:13:26.699 --> 00:13:26.709 align:start position:0%
+of this video your support there is what
+ 
+
+00:13:26.709 --> 00:13:28.590 align:start position:0%
+of this video your support there is what
+makes<00:13:26.920><c> these</c><00:13:27.100><c> videos</c><00:13:27.490><c> possible</c><00:13:27.730><c> thanks</c><00:13:28.510><c> for</c>
+
+00:13:28.590 --> 00:13:28.600 align:start position:0%
+makes these videos possible thanks for
+ 
+
+00:13:28.600 --> 00:13:29.910 align:start position:0%
+makes these videos possible thanks for
+watching<00:13:28.810><c> guys</c><00:13:28.899><c> I'll</c><00:13:29.200><c> see</c><00:13:29.410><c> you</c><00:13:29.470><c> next</c><00:13:29.529><c> time</c>
+
+00:13:29.910 --> 00:13:29.920 align:start position:0%
+watching guys I'll see you next time
+ 
+
+00:13:29.920 --> 00:13:33.550 align:start position:0%
+watching guys I'll see you next time
+goodbye
+
+00:13:33.550 --> 00:13:33.560 align:start position:0%
+ 
+ 
+
+00:13:33.560 --> 00:13:43.190 align:start position:0%
+ 
+[Music]
+
+00:13:43.190 --> 00:13:43.200 align:start position:0%
+ 
+ 
+
+00:13:43.200 --> 00:13:45.260 align:start position:0%
+ 
+you
+

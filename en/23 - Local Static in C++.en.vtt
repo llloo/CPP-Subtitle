@@ -1,0 +1,1760 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:00.000 --> 00:00:01.790 align:start position:0%
+ 
+Hey<00:00:00.120><c> look</c><00:00:00.359><c> guys</c><00:00:00.570><c> my</c><00:00:00.870><c> name</c><00:00:01.050><c> is</c><00:00:01.079><c> a</c><00:00:01.230><c> chana</c><00:00:01.439><c> welcome</c>
+
+00:00:01.790 --> 00:00:01.800 align:start position:0%
+Hey look guys my name is a chana welcome
+ 
+
+00:00:01.800 --> 00:00:03.500 align:start position:0%
+Hey look guys my name is a chana welcome
+back<00:00:01.949><c> to</c><00:00:02.129><c> my</c><00:00:02.250><c> stable</c><00:00:02.460><c> flood</c><00:00:02.820><c> theories</c><00:00:03.270><c> over</c>
+
+00:00:03.500 --> 00:00:03.510 align:start position:0%
+back to my stable flood theories over
+ 
+
+00:00:03.510 --> 00:00:04.820 align:start position:0%
+back to my stable flood theories over
+the<00:00:03.600><c> last</c><00:00:03.720><c> couple</c><00:00:03.959><c> of</c><00:00:04.110><c> episodes</c><00:00:04.230><c> we</c><00:00:04.650><c> took</c><00:00:04.770><c> a</c>
+
+00:00:04.820 --> 00:00:04.830 align:start position:0%
+the last couple of episodes we took a
+ 
+
+00:00:04.830 --> 00:00:07.070 align:start position:0%
+the last couple of episodes we took a
+look<00:00:05.009><c> at</c><00:00:05.250><c> what</c><00:00:05.490><c> the</c><00:00:05.609><c> static</c><00:00:06.120><c> keyword</c><00:00:06.330><c> meant</c><00:00:06.839><c> in</c>
+
+00:00:07.070 --> 00:00:07.080 align:start position:0%
+look at what the static keyword meant in
+ 
+
+00:00:07.080 --> 00:00:08.839 align:start position:0%
+look at what the static keyword meant in
+certain<00:00:07.500><c> contexts</c><00:00:08.040><c> and</c><00:00:08.429><c> today</c><00:00:08.639><c> we're</c><00:00:08.760><c> going</c>
+
+00:00:08.839 --> 00:00:08.849 align:start position:0%
+certain contexts and today we're going
+ 
+
+00:00:08.849 --> 00:00:11.360 align:start position:0%
+certain contexts and today we're going
+to<00:00:08.940><c> have</c><00:00:09.000><c> a</c><00:00:09.059><c> look</c><00:00:09.240><c> at</c><00:00:09.420><c> one</c><00:00:09.929><c> other</c><00:00:10.110><c> contact</c><00:00:10.860><c> that</c>
+
+00:00:11.360 --> 00:00:11.370 align:start position:0%
+to have a look at one other contact that
+ 
+
+00:00:11.370 --> 00:00:13.039 align:start position:0%
+to have a look at one other contact that
+you<00:00:11.490><c> might</c><00:00:11.639><c> find</c><00:00:11.849><c> the</c><00:00:12.030><c> static</c><00:00:12.330><c> keyword</c><00:00:12.509><c> in</c><00:00:12.809><c> and</c>
+
+00:00:13.039 --> 00:00:13.049 align:start position:0%
+you might find the static keyword in and
+ 
+
+00:00:13.049 --> 00:00:14.600 align:start position:0%
+you might find the static keyword in and
+that<00:00:13.200><c> is</c><00:00:13.320><c> in</c><00:00:13.440><c> a</c><00:00:13.530><c> local</c><00:00:13.920><c> scope</c><00:00:14.190><c> so</c><00:00:14.429><c> you</c><00:00:14.490><c> can</c>
+
+00:00:14.600 --> 00:00:14.610 align:start position:0%
+that is in a local scope so you can
+ 
+
+00:00:14.610 --> 00:00:16.849 align:start position:0%
+that is in a local scope so you can
+actually<00:00:14.730><c> use</c><00:00:15.089><c> that</c><00:00:15.120><c> akin</c><00:00:15.780><c> a</c><00:00:15.900><c> local</c><00:00:16.379><c> scope</c><00:00:16.680><c> to</c>
+
+00:00:16.849 --> 00:00:16.859 align:start position:0%
+actually use that akin a local scope to
+ 
+
+00:00:16.859 --> 00:00:18.800 align:start position:0%
+actually use that akin a local scope to
+declare<00:00:17.160><c> a</c><00:00:17.190><c> variable</c><00:00:17.520><c> and</c><00:00:18.000><c> that</c><00:00:18.119><c> has</c><00:00:18.449><c> a</c><00:00:18.480><c> bit</c><00:00:18.779><c> of</c>
+
+00:00:18.800 --> 00:00:18.810 align:start position:0%
+declare a variable and that has a bit of
+ 
+
+00:00:18.810 --> 00:00:20.179 align:start position:0%
+declare a variable and that has a bit of
+a<00:00:18.930><c> different</c><00:00:19.260><c> meaning</c><00:00:19.439><c> than</c><00:00:19.710><c> the</c><00:00:19.740><c> altitude</c>
+
+00:00:20.179 --> 00:00:20.189 align:start position:0%
+a different meaning than the altitude
+ 
+
+00:00:20.189 --> 00:00:22.220 align:start position:0%
+a different meaning than the altitude
+static<00:00:20.789><c> that</c><00:00:20.939><c> we</c><00:00:21.090><c> looked</c><00:00:21.300><c> at</c><00:00:21.480><c> and</c><00:00:21.840><c> the</c><00:00:21.960><c> idea</c>
+
+00:00:22.220 --> 00:00:22.230 align:start position:0%
+static that we looked at and the idea
+ 
+
+00:00:22.230 --> 00:00:23.450 align:start position:0%
+static that we looked at and the idea
+behind<00:00:22.410><c> this</c><00:00:22.650><c> meaning</c><00:00:23.010><c> makes</c><00:00:23.220><c> a</c><00:00:23.310><c> lot</c><00:00:23.430><c> more</c>
+
+00:00:23.450 --> 00:00:23.460 align:start position:0%
+behind this meaning makes a lot more
+ 
+
+00:00:23.460 --> 00:00:25.220 align:start position:0%
+behind this meaning makes a lot more
+sense<00:00:23.609><c> if</c><00:00:23.970><c> you</c><00:00:24.060><c> think</c><00:00:24.090><c> about</c><00:00:24.300><c> the</c><00:00:24.600><c> two</c><00:00:24.840><c> kind</c><00:00:25.199><c> of</c>
+
+00:00:25.220 --> 00:00:25.230 align:start position:0%
+sense if you think about the two kind of
+ 
+
+00:00:25.230 --> 00:00:26.779 align:start position:0%
+sense if you think about the two kind of
+considerations<00:00:25.949><c> about</c><00:00:26.130><c> to</c><00:00:26.279><c> make</c><00:00:26.430><c> one</c><00:00:26.670><c> way</c>
+
+00:00:26.779 --> 00:00:26.789 align:start position:0%
+considerations about to make one way
+ 
+
+00:00:26.789 --> 00:00:28.790 align:start position:0%
+considerations about to make one way
+declaring<00:00:27.180><c> a</c><00:00:27.269><c> variable</c><00:00:27.300><c> and</c><00:00:28.019><c> that</c><00:00:28.349><c> is</c><00:00:28.529><c> the</c>
+
+00:00:28.790 --> 00:00:28.800 align:start position:0%
+declaring a variable and that is the
+ 
+
+00:00:28.800 --> 00:00:30.769 align:start position:0%
+declaring a variable and that is the
+lifetime<00:00:29.130><c> of</c><00:00:29.429><c> the</c><00:00:29.730><c> variable</c><00:00:30.119><c> and</c><00:00:30.300><c> the</c><00:00:30.449><c> scope</c>
+
+00:00:30.769 --> 00:00:30.779 align:start position:0%
+lifetime of the variable and the scope
+ 
+
+00:00:30.779 --> 00:00:32.540 align:start position:0%
+lifetime of the variable and the scope
+of<00:00:31.050><c> the</c><00:00:31.260><c> variable</c><00:00:31.289><c> the</c><00:00:31.830><c> lifetime</c><00:00:32.219><c> refers</c><00:00:32.520><c> to</c>
+
+00:00:32.540 --> 00:00:32.550 align:start position:0%
+of the variable the lifetime refers to
+ 
+
+00:00:32.550 --> 00:00:34.100 align:start position:0%
+of the variable the lifetime refers to
+how<00:00:32.820><c> long</c><00:00:33.059><c> that</c><00:00:33.210><c> variable</c><00:00:33.600><c> will</c><00:00:33.780><c> actually</c>
+
+00:00:34.100 --> 00:00:34.110 align:start position:0%
+how long that variable will actually
+ 
+
+00:00:34.110 --> 00:00:36.260 align:start position:0%
+how long that variable will actually
+stick<00:00:34.500><c> around</c><00:00:34.649><c> for</c><00:00:35.100><c> in</c><00:00:35.460><c> other</c><00:00:35.610><c> words</c><00:00:35.790><c> how</c><00:00:36.000><c> long</c>
+
+00:00:36.260 --> 00:00:36.270 align:start position:0%
+stick around for in other words how long
+ 
+
+00:00:36.270 --> 00:00:38.389 align:start position:0%
+stick around for in other words how long
+it<00:00:36.540><c> will</c><00:00:36.660><c> remain</c><00:00:37.140><c> in</c><00:00:37.410><c> our</c><00:00:37.530><c> memory</c><00:00:37.920><c> before</c><00:00:38.100><c> it</c>
+
+00:00:38.389 --> 00:00:38.399 align:start position:0%
+it will remain in our memory before it
+ 
+
+00:00:38.399 --> 00:00:40.310 align:start position:0%
+it will remain in our memory before it
+gets<00:00:38.579><c> deleted</c><00:00:38.910><c> and</c><00:00:39.270><c> then</c><00:00:39.450><c> the</c><00:00:39.600><c> scope</c><00:00:39.899><c> refers</c>
+
+00:00:40.310 --> 00:00:40.320 align:start position:0%
+gets deleted and then the scope refers
+ 
+
+00:00:40.320 --> 00:00:42.229 align:start position:0%
+gets deleted and then the scope refers
+to<00:00:40.350><c> where</c><00:00:41.010><c> we</c><00:00:41.190><c> can</c><00:00:41.340><c> actually</c><00:00:41.520><c> access</c><00:00:41.940><c> that</c>
+
+00:00:42.229 --> 00:00:42.239 align:start position:0%
+to where we can actually access that
+ 
+
+00:00:42.239 --> 00:00:44.360 align:start position:0%
+to where we can actually access that
+variable<00:00:42.660><c> so</c><00:00:43.170><c> of</c><00:00:43.230><c> course</c><00:00:43.440><c> if</c><00:00:43.620><c> we</c><00:00:43.739><c> declare</c><00:00:44.129><c> a</c>
+
+00:00:44.360 --> 00:00:44.370 align:start position:0%
+variable so of course if we declare a
+ 
+
+00:00:44.370 --> 00:00:46.250 align:start position:0%
+variable so of course if we declare a
+variable<00:00:44.399><c> is</c><00:00:45.059><c> that</c><00:00:45.210><c> a</c><00:00:45.239><c> function</c><00:00:45.480><c> for</c><00:00:45.840><c> example</c>
+
+00:00:46.250 --> 00:00:46.260 align:start position:0%
+variable is that a function for example
+ 
+
+00:00:46.260 --> 00:00:47.869 align:start position:0%
+variable is that a function for example
+we<00:00:46.379><c> can't</c><00:00:46.620><c> just</c><00:00:46.829><c> access</c><00:00:47.280><c> it</c><00:00:47.489><c> in</c><00:00:47.640><c> another</c>
+
+00:00:47.869 --> 00:00:47.879 align:start position:0%
+we can't just access it in another
+ 
+
+00:00:47.879 --> 00:00:49.250 align:start position:0%
+we can't just access it in another
+function<00:00:48.090><c> because</c><00:00:48.629><c> the</c><00:00:48.780><c> variable</c><00:00:49.140><c> we</c>
+
+00:00:49.250 --> 00:00:49.260 align:start position:0%
+function because the variable we
+ 
+
+00:00:49.260 --> 00:00:51.260 align:start position:0%
+function because the variable we
+declared<00:00:49.289><c> is</c><00:00:50.010><c> going</c><00:00:50.370><c> to</c><00:00:50.460><c> be</c><00:00:50.550><c> local</c><00:00:50.940><c> to</c><00:00:50.969><c> the</c>
+
+00:00:51.260 --> 00:00:51.270 align:start position:0%
+declared is going to be local to the
+ 
+
+00:00:51.270 --> 00:00:53.240 align:start position:0%
+declared is going to be local to the
+function<00:00:51.300><c> we</c><00:00:51.840><c> declared</c><00:00:52.199><c> it</c><00:00:52.320><c> in</c><00:00:52.410><c> so</c><00:00:52.649><c> a</c><00:00:52.680><c> static</c>
+
+00:00:53.240 --> 00:00:53.250 align:start position:0%
+function we declared it in so a static
+ 
+
+00:00:53.250 --> 00:00:55.760 align:start position:0%
+function we declared it in so a static
+local<00:00:53.789><c> variable</c><00:00:54.480><c> allows</c><00:00:54.930><c> us</c><00:00:55.170><c> to</c><00:00:55.379><c> declare</c><00:00:55.739><c> a</c>
+
+00:00:55.760 --> 00:00:55.770 align:start position:0%
+local variable allows us to declare a
+ 
+
+00:00:55.770 --> 00:00:57.889 align:start position:0%
+local variable allows us to declare a
+variable<00:00:55.980><c> that</c><00:00:56.610><c> has</c><00:00:56.879><c> a</c><00:00:56.910><c> lifetime</c><00:00:57.300><c> of</c>
+
+00:00:57.889 --> 00:00:57.899 align:start position:0%
+variable that has a lifetime of
+ 
+
+00:00:57.899 --> 00:01:00.979 align:start position:0%
+variable that has a lifetime of
+essentially<00:00:58.890><c> our</c><00:00:59.129><c> entire</c><00:00:59.460><c> program</c><00:00:59.989><c> however</c>
+
+00:01:00.979 --> 00:01:00.989 align:start position:0%
+essentially our entire program however
+ 
+
+00:01:00.989 --> 00:01:03.680 align:start position:0%
+essentially our entire program however
+its<00:01:01.739><c> scope</c><00:01:02.129><c> is</c><00:01:02.340><c> limited</c><00:01:02.399><c> to</c><00:01:02.940><c> be</c><00:01:03.090><c> inside</c><00:01:03.660><c> that</c>
+
+00:01:03.680 --> 00:01:03.690 align:start position:0%
+its scope is limited to be inside that
+ 
+
+00:01:03.690 --> 00:01:05.929 align:start position:0%
+its scope is limited to be inside that
+function<00:01:04.470><c> and</c><00:01:04.650><c> it</c><00:01:04.799><c> really</c><00:01:05.100><c> has</c><00:01:05.400><c> nothing</c><00:01:05.549><c> to</c><00:01:05.760><c> do</c>
+
+00:01:05.929 --> 00:01:05.939 align:start position:0%
+function and it really has nothing to do
+ 
+
+00:01:05.939 --> 00:01:08.120 align:start position:0%
+function and it really has nothing to do
+with<00:01:06.150><c> functions</c><00:01:06.720><c> in</c><00:01:06.960><c> particular</c><00:01:07.470><c> I</c><00:01:07.860><c> mean</c><00:01:07.890><c> you</c>
+
+00:01:08.120 --> 00:01:08.130 align:start position:0%
+with functions in particular I mean you
+ 
+
+00:01:08.130 --> 00:01:10.010 align:start position:0%
+with functions in particular I mean you
+can<00:01:08.310><c> declare</c><00:01:08.430><c> this</c><00:01:08.760><c> in</c><00:01:08.909><c> any</c><00:01:09.119><c> scope</c><00:01:09.510><c> really</c><00:01:09.780><c> I'm</c>
+
+00:01:10.010 --> 00:01:10.020 align:start position:0%
+can declare this in any scope really I'm
+ 
+
+00:01:10.020 --> 00:01:11.690 align:start position:0%
+can declare this in any scope really I'm
+just<00:01:10.229><c> using</c><00:01:10.380><c> function</c><00:01:10.860><c> as</c><00:01:10.979><c> an</c><00:01:11.100><c> example</c><00:01:11.580><c> it's</c>
+
+00:01:11.690 --> 00:01:11.700 align:start position:0%
+just using function as an example it's
+ 
+
+00:01:11.700 --> 00:01:13.520 align:start position:0%
+just using function as an example it's
+not<00:01:11.820><c> really</c><00:01:12.270><c> just</c><00:01:12.450><c> limited</c><00:01:12.810><c> to</c><00:01:12.930><c> being</c><00:01:13.080><c> inside</c>
+
+00:01:13.520 --> 00:01:13.530 align:start position:0%
+not really just limited to being inside
+ 
+
+00:01:13.530 --> 00:01:15.260 align:start position:0%
+not really just limited to being inside
+a<00:01:13.590><c> function</c><00:01:13.920><c> could</c><00:01:14.700><c> be</c><00:01:14.760><c> in</c><00:01:14.880><c> front</c><00:01:15.090><c> if</c>
+
+00:01:15.260 --> 00:01:15.270 align:start position:0%
+a function could be in front if
+ 
+
+00:01:15.270 --> 00:01:17.780 align:start position:0%
+a function could be in front if
+statement<00:01:15.860><c> to</c><00:01:16.860><c> be</c><00:01:16.890><c> anywhere</c><00:01:17.310><c> which</c><00:01:17.549><c> is</c><00:01:17.670><c> why</c>
+
+00:01:17.780 --> 00:01:17.790 align:start position:0%
+statement to be anywhere which is why
+ 
+
+00:01:17.790 --> 00:01:18.950 align:start position:0%
+statement to be anywhere which is why
+again<00:01:17.939><c> there's</c><00:01:18.240><c> not</c><00:01:18.330><c> much</c><00:01:18.600><c> of</c><00:01:18.780><c> a</c><00:01:18.840><c> difference</c>
+
+00:01:18.950 --> 00:01:18.960 align:start position:0%
+again there's not much of a difference
+ 
+
+00:01:18.960 --> 00:01:20.840 align:start position:0%
+again there's not much of a difference
+between<00:01:19.500><c> static</c><00:01:19.770><c> in</c><00:01:20.070><c> a</c><00:01:20.159><c> function</c><00:01:20.610><c> scope</c>
+
+00:01:20.840 --> 00:01:20.850 align:start position:0%
+between static in a function scope
+ 
+
+00:01:20.850 --> 00:01:23.090 align:start position:0%
+between static in a function scope
+versus<00:01:21.240><c> static</c><00:01:21.450><c> in</c><00:01:21.720><c> a</c><00:01:21.810><c> class</c><00:01:22.140><c> scope</c><00:01:22.500><c> because</c>
+
+00:01:23.090 --> 00:01:23.100 align:start position:0%
+versus static in a class scope because
+ 
+
+00:01:23.100 --> 00:01:25.219 align:start position:0%
+versus static in a class scope because
+the<00:01:23.759><c> life</c><00:01:23.939><c> time</c><00:01:24.240><c> is</c><00:01:24.509><c> actually</c><00:01:24.869><c> going</c><00:01:24.990><c> to</c><00:01:25.140><c> be</c>
+
+00:01:25.219 --> 00:01:25.229 align:start position:0%
+the life time is actually going to be
+ 
+
+00:01:25.229 --> 00:01:27.649 align:start position:0%
+the life time is actually going to be
+the<00:01:25.350><c> same</c><00:01:25.590><c> the</c><00:01:25.950><c> only</c><00:01:25.979><c> difference</c><00:01:26.280><c> is</c><00:01:26.970><c> that</c><00:01:27.030><c> the</c>
+
+00:01:27.649 --> 00:01:27.659 align:start position:0%
+the same the only difference is that the
+ 
+
+00:01:27.659 --> 00:01:29.330 align:start position:0%
+the same the only difference is that the
+one<00:01:27.840><c> in</c><00:01:27.990><c> the</c><00:01:28.020><c> class</c><00:01:28.290><c> scope</c><00:01:28.590><c> anything</c><00:01:29.159><c> in</c><00:01:29.280><c> the</c>
+
+00:01:29.330 --> 00:01:29.340 align:start position:0%
+one in the class scope anything in the
+ 
+
+00:01:29.340 --> 00:01:30.920 align:start position:0%
+one in the class scope anything in the
+class<00:01:29.549><c> can</c><00:01:29.790><c> access</c><00:01:30.150><c> it</c><00:01:30.299><c> anything</c><00:01:30.509><c> that</c><00:01:30.630><c> has</c>
+
+00:01:30.920 --> 00:01:30.930 align:start position:0%
+class can access it anything that has
+ 
+
+00:01:30.930 --> 00:01:32.840 align:start position:0%
+class can access it anything that has
+anything<00:01:31.409><c> that</c><00:01:31.530><c> is</c><00:01:31.680><c> inside</c><00:01:32.040><c> that</c><00:01:32.100><c> class</c><00:01:32.549><c> scope</c>
+
+00:01:32.840 --> 00:01:32.850 align:start position:0%
+anything that is inside that class scope
+ 
+
+00:01:32.850 --> 00:01:34.880 align:start position:0%
+anything that is inside that class scope
+can<00:01:33.060><c> access</c><00:01:33.420><c> that</c><00:01:33.570><c> static</c><00:01:33.960><c> variable</c><00:01:34.350><c> however</c>
+
+00:01:34.880 --> 00:01:34.890 align:start position:0%
+can access that static variable however
+ 
+
+00:01:34.890 --> 00:01:36.080 align:start position:0%
+can access that static variable however
+of<00:01:35.009><c> course</c><00:01:35.040><c> if</c><00:01:35.310><c> you</c><00:01:35.369><c> declare</c><00:01:35.610><c> one</c><00:01:35.820><c> inside</c><00:01:36.060><c> a</c>
+
+00:01:36.080 --> 00:01:36.090 align:start position:0%
+of course if you declare one inside a
+ 
+
+00:01:36.090 --> 00:01:38.030 align:start position:0%
+of course if you declare one inside a
+function<00:01:36.329><c> scope</c><00:01:36.810><c> it's</c><00:01:37.439><c> going</c><00:01:37.619><c> to</c><00:01:37.680><c> be</c><00:01:37.740><c> local</c><00:01:38.009><c> to</c>
+
+00:01:38.030 --> 00:01:38.040 align:start position:0%
+function scope it's going to be local to
+ 
+
+00:01:38.040 --> 00:01:39.590 align:start position:0%
+function scope it's going to be local to
+that<00:01:38.130><c> function</c><00:01:38.700><c> of</c><00:01:38.790><c> living</c><00:01:39.060><c> local</c><00:01:39.390><c> to</c><00:01:39.479><c> that</c>
+
+00:01:39.590 --> 00:01:39.600 align:start position:0%
+that function of living local to that
+ 
+
+00:01:39.600 --> 00:01:41.270 align:start position:0%
+that function of living local to that
+class<00:01:39.960><c> let's</c><00:01:40.470><c> jump</c><00:01:40.650><c> in</c><00:01:40.799><c> and</c><00:01:40.920><c> take</c><00:01:40.979><c> a</c><00:01:41.040><c> look</c><00:01:41.100><c> at</c>
+
+00:01:41.270 --> 00:01:41.280 align:start position:0%
+class let's jump in and take a look at
+ 
+
+00:01:41.280 --> 00:01:43.010 align:start position:0%
+class let's jump in and take a look at
+some<00:01:41.369><c> examples</c><00:01:41.460><c> so</c><00:01:42.060><c> the</c><00:01:42.180><c> simplest</c><00:01:42.509><c> example</c><00:01:42.990><c> is</c>
+
+00:01:43.010 --> 00:01:43.020 align:start position:0%
+some examples so the simplest example is
+ 
+
+00:01:43.020 --> 00:01:44.749 align:start position:0%
+some examples so the simplest example is
+going<00:01:43.200><c> to</c><00:01:43.320><c> be</c><00:01:43.409><c> just</c><00:01:43.710><c> to</c><00:01:43.860><c> create</c><00:01:44.100><c> a</c><00:01:44.250><c> function</c>
+
+00:01:44.749 --> 00:01:44.759 align:start position:0%
+going to be just to create a function
+ 
+
+00:01:44.759 --> 00:01:46.850 align:start position:0%
+going to be just to create a function
+and<00:01:45.149><c> then</c><00:01:45.600><c> declare</c><00:01:45.840><c> some</c><00:01:46.110><c> kind</c><00:01:46.140><c> of</c><00:01:46.409><c> static</c>
+
+00:01:46.850 --> 00:01:46.860 align:start position:0%
+and then declare some kind of static
+ 
+
+00:01:46.860 --> 00:01:48.530 align:start position:0%
+and then declare some kind of static
+variable<00:01:47.250><c> inside</c><00:01:47.579><c> it</c><00:01:47.759><c> so</c><00:01:47.970><c> I'll</c><00:01:48.149><c> just</c><00:01:48.360><c> make</c>
+
+00:01:48.530 --> 00:01:48.540 align:start position:0%
+variable inside it so I'll just make
+ 
+
+00:01:48.540 --> 00:01:51.620 align:start position:0%
+variable inside it so I'll just make
+that<00:01:48.990><c> again</c><00:01:49.259><c> I</c><00:01:49.530><c> equals</c><00:01:49.979><c> zero</c><00:01:50.250><c> what</c><00:01:51.090><c> this</c><00:01:51.270><c> means</c>
+
+00:01:51.620 --> 00:01:51.630 align:start position:0%
+that again I equals zero what this means
+ 
+
+00:01:51.630 --> 00:01:53.749 align:start position:0%
+that again I equals zero what this means
+is<00:01:51.930><c> that</c><00:01:51.990><c> when</c><00:01:52.290><c> I</c><00:01:52.350><c> call</c><00:01:52.890><c> functions</c><00:01:53.549><c> to</c><00:01:53.729><c> the</c>
+
+00:01:53.749 --> 00:01:53.759 align:start position:0%
+is that when I call functions to the
+ 
+
+00:01:53.759 --> 00:01:55.520 align:start position:0%
+is that when I call functions to the
+third<00:01:53.970><c> time</c><00:01:54.360><c> this</c><00:01:54.630><c> variable</c><00:01:55.200><c> will</c><00:01:55.409><c> be</c>
+
+00:01:55.520 --> 00:01:55.530 align:start position:0%
+third time this variable will be
+ 
+
+00:01:55.530 --> 00:01:57.440 align:start position:0%
+third time this variable will be
+initialized<00:01:56.040><c> to</c><00:01:56.219><c> zero</c><00:01:56.610><c> and</c><00:01:57.000><c> then</c><00:01:57.329><c> on</c>
+
+00:01:57.440 --> 00:01:57.450 align:start position:0%
+initialized to zero and then on
+ 
+
+00:01:57.450 --> 00:01:59.420 align:start position:0%
+initialized to zero and then on
+subsequent<00:01:57.990><c> order</c><00:01:58.530><c> functions</c><00:01:58.979><c> it's</c><00:01:59.219><c> not</c>
+
+00:01:59.420 --> 00:01:59.430 align:start position:0%
+subsequent order functions it's not
+ 
+
+00:01:59.430 --> 00:02:01.190 align:start position:0%
+subsequent order functions it's not
+actually<00:01:59.969><c> going</c><00:02:00.149><c> to</c><00:02:00.270><c> create</c><00:02:00.689><c> a</c><00:02:00.810><c> brand</c><00:02:01.110><c> new</c>
+
+00:02:01.190 --> 00:02:01.200 align:start position:0%
+actually going to create a brand new
+ 
+
+00:02:01.200 --> 00:02:03.109 align:start position:0%
+actually going to create a brand new
+variable<00:02:01.770><c> really</c><00:02:02.369><c> easy</c><00:02:02.520><c> way</c><00:02:02.729><c> to</c><00:02:02.790><c> check</c><00:02:03.000><c> this</c>
+
+00:02:03.109 --> 00:02:03.119 align:start position:0%
+variable really easy way to check this
+ 
+
+00:02:03.119 --> 00:02:05.330 align:start position:0%
+variable really easy way to check this
+out<00:02:03.329><c> is</c><00:02:03.570><c> if</c><00:02:03.869><c> I</c><00:02:03.990><c> just</c><00:02:04.200><c> print</c><00:02:04.469><c> the</c><00:02:04.740><c> value</c><00:02:05.009><c> of</c><00:02:05.040><c> I</c>
+
+00:02:05.330 --> 00:02:05.340 align:start position:0%
+out is if I just print the value of I
+ 
+
+00:02:05.340 --> 00:02:07.520 align:start position:0%
+out is if I just print the value of I
+and<00:02:05.610><c> then</c><00:02:06.060><c> I</c><00:02:06.090><c> increment</c><00:02:06.570><c> it</c><00:02:06.960><c> every</c><00:02:07.320><c> time</c><00:02:07.469><c> I</c>
+
+00:02:07.520 --> 00:02:07.530 align:start position:0%
+and then I increment it every time I
+ 
+
+00:02:07.530 --> 00:02:09.710 align:start position:0%
+and then I increment it every time I
+call<00:02:07.829><c> the</c><00:02:07.950><c> function</c><00:02:08.310><c> so</c><00:02:08.789><c> if</c><00:02:09.090><c> we</c><00:02:09.270><c> didn't</c><00:02:09.599><c> have</c>
+
+00:02:09.710 --> 00:02:09.720 align:start position:0%
+call the function so if we didn't have
+ 
+
+00:02:09.720 --> 00:02:11.660 align:start position:0%
+call the function so if we didn't have
+static<00:02:10.319><c> here</c><00:02:10.530><c> what</c><00:02:10.770><c> you</c><00:02:10.890><c> would</c><00:02:11.039><c> expect</c><00:02:11.370><c> is</c>
+
+00:02:11.660 --> 00:02:11.670 align:start position:0%
+static here what you would expect is
+ 
+
+00:02:11.670 --> 00:02:12.309 align:start position:0%
+static here what you would expect is
+that
+
+00:02:12.309 --> 00:02:12.319 align:start position:0%
+that
+ 
+
+00:02:12.319 --> 00:02:14.619 align:start position:0%
+that
+time<00:02:12.560><c> you</c><00:02:12.709><c> call</c><00:02:12.920><c> this</c><00:02:13.040><c> function</c><00:02:13.280><c> I</c><00:02:13.670><c> get</c><00:02:13.999><c> set</c><00:02:14.480><c> to</c>
+
+00:02:14.619 --> 00:02:14.629 align:start position:0%
+time you call this function I get set to
+ 
+
+00:02:14.629 --> 00:02:16.839 align:start position:0%
+time you call this function I get set to
+zero<00:02:14.900><c> then</c><00:02:15.260><c> I</c><00:02:15.290><c> get</c><00:02:15.650><c> incremented</c><00:02:15.950><c> to</c><00:02:16.310><c> one</c><00:02:16.519><c> and</c>
+
+00:02:16.839 --> 00:02:16.849 align:start position:0%
+zero then I get incremented to one and
+ 
+
+00:02:16.849 --> 00:02:19.119 align:start position:0%
+zero then I get incremented to one and
+then<00:02:17.180><c> we</c><00:02:17.329><c> print</c><00:02:17.569><c> one</c><00:02:17.870><c> -</c><00:02:18.139><c> pecan</c><00:02:18.409><c> well</c><00:02:18.680><c> and</c><00:02:18.980><c> in</c>
+
+00:02:19.119 --> 00:02:19.129 align:start position:0%
+then we print one - pecan well and in
+ 
+
+00:02:19.129 --> 00:02:20.470 align:start position:0%
+then we print one - pecan well and in
+fact<00:02:19.280><c> we</c><00:02:19.430><c> can</c><00:02:19.519><c> test</c><00:02:19.730><c> that</c><00:02:19.849><c> out</c><00:02:19.969><c> by</c><00:02:20.269><c> just</c>
+
+00:02:20.470 --> 00:02:20.480 align:start position:0%
+fact we can test that out by just
+ 
+
+00:02:20.480 --> 00:02:22.089 align:start position:0%
+fact we can test that out by just
+calling<00:02:20.780><c> function</c><00:02:21.170><c> a</c><00:02:21.260><c> whole</c><00:02:21.439><c> bunch</c><00:02:21.709><c> of</c><00:02:21.829><c> times</c>
+
+00:02:22.089 --> 00:02:22.099 align:start position:0%
+calling function a whole bunch of times
+ 
+
+00:02:22.099 --> 00:02:24.160 align:start position:0%
+calling function a whole bunch of times
+here<00:02:22.340><c> we'll</c><00:02:22.909><c> call</c><00:02:23.030><c> it</c><00:02:23.150><c> five</c><00:02:23.359><c> times</c><00:02:23.569><c> we'll</c><00:02:24.079><c> hit</c>
+
+00:02:24.160 --> 00:02:24.170 align:start position:0%
+here we'll call it five times we'll hit
+ 
+
+00:02:24.170 --> 00:02:26.619 align:start position:0%
+here we'll call it five times we'll hit
+up<00:02:24.290><c> five</c><00:02:24.560><c> to</c><00:02:24.950><c> run</c><00:02:25.069><c> our</c><00:02:25.189><c> program</c><00:02:25.579><c> and</c><00:02:26.359><c> you</c><00:02:26.480><c> can</c>
+
+00:02:26.619 --> 00:02:26.629 align:start position:0%
+up five to run our program and you can
+ 
+
+00:02:26.629 --> 00:02:28.360 align:start position:0%
+up five to run our program and you can
+see<00:02:26.749><c> that</c><00:02:26.900><c> we</c><00:02:26.989><c> get</c><00:02:27.139><c> one</c><00:02:27.439><c> printing</c><00:02:27.889><c> five</c><00:02:28.099><c> times</c>
+
+00:02:28.360 --> 00:02:28.370 align:start position:0%
+see that we get one printing five times
+ 
+
+00:02:28.370 --> 00:02:30.369 align:start position:0%
+see that we get one printing five times
+because<00:02:28.609><c> as</c><00:02:28.909><c> I</c><00:02:29.060><c> just</c><00:02:29.239><c> explained</c><00:02:29.659><c> we</c><00:02:30.109><c> create</c><00:02:30.349><c> a</c>
+
+00:02:30.369 --> 00:02:30.379 align:start position:0%
+because as I just explained we create a
+ 
+
+00:02:30.379 --> 00:02:32.110 align:start position:0%
+because as I just explained we create a
+variable<00:02:30.650><c> every</c><00:02:30.859><c> single</c><00:02:31.310><c> time</c><00:02:31.519><c> and</c><00:02:31.730><c> we</c><00:02:31.819><c> set</c><00:02:32.000><c> it</c>
+
+00:02:32.110 --> 00:02:32.120 align:start position:0%
+variable every single time and we set it
+ 
+
+00:02:32.120 --> 00:02:34.420 align:start position:0%
+variable every single time and we set it
+equal<00:02:32.180><c> to</c><00:02:32.359><c> zero</c><00:02:32.719><c> we</c><00:02:33.379><c> then</c><00:02:33.560><c> increment</c><00:02:33.829><c> it</c><00:02:34.280><c> to</c>
+
+00:02:34.420 --> 00:02:34.430 align:start position:0%
+equal to zero we then increment it to
+ 
+
+00:02:34.430 --> 00:02:35.800 align:start position:0%
+equal to zero we then increment it to
+one<00:02:34.670><c> and</c><00:02:34.969><c> then</c><00:02:35.120><c> we</c><00:02:35.239><c> print</c><00:02:35.480><c> that</c><00:02:35.569><c> to</c><00:02:35.719><c> the</c>
+
+00:02:35.800 --> 00:02:35.810 align:start position:0%
+one and then we print that to the
+ 
+
+00:02:35.810 --> 00:02:38.559 align:start position:0%
+one and then we print that to the
+console<00:02:36.200><c> now</c><00:02:36.409><c> if</c><00:02:37.099><c> we</c><00:02:37.400><c> wish</c><00:02:37.579><c> make</c><00:02:37.819><c> this</c><00:02:37.969><c> static</c>
+
+00:02:38.559 --> 00:02:38.569 align:start position:0%
+console now if we wish make this static
+ 
+
+00:02:38.569 --> 00:02:41.649 align:start position:0%
+console now if we wish make this static
+then<00:02:39.200><c> it's</c><00:02:39.590><c> very</c><00:02:39.919><c> very</c><00:02:40.250><c> similar</c><00:02:40.609><c> to</c><00:02:41.030><c> if</c><00:02:41.239><c> we</c><00:02:41.450><c> had</c>
+
+00:02:41.649 --> 00:02:41.659 align:start position:0%
+then it's very very similar to if we had
+ 
+
+00:02:41.659 --> 00:02:44.229 align:start position:0%
+then it's very very similar to if we had
+just<00:02:41.689><c> moved</c><00:02:42.260><c> this</c><00:02:42.499><c> original</c><00:02:43.189><c> declaration</c><00:02:43.909><c> out</c>
+
+00:02:44.229 --> 00:02:44.239 align:start position:0%
+just moved this original declaration out
+ 
+
+00:02:44.239 --> 00:02:47.259 align:start position:0%
+just moved this original declaration out
+here<00:02:44.959><c> so</c><00:02:45.680><c> if</c><00:02:45.799><c> we</c><00:02:45.859><c> run</c><00:02:46.129><c> this</c><00:02:46.189><c> code</c><00:02:46.730><c> and</c><00:02:47.000><c> it</c>
+
+00:02:47.259 --> 00:02:47.269 align:start position:0%
+here so if we run this code and it
+ 
+
+00:02:47.269 --> 00:02:48.819 align:start position:0%
+here so if we run this code and it
+doesn't<00:02:47.510><c> really</c><00:02:47.629><c> matter</c><00:02:47.900><c> if</c><00:02:48.049><c> this</c><00:02:48.230><c> has</c><00:02:48.409><c> static</c>
+
+00:02:48.819 --> 00:02:48.829 align:start position:0%
+doesn't really matter if this has static
+ 
+
+00:02:48.829 --> 00:02:50.289 align:start position:0%
+doesn't really matter if this has static
+or<00:02:48.980><c> not</c><00:02:49.129><c> and</c><00:02:49.370><c> our</c><00:02:49.489><c> case</c><00:02:49.700><c> is</c><00:02:49.849><c> going</c><00:02:50.000><c> to</c><00:02:50.090><c> be</c><00:02:50.209><c> the</c>
+
+00:02:50.289 --> 00:02:50.299 align:start position:0%
+or not and our case is going to be the
+ 
+
+00:02:50.299 --> 00:02:51.550 align:start position:0%
+or not and our case is going to be the
+same<00:02:50.510><c> if</c><00:02:50.629><c> you</c><00:02:50.719><c> want</c><00:02:50.840><c> to</c><00:02:50.900><c> know</c><00:02:50.989><c> more</c><00:02:51.199><c> about</c><00:02:51.260><c> what</c>
+
+00:02:51.550 --> 00:02:51.560 align:start position:0%
+same if you want to know more about what
+ 
+
+00:02:51.560 --> 00:02:53.170 align:start position:0%
+same if you want to know more about what
+static<00:02:51.859><c> doesn't</c><00:02:52.189><c> that</c><00:02:52.370><c> sense</c><00:02:52.669><c> you</c><00:02:52.849><c> can</c><00:02:52.909><c> check</c>
+
+00:02:53.170 --> 00:02:53.180 align:start position:0%
+static doesn't that sense you can check
+ 
+
+00:02:53.180 --> 00:02:55.990 align:start position:0%
+static doesn't that sense you can check
+out<00:02:53.359><c> the</c><00:02:53.719><c> video</c><00:02:54.019><c> that's</c><00:02:54.230><c> linked</c><00:02:54.639><c> somewhere</c><00:02:55.699><c> so</c>
+
+00:02:55.990 --> 00:02:56.000 align:start position:0%
+out the video that's linked somewhere so
+ 
+
+00:02:56.000 --> 00:02:58.949 align:start position:0%
+out the video that's linked somewhere so
+if<00:02:56.180><c> I</c><00:02:56.299><c> run</c><00:02:56.569><c> this</c><00:02:56.840><c> code</c><00:02:57.139><c> you</c><00:02:57.829><c> expect</c><00:02:58.310><c> I</c><00:02:58.489><c> to</c><00:02:58.579><c> be</c><00:02:58.819><c> 0</c>
+
+00:02:58.949 --> 00:02:58.959 align:start position:0%
+if I run this code you expect I to be 0
+ 
+
+00:02:58.959 --> 00:03:01.509 align:start position:0%
+if I run this code you expect I to be 0
+incremented<00:02:59.959><c> 5</c><00:03:00.169><c> times</c><00:03:00.469><c> and</c><00:03:00.829><c> so</c><00:03:00.980><c> you'll</c><00:03:01.129><c> get</c><00:03:01.310><c> 1</c>
+
+00:03:01.509 --> 00:03:01.519 align:start position:0%
+incremented 5 times and so you'll get 1
+ 
+
+00:03:01.519 --> 00:03:03.610 align:start position:0%
+incremented 5 times and so you'll get 1
+2<00:03:01.669><c> 3</c><00:03:01.819><c> 4</c><00:03:02.090><c> 5</c><00:03:02.269><c> which</c><00:03:02.689><c> is</c><00:03:02.719><c> exactly</c><00:03:03.199><c> what</c><00:03:03.379><c> you</c><00:03:03.439><c> get</c>
+
+00:03:03.610 --> 00:03:03.620 align:start position:0%
+2 3 4 5 which is exactly what you get
+ 
+
+00:03:03.620 --> 00:03:05.140 align:start position:0%
+2 3 4 5 which is exactly what you get
+however<00:03:04.189><c> the</c><00:03:04.519><c> problem</c><00:03:04.849><c> with</c><00:03:04.939><c> this</c><00:03:05.090><c> approach</c>
+
+00:03:05.140 --> 00:03:05.150 align:start position:0%
+however the problem with this approach
+ 
+
+00:03:05.150 --> 00:03:09.009 align:start position:0%
+however the problem with this approach
+is<00:03:05.689><c> that</c><00:03:06.199><c> I</c><00:03:06.469><c> can</c><00:03:06.949><c> access</c><00:03:07.280><c> I</c><00:03:07.639><c> any</c><00:03:07.969><c> where</c><00:03:08.209><c> I</c><00:03:08.419><c> could</c>
+
+00:03:09.009 --> 00:03:09.019 align:start position:0%
+is that I can access I any where I could
+ 
+
+00:03:09.019 --> 00:03:12.369 align:start position:0%
+is that I can access I any where I could
+set<00:03:09.260><c> I</c><00:03:09.439><c> equal</c><00:03:09.739><c> to</c><00:03:10.209><c> 10</c><00:03:11.209><c> over</c><00:03:11.540><c> here</c><00:03:12.079><c> in</c><00:03:12.169><c> between</c>
+
+00:03:12.369 --> 00:03:12.379 align:start position:0%
+set I equal to 10 over here in between
+ 
+
+00:03:12.379 --> 00:03:14.319 align:start position:0%
+set I equal to 10 over here in between
+function<00:03:12.919><c> calls</c><00:03:13.129><c> and</c><00:03:13.430><c> suddenly</c><00:03:13.790><c> this</c>
+
+00:03:14.319 --> 00:03:14.329 align:start position:0%
+function calls and suddenly this
+ 
+
+00:03:14.329 --> 00:03:16.179 align:start position:0%
+function calls and suddenly this
+dramatically<00:03:15.019><c> changes</c><00:03:15.500><c> what</c><00:03:15.650><c> our</c><00:03:15.799><c> program</c>
+
+00:03:16.179 --> 00:03:16.189 align:start position:0%
+dramatically changes what our program
+ 
+
+00:03:16.189 --> 00:03:19.089 align:start position:0%
+dramatically changes what our program
+does<00:03:16.219><c> so</c><00:03:17.090><c> the</c><00:03:17.239><c> cases</c><00:03:17.659><c> where</c><00:03:17.930><c> you</c><00:03:18.530><c> want</c><00:03:18.799><c> this</c>
+
+00:03:19.089 --> 00:03:19.099 align:start position:0%
+does so the cases where you want this
+ 
+
+00:03:19.099 --> 00:03:21.819 align:start position:0%
+does so the cases where you want this
+kind<00:03:19.310><c> of</c><00:03:19.459><c> behavior</c><00:03:19.639><c> however</c><00:03:20.209><c> you</c><00:03:20.959><c> do</c><00:03:21.169><c> not</c><00:03:21.409><c> want</c>
+
+00:03:21.819 --> 00:03:21.829 align:start position:0%
+kind of behavior however you do not want
+ 
+
+00:03:21.829 --> 00:03:24.159 align:start position:0%
+kind of behavior however you do not want
+to<00:03:22.040><c> give</c><00:03:22.280><c> everyone</c><00:03:22.790><c> access</c><00:03:23.060><c> to</c><00:03:23.569><c> that</c><00:03:23.659><c> variable</c>
+
+00:03:24.159 --> 00:03:24.169 align:start position:0%
+to give everyone access to that variable
+ 
+
+00:03:24.169 --> 00:03:26.140 align:start position:0%
+to give everyone access to that variable
+you<00:03:24.709><c> can</c><00:03:24.859><c> declare</c><00:03:25.129><c> static</c><00:03:25.489><c> in</c><00:03:25.579><c> a</c><00:03:25.609><c> local</c><00:03:25.909><c> scope</c>
+
+00:03:26.140 --> 00:03:26.150 align:start position:0%
+you can declare static in a local scope
+ 
+
+00:03:26.150 --> 00:03:28.119 align:start position:0%
+you can declare static in a local scope
+so<00:03:26.509><c> let's</c><00:03:26.659><c> get</c><00:03:26.780><c> rid</c><00:03:26.900><c> of</c><00:03:26.989><c> this</c><00:03:27.139><c> and</c><00:03:27.409><c> move</c><00:03:27.769><c> our</c><00:03:27.949><c> I</c>
+
+00:03:28.119 --> 00:03:28.129 align:start position:0%
+so let's get rid of this and move our I
+ 
+
+00:03:28.129 --> 00:03:29.619 align:start position:0%
+so let's get rid of this and move our I
+variable<00:03:28.489><c> back</c><00:03:28.699><c> into</c><00:03:28.939><c> the</c><00:03:29.030><c> function</c><00:03:29.209><c> scope</c>
+
+00:03:29.619 --> 00:03:29.629 align:start position:0%
+variable back into the function scope
+ 
+
+00:03:29.629 --> 00:03:32.140 align:start position:0%
+variable back into the function scope
+I'm<00:03:30.379><c> going</c><00:03:30.650><c> to</c><00:03:30.769><c> stick</c><00:03:31.009><c> static</c><00:03:31.489><c> out</c><00:03:31.669><c> the</c><00:03:31.879><c> front</c>
+
+00:03:32.140 --> 00:03:32.150 align:start position:0%
+I'm going to stick static out the front
+ 
+
+00:03:32.150 --> 00:03:34.420 align:start position:0%
+I'm going to stick static out the front
+which<00:03:32.389><c> means</c><00:03:32.569><c> that</c><00:03:32.900><c> again</c><00:03:33.530><c> the</c><00:03:33.709><c> first</c><00:03:34.009><c> time</c><00:03:34.280><c> we</c>
+
+00:03:34.420 --> 00:03:34.430 align:start position:0%
+which means that again the first time we
+ 
+
+00:03:34.430 --> 00:03:35.979 align:start position:0%
+which means that again the first time we
+run<00:03:34.849><c> this</c><00:03:34.939><c> function</c><00:03:35.329><c> is</c><00:03:35.449><c> going</c><00:03:35.659><c> to</c><00:03:35.750><c> set</c><00:03:35.900><c> it</c>
+
+00:03:35.979 --> 00:03:35.989 align:start position:0%
+run this function is going to set it
+ 
+
+00:03:35.989 --> 00:03:37.899 align:start position:0%
+run this function is going to set it
+equal<00:03:36.049><c> to</c><00:03:36.229><c> 0</c><00:03:36.560><c> and</c><00:03:36.650><c> create</c><00:03:37.220><c> a</c><00:03:37.250><c> variable</c><00:03:37.669><c> in</c><00:03:37.790><c> the</c>
+
+00:03:37.899 --> 00:03:37.909 align:start position:0%
+equal to 0 and create a variable in the
+ 
+
+00:03:37.909 --> 00:03:39.969 align:start position:0%
+equal to 0 and create a variable in the
+first<00:03:38.060><c> place</c><00:03:38.359><c> then</c><00:03:38.900><c> on</c><00:03:39.079><c> subsequent</c><00:03:39.620><c> times</c><00:03:39.799><c> is</c>
+
+00:03:39.969 --> 00:03:39.979 align:start position:0%
+first place then on subsequent times is
+ 
+
+00:03:39.979 --> 00:03:41.349 align:start position:0%
+first place then on subsequent times is
+just<00:03:40.009><c> going</c><00:03:40.310><c> to</c><00:03:40.489><c> refer</c><00:03:40.759><c> to</c><00:03:40.790><c> that</c><00:03:41.030><c> original</c>
+
+00:03:41.349 --> 00:03:41.359 align:start position:0%
+just going to refer to that original
+ 
+
+00:03:41.359 --> 00:03:43.749 align:start position:0%
+just going to refer to that original
+variable<00:03:42.079><c> so</c><00:03:42.290><c> if</c><00:03:42.439><c> I</c><00:03:42.530><c> run</c><00:03:42.650><c> micro</c><00:03:42.979><c> now</c><00:03:43.189><c> you</c><00:03:43.609><c> can</c>
+
+00:03:43.749 --> 00:03:43.759 align:start position:0%
+variable so if I run micro now you can
+ 
+
+00:03:43.759 --> 00:03:46.689 align:start position:0%
+variable so if I run micro now you can
+see<00:03:43.909><c> I</c><00:03:43.939><c> get</c><00:03:44.060><c> 1</c><00:03:44.389><c> 2</c><00:03:44.540><c> 3</c><00:03:44.750><c> 4</c><00:03:44.989><c> 5</c><00:03:45.229><c> and</c><00:03:45.530><c> I</c><00:03:45.979><c> get</c><00:03:46.340><c> the</c><00:03:46.459><c> exact</c>
+
+00:03:46.689 --> 00:03:46.699 align:start position:0%
+see I get 1 2 3 4 5 and I get the exact
+ 
+
+00:03:46.699 --> 00:03:48.159 align:start position:0%
+see I get 1 2 3 4 5 and I get the exact
+same<00:03:46.849><c> behavior</c><00:03:47.030><c> as</c><00:03:47.359><c> I</c><00:03:47.449><c> did</c><00:03:47.599><c> before</c><00:03:47.689><c> however</c>
+
+00:03:48.159 --> 00:03:48.169 align:start position:0%
+same behavior as I did before however
+ 
+
+00:03:48.169 --> 00:03:50.920 align:start position:0%
+same behavior as I did before however
+that<00:03:48.919><c> I</c><00:03:48.949><c> variable</c><00:03:49.459><c> isn't</c><00:03:49.879><c> visible</c><00:03:50.389><c> no</c><00:03:50.599><c> global</c>
+
+00:03:50.920 --> 00:03:50.930 align:start position:0%
+that I variable isn't visible no global
+ 
+
+00:03:50.930 --> 00:03:52.629 align:start position:0%
+that I variable isn't visible no global
+scope<00:03:51.079><c> it's</c><00:03:51.319><c> just</c><00:03:51.560><c> local</c><00:03:51.949><c> to</c><00:03:51.979><c> that</c><00:03:52.099><c> function</c>
+
+00:03:52.629 --> 00:03:52.639 align:start position:0%
+scope it's just local to that function
+ 
+
+00:03:52.639 --> 00:03:55.289 align:start position:0%
+scope it's just local to that function
+now<00:03:52.909><c> as</c><00:03:53.180><c> for</c><00:03:53.449><c> uses</c><00:03:53.930><c> some</c><00:03:54.500><c> people</c><00:03:54.829><c> do</c><00:03:55.069><c> like</c><00:03:55.219><c> to</c>
+
+00:03:55.289 --> 00:03:55.299 align:start position:0%
+now as for uses some people do like to
+ 
+
+00:03:55.299 --> 00:03:57.670 align:start position:0%
+now as for uses some people do like to
+discourage<00:03:56.299><c> the</c><00:03:56.599><c> use</c><00:03:56.629><c> of</c><00:03:56.780><c> this</c><00:03:57.079><c> because</c><00:03:57.650><c> of</c>
+
+00:03:57.670 --> 00:03:57.680 align:start position:0%
+discourage the use of this because of
+ 
+
+00:03:57.680 --> 00:03:59.770 align:start position:0%
+discourage the use of this because of
+certain<00:03:58.370><c> reasons</c><00:03:58.849><c> that</c><00:03:59.209><c> I</c><00:03:59.269><c> don't</c><00:03:59.449><c> fully</c>
+
+00:03:59.770 --> 00:03:59.780 align:start position:0%
+certain reasons that I don't fully
+ 
+
+00:03:59.780 --> 00:04:01.330 align:start position:0%
+certain reasons that I don't fully
+understand<00:04:00.349><c> because</c><00:04:00.590><c> I</c><00:04:00.650><c> don't</c><00:04:00.919><c> really</c><00:04:01.069><c> see</c><00:04:01.310><c> a</c>
+
+00:04:01.330 --> 00:04:01.340 align:start position:0%
+understand because I don't really see a
+ 
+
+00:04:01.340 --> 00:04:03.339 align:start position:0%
+understand because I don't really see a
+problem<00:04:01.549><c> with</c><00:04:01.729><c> this</c><00:04:01.939><c> it</c><00:04:02.659><c> definitely</c><00:04:02.870><c> has</c><00:04:03.319><c> its</c>
+
+00:04:03.339 --> 00:04:03.349 align:start position:0%
+problem with this it definitely has its
+ 
+
+00:04:03.349 --> 00:04:05.439 align:start position:0%
+problem with this it definitely has its
+use<00:04:03.769><c> it's</c><00:04:04.040><c> one</c><00:04:04.250><c> of</c><00:04:04.310><c> those</c><00:04:04.400><c> things</c><00:04:04.699><c> where</c><00:04:04.969><c> yes</c>
+
+00:04:05.439 --> 00:04:05.449 align:start position:0%
+use it's one of those things where yes
+ 
+
+00:04:05.449 --> 00:04:07.689 align:start position:0%
+use it's one of those things where yes
+you<00:04:05.780><c> can</c><00:04:05.989><c> achieve</c><00:04:06.109><c> the</c><00:04:06.620><c> exact</c><00:04:06.919><c> same</c><00:04:07.099><c> behavior</c>
+
+00:04:07.689 --> 00:04:07.699 align:start position:0%
+you can achieve the exact same behavior
+ 
+
+00:04:07.699 --> 00:04:10.300 align:start position:0%
+you can achieve the exact same behavior
+using<00:04:08.180><c> other</c><00:04:08.569><c> methods</c><00:04:08.840><c> however</c><00:04:09.680><c> that</c><00:04:10.159><c> can</c>
+
+00:04:10.300 --> 00:04:10.310 align:start position:0%
+using other methods however that can
+ 
+
+00:04:10.310 --> 00:04:12.309 align:start position:0%
+using other methods however that can
+also<00:04:10.459><c> be</c><00:04:10.669><c> said</c><00:04:10.879><c> for</c><00:04:11.030><c> classes</c><00:04:11.569><c> you</c><00:04:12.289><c> don't</c>
+
+00:04:12.309 --> 00:04:12.319 align:start position:0%
+also be said for classes you don't
+ 
+
+00:04:12.319 --> 00:04:13.929 align:start position:0%
+also be said for classes you don't
+necessarily<00:04:12.859><c> have</c><00:04:13.039><c> to</c><00:04:13.069><c> use</c><00:04:13.219><c> classes</c><00:04:13.789><c> at</c><00:04:13.909><c> all</c>
+
+00:04:13.929 --> 00:04:13.939 align:start position:0%
+necessarily have to use classes at all
+ 
+
+00:04:13.939 --> 00:04:16.120 align:start position:0%
+necessarily have to use classes at all
+to<00:04:14.479><c> write</c><00:04:14.810><c> a</c><00:04:14.840><c> program</c><00:04:15.109><c> however</c><00:04:15.530><c> it</c><00:04:15.829><c> does</c><00:04:15.949><c> make</c>
+
+00:04:16.120 --> 00:04:16.130 align:start position:0%
+to write a program however it does make
+ 
+
+00:04:16.130 --> 00:04:18.249 align:start position:0%
+to write a program however it does make
+your<00:04:16.250><c> life</c><00:04:16.430><c> easier</c><00:04:16.909><c> same</c><00:04:17.599><c> with</c><00:04:17.810><c> this</c><00:04:17.959><c> case</c>
+
+00:04:18.249 --> 00:04:18.259 align:start position:0%
+your life easier same with this case
+ 
+
+00:04:18.259 --> 00:04:19.779 align:start position:0%
+your life easier same with this case
+it's<00:04:18.709><c> one</c><00:04:18.889><c> of</c><00:04:18.949><c> those</c><00:04:19.039><c> things</c><00:04:19.310><c> that</c><00:04:19.400><c> you</c><00:04:19.609><c> can</c>
+
+00:04:19.779 --> 00:04:19.789 align:start position:0%
+it's one of those things that you can
+ 
+
+00:04:19.789 --> 00:04:21.339 align:start position:0%
+it's one of those things that you can
+just<00:04:19.969><c> do</c><00:04:20.150><c> to</c><00:04:20.359><c> keep</c><00:04:20.510><c> your</c><00:04:20.659><c> code</c><00:04:20.930><c> a</c><00:04:20.959><c> little</c><00:04:21.139><c> bit</c>
+
+00:04:21.339 --> 00:04:21.349 align:start position:0%
+just do to keep your code a little bit
+ 
+
+00:04:21.349 --> 00:04:21.819 align:start position:0%
+just do to keep your code a little bit
+cleaner
+
+00:04:21.819 --> 00:04:21.829 align:start position:0%
+cleaner
+ 
+
+00:04:21.829 --> 00:04:23.810 align:start position:0%
+cleaner
+another<00:04:22.250><c> example</c><00:04:22.789><c> might</c><00:04:22.969><c> be</c><00:04:23.000><c> if</c><00:04:23.389><c> you</c>
+
+00:04:23.810 --> 00:04:23.820 align:start position:0%
+another example might be if you
+ 
+
+00:04:23.820 --> 00:04:26.570 align:start position:0%
+another example might be if you
+singleton<00:04:24.330><c> class</c><00:04:24.480><c> so</c><00:04:24.810><c> singleton</c><00:04:25.260><c> class</c><00:04:25.410><c> is</c><00:04:25.890><c> a</c>
+
+00:04:26.570 --> 00:04:26.580 align:start position:0%
+singleton class so singleton class is a
+ 
+
+00:04:26.580 --> 00:04:28.760 align:start position:0%
+singleton class so singleton class is a
+class<00:04:27.150><c> that</c><00:04:27.480><c> should</c><00:04:27.870><c> only</c><00:04:28.050><c> have</c><00:04:28.290><c> one</c><00:04:28.320><c> instance</c>
+
+00:04:28.760 --> 00:04:28.770 align:start position:0%
+class that should only have one instance
+ 
+
+00:04:28.770 --> 00:04:30.800 align:start position:0%
+class that should only have one instance
+in<00:04:29.190><c> existence</c><00:04:29.670><c> if</c><00:04:29.820><c> I</c><00:04:30.090><c> wanted</c><00:04:30.360><c> to</c><00:04:30.420><c> create</c><00:04:30.690><c> a</c>
+
+00:04:30.800 --> 00:04:30.810 align:start position:0%
+in existence if I wanted to create a
+ 
+
+00:04:30.810 --> 00:04:32.870 align:start position:0%
+in existence if I wanted to create a
+singleton<00:04:31.200><c> class</c><00:04:31.350><c> without</c><00:04:31.860><c> using</c><00:04:32.730><c> this</c>
+
+00:04:32.870 --> 00:04:32.880 align:start position:0%
+singleton class without using this
+ 
+
+00:04:32.880 --> 00:04:34.940 align:start position:0%
+singleton class without using this
+static<00:04:33.300><c> local</c><00:04:33.630><c> scope</c><00:04:33.870><c> thing</c><00:04:34.140><c> I</c><00:04:34.350><c> would</c><00:04:34.590><c> have</c><00:04:34.740><c> to</c>
+
+00:04:34.940 --> 00:04:34.950 align:start position:0%
+static local scope thing I would have to
+ 
+
+00:04:34.950 --> 00:04:37.430 align:start position:0%
+static local scope thing I would have to
+create<00:04:35.550><c> some</c><00:04:35.850><c> kind</c><00:04:36.030><c> of</c><00:04:36.270><c> static</c><00:04:36.840><c> singleton</c>
+
+00:04:37.430 --> 00:04:37.440 align:start position:0%
+create some kind of static singleton
+ 
+
+00:04:37.440 --> 00:04:39.980 align:start position:0%
+create some kind of static singleton
+instance<00:04:37.770><c> probably</c><00:04:38.460><c> a</c><00:04:38.730><c> pointer</c><00:04:39.330><c> at</c><00:04:39.450><c> this</c><00:04:39.630><c> rate</c>
+
+00:04:39.980 --> 00:04:39.990 align:start position:0%
+instance probably a pointer at this rate
+ 
+
+00:04:39.990 --> 00:04:43.070 align:start position:0%
+instance probably a pointer at this rate
+I'll<00:04:40.260><c> set</c><00:04:40.560><c> it</c><00:04:40.710><c> here</c><00:04:40.980><c> I</c><00:04:41.340><c> would</c><00:04:42.240><c> have</c><00:04:42.390><c> to</c><00:04:42.540><c> have</c><00:04:42.720><c> a</c>
+
+00:04:43.070 --> 00:04:43.080 align:start position:0%
+I'll set it here I would have to have a
+ 
+
+00:04:43.080 --> 00:04:44.810 align:start position:0%
+I'll set it here I would have to have a
+if<00:04:43.680><c> I</c><00:04:43.830><c> just</c><00:04:43.980><c> want</c><00:04:44.130><c> to</c><00:04:44.190><c> return</c><00:04:44.400><c> a</c><00:04:44.520><c> normal</c>
+
+00:04:44.810 --> 00:04:44.820 align:start position:0%
+if I just want to return a normal
+ 
+
+00:04:44.820 --> 00:04:46.190 align:start position:0%
+if I just want to return a normal
+reference<00:04:44.970><c> I</c><00:04:45.360><c> would</c><00:04:45.480><c> have</c><00:04:45.600><c> to</c><00:04:45.720><c> have</c><00:04:45.810><c> a</c><00:04:45.870><c> single</c>
+
+00:04:46.190 --> 00:04:46.200 align:start position:0%
+reference I would have to have a single
+ 
+
+00:04:46.200 --> 00:04:48.800 align:start position:0%
+reference I would have to have a single
+some<00:04:46.380><c> reference</c><00:04:46.950><c> returning</c><00:04:47.520><c> get</c><00:04:48.210><c> function</c>
+
+00:04:48.800 --> 00:04:48.810 align:start position:0%
+some reference returning get function
+ 
+
+00:04:48.810 --> 00:04:51.350 align:start position:0%
+some reference returning get function
+which<00:04:49.290><c> was</c><00:04:49.440><c> static</c><00:04:50.010><c> and</c><00:04:50.250><c> returned</c><00:04:50.820><c> my</c>
+
+00:04:51.350 --> 00:04:51.360 align:start position:0%
+which was static and returned my
+ 
+
+00:04:51.360 --> 00:04:53.330 align:start position:0%
+which was static and returned my
+instance<00:04:51.930><c> after</c><00:04:52.140><c> the</c><00:04:52.650><c> referencing</c><00:04:53.100><c> it</c><00:04:53.220><c> of</c>
+
+00:04:53.330 --> 00:04:53.340 align:start position:0%
+instance after the referencing it of
+ 
+
+00:04:53.340 --> 00:04:55.250 align:start position:0%
+instance after the referencing it of
+course<00:04:53.580><c> I</c><00:04:53.940><c> would</c><00:04:54.300><c> then</c><00:04:54.450><c> have</c><00:04:54.690><c> to</c><00:04:54.840><c> actually</c>
+
+00:04:55.250 --> 00:04:55.260 align:start position:0%
+course I would then have to actually
+ 
+
+00:04:55.260 --> 00:04:58.070 align:start position:0%
+course I would then have to actually
+declare<00:04:55.620><c> this</c><00:04:56.070><c> instance</c><00:04:56.580><c> over</c><00:04:57.060><c> here</c><00:04:57.330><c> single</c>
+
+00:04:58.070 --> 00:04:58.080 align:start position:0%
+declare this instance over here single
+ 
+
+00:04:58.080 --> 00:05:00.950 align:start position:0%
+declare this instance over here single
+term<00:04:58.260><c> single</c><00:04:58.920><c> term</c><00:04:59.130><c> as</c><00:04:59.490><c> instance</c><00:05:00.150><c> I</c><00:05:00.390><c> can</c>
+
+00:05:00.950 --> 00:05:00.960 align:start position:0%
+term single term as instance I can
+ 
+
+00:05:00.960 --> 00:05:02.000 align:start position:0%
+term single term as instance I can
+probably<00:05:01.140><c> set</c><00:05:01.380><c> it</c><00:05:01.470><c> equal</c><00:05:01.530><c> to</c><00:05:01.680><c> the</c><00:05:01.800><c> melon</c>
+
+00:05:02.000 --> 00:05:02.010 align:start position:0%
+probably set it equal to the melon
+ 
+
+00:05:02.010 --> 00:05:04.460 align:start position:0%
+probably set it equal to the melon
+pointer<00:05:02.370><c> as</c><00:05:02.580><c> a</c><00:05:02.640><c> default</c><00:05:03.030><c> and</c><00:05:03.270><c> now</c><00:05:03.840><c> I</c><00:05:03.870><c> have</c><00:05:04.290><c> the</c>
+
+00:05:04.460 --> 00:05:04.470 align:start position:0%
+pointer as a default and now I have the
+ 
+
+00:05:04.470 --> 00:05:06.770 align:start position:0%
+pointer as a default and now I have the
+ability<00:05:04.560><c> let's</c><00:05:05.400><c> get</c><00:05:05.580><c> rid</c><00:05:05.670><c> of</c><00:05:05.730><c> this</c><00:05:05.850><c> now</c><00:05:06.600><c> of</c>
+
+00:05:06.770 --> 00:05:06.780 align:start position:0%
+ability let's get rid of this now of
+ 
+
+00:05:06.780 --> 00:05:08.750 align:start position:0%
+ability let's get rid of this now of
+course<00:05:06.990><c> I</c><00:05:07.290><c> have</c><00:05:07.560><c> my</c><00:05:07.740><c> singleton</c><00:05:08.160><c> class</c><00:05:08.370><c> in</c>
+
+00:05:08.750 --> 00:05:08.760 align:start position:0%
+course I have my singleton class in
+ 
+
+00:05:08.760 --> 00:05:11.510 align:start position:0%
+course I have my singleton class in
+which<00:05:09.360><c> I</c><00:05:09.510><c> could</c><00:05:09.570><c> just</c><00:05:09.870><c> call</c><00:05:10.250><c> singleton</c><00:05:11.250><c> get</c>
+
+00:05:11.510 --> 00:05:11.520 align:start position:0%
+which I could just call singleton get
+ 
+
+00:05:11.520 --> 00:05:13.820 align:start position:0%
+which I could just call singleton get
+and<00:05:11.820><c> then</c><00:05:12.120><c> do</c><00:05:12.330><c> whatever</c><00:05:12.540><c> I</c><00:05:12.750><c> want</c><00:05:13.440><c> with</c><00:05:13.620><c> it</c>
+
+00:05:13.820 --> 00:05:13.830 align:start position:0%
+and then do whatever I want with it
+ 
+
+00:05:13.830 --> 00:05:15.610 align:start position:0%
+and then do whatever I want with it
+so<00:05:14.070><c> suppose</c><00:05:14.490><c> we</c><00:05:14.640><c> had</c><00:05:14.790><c> a</c><00:05:14.820><c> method</c><00:05:15.180><c> here</c><00:05:15.390><c> called</c>
+
+00:05:15.610 --> 00:05:15.620 align:start position:0%
+so suppose we had a method here called
+ 
+
+00:05:15.620 --> 00:05:18.290 align:start position:0%
+so suppose we had a method here called
+hello<00:05:16.620><c> don't</c><00:05:17.430><c> let</c><00:05:17.610><c> me</c><00:05:17.670><c> know</c><00:05:17.760><c> what</c><00:05:17.880><c> I'm</c><00:05:17.970><c> doing</c>
+
+00:05:18.290 --> 00:05:18.300 align:start position:0%
+hello don't let me know what I'm doing
+ 
+
+00:05:18.300 --> 00:05:20.450 align:start position:0%
+hello don't let me know what I'm doing
+just<00:05:18.510><c> an</c><00:05:18.570><c> example</c><00:05:18.840><c> was</c><00:05:19.560><c> call</c><00:05:19.800><c> a</c><00:05:19.830><c> hello</c><00:05:20.100><c> method</c>
+
+00:05:20.450 --> 00:05:20.460 align:start position:0%
+just an example was call a hello method
+ 
+
+00:05:20.460 --> 00:05:21.650 align:start position:0%
+just an example was call a hello method
+and<00:05:20.610><c> everything</c><00:05:20.880><c> will</c><00:05:21.000><c> be</c><00:05:21.030><c> well</c><00:05:21.300><c> you</c><00:05:21.420><c> can</c><00:05:21.540><c> see</c>
+
+00:05:21.650 --> 00:05:21.660 align:start position:0%
+and everything will be well you can see
+ 
+
+00:05:21.660 --> 00:05:22.700 align:start position:0%
+and everything will be well you can see
+we're<00:05:21.780><c> gonna</c><00:05:21.870><c> call</c><00:05:22.050><c> one</c><00:05:22.230><c> instance</c><00:05:22.560><c> of</c><00:05:22.650><c> that</c>
+
+00:05:22.700 --> 00:05:22.710 align:start position:0%
+we're gonna call one instance of that
+ 
+
+00:05:22.710 --> 00:05:24.200 align:start position:0%
+we're gonna call one instance of that
+class<00:05:22.830><c> that</c><00:05:23.040><c> we</c><00:05:23.310><c> can</c><00:05:23.490><c> use</c><00:05:23.670><c> so</c><00:05:23.820><c> we</c><00:05:23.910><c> can</c><00:05:24.030><c> kind</c><00:05:24.180><c> of</c>
+
+00:05:24.200 --> 00:05:24.210 align:start position:0%
+class that we can use so we can kind of
+ 
+
+00:05:24.210 --> 00:05:26.030 align:start position:0%
+class that we can use so we can kind of
+use<00:05:24.360><c> it</c><00:05:24.510><c> statically</c><00:05:24.870><c> now</c><00:05:25.260><c> this</c><00:05:25.500><c> is</c><00:05:25.620><c> quite</c><00:05:26.010><c> a</c>
+
+00:05:26.030 --> 00:05:26.040 align:start position:0%
+use it statically now this is quite a
+ 
+
+00:05:26.040 --> 00:05:27.860 align:start position:0%
+use it statically now this is quite a
+lot<00:05:26.220><c> of</c><00:05:26.310><c> code</c><00:05:26.490><c> you</c><00:05:26.880><c> don't</c><00:05:26.910><c> necessarily</c><00:05:27.420><c> have</c>
+
+00:05:27.860 --> 00:05:27.870 align:start position:0%
+lot of code you don't necessarily have
+ 
+
+00:05:27.870 --> 00:05:29.900 align:start position:0%
+lot of code you don't necessarily have
+to<00:05:28.110><c> do</c><00:05:28.320><c> it</c><00:05:28.350><c> this</c><00:05:28.560><c> way</c><00:05:28.770><c> another</c><00:05:29.370><c> way</c><00:05:29.550><c> to</c><00:05:29.610><c> do</c><00:05:29.760><c> this</c>
+
+00:05:29.900 --> 00:05:29.910 align:start position:0%
+to do it this way another way to do this
+ 
+
+00:05:29.910 --> 00:05:31.190 align:start position:0%
+to do it this way another way to do this
+with<00:05:30.270><c> our</c><00:05:30.360><c> newfound</c><00:05:30.540><c> knowledge</c><00:05:30.870><c> of</c><00:05:31.110><c> this</c>
+
+00:05:31.190 --> 00:05:31.200 align:start position:0%
+with our newfound knowledge of this
+ 
+
+00:05:31.200 --> 00:05:33.560 align:start position:0%
+with our newfound knowledge of this
+local<00:05:31.620><c> static</c><00:05:31.980><c> thing</c><00:05:32.280><c> might</c><00:05:32.790><c> be</c><00:05:32.910><c> like</c><00:05:33.090><c> this</c><00:05:33.330><c> we</c>
+
+00:05:33.560 --> 00:05:33.570 align:start position:0%
+local static thing might be like this we
+ 
+
+00:05:33.570 --> 00:05:36.530 align:start position:0%
+local static thing might be like this we
+can<00:05:33.720><c> get</c><00:05:33.870><c> rid</c><00:05:34.170><c> of</c><00:05:34.200><c> this</c><00:05:34.590><c> entirely</c><00:05:35.210><c> we</c><00:05:36.210><c> can</c><00:05:36.360><c> get</c>
+
+00:05:36.530 --> 00:05:36.540 align:start position:0%
+can get rid of this entirely we can get
+ 
+
+00:05:36.540 --> 00:05:39.380 align:start position:0%
+can get rid of this entirely we can get
+rid<00:05:36.750><c> of</c><00:05:36.780><c> this</c><00:05:37.020><c> external</c><00:05:37.790><c> definition</c><00:05:38.790><c> of</c><00:05:39.000><c> F</c>
+
+00:05:39.380 --> 00:05:39.390 align:start position:0%
+rid of this external definition of F
+ 
+
+00:05:39.390 --> 00:05:41.750 align:start position:0%
+rid of this external definition of F
+instance<00:05:40.020><c> as</c><00:05:40.170><c> well</c><00:05:40.380><c> and</c><00:05:40.710><c> then</c><00:05:41.340><c> we</c><00:05:41.460><c> can</c><00:05:41.490><c> just</c>
+
+00:05:41.750 --> 00:05:41.760 align:start position:0%
+instance as well and then we can just
+ 
+
+00:05:41.760 --> 00:05:45.290 align:start position:0%
+instance as well and then we can just
+expand<00:05:42.180><c> our</c><00:05:42.480><c> guest</c><00:05:42.900><c> function</c><00:05:43.880><c> to</c><00:05:44.880><c> actually</c>
+
+00:05:45.290 --> 00:05:45.300 align:start position:0%
+expand our guest function to actually
+ 
+
+00:05:45.300 --> 00:05:48.410 align:start position:0%
+expand our guest function to actually
+create<00:05:45.690><c> a</c><00:05:45.720><c> static</c><00:05:46.310><c> singleton</c><00:05:47.310><c> instance</c><00:05:47.820><c> and</c>
+
+00:05:48.410 --> 00:05:48.420 align:start position:0%
+create a static singleton instance and
+ 
+
+00:05:48.420 --> 00:05:52.610 align:start position:0%
+create a static singleton instance and
+then<00:05:49.110><c> return</c><00:05:49.620><c> that</c><00:05:50.070><c> instance</c><00:05:50.580><c> and</c><00:05:51.530><c> there</c><00:05:52.530><c> you</c>
+
+00:05:52.610 --> 00:05:52.620 align:start position:0%
+then return that instance and there you
+ 
+
+00:05:52.620 --> 00:05:54.380 align:start position:0%
+then return that instance and there you
+go<00:05:52.740><c> we</c><00:05:53.130><c> get</c><00:05:53.280><c> the</c><00:05:53.400><c> exact</c><00:05:53.670><c> same</c><00:05:53.850><c> behavior</c><00:05:54.000><c> you</c>
+
+00:05:54.380 --> 00:05:54.390 align:start position:0%
+go we get the exact same behavior you
+ 
+
+00:05:54.390 --> 00:05:55.610 align:start position:0%
+go we get the exact same behavior you
+can<00:05:54.480><c> see</c><00:05:54.660><c> everything</c><00:05:54.960><c> here</c><00:05:55.140><c> stays</c><00:05:55.410><c> the</c><00:05:55.590><c> same</c>
+
+00:05:55.610 --> 00:05:55.620 align:start position:0%
+can see everything here stays the same
+ 
+
+00:05:55.620 --> 00:05:58.190 align:start position:0%
+can see everything here stays the same
+we<00:05:56.580><c> can</c><00:05:56.610><c> run</c><00:05:57.000><c> our</c><00:05:57.150><c> code</c><00:05:57.300><c> no</c><00:05:57.510><c> problem</c><00:05:57.930><c> of</c><00:05:57.990><c> course</c>
+
+00:05:58.190 --> 00:05:58.200 align:start position:0%
+we can run our code no problem of course
+ 
+
+00:05:58.200 --> 00:05:59.390 align:start position:0%
+we can run our code no problem of course
+the<00:05:58.320><c> codes</c><00:05:58.590><c> not</c><00:05:58.740><c> actually</c><00:05:59.130><c> going</c><00:05:59.220><c> to</c><00:05:59.280><c> do</c>
+
+00:05:59.390 --> 00:05:59.400 align:start position:0%
+the codes not actually going to do
+ 
+
+00:05:59.400 --> 00:06:01.070 align:start position:0%
+the codes not actually going to do
+anything<00:05:59.580><c> at</c><00:05:59.730><c> this</c><00:05:59.790><c> point</c><00:05:59.880><c> we</c><00:06:00.510><c> can</c><00:06:00.690><c> see</c><00:06:00.840><c> it</c><00:06:00.930><c> run</c>
+
+00:06:01.070 --> 00:06:01.080 align:start position:0%
+anything at this point we can see it run
+ 
+
+00:06:01.080 --> 00:06:02.810 align:start position:0%
+anything at this point we can see it run
+successfully<00:06:01.620><c> without</c><00:06:01.890><c> crashing</c><00:06:02.340><c> and</c><00:06:02.700><c> we</c>
+
+00:06:02.810 --> 00:06:02.820 align:start position:0%
+successfully without crashing and we
+ 
+
+00:06:02.820 --> 00:06:04.130 align:start position:0%
+successfully without crashing and we
+don't<00:06:03.000><c> really</c><00:06:03.180><c> have</c><00:06:03.420><c> any</c><00:06:03.600><c> problems</c><00:06:03.930><c> with</c><00:06:04.080><c> this</c>
+
+00:06:04.130 --> 00:06:04.140 align:start position:0%
+don't really have any problems with this
+ 
+
+00:06:04.140 --> 00:06:05.510 align:start position:0%
+don't really have any problems with this
+at<00:06:04.200><c> all</c><00:06:04.380><c> and</c><00:06:04.560><c> you</c><00:06:04.620><c> can</c><00:06:04.740><c> see</c><00:06:04.770><c> that</c><00:06:04.950><c> our</c><00:06:05.070><c> code</c><00:06:05.310><c> is</c>
+
+00:06:05.510 --> 00:06:05.520 align:start position:0%
+at all and you can see that our code is
+ 
+
+00:06:05.520 --> 00:06:09.380 align:start position:0%
+at all and you can see that our code is
+a<00:06:05.700><c> lot</c><00:06:06.060><c> lot</c><00:06:06.600><c> cleaner</c><00:06:07.140><c> now</c><00:06:08.100><c> of</c><00:06:08.460><c> course</c><00:06:08.850><c> if</c><00:06:09.120><c> you</c>
+
+00:06:09.380 --> 00:06:09.390 align:start position:0%
+a lot lot cleaner now of course if you
+ 
+
+00:06:09.390 --> 00:06:11.660 align:start position:0%
+a lot lot cleaner now of course if you
+didn't<00:06:09.750><c> have</c><00:06:09.870><c> the</c><00:06:10.080><c> static</c><00:06:10.410><c> keyword</c><00:06:10.590><c> here</c><00:06:11.040><c> then</c>
+
+00:06:11.660 --> 00:06:11.670 align:start position:0%
+didn't have the static keyword here then
+ 
+
+00:06:11.670 --> 00:06:14.360 align:start position:0%
+didn't have the static keyword here then
+this<00:06:11.910><c> singleton</c><00:06:12.750><c> since</c><00:06:13.050><c> it</c><00:06:13.260><c> is</c><00:06:13.380><c> just</c><00:06:13.680><c> created</c>
+
+00:06:14.360 --> 00:06:14.370 align:start position:0%
+this singleton since it is just created
+ 
+
+00:06:14.370 --> 00:06:16.730 align:start position:0%
+this singleton since it is just created
+on<00:06:14.460><c> the</c><00:06:14.550><c> staff</c><00:06:14.820><c> would</c><00:06:15.390><c> get</c><00:06:15.630><c> destroyed</c><00:06:16.110><c> as</c><00:06:16.380><c> soon</c>
+
+00:06:16.730 --> 00:06:16.740 align:start position:0%
+on the staff would get destroyed as soon
+ 
+
+00:06:16.740 --> 00:06:19.100 align:start position:0%
+on the staff would get destroyed as soon
+as<00:06:16.860><c> you</c><00:06:17.010><c> hit</c><00:06:17.310><c> this</c><00:06:17.640><c> curly</c><00:06:18.030><c> bracket</c><00:06:18.360><c> and</c><00:06:18.690><c> then</c>
+
+00:06:19.100 --> 00:06:19.110 align:start position:0%
+as you hit this curly bracket and then
+ 
+
+00:06:19.110 --> 00:06:21.200 align:start position:0%
+as you hit this curly bracket and then
+the<00:06:19.230><c> functions</c><00:06:19.650><c> curve</c><00:06:19.890><c> ends</c><00:06:20.370><c> so</c><00:06:20.730><c> this</c><00:06:20.940><c> would</c>
+
+00:06:21.200 --> 00:06:21.210 align:start position:0%
+the functions curve ends so this would
+ 
+
+00:06:21.210 --> 00:06:22.580 align:start position:0%
+the functions curve ends so this would
+be<00:06:21.300><c> a</c><00:06:21.330><c> grave</c><00:06:21.690><c> error</c><00:06:21.900><c> especially</c><00:06:22.440><c> if</c><00:06:22.500><c> you're</c>
+
+00:06:22.580 --> 00:06:22.590 align:start position:0%
+be a grave error especially if you're
+ 
+
+00:06:22.590 --> 00:06:23.690 align:start position:0%
+be a grave error especially if you're
+returning<00:06:22.770><c> it</c><00:06:22.980><c> by</c><00:06:23.100><c> reference</c><00:06:23.310><c> if</c><00:06:23.610><c> you're</c>
+
+00:06:23.690 --> 00:06:23.700 align:start position:0%
+returning it by reference if you're
+ 
+
+00:06:23.700 --> 00:06:25.310 align:start position:0%
+returning it by reference if you're
+copying<00:06:23.970><c> it</c><00:06:24.300><c> of</c><00:06:24.390><c> course</c><00:06:24.540><c> you</c><00:06:24.960><c> wouldn't</c><00:06:25.230><c> really</c>
+
+00:06:25.310 --> 00:06:25.320 align:start position:0%
+copying it of course you wouldn't really
+ 
+
+00:06:25.320 --> 00:06:26.990 align:start position:0%
+copying it of course you wouldn't really
+have<00:06:25.410><c> a</c><00:06:25.560><c> problem</c><00:06:25.770><c> however</c><00:06:26.460><c> since</c><00:06:26.700><c> we</c><00:06:26.850><c> are</c>
+
+00:06:26.990 --> 00:06:27.000 align:start position:0%
+have a problem however since we are
+ 
+
+00:06:27.000 --> 00:06:29.390 align:start position:0%
+have a problem however since we are
+resetting<00:06:27.360><c> a</c><00:06:27.420><c> reference</c><00:06:27.930><c> to</c><00:06:28.140><c> it</c><00:06:28.260><c> this</c><00:06:28.950><c> would</c>
+
+00:06:29.390 --> 00:06:29.400 align:start position:0%
+resetting a reference to it this would
+ 
+
+00:06:29.400 --> 00:06:31.310 align:start position:0%
+resetting a reference to it this would
+would<00:06:30.030><c> be</c><00:06:30.060><c> a</c><00:06:30.210><c> huge</c><00:06:30.510><c> problem</c><00:06:30.690><c> however</c><00:06:31.110><c> by</c>
+
+00:06:31.310 --> 00:06:31.320 align:start position:0%
+would be a huge problem however by
+ 
+
+00:06:31.320 --> 00:06:33.380 align:start position:0%
+would be a huge problem however by
+adding<00:06:31.560><c> static</c><00:06:32.010><c> we're</c><00:06:32.280><c> extending</c><00:06:32.850><c> the</c><00:06:33.180><c> last</c>
+
+00:06:33.380 --> 00:06:33.390 align:start position:0%
+adding static we're extending the last
+ 
+
+00:06:33.390 --> 00:06:35.420 align:start position:0%
+adding static we're extending the last
+time<00:06:33.630><c> of</c><00:06:33.810><c> death</c><00:06:34.020><c> to</c><00:06:34.290><c> be</c><00:06:34.500><c> eventually</c><00:06:34.980><c> for</c>
+
+00:06:35.420 --> 00:06:35.430 align:start position:0%
+time of death to be eventually for
+ 
+
+00:06:35.430 --> 00:06:37.070 align:start position:0%
+time of death to be eventually for
+rather<00:06:35.550><c> which</c><00:06:36.240><c> means</c><00:06:36.480><c> that</c><00:06:36.630><c> every</c><00:06:36.840><c> time</c><00:06:36.990><c> we</c>
+
+00:06:37.070 --> 00:06:37.080 align:start position:0%
+rather which means that every time we
+ 
+
+00:06:37.080 --> 00:06:38.810 align:start position:0%
+rather which means that every time we
+call<00:06:37.230><c> get</c><00:06:37.500><c> the</c><00:06:37.650><c> first</c><00:06:37.920><c> time</c><00:06:38.160><c> it</c><00:06:38.340><c> will</c><00:06:38.460><c> actually</c>
+
+00:06:38.810 --> 00:06:38.820 align:start position:0%
+call get the first time it will actually
+ 
+
+00:06:38.820 --> 00:06:41.120 align:start position:0%
+call get the first time it will actually
+construct<00:06:39.450><c> that</c><00:06:39.720><c> singleton</c><00:06:40.260><c> instance</c><00:06:40.380><c> and</c>
+
+00:06:41.120 --> 00:06:41.130 align:start position:0%
+construct that singleton instance and
+ 
+
+00:06:41.130 --> 00:06:42.860 align:start position:0%
+construct that singleton instance and
+then<00:06:41.220><c> are</c><00:06:41.340><c> all</c><00:06:41.520><c> subsequent</c><00:06:41.940><c> times</c><00:06:42.330><c> it</c><00:06:42.630><c> will</c>
+
+00:06:42.860 --> 00:06:42.870 align:start position:0%
+then are all subsequent times it will
+ 
+
+00:06:42.870 --> 00:06:45.350 align:start position:0%
+then are all subsequent times it will
+just<00:06:43.050><c> return</c><00:06:43.410><c> that</c><00:06:43.740><c> existing</c><00:06:44.340><c> instance</c><00:06:44.820><c> so</c>
+
+00:06:45.350 --> 00:06:45.360 align:start position:0%
+just return that existing instance so
+ 
+
+00:06:45.360 --> 00:06:46.580 align:start position:0%
+just return that existing instance so
+this<00:06:45.480><c> is</c><00:06:45.600><c> a</c><00:06:45.630><c> great</c><00:06:45.840><c> example</c><00:06:45.960><c> of</c><00:06:46.350><c> where</c><00:06:46.560><c> you</c>
+
+00:06:46.580 --> 00:06:46.590 align:start position:0%
+this is a great example of where you
+ 
+
+00:06:46.590 --> 00:06:48.260 align:start position:0%
+this is a great example of where you
+might<00:06:46.710><c> want</c><00:06:47.130><c> to</c><00:06:47.190><c> use</c><00:06:47.370><c> something</c><00:06:47.610><c> like</c><00:06:47.730><c> this</c><00:06:47.970><c> it</c>
+
+00:06:48.260 --> 00:06:48.270 align:start position:0%
+might want to use something like this it
+ 
+
+00:06:48.270 --> 00:06:49.310 align:start position:0%
+might want to use something like this it
+doesn't<00:06:48.540><c> necessarily</c><00:06:48.870><c> have</c><00:06:48.990><c> to</c><00:06:49.020><c> be</c><00:06:49.110><c> with</c>
+
+00:06:49.310 --> 00:06:49.320 align:start position:0%
+doesn't necessarily have to be with
+ 
+
+00:06:49.320 --> 00:06:50.990 align:start position:0%
+doesn't necessarily have to be with
+single<00:06:49.620><c> terms</c><00:06:49.800><c> it</c><00:06:50.130><c> can</c><00:06:50.160><c> help</c><00:06:50.490><c> you</c><00:06:50.640><c> out</c><00:06:50.790><c> a</c><00:06:50.820><c> lot</c>
+
+00:06:50.990 --> 00:06:51.000 align:start position:0%
+single terms it can help you out a lot
+ 
+
+00:06:51.000 --> 00:06:53.030 align:start position:0%
+single terms it can help you out a lot
+by<00:06:51.180><c> replacing</c><00:06:51.590><c> initialization</c><00:06:52.590><c> functions</c>
+
+00:06:53.030 --> 00:06:53.040 align:start position:0%
+by replacing initialization functions
+ 
+
+00:06:53.040 --> 00:06:55.070 align:start position:0%
+by replacing initialization functions
+where<00:06:53.310><c> for</c><00:06:53.610><c> example</c><00:06:53.700><c> you</c><00:06:54.240><c> might</c><00:06:54.630><c> have</c><00:06:54.810><c> to</c><00:06:54.960><c> call</c>
+
+00:06:55.070 --> 00:06:55.080 align:start position:0%
+where for example you might have to call
+ 
+
+00:06:55.080 --> 00:06:57.020 align:start position:0%
+where for example you might have to call
+a<00:06:55.140><c> static</c><00:06:55.620><c> initializer</c><00:06:56.040><c> where</c><00:06:56.820><c> for</c><00:06:56.970><c> example</c>
+
+00:06:57.020 --> 00:06:57.030 align:start position:0%
+a static initializer where for example
+ 
+
+00:06:57.030 --> 00:06:58.370 align:start position:0%
+a static initializer where for example
+you<00:06:57.330><c> might</c><00:06:57.450><c> have</c><00:06:57.510><c> to</c><00:06:57.840><c> call</c><00:06:58.020><c> it</c><00:06:58.110><c> static</c>
+
+00:06:58.370 --> 00:06:58.380 align:start position:0%
+you might have to call it static
+ 
+
+00:06:58.380 --> 00:07:00.320 align:start position:0%
+you might have to call it static
+initialization<00:06:58.710><c> function</c><00:06:59.460><c> at</c><00:06:59.670><c> some</c><00:07:00.030><c> point</c><00:07:00.270><c> in</c>
+
+00:07:00.320 --> 00:07:00.330 align:start position:0%
+initialization function at some point in
+ 
+
+00:07:00.330 --> 00:07:01.640 align:start position:0%
+initialization function at some point in
+your<00:07:00.450><c> program</c><00:07:00.780><c> to</c><00:07:00.960><c> create</c><00:07:01.260><c> all</c><00:07:01.410><c> of</c><00:07:01.500><c> your</c>
+
+00:07:01.640 --> 00:07:01.650 align:start position:0%
+your program to create all of your
+ 
+
+00:07:01.650 --> 00:07:03.050 align:start position:0%
+your program to create all of your
+objects<00:07:02.040><c> so</c><00:07:02.340><c> that</c><00:07:02.370><c> you</c><00:07:02.610><c> could</c><00:07:02.730><c> actually</c><00:07:02.760><c> use</c>
+
+00:07:03.050 --> 00:07:03.060 align:start position:0%
+objects so that you could actually use
+ 
+
+00:07:03.060 --> 00:07:04.820 align:start position:0%
+objects so that you could actually use
+the<00:07:03.480><c> static</c><00:07:03.810><c> get</c><00:07:03.960><c> methods</c><00:07:04.380><c> and</c><00:07:04.530><c> stuff</c><00:07:04.740><c> like</c>
+
+00:07:04.820 --> 00:07:04.830 align:start position:0%
+the static get methods and stuff like
+ 
+
+00:07:04.830 --> 00:07:06.290 align:start position:0%
+the static get methods and stuff like
+that<00:07:05.040><c> you</c><00:07:05.160><c> can</c><00:07:05.220><c> just</c><00:07:05.490><c> kind</c><00:07:05.610><c> of</c><00:07:05.730><c> simplify</c><00:07:06.150><c> that</c>
+
+00:07:06.290 --> 00:07:06.300 align:start position:0%
+that you can just kind of simplify that
+ 
+
+00:07:06.300 --> 00:07:09.290 align:start position:0%
+that you can just kind of simplify that
+by<00:07:06.540><c> using</c><00:07:07.380><c> this</c><00:07:07.800><c> in</c><00:07:08.130><c> a</c><00:07:08.370><c> lot</c><00:07:08.520><c> of</c><00:07:08.550><c> cases</c><00:07:08.790><c> so</c><00:07:09.270><c> you</c>
+
+00:07:09.290 --> 00:07:09.300 align:start position:0%
+by using this in a lot of cases so you
+ 
+
+00:07:09.300 --> 00:07:10.850 align:start position:0%
+by using this in a lot of cases so you
+can<00:07:09.450><c> see</c><00:07:09.540><c> there</c><00:07:09.690><c> are</c><00:07:09.840><c> tons</c><00:07:10.050><c> of</c><00:07:10.260><c> uses</c><00:07:10.590><c> to</c><00:07:10.740><c> this</c>
+
+00:07:10.850 --> 00:07:10.860 align:start position:0%
+can see there are tons of uses to this
+ 
+
+00:07:10.860 --> 00:07:13.340 align:start position:0%
+can see there are tons of uses to this
+and<00:07:11.130><c> it's</c><00:07:11.550><c> really</c><00:07:11.670><c> not</c><00:07:11.940><c> all</c><00:07:12.090><c> that</c><00:07:12.240><c> bad</c><00:07:12.480><c> so</c><00:07:12.810><c> feel</c>
+
+00:07:13.340 --> 00:07:13.350 align:start position:0%
+and it's really not all that bad so feel
+ 
+
+00:07:13.350 --> 00:07:16.040 align:start position:0%
+and it's really not all that bad so feel
+free<00:07:13.560><c> to</c><00:07:13.590><c> use</c><00:07:13.770><c> it</c><00:07:14.090><c> that's</c><00:07:15.090><c> my</c><00:07:15.330><c> opinion</c><00:07:15.570><c> let</c><00:07:15.960><c> me</c>
+
+00:07:16.040 --> 00:07:16.050 align:start position:0%
+free to use it that's my opinion let me
+ 
+
+00:07:16.050 --> 00:07:17.720 align:start position:0%
+free to use it that's my opinion let me
+know<00:07:16.140><c> what</c><00:07:16.290><c> you</c><00:07:16.410><c> guys</c><00:07:16.590><c> think</c><00:07:16.830><c> of</c><00:07:16.980><c> this</c><00:07:17.130><c> static</c>
+
+00:07:17.720 --> 00:07:17.730 align:start position:0%
+know what you guys think of this static
+ 
+
+00:07:17.730 --> 00:07:19.250 align:start position:0%
+know what you guys think of this static
+in<00:07:17.820><c> a</c><00:07:17.880><c> local</c><00:07:18.180><c> scope</c><00:07:18.360><c> thing</c><00:07:18.600><c> in</c><00:07:18.750><c> the</c><00:07:18.870><c> comments</c>
+
+00:07:19.250 --> 00:07:19.260 align:start position:0%
+in a local scope thing in the comments
+ 
+
+00:07:19.260 --> 00:07:20.990 align:start position:0%
+in a local scope thing in the comments
+below<00:07:19.620><c> and</c><00:07:19.980><c> I'll</c><00:07:20.130><c> see</c><00:07:20.280><c> you</c><00:07:20.370><c> guys</c><00:07:20.490><c> in</c><00:07:20.790><c> the</c><00:07:20.880><c> next</c>
+
+00:07:20.990 --> 00:07:21.000 align:start position:0%
+below and I'll see you guys in the next
+ 
+
+00:07:21.000 --> 00:07:23.180 align:start position:0%
+below and I'll see you guys in the next
+video<00:07:21.210><c> goodbye</c>
+
+00:07:23.180 --> 00:07:23.190 align:start position:0%
+video goodbye
+ 
+
+00:07:23.190 --> 00:07:35.150 align:start position:0%
+video goodbye
+[Music]
+
+00:07:35.150 --> 00:07:35.160 align:start position:0%
+ 
+ 
+
+00:07:35.160 --> 00:07:38.309 align:start position:0%
+ 
+[Music]
+

@@ -1,0 +1,2440 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:00.000 --> 00:00:01.459 align:start position:0%
+ 
+hey<00:00:00.120><c> little</c><00:00:00.359><c> guys</c><00:00:00.510><c> my</c><00:00:00.900><c> name</c><00:00:01.050><c> is</c><00:00:01.079><c> Luciano</c>
+
+00:00:01.459 --> 00:00:01.469 align:start position:0%
+hey little guys my name is Luciano
+ 
+
+00:00:01.469 --> 00:00:03.800 align:start position:0%
+hey little guys my name is Luciano
+welcome<00:00:02.129><c> to</c><00:00:02.280><c> another</c><00:00:02.429><c> video</c><00:00:02.669><c> today</c><00:00:03.179><c> what</c><00:00:03.720><c> are</c>
+
+00:00:03.800 --> 00:00:03.810 align:start position:0%
+welcome to another video today what are
+ 
+
+00:00:03.810 --> 00:00:05.930 align:start position:0%
+welcome to another video today what are
+we<00:00:03.870><c> talking</c><00:00:04.080><c> about</c><00:00:04.140><c> functions</c><00:00:04.710><c> and</c><00:00:04.890><c> C++</c><00:00:05.400><c> what</c>
+
+00:00:05.930 --> 00:00:05.940 align:start position:0%
+we talking about functions and C++ what
+ 
+
+00:00:05.940 --> 00:00:08.870 align:start position:0%
+we talking about functions and C++ what
+a<00:00:06.240><c> midweek</c><00:00:06.690><c> video</c><00:00:07.080><c> am</c><00:00:07.440><c> i</c><00:00:07.649><c> dreaming</c><00:00:08.189><c> has</c><00:00:08.580><c> Jono</c>
+
+00:00:08.870 --> 00:00:08.880 align:start position:0%
+a midweek video am i dreaming has Jono
+ 
+
+00:00:08.880 --> 00:00:11.270 align:start position:0%
+a midweek video am i dreaming has Jono
+gone<00:00:09.120><c> crazy</c><00:00:09.450><c> maybe</c><00:00:10.320><c> but</c><00:00:10.860><c> that's</c><00:00:10.980><c> not</c><00:00:11.190><c> the</c>
+
+00:00:11.270 --> 00:00:11.280 align:start position:0%
+gone crazy maybe but that's not the
+ 
+
+00:00:11.280 --> 00:00:12.919 align:start position:0%
+gone crazy maybe but that's not the
+point<00:00:11.460><c> I</c><00:00:11.730><c> just</c><00:00:12.000><c> want</c><00:00:12.120><c> to</c><00:00:12.179><c> say</c><00:00:12.269><c> a</c><00:00:12.300><c> huge</c><00:00:12.389><c> thank</c>
+
+00:00:12.919 --> 00:00:12.929 align:start position:0%
+point I just want to say a huge thank
+ 
+
+00:00:12.929 --> 00:00:14.120 align:start position:0%
+point I just want to say a huge thank
+you<00:00:13.049><c> for</c><00:00:13.230><c> everyone</c><00:00:13.410><c> who's</c><00:00:13.650><c> been</c><00:00:13.769><c> drawing</c><00:00:13.950><c> this</c>
+
+00:00:14.120 --> 00:00:14.130 align:start position:0%
+you for everyone who's been drawing this
+ 
+
+00:00:14.130 --> 00:00:15.350 align:start position:0%
+you for everyone who's been drawing this
+series<00:00:14.460><c> I'm</c><00:00:14.549><c> really</c><00:00:14.759><c> glad</c><00:00:14.849><c> you</c><00:00:15.089><c> guys</c><00:00:15.210><c> are</c>
+
+00:00:15.350 --> 00:00:15.360 align:start position:0%
+series I'm really glad you guys are
+ 
+
+00:00:15.360 --> 00:00:17.000 align:start position:0%
+series I'm really glad you guys are
+enjoying<00:00:15.480><c> this</c><00:00:15.900><c> because</c><00:00:16.199><c> it's</c><00:00:16.350><c> been</c><00:00:16.500><c> a</c><00:00:16.529><c> real</c>
+
+00:00:17.000 --> 00:00:17.010 align:start position:0%
+enjoying this because it's been a real
+ 
+
+00:00:17.010 --> 00:00:18.830 align:start position:0%
+enjoying this because it's been a real
+blast<00:00:17.279><c> to</c><00:00:17.520><c> me</c><00:00:17.640><c> if</c><00:00:18.060><c> you</c><00:00:18.210><c> want</c><00:00:18.359><c> to</c><00:00:18.420><c> show</c><00:00:18.539><c> me</c><00:00:18.720><c> how</c>
+
+00:00:18.830 --> 00:00:18.840 align:start position:0%
+blast to me if you want to show me how
+ 
+
+00:00:18.840 --> 00:00:20.450 align:start position:0%
+blast to me if you want to show me how
+much<00:00:18.960><c> you</c><00:00:19.140><c> appreciate</c><00:00:19.230><c> my</c><00:00:19.740><c> videos</c><00:00:20.070><c> you</c><00:00:20.430><c> can</c>
+
+00:00:20.450 --> 00:00:20.460 align:start position:0%
+much you appreciate my videos you can
+ 
+
+00:00:20.460 --> 00:00:22.099 align:start position:0%
+much you appreciate my videos you can
+follow<00:00:20.760><c> me</c><00:00:20.910><c> on</c><00:00:20.939><c> Instagram</c><00:00:21.480><c> link</c><00:00:21.930><c> in</c><00:00:22.050><c> the</c>
+
+00:00:22.099 --> 00:00:22.109 align:start position:0%
+follow me on Instagram link in the
+ 
+
+00:00:22.109 --> 00:00:23.420 align:start position:0%
+follow me on Instagram link in the
+description<00:00:22.470><c> below</c><00:00:22.560><c> lately</c><00:00:23.220><c> I've</c><00:00:23.340><c> been</c>
+
+00:00:23.420 --> 00:00:23.430 align:start position:0%
+description below lately I've been
+ 
+
+00:00:23.430 --> 00:00:24.710 align:start position:0%
+description below lately I've been
+really<00:00:23.609><c> into</c><00:00:23.880><c> photography</c><00:00:23.970><c> and</c><00:00:24.539><c> it</c><00:00:24.600><c> would</c>
+
+00:00:24.710 --> 00:00:24.720 align:start position:0%
+really into photography and it would
+ 
+
+00:00:24.720 --> 00:00:25.970 align:start position:0%
+really into photography and it would
+mean<00:00:24.869><c> the</c><00:00:24.900><c> world</c><00:00:24.990><c> to</c><00:00:25.320><c> me</c><00:00:25.410><c> if</c><00:00:25.560><c> you</c><00:00:25.680><c> guys</c><00:00:25.800><c> could</c>
+
+00:00:25.970 --> 00:00:25.980 align:start position:0%
+mean the world to me if you guys could
+ 
+
+00:00:25.980 --> 00:00:26.570 align:start position:0%
+mean the world to me if you guys could
+follow<00:00:26.160><c> me</c>
+
+00:00:26.570 --> 00:00:26.580 align:start position:0%
+follow me
+ 
+
+00:00:26.580 --> 00:00:28.400 align:start position:0%
+follow me
+just<00:00:26.849><c> like</c><00:00:26.970><c> pause</c><00:00:27.420><c> this</c><00:00:27.599><c> video</c><00:00:27.750><c> right</c><00:00:28.199><c> now</c><00:00:28.230><c> and</c>
+
+00:00:28.400 --> 00:00:28.410 align:start position:0%
+just like pause this video right now and
+ 
+
+00:00:28.410 --> 00:00:30.859 align:start position:0%
+just like pause this video right now and
+just<00:00:28.680><c> go</c><00:00:29.189><c> and</c><00:00:29.340><c> follow</c><00:00:29.519><c> me</c><00:00:29.699><c> anyway</c><00:00:30.359><c> back</c><00:00:30.840><c> to</c>
+
+00:00:30.859 --> 00:00:30.869 align:start position:0%
+just go and follow me anyway back to
+ 
+
+00:00:30.869 --> 00:00:33.380 align:start position:0%
+just go and follow me anyway back to
+functions<00:00:31.529><c> so</c><00:00:32.099><c> what</c><00:00:32.250><c> exactly</c><00:00:32.399><c> are</c><00:00:32.700><c> functions</c>
+
+00:00:33.380 --> 00:00:33.390 align:start position:0%
+functions so what exactly are functions
+ 
+
+00:00:33.390 --> 00:00:35.090 align:start position:0%
+functions so what exactly are functions
+functions<00:00:33.989><c> are</c><00:00:34.079><c> basically</c><00:00:34.350><c> blocks</c><00:00:34.649><c> of</c><00:00:34.860><c> code</c>
+
+00:00:35.090 --> 00:00:35.100 align:start position:0%
+functions are basically blocks of code
+ 
+
+00:00:35.100 --> 00:00:36.500 align:start position:0%
+functions are basically blocks of code
+that<00:00:35.130><c> we</c><00:00:35.430><c> write</c><00:00:35.640><c> that</c><00:00:36.000><c> are</c><00:00:36.120><c> designed</c><00:00:36.420><c> to</c>
+
+00:00:36.500 --> 00:00:36.510 align:start position:0%
+that we write that are designed to
+ 
+
+00:00:36.510 --> 00:00:39.020 align:start position:0%
+that we write that are designed to
+perform<00:00:36.719><c> a</c><00:00:37.110><c> specific</c><00:00:37.410><c> task</c><00:00:37.860><c> later</c><00:00:38.460><c> when</c><00:00:38.940><c> we</c>
+
+00:00:39.020 --> 00:00:39.030 align:start position:0%
+perform a specific task later when we
+ 
+
+00:00:39.030 --> 00:00:41.090 align:start position:0%
+perform a specific task later when we
+get<00:00:39.149><c> to</c><00:00:39.300><c> classes</c><00:00:39.570><c> those</c><00:00:40.110><c> blocks</c><00:00:40.530><c> are</c><00:00:40.829><c> called</c>
+
+00:00:41.090 --> 00:00:41.100 align:start position:0%
+get to classes those blocks are called
+ 
+
+00:00:41.100 --> 00:00:43.369 align:start position:0%
+get to classes those blocks are called
+methods<00:00:41.670><c> but</c><00:00:42.210><c> when</c><00:00:42.360><c> I</c><00:00:42.390><c> say</c><00:00:42.629><c> functions</c><00:00:43.200><c> I'm</c>
+
+00:00:43.369 --> 00:00:43.379 align:start position:0%
+methods but when I say functions I'm
+ 
+
+00:00:43.379 --> 00:00:45.049 align:start position:0%
+methods but when I say functions I'm
+explicitly<00:00:43.800><c> talking</c><00:00:44.280><c> about</c><00:00:44.460><c> something</c><00:00:44.940><c> that</c>
+
+00:00:45.049 --> 00:00:45.059 align:start position:0%
+explicitly talking about something that
+ 
+
+00:00:45.059 --> 00:00:47.150 align:start position:0%
+explicitly talking about something that
+isn't<00:00:45.270><c> part</c><00:00:45.660><c> of</c><00:00:45.809><c> a</c><00:00:45.870><c> class</c><00:00:46.140><c> it's</c><00:00:46.680><c> pretty</c><00:00:46.890><c> common</c>
+
+00:00:47.150 --> 00:00:47.160 align:start position:0%
+isn't part of a class it's pretty common
+ 
+
+00:00:47.160 --> 00:00:48.860 align:start position:0%
+isn't part of a class it's pretty common
+for<00:00:47.250><c> us</c><00:00:47.370><c> to</c><00:00:47.489><c> split</c><00:00:47.670><c> up</c><00:00:47.760><c> functions</c><00:00:48.360><c> to</c><00:00:48.539><c> prevent</c>
+
+00:00:48.860 --> 00:00:48.870 align:start position:0%
+for us to split up functions to prevent
+ 
+
+00:00:48.870 --> 00:00:50.630 align:start position:0%
+for us to split up functions to prevent
+code<00:00:49.230><c> duplication</c><00:00:49.410><c> we</c><00:00:50.280><c> don't</c><00:00:50.399><c> want</c><00:00:50.520><c> to</c><00:00:50.579><c> be</c>
+
+00:00:50.630 --> 00:00:50.640 align:start position:0%
+code duplication we don't want to be
+ 
+
+00:00:50.640 --> 00:00:52.250 align:start position:0%
+code duplication we don't want to be
+running<00:00:50.760><c> the</c><00:00:50.969><c> same</c><00:00:51.180><c> code</c><00:00:51.510><c> multiple</c><00:00:52.050><c> times</c>
+
+00:00:52.250 --> 00:00:52.260 align:start position:0%
+running the same code multiple times
+ 
+
+00:00:52.260 --> 00:00:54.500 align:start position:0%
+running the same code multiple times
+because<00:00:52.949><c> of</c><00:00:52.980><c> course</c><00:00:53.250><c> if</c><00:00:53.489><c> we</c><00:00:53.670><c> did</c><00:00:53.940><c> apart</c><00:00:54.360><c> from</c>
+
+00:00:54.500 --> 00:00:54.510 align:start position:0%
+because of course if we did apart from
+ 
+
+00:00:54.510 --> 00:00:56.029 align:start position:0%
+because of course if we did apart from
+copying<00:00:54.899><c> and</c><00:00:54.989><c> pasting</c><00:00:55.110><c> a</c><00:00:55.410><c> lot</c><00:00:55.530><c> of</c><00:00:55.620><c> code</c><00:00:55.860><c> and</c>
+
+00:00:56.029 --> 00:00:56.039 align:start position:0%
+copying and pasting a lot of code and
+ 
+
+00:00:56.039 --> 00:00:59.569 align:start position:0%
+copying and pasting a lot of code and
+just<00:00:56.219><c> ending</c><00:00:56.699><c> up</c><00:00:56.820><c> with</c><00:00:57.059><c> this</c><00:00:57.660><c> huge</c><00:00:58.020><c> mess</c><00:00:58.579><c> it</c>
+
+00:00:59.569 --> 00:00:59.579 align:start position:0%
+just ending up with this huge mess it
+ 
+
+00:00:59.579 --> 00:01:01.459 align:start position:0%
+just ending up with this huge mess it
+also<00:00:59.760><c> means</c><00:01:00.120><c> that</c><00:01:00.210><c> if</c><00:01:00.449><c> we</c><00:01:00.600><c> decide</c><00:01:00.750><c> to</c><00:01:01.079><c> change</c>
+
+00:01:01.459 --> 00:01:01.469 align:start position:0%
+also means that if we decide to change
+ 
+
+00:01:01.469 --> 00:01:03.349 align:start position:0%
+also means that if we decide to change
+some<00:01:01.890><c> code</c><00:01:02.160><c> we</c><00:01:02.399><c> have</c><00:01:02.579><c> to</c><00:01:02.699><c> change</c><00:01:02.940><c> it</c><00:01:03.059><c> in</c><00:01:03.120><c> all</c>
+
+00:01:03.349 --> 00:01:03.359 align:start position:0%
+some code we have to change it in all
+ 
+
+00:01:03.359 --> 00:01:05.149 align:start position:0%
+some code we have to change it in all
+those<00:01:03.600><c> places</c><00:01:03.840><c> where</c><00:01:04.379><c> we</c><00:01:04.409><c> pasted</c><00:01:04.949><c> the</c>
+
+00:01:05.149 --> 00:01:05.159 align:start position:0%
+those places where we pasted the
+ 
+
+00:01:05.159 --> 00:01:06.469 align:start position:0%
+those places where we pasted the
+original<00:01:05.610><c> code</c><00:01:05.850><c> and</c><00:01:06.030><c> that's</c><00:01:06.150><c> just</c><00:01:06.330><c> going</c><00:01:06.420><c> to</c>
+
+00:01:06.469 --> 00:01:06.479 align:start position:0%
+original code and that's just going to
+ 
+
+00:01:06.479 --> 00:01:08.480 align:start position:0%
+original code and that's just going to
+be<00:01:06.630><c> a</c><00:01:06.659><c> disaster</c><00:01:07.290><c> to</c><00:01:07.409><c> maintain</c><00:01:07.830><c> so</c><00:01:08.130><c> what</c><00:01:08.280><c> we</c><00:01:08.369><c> can</c>
+
+00:01:08.480 --> 00:01:08.490 align:start position:0%
+be a disaster to maintain so what we can
+ 
+
+00:01:08.490 --> 00:01:10.219 align:start position:0%
+be a disaster to maintain so what we can
+do<00:01:08.580><c> instead</c><00:01:08.939><c> is</c><00:01:09.240><c> just</c><00:01:09.570><c> write</c><00:01:09.780><c> a</c><00:01:09.810><c> nice</c><00:01:10.020><c> little</c>
+
+00:01:10.219 --> 00:01:10.229 align:start position:0%
+do instead is just write a nice little
+ 
+
+00:01:10.229 --> 00:01:11.960 align:start position:0%
+do instead is just write a nice little
+function<00:01:10.530><c> that</c><00:01:10.770><c> does</c><00:01:11.100><c> what</c><00:01:11.310><c> we</c><00:01:11.430><c> want</c><00:01:11.640><c> it</c><00:01:11.760><c> to</c>
+
+00:01:11.960 --> 00:01:11.970 align:start position:0%
+function that does what we want it to
+ 
+
+00:01:11.970 --> 00:01:13.640 align:start position:0%
+function that does what we want it to
+and<00:01:12.210><c> then</c><00:01:12.750><c> we</c><00:01:12.840><c> can</c><00:01:12.960><c> call</c><00:01:13.140><c> it</c><00:01:13.290><c> multiple</c><00:01:13.590><c> times</c>
+
+00:01:13.640 --> 00:01:13.650 align:start position:0%
+and then we can call it multiple times
+ 
+
+00:01:13.650 --> 00:01:15.620 align:start position:0%
+and then we can call it multiple times
+in<00:01:13.950><c> our</c><00:01:14.070><c> code</c><00:01:14.310><c> if</c><00:01:14.490><c> we</c><00:01:14.610><c> need</c><00:01:14.790><c> to</c><00:01:14.909><c> you</c><00:01:15.299><c> can</c><00:01:15.450><c> think</c>
+
+00:01:15.620 --> 00:01:15.630 align:start position:0%
+in our code if we need to you can think
+ 
+
+00:01:15.630 --> 00:01:17.510 align:start position:0%
+in our code if we need to you can think
+of<00:01:15.720><c> functions</c><00:01:15.900><c> of</c><00:01:16.200><c> having</c><00:01:16.500><c> an</c><00:01:16.619><c> input</c><00:01:16.860><c> and</c><00:01:17.220><c> an</c>
+
+00:01:17.510 --> 00:01:17.520 align:start position:0%
+of functions of having an input and an
+ 
+
+00:01:17.520 --> 00:01:19.039 align:start position:0%
+of functions of having an input and an
+output<00:01:17.549><c> although</c><00:01:18.210><c> they</c><00:01:18.570><c> don't</c><00:01:18.630><c> necessarily</c>
+
+00:01:19.039 --> 00:01:19.049 align:start position:0%
+output although they don't necessarily
+ 
+
+00:01:19.049 --> 00:01:21.200 align:start position:0%
+output although they don't necessarily
+need<00:01:19.650><c> to</c><00:01:19.680><c> we</c><00:01:20.159><c> can</c><00:01:20.310><c> provide</c><00:01:20.549><c> the</c><00:01:20.700><c> function</c><00:01:21.060><c> with</c>
+
+00:01:21.200 --> 00:01:21.210 align:start position:0%
+need to we can provide the function with
+ 
+
+00:01:21.210 --> 00:01:23.390 align:start position:0%
+need to we can provide the function with
+certain<00:01:21.570><c> parameters</c><00:01:22.140><c> and</c><00:01:22.380><c> the</c><00:01:22.890><c> function</c><00:01:23.250><c> can</c>
+
+00:01:23.390 --> 00:01:23.400 align:start position:0%
+certain parameters and the function can
+ 
+
+00:01:23.400 --> 00:01:25.429 align:start position:0%
+certain parameters and the function can
+return<00:01:23.430><c> a</c><00:01:23.729><c> value</c><00:01:23.939><c> for</c><00:01:24.299><c> us</c><00:01:24.420><c> so</c><00:01:24.780><c> suppose</c><00:01:25.110><c> that</c><00:01:25.140><c> we</c>
+
+00:01:25.429 --> 00:01:25.439 align:start position:0%
+return a value for us so suppose that we
+ 
+
+00:01:25.439 --> 00:01:27.320 align:start position:0%
+return a value for us so suppose that we
+wanted<00:01:25.740><c> to</c><00:01:25.890><c> multiply</c><00:01:26.100><c> two</c><00:01:26.490><c> numbers</c><00:01:27.150><c> together</c>
+
+00:01:27.320 --> 00:01:27.330 align:start position:0%
+wanted to multiply two numbers together
+ 
+
+00:01:27.330 --> 00:01:29.060 align:start position:0%
+wanted to multiply two numbers together
+and<00:01:27.659><c> we</c><00:01:27.900><c> wanted</c><00:01:28.110><c> to</c><00:01:28.259><c> write</c><00:01:28.350><c> a</c><00:01:28.409><c> function</c><00:01:28.710><c> that</c>
+
+00:01:29.060 --> 00:01:29.070 align:start position:0%
+and we wanted to write a function that
+ 
+
+00:01:29.070 --> 00:01:30.620 align:start position:0%
+and we wanted to write a function that
+did<00:01:29.340><c> that</c><00:01:29.549><c> so</c><00:01:29.880><c> the</c><00:01:29.909><c> first</c><00:01:30.119><c> thing</c><00:01:30.299><c> I'm</c><00:01:30.420><c> going</c><00:01:30.540><c> to</c>
+
+00:01:30.620 --> 00:01:30.630 align:start position:0%
+did that so the first thing I'm going to
+ 
+
+00:01:30.630 --> 00:01:32.120 align:start position:0%
+did that so the first thing I'm going to
+write<00:01:30.840><c> here</c><00:01:31.110><c> is</c><00:01:31.290><c> something</c><00:01:31.470><c> called</c><00:01:31.710><c> a</c><00:01:31.829><c> return</c>
+
+00:01:32.120 --> 00:01:32.130 align:start position:0%
+write here is something called a return
+ 
+
+00:01:32.130 --> 00:01:34.249 align:start position:0%
+write here is something called a return
+value<00:01:32.369><c> that</c><00:01:32.759><c> is</c><00:01:32.939><c> this</c><00:01:33.270><c> is</c><00:01:33.420><c> the</c><00:01:33.570><c> type</c><00:01:33.869><c> that</c><00:01:34.170><c> this</c>
+
+00:01:34.249 --> 00:01:34.259 align:start position:0%
+value that is this is the type that this
+ 
+
+00:01:34.259 --> 00:01:35.990 align:start position:0%
+value that is this is the type that this
+function<00:01:34.650><c> will</c><00:01:34.770><c> return</c><00:01:35.040><c> since</c><00:01:35.850><c> we're</c>
+
+00:01:35.990 --> 00:01:36.000 align:start position:0%
+function will return since we're
+ 
+
+00:01:36.000 --> 00:01:37.609 align:start position:0%
+function will return since we're
+multiplying<00:01:36.090><c> two</c><00:01:36.570><c> integers</c><00:01:36.600><c> that</c><00:01:37.110><c> of</c><00:01:37.470><c> course</c>
+
+00:01:37.609 --> 00:01:37.619 align:start position:0%
+multiplying two integers that of course
+ 
+
+00:01:37.619 --> 00:01:39.560 align:start position:0%
+multiplying two integers that of course
+will<00:01:37.890><c> result</c><00:01:38.250><c> in</c><00:01:38.400><c> an</c><00:01:38.549><c> integer</c><00:01:38.790><c> so</c><00:01:39.180><c> our</c><00:01:39.299><c> return</c>
+
+00:01:39.560 --> 00:01:39.570 align:start position:0%
+will result in an integer so our return
+ 
+
+00:01:39.570 --> 00:01:41.149 align:start position:0%
+will result in an integer so our return
+type<00:01:39.810><c> is</c><00:01:39.930><c> going</c><00:01:40.049><c> to</c><00:01:40.170><c> be</c><00:01:40.229><c> int</c><00:01:40.530><c> I'm</c><00:01:40.770><c> going</c><00:01:41.070><c> to</c>
+
+00:01:41.149 --> 00:01:41.159 align:start position:0%
+type is going to be int I'm going to
+ 
+
+00:01:41.159 --> 00:01:42.499 align:start position:0%
+type is going to be int I'm going to
+give<00:01:41.310><c> the</c><00:01:41.400><c> function</c><00:01:41.549><c> a</c><00:01:41.759><c> name</c><00:01:41.790><c> in</c><00:01:42.299><c> this</c><00:01:42.420><c> case</c>
+
+00:01:42.499 --> 00:01:42.509 align:start position:0%
+give the function a name in this case
+ 
+
+00:01:42.509 --> 00:01:45.020 align:start position:0%
+give the function a name in this case
+multiplier<00:01:43.140><c> and</c><00:01:43.470><c> it's</c><00:01:44.460><c> going</c><00:01:44.579><c> to</c><00:01:44.670><c> take</c><00:01:44.820><c> two</c>
+
+00:01:45.020 --> 00:01:45.030 align:start position:0%
+multiplier and it's going to take two
+ 
+
+00:01:45.030 --> 00:01:46.730 align:start position:0%
+multiplier and it's going to take two
+parameters<00:01:45.570><c> these</c><00:01:45.960><c> are</c><00:01:46.170><c> actually</c><00:01:46.619><c> the</c>
+
+00:01:46.730 --> 00:01:46.740 align:start position:0%
+parameters these are actually the
+ 
+
+00:01:46.740 --> 00:01:47.719 align:start position:0%
+parameters these are actually the
+numbers<00:01:47.100><c> that</c><00:01:47.280><c> we</c><00:01:47.340><c> want</c><00:01:47.520><c> to</c><00:01:47.549><c> multiply</c>
+
+00:01:47.719 --> 00:01:47.729 align:start position:0%
+numbers that we want to multiply
+ 
+
+00:01:47.729 --> 00:01:49.609 align:start position:0%
+numbers that we want to multiply
+together<00:01:48.060><c> I'll</c><00:01:48.570><c> just</c><00:01:48.810><c> call</c><00:01:48.960><c> them</c><00:01:49.079><c> a</c><00:01:49.320><c> and</c><00:01:49.560><c> B</c>
+
+00:01:49.609 --> 00:01:49.619 align:start position:0%
+together I'll just call them a and B
+ 
+
+00:01:49.619 --> 00:01:51.770 align:start position:0%
+together I'll just call them a and B
+I'll<00:01:50.430><c> give</c><00:01:50.640><c> the</c><00:01:50.729><c> function</c><00:01:51.030><c> a</c><00:01:51.090><c> body</c><00:01:51.299><c> and</c><00:01:51.570><c> all</c>
+
+00:01:51.770 --> 00:01:51.780 align:start position:0%
+I'll give the function a body and all
+ 
+
+00:01:51.780 --> 00:01:54.679 align:start position:0%
+I'll give the function a body and all
+this<00:01:51.930><c> is</c><00:01:52.079><c> going</c><00:01:52.290><c> to</c><00:01:52.439><c> do</c><00:01:52.590><c> is</c><00:01:52.920><c> return</c><00:01:53.399><c> a</c><00:01:53.670><c> times</c><00:01:54.420><c> B</c>
+
+00:01:54.679 --> 00:01:54.689 align:start position:0%
+this is going to do is return a times B
+ 
+
+00:01:54.689 --> 00:01:55.999 align:start position:0%
+this is going to do is return a times B
+so<00:01:55.049><c> you</c><00:01:55.140><c> can</c><00:01:55.290><c> see</c><00:01:55.409><c> that</c><00:01:55.500><c> we've</c><00:01:55.619><c> got</c><00:01:55.740><c> a</c><00:01:55.799><c> function</c>
+
+00:01:55.999 --> 00:01:56.009 align:start position:0%
+so you can see that we've got a function
+ 
+
+00:01:56.009 --> 00:01:57.889 align:start position:0%
+so you can see that we've got a function
+here<00:01:56.369><c> that</c><00:01:56.460><c> takes</c><00:01:56.610><c> in</c><00:01:57.000><c> two</c><00:01:57.180><c> parameters</c><00:01:57.719><c> both</c>
+
+00:01:57.889 --> 00:01:57.899 align:start position:0%
+here that takes in two parameters both
+ 
+
+00:01:57.899 --> 00:02:00.350 align:start position:0%
+here that takes in two parameters both
+integers<00:01:58.439><c> and</c><00:01:58.619><c> simply</c><00:01:59.310><c> returns</c><00:01:59.700><c> the</c><00:01:59.939><c> product</c>
+
+00:02:00.350 --> 00:02:00.360 align:start position:0%
+integers and simply returns the product
+ 
+
+00:02:00.360 --> 00:02:01.819 align:start position:0%
+integers and simply returns the product
+of<00:02:00.540><c> those</c><00:02:00.719><c> two</c><00:02:00.780><c> numbers</c><00:02:00.990><c> we</c><00:02:01.649><c> don't</c>
+
+00:02:01.819 --> 00:02:01.829 align:start position:0%
+of those two numbers we don't
+ 
+
+00:02:01.829 --> 00:02:03.679 align:start position:0%
+of those two numbers we don't
+necessarily<00:02:01.979><c> have</c><00:02:02.399><c> to</c><00:02:02.820><c> provide</c><00:02:03.119><c> parameters</c>
+
+00:02:03.679 --> 00:02:03.689 align:start position:0%
+necessarily have to provide parameters
+ 
+
+00:02:03.689 --> 00:02:05.569 align:start position:0%
+necessarily have to provide parameters
+for<00:02:03.899><c> example</c><00:02:03.930><c> I</c><00:02:04.469><c> could</c><00:02:04.740><c> just</c><00:02:04.920><c> not</c><00:02:05.100><c> provide</c><00:02:05.399><c> any</c>
+
+00:02:05.569 --> 00:02:05.579 align:start position:0%
+for example I could just not provide any
+ 
+
+00:02:05.579 --> 00:02:07.399 align:start position:0%
+for example I could just not provide any
+parameters<00:02:06.090><c> and</c><00:02:06.210><c> return</c><00:02:06.810><c> something</c><00:02:07.110><c> like</c>
+
+00:02:07.399 --> 00:02:07.409 align:start position:0%
+parameters and return something like
+ 
+
+00:02:07.409 --> 00:02:09.199 align:start position:0%
+parameters and return something like
+five<00:02:07.710><c> times</c><00:02:07.979><c> eight</c><00:02:08.369><c> this</c><00:02:08.729><c> is</c><00:02:08.789><c> still</c><00:02:09.179><c> a</c>
+
+00:02:09.199 --> 00:02:09.209 align:start position:0%
+five times eight this is still a
+ 
+
+00:02:09.209 --> 00:02:10.639 align:start position:0%
+five times eight this is still a
+function<00:02:09.720><c> that</c><00:02:09.750><c> returns</c>
+
+00:02:10.639 --> 00:02:10.649 align:start position:0%
+function that returns
+ 
+
+00:02:10.649 --> 00:02:13.069 align:start position:0%
+function that returns
+integer<00:02:11.069><c> but</c><00:02:11.700><c> it</c><00:02:11.970><c> is</c><00:02:12.269><c> just</c><00:02:12.569><c> not</c><00:02:12.659><c> taking</c><00:02:12.959><c> any</c>
+
+00:02:13.069 --> 00:02:13.079 align:start position:0%
+integer but it is just not taking any
+ 
+
+00:02:13.079 --> 00:02:14.750 align:start position:0%
+integer but it is just not taking any
+parameters<00:02:13.530><c> we</c><00:02:13.920><c> could</c><00:02:14.069><c> also</c><00:02:14.189><c> tell</c><00:02:14.610><c> the</c>
+
+00:02:14.750 --> 00:02:14.760 align:start position:0%
+parameters we could also tell the
+ 
+
+00:02:14.760 --> 00:02:16.220 align:start position:0%
+parameters we could also tell the
+function<00:02:14.939><c> that</c><00:02:15.180><c> we</c><00:02:15.390><c> don't</c><00:02:15.599><c> want</c><00:02:15.840><c> it</c><00:02:15.989><c> to</c><00:02:16.110><c> return</c>
+
+00:02:16.220 --> 00:02:16.230 align:start position:0%
+function that we don't want it to return
+ 
+
+00:02:16.230 --> 00:02:18.110 align:start position:0%
+function that we don't want it to return
+anything<00:02:16.620><c> and</c><00:02:16.980><c> we</c><00:02:17.040><c> do</c><00:02:17.159><c> that</c><00:02:17.340><c> by</c><00:02:17.489><c> writing</c><00:02:17.760><c> void</c>
+
+00:02:18.110 --> 00:02:18.120 align:start position:0%
+anything and we do that by writing void
+ 
+
+00:02:18.120 --> 00:02:20.119 align:start position:0%
+anything and we do that by writing void
+as<00:02:18.360><c> its</c><00:02:18.599><c> return</c><00:02:18.930><c> type</c><00:02:19.140><c> void</c><00:02:19.530><c> of</c><00:02:19.709><c> course</c><00:02:19.739><c> means</c>
+
+00:02:20.119 --> 00:02:20.129 align:start position:0%
+as its return type void of course means
+ 
+
+00:02:20.129 --> 00:02:21.500 align:start position:0%
+as its return type void of course means
+nothing<00:02:20.519><c> so</c><00:02:20.849><c> instead</c><00:02:21.090><c> this</c><00:02:21.239><c> could</c><00:02:21.450><c> do</c>
+
+00:02:21.500 --> 00:02:21.510 align:start position:0%
+nothing so instead this could do
+ 
+
+00:02:21.510 --> 00:02:23.059 align:start position:0%
+nothing so instead this could do
+something<00:02:21.870><c> like</c><00:02:22.019><c> love</c><00:02:22.260><c> the</c><00:02:22.290><c> result</c><00:02:22.769><c> to</c><00:02:22.980><c> the</c>
+
+00:02:23.059 --> 00:02:23.069 align:start position:0%
+something like love the result to the
+ 
+
+00:02:23.069 --> 00:02:27.619 align:start position:0%
+something like love the result to the
+console<00:02:23.430><c> so</c><00:02:25.819><c> let's</c><00:02:26.819><c> go</c><00:02:26.939><c> back</c><00:02:27.120><c> to</c><00:02:27.269><c> our</c><00:02:27.420><c> original</c>
+
+00:02:27.619 --> 00:02:27.629 align:start position:0%
+console so let's go back to our original
+ 
+
+00:02:27.629 --> 00:02:30.349 align:start position:0%
+console so let's go back to our original
+example<00:02:28.049><c> here</c><00:02:28.620><c> where</c><00:02:28.799><c> we</c><00:02:28.920><c> had</c><00:02:29.099><c> n</c><00:02:29.400><c> a</c><00:02:29.879><c> and</c><00:02:30.060><c> int</c><00:02:30.269><c> B</c>
+
+00:02:30.349 --> 00:02:30.359 align:start position:0%
+example here where we had n a and int B
+ 
+
+00:02:30.359 --> 00:02:32.960 align:start position:0%
+example here where we had n a and int B
+and<00:02:30.810><c> we</c><00:02:31.170><c> returned</c><00:02:31.590><c> the</c><00:02:32.040><c> product</c><00:02:32.489><c> of</c><00:02:32.700><c> those</c><00:02:32.909><c> two</c>
+
+00:02:32.960 --> 00:02:32.970 align:start position:0%
+and we returned the product of those two
+ 
+
+00:02:32.970 --> 00:02:34.970 align:start position:0%
+and we returned the product of those two
+integers<00:02:33.629><c> so</c><00:02:33.989><c> how</c><00:02:34.170><c> do</c><00:02:34.230><c> we</c><00:02:34.349><c> call</c><00:02:34.590><c> this</c><00:02:34.739><c> function</c>
+
+00:02:34.970 --> 00:02:34.980 align:start position:0%
+integers so how do we call this function
+ 
+
+00:02:34.980 --> 00:02:37.250 align:start position:0%
+integers so how do we call this function
+well<00:02:35.879><c> calling</c><00:02:36.359><c> a</c><00:02:36.420><c> function</c><00:02:36.599><c> is</c><00:02:36.840><c> pretty</c><00:02:37.049><c> simple</c>
+
+00:02:37.250 --> 00:02:37.260 align:start position:0%
+well calling a function is pretty simple
+ 
+
+00:02:37.260 --> 00:02:39.229 align:start position:0%
+well calling a function is pretty simple
+let's<00:02:38.250><c> go</c><00:02:38.370><c> ahead</c><00:02:38.459><c> and</c><00:02:38.670><c> try</c><00:02:38.819><c> and</c><00:02:38.909><c> print</c><00:02:39.120><c> the</c>
+
+00:02:39.229 --> 00:02:39.239 align:start position:0%
+let's go ahead and try and print the
+ 
+
+00:02:39.239 --> 00:02:41.030 align:start position:0%
+let's go ahead and try and print the
+result<00:02:39.359><c> of</c><00:02:39.659><c> a</c><00:02:39.720><c> multiplication</c><00:02:40.409><c> I'm</c><00:02:40.680><c> going</c><00:02:40.920><c> to</c>
+
+00:02:41.030 --> 00:02:41.040 align:start position:0%
+result of a multiplication I'm going to
+ 
+
+00:02:41.040 --> 00:02:42.800 align:start position:0%
+result of a multiplication I'm going to
+first<00:02:41.220><c> of</c><00:02:41.400><c> all</c><00:02:41.459><c> make</c><00:02:41.519><c> a</c><00:02:41.730><c> variable</c><00:02:42.299><c> which</c><00:02:42.420><c> holds</c>
+
+00:02:42.800 --> 00:02:42.810 align:start position:0%
+first of all make a variable which holds
+ 
+
+00:02:42.810 --> 00:02:44.509 align:start position:0%
+first of all make a variable which holds
+this<00:02:42.959><c> result</c><00:02:43.319><c> so</c><00:02:43.530><c> I'll</c><00:02:43.650><c> type</c><00:02:43.859><c> end</c><00:02:44.129><c> result</c>
+
+00:02:44.509 --> 00:02:44.519 align:start position:0%
+this result so I'll type end result
+ 
+
+00:02:44.519 --> 00:02:47.420 align:start position:0%
+this result so I'll type end result
+equals<00:02:45.000><c> multiply</c><00:02:45.540><c> and</c><00:02:46.409><c> we'll</c><00:02:46.560><c> go</c><00:02:46.650><c> with</c><00:02:46.829><c> 3</c><00:02:47.190><c> and</c>
+
+00:02:47.420 --> 00:02:47.430 align:start position:0%
+equals multiply and we'll go with 3 and
+ 
+
+00:02:47.430 --> 00:02:49.940 align:start position:0%
+equals multiply and we'll go with 3 and
+2<00:02:48.120><c> so</c><00:02:48.450><c> what</c><00:02:48.569><c> this</c><00:02:48.690><c> is</c><00:02:48.840><c> going</c><00:02:48.989><c> to</c><00:02:49.109><c> do</c><00:02:49.290><c> is</c><00:02:49.560><c> call</c>
+
+00:02:49.940 --> 00:02:49.950 align:start position:0%
+2 so what this is going to do is call
+ 
+
+00:02:49.950 --> 00:02:51.740 align:start position:0%
+2 so what this is going to do is call
+this<00:02:50.220><c> multiply</c><00:02:50.639><c> function</c><00:02:50.849><c> with</c><00:02:51.299><c> these</c><00:02:51.540><c> two</c>
+
+00:02:51.740 --> 00:02:51.750 align:start position:0%
+this multiply function with these two
+ 
+
+00:02:51.750 --> 00:02:53.750 align:start position:0%
+this multiply function with these two
+parameters<00:02:51.959><c> and</c><00:02:52.500><c> then</c><00:02:52.980><c> store</c><00:02:53.310><c> the</c><00:02:53.430><c> return</c>
+
+00:02:53.750 --> 00:02:53.760 align:start position:0%
+parameters and then store the return
+ 
+
+00:02:53.760 --> 00:02:56.300 align:start position:0%
+parameters and then store the return
+value<00:02:54.209><c> that</c><00:02:54.510><c> is</c><00:02:54.659><c> this</c><00:02:54.840><c> result</c><00:02:55.200><c> of</c><00:02:55.500><c> a</c><00:02:55.859><c> times</c><00:02:56.159><c> B</c>
+
+00:02:56.300 --> 00:02:56.310 align:start position:0%
+value that is this result of a times B
+ 
+
+00:02:56.310 --> 00:02:58.940 align:start position:0%
+value that is this result of a times B
+in<00:02:56.849><c> this</c><00:02:57.239><c> result</c><00:02:57.689><c> integer</c><00:02:58.260><c> we</c><00:02:58.620><c> can</c><00:02:58.799><c> then</c>
+
+00:02:58.940 --> 00:02:58.950 align:start position:0%
+in this result integer we can then
+ 
+
+00:02:58.950 --> 00:03:01.099 align:start position:0%
+in this result integer we can then
+output<00:02:59.129><c> that</c><00:02:59.609><c> result</c><00:02:59.970><c> to</c><00:03:00.209><c> the</c><00:03:00.540><c> console</c>
+
+00:03:01.099 --> 00:03:01.109 align:start position:0%
+output that result to the console
+ 
+
+00:03:01.109 --> 00:03:03.319 align:start position:0%
+output that result to the console
+let's<00:03:01.379><c> hit</c><00:03:01.530><c> f5</c><00:03:01.859><c> to</c><00:03:02.099><c> run</c><00:03:02.159><c> our</c><00:03:02.310><c> program</c><00:03:02.700><c> and</c><00:03:02.909><c> our</c>
+
+00:03:03.319 --> 00:03:03.329 align:start position:0%
+let's hit f5 to run our program and our
+ 
+
+00:03:03.329 --> 00:03:04.819 align:start position:0%
+let's hit f5 to run our program and our
+fruit<00:03:03.569><c> builds</c><00:03:03.870><c> you</c><00:03:03.959><c> can</c><00:03:04.079><c> see</c><00:03:04.200><c> that</c><00:03:04.319><c> we</c><00:03:04.409><c> get</c><00:03:04.530><c> 6</c>
+
+00:03:04.819 --> 00:03:04.829 align:start position:0%
+fruit builds you can see that we get 6
+ 
+
+00:03:04.829 --> 00:03:06.440 align:start position:0%
+fruit builds you can see that we get 6
+which<00:03:05.099><c> of</c><00:03:05.220><c> course</c><00:03:05.250><c> is</c><00:03:05.609><c> what</c><00:03:05.790><c> three</c><00:03:06.030><c> times</c><00:03:06.239><c> two</c>
+
+00:03:06.440 --> 00:03:06.450 align:start position:0%
+which of course is what three times two
+ 
+
+00:03:06.450 --> 00:03:08.809 align:start position:0%
+which of course is what three times two
+is<00:03:06.480><c> so</c><00:03:07.439><c> let's</c><00:03:07.620><c> kick</c><00:03:07.829><c> this</c><00:03:07.920><c> up</c><00:03:08.069><c> a</c><00:03:08.129><c> notch</c><00:03:08.250><c> suppose</c>
+
+00:03:08.809 --> 00:03:08.819 align:start position:0%
+is so let's kick this up a notch suppose
+ 
+
+00:03:08.819 --> 00:03:09.890 align:start position:0%
+is so let's kick this up a notch suppose
+that<00:03:09.030><c> I</c><00:03:09.090><c> want</c><00:03:09.269><c> to</c><00:03:09.389><c> do</c><00:03:09.510><c> a</c><00:03:09.540><c> bunch</c><00:03:09.720><c> of</c>
+
+00:03:09.890 --> 00:03:09.900 align:start position:0%
+that I want to do a bunch of
+ 
+
+00:03:09.900 --> 00:03:12.199 align:start position:0%
+that I want to do a bunch of
+multiplications<00:03:10.650><c> and</c><00:03:10.889><c> I</c><00:03:11.010><c> want</c><00:03:11.250><c> to</c><00:03:11.400><c> log</c><00:03:11.760><c> all</c><00:03:12.060><c> of</c>
+
+00:03:12.199 --> 00:03:12.209 align:start position:0%
+multiplications and I want to log all of
+ 
+
+00:03:12.209 --> 00:03:13.699 align:start position:0%
+multiplications and I want to log all of
+them<00:03:12.389><c> to</c><00:03:12.540><c> the</c><00:03:12.629><c> console</c><00:03:13.019><c> if</c><00:03:13.230><c> I</c><00:03:13.379><c> do</c><00:03:13.439><c> something</c>
+
+00:03:13.699 --> 00:03:13.709 align:start position:0%
+them to the console if I do something
+ 
+
+00:03:13.709 --> 00:03:15.470 align:start position:0%
+them to the console if I do something
+like<00:03:13.889><c> that</c><00:03:13.980><c> without</c><00:03:14.280><c> a</c><00:03:14.489><c> function</c><00:03:15.030><c> then</c><00:03:15.389><c> it</c>
+
+00:03:15.470 --> 00:03:15.480 align:start position:0%
+like that without a function then it
+ 
+
+00:03:15.480 --> 00:03:17.150 align:start position:0%
+like that without a function then it
+would<00:03:15.599><c> look</c><00:03:15.690><c> pretty</c><00:03:15.750><c> messy</c><00:03:16.230><c> so</c><00:03:16.470><c> for</c><00:03:16.620><c> example</c><00:03:17.010><c> I</c>
+
+00:03:17.150 --> 00:03:17.160 align:start position:0%
+would look pretty messy so for example I
+ 
+
+00:03:17.160 --> 00:03:18.949 align:start position:0%
+would look pretty messy so for example I
+need<00:03:17.430><c> to</c><00:03:17.519><c> repeat</c><00:03:17.819><c> this</c><00:03:17.940><c> code</c><00:03:18.239><c> so</c><00:03:18.660><c> let's</c><00:03:18.810><c> go</c>
+
+00:03:18.949 --> 00:03:18.959 align:start position:0%
+need to repeat this code so let's go
+ 
+
+00:03:18.959 --> 00:03:21.319 align:start position:0%
+need to repeat this code so let's go
+ahead<00:03:19.079><c> and</c><00:03:19.470><c> copy</c><00:03:20.129><c> and</c><00:03:20.370><c> paste</c><00:03:20.549><c> a</c><00:03:20.730><c> few</c><00:03:20.910><c> time</c><00:03:21.060><c> I'll</c>
+
+00:03:21.319 --> 00:03:21.329 align:start position:0%
+ahead and copy and paste a few time I'll
+ 
+
+00:03:21.329 --> 00:03:23.089 align:start position:0%
+ahead and copy and paste a few time I'll
+call<00:03:21.599><c> it</c><00:03:21.750><c> something</c><00:03:21.989><c> like</c><00:03:22.019><c> result</c><00:03:22.440><c> two</c><00:03:22.650><c> result</c>
+
+00:03:23.089 --> 00:03:23.099 align:start position:0%
+call it something like result two result
+ 
+
+00:03:23.099 --> 00:03:27.550 align:start position:0%
+call it something like result two result
+three<00:03:23.540><c> will</c><00:03:24.540><c> do</c><00:03:24.720><c> eight</c><00:03:25.049><c> times</c><00:03:25.709><c> five</c><00:03:26.090><c> 90</c><00:03:27.090><c> times</c>
+
+00:03:27.550 --> 00:03:27.560 align:start position:0%
+three will do eight times five 90 times
+ 
+
+00:03:27.560 --> 00:03:31.520 align:start position:0%
+three will do eight times five 90 times
+45<00:03:28.560><c> and</c><00:03:29.069><c> if</c><00:03:29.250><c> I</c><00:03:29.340><c> run</c><00:03:29.489><c> my</c><00:03:29.639><c> program</c><00:03:29.669><c> and</c><00:03:30.299><c> oh</c><00:03:30.989><c> hang</c>
+
+00:03:31.520 --> 00:03:31.530 align:start position:0%
+45 and if I run my program and oh hang
+ 
+
+00:03:31.530 --> 00:03:32.599 align:start position:0%
+45 and if I run my program and oh hang
+on<00:03:31.590><c> a</c><00:03:31.650><c> minute</c><00:03:31.739><c> why</c><00:03:32.069><c> am</c><00:03:32.099><c> I</c><00:03:32.190><c> getting</c><00:03:32.280><c> the</c><00:03:32.459><c> same</c>
+
+00:03:32.599 --> 00:03:32.609 align:start position:0%
+on a minute why am I getting the same
+ 
+
+00:03:32.609 --> 00:03:34.399 align:start position:0%
+on a minute why am I getting the same
+value<00:03:32.639><c> everywhere</c><00:03:33.299><c> oh</c><00:03:33.419><c> look</c><00:03:33.750><c> when</c><00:03:34.049><c> I</c><00:03:34.079><c> copied</c>
+
+00:03:34.399 --> 00:03:34.409 align:start position:0%
+value everywhere oh look when I copied
+ 
+
+00:03:34.409 --> 00:03:36.110 align:start position:0%
+value everywhere oh look when I copied
+and<00:03:34.500><c> pasted</c><00:03:34.680><c> this</c><00:03:34.799><c> code</c><00:03:35.010><c> I</c><00:03:35.280><c> forgot</c><00:03:35.730><c> to</c><00:03:35.879><c> change</c>
+
+00:03:36.110 --> 00:03:36.120 align:start position:0%
+and pasted this code I forgot to change
+ 
+
+00:03:36.120 --> 00:03:37.729 align:start position:0%
+and pasted this code I forgot to change
+the<00:03:36.359><c> variable</c><00:03:36.840><c> now</c><00:03:37.139><c> you</c><00:03:37.199><c> may</c><00:03:37.379><c> have</c><00:03:37.500><c> thought</c>
+
+00:03:37.729 --> 00:03:37.739 align:start position:0%
+the variable now you may have thought
+ 
+
+00:03:37.739 --> 00:03:39.170 align:start position:0%
+the variable now you may have thought
+that<00:03:37.799><c> I</c><00:03:38.040><c> did</c><00:03:38.220><c> that</c><00:03:38.340><c> by</c><00:03:38.549><c> accident</c><00:03:39.030><c> but</c><00:03:39.120><c> I</c>
+
+00:03:39.170 --> 00:03:39.180 align:start position:0%
+that I did that by accident but I
+ 
+
+00:03:39.180 --> 00:03:40.490 align:start position:0%
+that I did that by accident but I
+actually<00:03:39.389><c> did</c><00:03:39.629><c> it</c><00:03:39.750><c> on</c><00:03:39.810><c> purpose</c><00:03:40.019><c> to</c><00:03:40.319><c> prove</c>
+
+00:03:40.490 --> 00:03:40.500 align:start position:0%
+actually did it on purpose to prove
+ 
+
+00:03:40.500 --> 00:03:43.729 align:start position:0%
+actually did it on purpose to prove
+something<00:03:40.829><c> this</c><00:03:41.579><c> actually</c><00:03:42.209><c> happens</c><00:03:42.659><c> all</c><00:03:43.199><c> the</c>
+
+00:03:43.729 --> 00:03:43.739 align:start position:0%
+something this actually happens all the
+ 
+
+00:03:43.739 --> 00:03:45.890 align:start position:0%
+something this actually happens all the
+time<00:03:43.919><c> people</c><00:03:44.729><c> copy</c><00:03:45.060><c> and</c><00:03:45.239><c> paste</c><00:03:45.449><c> blocks</c><00:03:45.720><c> of</c>
+
+00:03:45.890 --> 00:03:45.900 align:start position:0%
+time people copy and paste blocks of
+ 
+
+00:03:45.900 --> 00:03:48.409 align:start position:0%
+time people copy and paste blocks of
+code<00:03:46.139><c> and</c><00:03:46.379><c> then</c><00:03:46.680><c> forget</c><00:03:47.400><c> change</c><00:03:47.819><c> one</c><00:03:48.180><c> minor</c>
+
+00:03:48.409 --> 00:03:48.419 align:start position:0%
+code and then forget change one minor
+ 
+
+00:03:48.419 --> 00:03:50.750 align:start position:0%
+code and then forget change one minor
+detail<00:03:48.629><c> and</c><00:03:49.139><c> in</c><00:03:49.560><c> certain</c><00:03:49.949><c> situations</c><00:03:50.639><c> you</c>
+
+00:03:50.750 --> 00:03:50.760 align:start position:0%
+detail and in certain situations you
+ 
+
+00:03:50.760 --> 00:03:52.280 align:start position:0%
+detail and in certain situations you
+might<00:03:51.030><c> actually</c><00:03:51.239><c> just</c><00:03:51.569><c> run</c><00:03:51.690><c> your</c><00:03:51.840><c> program</c><00:03:52.169><c> and</c>
+
+00:03:52.280 --> 00:03:52.290 align:start position:0%
+might actually just run your program and
+ 
+
+00:03:52.290 --> 00:03:53.539 align:start position:0%
+might actually just run your program and
+not<00:03:52.409><c> even</c><00:03:52.709><c> notice</c><00:03:53.010><c> that</c><00:03:53.040><c> it's</c><00:03:53.250><c> not</c><00:03:53.370><c> working</c>
+
+00:03:53.539 --> 00:03:53.549 align:start position:0%
+not even notice that it's not working
+ 
+
+00:03:53.549 --> 00:03:56.780 align:start position:0%
+not even notice that it's not working
+correctly<00:03:54.019><c> until</c><00:03:55.019><c> it</c><00:03:55.260><c> breaks</c><00:03:55.579><c> somewhere</c><00:03:56.579><c> down</c>
+
+00:03:56.780 --> 00:03:56.790 align:start position:0%
+correctly until it breaks somewhere down
+ 
+
+00:03:56.790 --> 00:03:58.580 align:start position:0%
+correctly until it breaks somewhere down
+the<00:03:56.940><c> line</c><00:03:56.970><c> and</c><00:03:57.329><c> yet</c><00:03:57.629><c> something</c><00:03:57.959><c> like</c><00:03:58.079><c> this</c><00:03:58.290><c> can</c>
+
+00:03:58.580 --> 00:03:58.590 align:start position:0%
+the line and yet something like this can
+ 
+
+00:03:58.590 --> 00:04:00.020 align:start position:0%
+the line and yet something like this can
+actually<00:03:58.650><c> be</c><00:03:58.949><c> fixed</c><00:03:59.340><c> really</c><00:03:59.489><c> easily</c><00:03:59.819><c> if</c><00:03:59.940><c> you</c>
+
+00:04:00.020 --> 00:04:00.030 align:start position:0%
+actually be fixed really easily if you
+ 
+
+00:04:00.030 --> 00:04:01.460 align:start position:0%
+actually be fixed really easily if you
+just<00:04:00.180><c> create</c><00:04:00.299><c> a</c><00:04:00.449><c> function</c><00:04:00.810><c> for</c><00:04:00.989><c> it</c><00:04:01.139><c> let's</c><00:04:01.379><c> go</c>
+
+00:04:01.460 --> 00:04:01.470 align:start position:0%
+just create a function for it let's go
+ 
+
+00:04:01.470 --> 00:04:02.990 align:start position:0%
+just create a function for it let's go
+ahead<00:04:01.500><c> and</c><00:04:01.799><c> fix</c><00:04:01.979><c> this</c><00:04:02.190><c> by</c><00:04:02.400><c> actually</c><00:04:02.549><c> printing</c>
+
+00:04:02.990 --> 00:04:03.000 align:start position:0%
+ahead and fix this by actually printing
+ 
+
+00:04:03.000 --> 00:04:04.879 align:start position:0%
+ahead and fix this by actually printing
+out<00:04:03.090><c> results</c><00:04:03.449><c> two</c><00:04:03.569><c> and</c><00:04:03.750><c> three</c><00:04:03.959><c> if</c><00:04:04.199><c> I</c><00:04:04.440><c> run</c><00:04:04.709><c> this</c>
+
+00:04:04.879 --> 00:04:04.889 align:start position:0%
+out results two and three if I run this
+ 
+
+00:04:04.889 --> 00:04:06.619 align:start position:0%
+out results two and three if I run this
+we<00:04:05.280><c> will</c><00:04:05.430><c> get</c><00:04:05.609><c> our</c><00:04:05.729><c> correct</c><00:04:06.000><c> results</c><00:04:06.389><c> which</c><00:04:06.599><c> is</c>
+
+00:04:06.619 --> 00:04:06.629 align:start position:0%
+we will get our correct results which is
+ 
+
+00:04:06.629 --> 00:04:08.000 align:start position:0%
+we will get our correct results which is
+great<00:04:06.900><c> however</c><00:04:07.349><c> you</c><00:04:07.560><c> can</c><00:04:07.680><c> see</c><00:04:07.799><c> that</c><00:04:07.919><c> I'm</c>
+
+00:04:08.000 --> 00:04:08.010 align:start position:0%
+great however you can see that I'm
+ 
+
+00:04:08.010 --> 00:04:10.039 align:start position:0%
+great however you can see that I'm
+actually<00:04:08.190><c> calling</c><00:04:08.489><c> this</c><00:04:08.819><c> multiple</c><00:04:09.479><c> times</c><00:04:09.540><c> and</c>
+
+00:04:10.039 --> 00:04:10.049 align:start position:0%
+actually calling this multiple times and
+ 
+
+00:04:10.049 --> 00:04:12.140 align:start position:0%
+actually calling this multiple times and
+it's<00:04:10.229><c> just</c><00:04:10.409><c> a</c><00:04:10.859><c> little</c><00:04:11.069><c> bit</c><00:04:11.190><c> annoying</c><00:04:11.489><c> like</c><00:04:12.000><c> for</c>
+
+00:04:12.140 --> 00:04:12.150 align:start position:0%
+it's just a little bit annoying like for
+ 
+
+00:04:12.150 --> 00:04:14.000 align:start position:0%
+it's just a little bit annoying like for
+example<00:04:12.239><c> further</c><00:04:12.750><c> down</c><00:04:12.989><c> the</c><00:04:13.139><c> road</c><00:04:13.319><c> if</c><00:04:13.739><c> I</c>
+
+00:04:14.000 --> 00:04:14.010 align:start position:0%
+example further down the road if I
+ 
+
+00:04:14.010 --> 00:04:15.949 align:start position:0%
+example further down the road if I
+decide<00:04:14.340><c> to</c><00:04:14.370><c> replace</c><00:04:15.030><c> this</c><00:04:15.359><c> multiply</c><00:04:15.750><c> function</c>
+
+00:04:15.949 --> 00:04:15.959 align:start position:0%
+decide to replace this multiply function
+ 
+
+00:04:15.959 --> 00:04:17.899 align:start position:0%
+decide to replace this multiply function
+by<00:04:16.440><c> simply</c><00:04:16.919><c> from</c><00:04:17.310><c> doing</c><00:04:17.549><c> something</c><00:04:17.880><c> like</c>
+
+00:04:17.899 --> 00:04:17.909 align:start position:0%
+by simply from doing something like
+ 
+
+00:04:17.909 --> 00:04:20.089 align:start position:0%
+by simply from doing something like
+eight<00:04:18.239><c> times</c><00:04:18.510><c> five</c><00:04:18.779><c> look</c><00:04:19.590><c> at</c><00:04:19.620><c> this</c><00:04:19.769><c> I</c><00:04:19.919><c> have</c><00:04:19.950><c> to</c>
+
+00:04:20.089 --> 00:04:20.099 align:start position:0%
+eight times five look at this I have to
+ 
+
+00:04:20.099 --> 00:04:22.370 align:start position:0%
+eight times five look at this I have to
+replace<00:04:20.370><c> it</c><00:04:20.579><c> in</c><00:04:20.700><c> every</c><00:04:21.120><c> single</c><00:04:21.450><c> place</c><00:04:21.659><c> three</c>
+
+00:04:22.370 --> 00:04:22.380 align:start position:0%
+replace it in every single place three
+ 
+
+00:04:22.380 --> 00:04:23.420 align:start position:0%
+replace it in every single place three
+times<00:04:22.409><c> two</c>
+
+00:04:23.420 --> 00:04:23.430 align:start position:0%
+times two
+ 
+
+00:04:23.430 --> 00:04:26.060 align:start position:0%
+times two
+90<00:04:24.240><c> times</c><00:04:24.449><c> 45</c><00:04:25.020><c> that's</c><00:04:25.320><c> I</c><00:04:25.560><c> want</c><00:04:25.740><c> to</c><00:04:25.860><c> have</c><00:04:25.949><c> to</c>
+
+00:04:26.060 --> 00:04:26.070 align:start position:0%
+90 times 45 that's I want to have to
+ 
+
+00:04:26.070 --> 00:04:27.409 align:start position:0%
+90 times 45 that's I want to have to
+deal<00:04:26.220><c> with</c><00:04:26.400><c> that</c><00:04:26.550><c> so</c><00:04:26.910><c> this</c><00:04:27.030><c> multiplication</c>
+
+00:04:27.409 --> 00:04:27.419 align:start position:0%
+deal with that so this multiplication
+ 
+
+00:04:27.419 --> 00:04:29.810 align:start position:0%
+deal with that so this multiplication
+and<00:04:28.020><c> then</c><00:04:28.139><c> logging</c><00:04:28.530><c> the</c><00:04:28.620><c> result</c><00:04:28.949><c> let's</c><00:04:29.639><c> go</c>
+
+00:04:29.810 --> 00:04:29.820 align:start position:0%
+and then logging the result let's go
+ 
+
+00:04:29.820 --> 00:04:31.010 align:start position:0%
+and then logging the result let's go
+ahead<00:04:29.910><c> and</c><00:04:30.180><c> make</c><00:04:30.270><c> the</c><00:04:30.389><c> function</c><00:04:30.540><c> for</c><00:04:30.870><c> that</c>
+
+00:04:31.010 --> 00:04:31.020 align:start position:0%
+ahead and make the function for that
+ 
+
+00:04:31.020 --> 00:04:32.689 align:start position:0%
+ahead and make the function for that
+it'll<00:04:31.530><c> be</c><00:04:31.620><c> void</c><00:04:31.860><c> because</c><00:04:32.100><c> it's</c><00:04:32.370><c> not</c><00:04:32.490><c> really</c>
+
+00:04:32.689 --> 00:04:32.699 align:start position:0%
+it'll be void because it's not really
+ 
+
+00:04:32.699 --> 00:04:34.340 align:start position:0%
+it'll be void because it's not really
+going<00:04:32.850><c> to</c><00:04:32.970><c> return</c><00:04:33.300><c> anything</c><00:04:33.509><c> to</c><00:04:33.780><c> us</c><00:04:33.930><c> it's</c><00:04:34.169><c> just</c>
+
+00:04:34.340 --> 00:04:34.350 align:start position:0%
+going to return anything to us it's just
+ 
+
+00:04:34.350 --> 00:04:36.379 align:start position:0%
+going to return anything to us it's just
+going<00:04:34.560><c> to</c><00:04:34.740><c> perform</c><00:04:35.160><c> what</c><00:04:35.460><c> we</c><00:04:35.639><c> asked</c><00:04:35.850><c> it</c><00:04:36.090><c> to</c><00:04:36.210><c> do</c>
+
+00:04:36.379 --> 00:04:36.389 align:start position:0%
+going to perform what we asked it to do
+ 
+
+00:04:36.389 --> 00:04:37.909 align:start position:0%
+going to perform what we asked it to do
+we'll<00:04:36.720><c> call</c><00:04:36.870><c> it</c><00:04:36.990><c> something</c><00:04:37.259><c> like</c><00:04:37.289><c> multiply</c>
+
+00:04:37.909 --> 00:04:37.919 align:start position:0%
+we'll call it something like multiply
+ 
+
+00:04:37.919 --> 00:04:40.010 align:start position:0%
+we'll call it something like multiply
+and<00:04:38.220><c> log</c><00:04:38.759><c> and</c><00:04:39.090><c> then</c><00:04:39.360><c> let's</c><00:04:39.509><c> take</c><00:04:39.690><c> a</c><00:04:39.720><c> look</c><00:04:39.930><c> at</c>
+
+00:04:40.010 --> 00:04:40.020 align:start position:0%
+and log and then let's take a look at
+ 
+
+00:04:40.020 --> 00:04:41.870 align:start position:0%
+and log and then let's take a look at
+which<00:04:40.169><c> parameters</c><00:04:40.620><c> we</c><00:04:40.740><c> might</c><00:04:40.889><c> want</c><00:04:41.160><c> so</c><00:04:41.610><c> what</c>
+
+00:04:41.870 --> 00:04:41.880 align:start position:0%
+which parameters we might want so what
+ 
+
+00:04:41.880 --> 00:04:43.999 align:start position:0%
+which parameters we might want so what
+actually<00:04:42.060><c> changes</c><00:04:43.020><c> between</c><00:04:43.229><c> these</c><00:04:43.620><c> three</c>
+
+00:04:43.999 --> 00:04:44.009 align:start position:0%
+actually changes between these three
+ 
+
+00:04:44.009 --> 00:04:45.680 align:start position:0%
+actually changes between these three
+blocks<00:04:44.250><c> of</c><00:04:44.430><c> code</c><00:04:44.639><c> the</c><00:04:44.970><c> values</c><00:04:45.419><c> that</c><00:04:45.570><c> we</c>
+
+00:04:45.680 --> 00:04:45.690 align:start position:0%
+blocks of code the values that we
+ 
+
+00:04:45.690 --> 00:04:47.330 align:start position:0%
+blocks of code the values that we
+actually<00:04:46.080><c> multiplied</c><00:04:46.590><c> that's</c><00:04:46.830><c> it</c>
+
+00:04:47.330 --> 00:04:47.340 align:start position:0%
+actually multiplied that's it
+ 
+
+00:04:47.340 --> 00:04:49.640 align:start position:0%
+actually multiplied that's it
+so<00:04:47.789><c> those</c><00:04:48.030><c> become</c><00:04:48.509><c> the</c><00:04:48.570><c> parameters</c><00:04:49.350><c> for</c><00:04:49.620><c> our</c>
+
+00:04:49.640 --> 00:04:49.650 align:start position:0%
+so those become the parameters for our
+ 
+
+00:04:49.650 --> 00:04:52.189 align:start position:0%
+so those become the parameters for our
+function<00:04:50.280><c> what</c><00:04:50.940><c> actually</c><00:04:51.539><c> changes</c><00:04:52.050><c> between</c>
+
+00:04:52.189 --> 00:04:52.199 align:start position:0%
+function what actually changes between
+ 
+
+00:04:52.199 --> 00:04:53.659 align:start position:0%
+function what actually changes between
+these<00:04:52.470><c> doctor</c><00:04:52.710><c> probe</c><00:04:52.889><c> what</c><00:04:53.160><c> needs</c><00:04:53.430><c> to</c><00:04:53.520><c> be</c>
+
+00:04:53.659 --> 00:04:53.669 align:start position:0%
+these doctor probe what needs to be
+ 
+
+00:04:53.669 --> 00:04:55.159 align:start position:0%
+these doctor probe what needs to be
+specified<00:04:53.970><c> for</c><00:04:54.330><c> this</c><00:04:54.630><c> function</c><00:04:54.990><c> to</c><00:04:55.080><c> perform</c>
+
+00:04:55.159 --> 00:04:55.169 align:start position:0%
+specified for this function to perform
+ 
+
+00:04:55.169 --> 00:04:57.170 align:start position:0%
+specified for this function to perform
+its<00:04:55.470><c> job</c><00:04:55.530><c> let's</c><00:04:56.130><c> go</c><00:04:56.250><c> ahead</c><00:04:56.340><c> and</c><00:04:56.580><c> write</c><00:04:56.729><c> in</c><00:04:56.970><c> our</c>
+
+00:04:57.170 --> 00:04:57.180 align:start position:0%
+its job let's go ahead and write in our
+ 
+
+00:04:57.180 --> 00:04:58.490 align:start position:0%
+its job let's go ahead and write in our
+parameters<00:04:57.630><c> so</c><00:04:57.840><c> we're</c><00:04:57.960><c> going</c><00:04:58.080><c> to</c><00:04:58.139><c> be</c><00:04:58.229><c> taking</c>
+
+00:04:58.490 --> 00:04:58.500 align:start position:0%
+parameters so we're going to be taking
+ 
+
+00:04:58.500 --> 00:05:00.379 align:start position:0%
+parameters so we're going to be taking
+in<00:04:58.590><c> two</c><00:04:58.740><c> integers</c><00:04:59.130><c> and</c><00:04:59.250><c> be</c><00:04:59.610><c> using</c><00:05:00.150><c> a</c><00:05:00.210><c> really</c>
+
+00:05:00.379 --> 00:05:00.389 align:start position:0%
+in two integers and be using a really
+ 
+
+00:05:00.389 --> 00:05:01.760 align:start position:0%
+in two integers and be using a really
+cool<00:05:00.539><c> them</c><00:05:00.660><c> anything</c><00:05:00.840><c> you</c><00:05:01.020><c> want</c><00:05:01.229><c> that</c><00:05:01.410><c> MV</c>
+
+00:05:01.760 --> 00:05:01.770 align:start position:0%
+cool them anything you want that MV
+ 
+
+00:05:01.770 --> 00:05:03.320 align:start position:0%
+cool them anything you want that MV
+seems<00:05:02.039><c> sensible</c><00:05:02.370><c> we'll</c><00:05:02.699><c> copy</c><00:05:02.850><c> and</c><00:05:03.030><c> paste</c><00:05:03.180><c> one</c>
+
+00:05:03.320 --> 00:05:03.330 align:start position:0%
+seems sensible we'll copy and paste one
+ 
+
+00:05:03.330 --> 00:05:05.060 align:start position:0%
+seems sensible we'll copy and paste one
+of<00:05:03.389><c> these</c><00:05:03.510><c> blocks</c><00:05:03.750><c> into</c><00:05:04.110><c> this</c><00:05:04.199><c> function</c><00:05:04.440><c> this</c>
+
+00:05:05.060 --> 00:05:05.070 align:start position:0%
+of these blocks into this function this
+ 
+
+00:05:05.070 --> 00:05:06.350 align:start position:0%
+of these blocks into this function this
+looks<00:05:05.310><c> pretty</c><00:05:05.460><c> good</c><00:05:05.610><c> of</c><00:05:05.789><c> course</c><00:05:05.970><c> I'll</c><00:05:06.120><c> replace</c>
+
+00:05:06.350 --> 00:05:06.360 align:start position:0%
+looks pretty good of course I'll replace
+ 
+
+00:05:06.360 --> 00:05:08.240 align:start position:0%
+looks pretty good of course I'll replace
+three<00:05:06.720><c> and</c><00:05:06.900><c> two</c><00:05:07.050><c> with</c><00:05:07.350><c> our</c><00:05:07.560><c> parameters</c><00:05:08.100><c> so</c>
+
+00:05:08.240 --> 00:05:08.250 align:start position:0%
+three and two with our parameters so
+ 
+
+00:05:08.250 --> 00:05:09.350 align:start position:0%
+three and two with our parameters so
+that<00:05:08.280><c> we're</c><00:05:08.520><c> using</c><00:05:08.669><c> the</c><00:05:08.850><c> parameters</c><00:05:09.240><c> we</c>
+
+00:05:09.350 --> 00:05:09.360 align:start position:0%
+that we're using the parameters we
+ 
+
+00:05:09.360 --> 00:05:11.240 align:start position:0%
+that we're using the parameters we
+specify<00:05:09.810><c> into</c><00:05:10.139><c> this</c><00:05:10.320><c> function</c><00:05:10.620><c> to</c><00:05:11.160><c> perform</c>
+
+00:05:11.240 --> 00:05:11.250 align:start position:0%
+specify into this function to perform
+ 
+
+00:05:11.250 --> 00:05:13.010 align:start position:0%
+specify into this function to perform
+the<00:05:11.550><c> multiplication</c><00:05:11.669><c> against</c><00:05:12.539><c> which</c><00:05:12.840><c> will</c>
+
+00:05:13.010 --> 00:05:13.020 align:start position:0%
+the multiplication against which will
+ 
+
+00:05:13.020 --> 00:05:14.719 align:start position:0%
+the multiplication against which will
+cause<00:05:13.199><c> a</c><00:05:13.530><c> times</c><00:05:13.770><c> B</c><00:05:13.949><c> to</c><00:05:14.010><c> get</c><00:05:14.160><c> multiplied</c><00:05:14.550><c> here</c>
+
+00:05:14.719 --> 00:05:14.729 align:start position:0%
+cause a times B to get multiplied here
+ 
+
+00:05:14.729 --> 00:05:16.070 align:start position:0%
+cause a times B to get multiplied here
+and<00:05:15.060><c> then</c><00:05:15.210><c> we're</c><00:05:15.330><c> going</c><00:05:15.419><c> to</c><00:05:15.510><c> be</c><00:05:15.630><c> logging</c><00:05:15.840><c> our</c>
+
+00:05:16.070 --> 00:05:16.080 align:start position:0%
+and then we're going to be logging our
+ 
+
+00:05:16.080 --> 00:05:18.080 align:start position:0%
+and then we're going to be logging our
+results<00:05:16.410><c> the</c><00:05:16.530><c> consult</c><00:05:16.919><c> so</c><00:05:17.310><c> now</c><00:05:17.460><c> instead</c><00:05:17.849><c> of</c>
+
+00:05:18.080 --> 00:05:18.090 align:start position:0%
+results the consult so now instead of
+ 
+
+00:05:18.090 --> 00:05:20.960 align:start position:0%
+results the consult so now instead of
+doing<00:05:18.360><c> this</c><00:05:18.599><c> so</c><00:05:19.020><c> many</c><00:05:19.260><c> times</c><00:05:19.560><c> all</c><00:05:20.250><c> I</c><00:05:20.310><c> have</c><00:05:20.760><c> to</c>
+
+00:05:20.960 --> 00:05:20.970 align:start position:0%
+doing this so many times all I have to
+ 
+
+00:05:20.970 --> 00:05:24.860 align:start position:0%
+doing this so many times all I have to
+do<00:05:21.150><c> is</c><00:05:21.780><c> simply</c><00:05:22.110><c> call</c><00:05:22.259><c> multiply</c><00:05:22.889><c> and</c><00:05:23.190><c> log</c><00:05:23.870><c> with</c>
+
+00:05:24.860 --> 00:05:24.870 align:start position:0%
+do is simply call multiply and log with
+ 
+
+00:05:24.870 --> 00:05:26.480 align:start position:0%
+do is simply call multiply and log with
+my<00:05:25.020><c> parameters</c><00:05:25.530><c> so</c><00:05:25.740><c> three</c><00:05:26.039><c> and</c><00:05:26.160><c> two</c><00:05:26.280><c> for</c>
+
+00:05:26.480 --> 00:05:26.490 align:start position:0%
+my parameters so three and two for
+ 
+
+00:05:26.490 --> 00:05:29.089 align:start position:0%
+my parameters so three and two for
+example<00:05:26.550><c> and</c><00:05:27.180><c> then</c><00:05:27.630><c> we</c><00:05:27.750><c> have</c><00:05:27.930><c> eight</c><00:05:28.560><c> and</c><00:05:28.889><c> five</c>
+
+00:05:29.089 --> 00:05:29.099 align:start position:0%
+example and then we have eight and five
+ 
+
+00:05:29.099 --> 00:05:36.290 align:start position:0%
+example and then we have eight and five
+and<00:05:30.289><c> then</c><00:05:31.289><c> we</c><00:05:31.440><c> have</c><00:05:31.849><c> 90</c><00:05:32.849><c> and</c><00:05:33.060><c> 45</c><00:05:33.660><c> and</c><00:05:35.000><c> that's</c><00:05:36.000><c> it</c>
+
+00:05:36.290 --> 00:05:36.300 align:start position:0%
+and then we have 90 and 45 and that's it
+ 
+
+00:05:36.300 --> 00:05:37.850 align:start position:0%
+and then we have 90 and 45 and that's it
+look<00:05:36.720><c> at</c><00:05:36.840><c> that</c><00:05:36.960><c> I</c><00:05:36.990><c> can</c><00:05:37.080><c> get</c><00:05:37.320><c> rid</c><00:05:37.349><c> of</c><00:05:37.500><c> all</c><00:05:37.650><c> this</c>
+
+00:05:37.850 --> 00:05:37.860 align:start position:0%
+look at that I can get rid of all this
+ 
+
+00:05:37.860 --> 00:05:39.620 align:start position:0%
+look at that I can get rid of all this
+code<00:05:38.130><c> and</c><00:05:38.400><c> this</c><00:05:38.610><c> is</c><00:05:38.760><c> what</c><00:05:38.909><c> we</c><00:05:39.030><c> end</c><00:05:39.180><c> up</c><00:05:39.300><c> with</c><00:05:39.479><c> a</c>
+
+00:05:39.620 --> 00:05:39.630 align:start position:0%
+code and this is what we end up with a
+ 
+
+00:05:39.630 --> 00:05:42.230 align:start position:0%
+code and this is what we end up with a
+nice<00:05:39.840><c> clean</c><00:05:40.440><c> and</c><00:05:40.740><c> easy</c><00:05:40.979><c> to</c><00:05:41.099><c> read</c><00:05:41.370><c> program</c><00:05:41.760><c> if</c><00:05:42.000><c> I</c>
+
+00:05:42.230 --> 00:05:42.240 align:start position:0%
+nice clean and easy to read program if I
+ 
+
+00:05:42.240 --> 00:05:44.570 align:start position:0%
+nice clean and easy to read program if I
+launch<00:05:42.449><c> my</c><00:05:43.199><c> program</c><00:05:43.560><c> you</c><00:05:44.070><c> can</c><00:05:44.220><c> see</c><00:05:44.370><c> that</c><00:05:44.490><c> we</c>
+
+00:05:44.570 --> 00:05:44.580 align:start position:0%
+launch my program you can see that we
+ 
+
+00:05:44.580 --> 00:05:47.000 align:start position:0%
+launch my program you can see that we
+get<00:05:44.760><c> the</c><00:05:45.360><c> correct</c><00:05:45.389><c> values</c><00:05:45.930><c> here</c><00:05:46.080><c> so</c><00:05:46.320><c> this</c><00:05:46.800><c> is</c><00:05:46.949><c> a</c>
+
+00:05:47.000 --> 00:05:47.010 align:start position:0%
+get the correct values here so this is a
+ 
+
+00:05:47.010 --> 00:05:48.649 align:start position:0%
+get the correct values here so this is a
+pretty<00:05:47.159><c> simple</c><00:05:47.430><c> example</c><00:05:47.550><c> but</c><00:05:48.210><c> I</c><00:05:48.389><c> think</c><00:05:48.570><c> it's</c>
+
+00:05:48.649 --> 00:05:48.659 align:start position:0%
+pretty simple example but I think it's
+ 
+
+00:05:48.659 --> 00:05:49.790 align:start position:0%
+pretty simple example but I think it's
+effective<00:05:49.050><c> in</c><00:05:49.139><c> demonstrating</c><00:05:49.590><c> that</c>
+
+00:05:49.790 --> 00:05:49.800 align:start position:0%
+effective in demonstrating that
+ 
+
+00:05:49.800 --> 00:05:51.170 align:start position:0%
+effective in demonstrating that
+functions<00:05:50.220><c> are</c><00:05:50.370><c> really</c><00:05:50.520><c> really</c><00:05:50.789><c> important</c>
+
+00:05:51.170 --> 00:05:51.180 align:start position:0%
+functions are really really important
+ 
+
+00:05:51.180 --> 00:05:52.730 align:start position:0%
+functions are really really important
+you<00:05:51.539><c> should</c><00:05:51.570><c> be</c><00:05:51.870><c> aiming</c><00:05:52.050><c> to</c><00:05:52.289><c> split</c><00:05:52.500><c> up</c><00:05:52.590><c> your</c>
+
+00:05:52.730 --> 00:05:52.740 align:start position:0%
+you should be aiming to split up your
+ 
+
+00:05:52.740 --> 00:05:54.890 align:start position:0%
+you should be aiming to split up your
+code<00:05:52.919><c> into</c><00:05:53.220><c> many</c><00:05:53.460><c> many</c><00:05:53.849><c> functions</c><00:05:54.180><c> however</c>
+
+00:05:54.890 --> 00:05:54.900 align:start position:0%
+code into many many functions however
+ 
+
+00:05:54.900 --> 00:05:56.420 align:start position:0%
+code into many many functions however
+one<00:05:55.199><c> thing</c><00:05:55.349><c> that</c><00:05:55.500><c> I</c><00:05:55.560><c> want</c><00:05:55.740><c> to</c><00:05:55.800><c> stress</c><00:05:56.010><c> is</c><00:05:56.190><c> don't</c>
+
+00:05:56.420 --> 00:05:56.430 align:start position:0%
+one thing that I want to stress is don't
+ 
+
+00:05:56.430 --> 00:05:58.219 align:start position:0%
+one thing that I want to stress is don't
+go<00:05:56.550><c> overboard</c><00:05:57.030><c> you</c><00:05:57.300><c> don't</c><00:05:57.570><c> need</c><00:05:57.690><c> a</c><00:05:57.720><c> function</c>
+
+00:05:58.219 --> 00:05:58.229 align:start position:0%
+go overboard you don't need a function
+ 
+
+00:05:58.229 --> 00:06:00.439 align:start position:0%
+go overboard you don't need a function
+for<00:05:58.380><c> absolutely</c><00:05:58.979><c> every</c><00:05:59.580><c> line</c><00:05:59.760><c> of</c><00:05:59.789><c> code</c><00:05:59.970><c> that's</c>
+
+00:06:00.439 --> 00:06:00.449 align:start position:0%
+for absolutely every line of code that's
+ 
+
+00:06:00.449 --> 00:06:02.839 align:start position:0%
+for absolutely every line of code that's
+not<00:06:00.720><c> going</c><00:06:01.500><c> to</c><00:06:01.560><c> be</c><00:06:01.680><c> good</c><00:06:01.860><c> for</c><00:06:02.070><c> anyone</c><00:06:02.340><c> it's</c>
+
+00:06:02.839 --> 00:06:02.849 align:start position:0%
+not going to be good for anyone it's
+ 
+
+00:06:02.849 --> 00:06:04.490 align:start position:0%
+not going to be good for anyone it's
+going<00:06:03.000><c> to</c><00:06:03.060><c> be</c><00:06:03.180><c> hard</c><00:06:03.419><c> to</c><00:06:03.510><c> maintain</c><00:06:03.750><c> your</c><00:06:04.260><c> code</c>
+
+00:06:04.490 --> 00:06:04.500 align:start position:0%
+going to be hard to maintain your code
+ 
+
+00:06:04.500 --> 00:06:06.020 align:start position:0%
+going to be hard to maintain your code
+is<00:06:04.620><c> going</c><00:06:04.710><c> to</c><00:06:04.800><c> look</c><00:06:04.919><c> messy</c><00:06:05.130><c> and</c><00:06:05.430><c> cluttered</c><00:06:05.610><c> and</c>
+
+00:06:06.020 --> 00:06:06.030 align:start position:0%
+is going to look messy and cluttered and
+ 
+
+00:06:06.030 --> 00:06:07.279 align:start position:0%
+is going to look messy and cluttered and
+it's<00:06:06.449><c> actually</c><00:06:06.690><c> going</c><00:06:06.780><c> to</c><00:06:06.870><c> make</c><00:06:06.990><c> your</c><00:06:07.110><c> program</c>
+
+00:06:07.279 --> 00:06:07.289 align:start position:0%
+it's actually going to make your program
+ 
+
+00:06:07.289 --> 00:06:09.529 align:start position:0%
+it's actually going to make your program
+slower<00:06:07.800><c> every</c><00:06:08.159><c> time</c><00:06:08.699><c> we</c><00:06:08.820><c> call</c><00:06:09.000><c> a</c><00:06:09.030><c> function</c>
+
+00:06:09.529 --> 00:06:09.539 align:start position:0%
+slower every time we call a function
+ 
+
+00:06:09.539 --> 00:06:11.779 align:start position:0%
+slower every time we call a function
+asterisk<00:06:10.320><c> the</c><00:06:10.680><c> compiler</c><00:06:11.070><c> generates</c><00:06:11.460><c> a</c><00:06:11.580><c> call</c>
+
+00:06:11.779 --> 00:06:11.789 align:start position:0%
+asterisk the compiler generates a call
+ 
+
+00:06:11.789 --> 00:06:13.790 align:start position:0%
+asterisk the compiler generates a call
+instruction<00:06:12.030><c> what</c><00:06:12.780><c> it</c><00:06:12.930><c> basically</c><00:06:13.050><c> means</c><00:06:13.320><c> is</c>
+
+00:06:13.790 --> 00:06:13.800 align:start position:0%
+instruction what it basically means is
+ 
+
+00:06:13.800 --> 00:06:16.430 align:start position:0%
+instruction what it basically means is
+that<00:06:13.830><c> in</c><00:06:14.729><c> a</c><00:06:14.909><c> running</c><00:06:15.180><c> program</c><00:06:15.389><c> in</c><00:06:16.080><c> order</c><00:06:16.289><c> for</c>
+
+00:06:16.430 --> 00:06:16.440 align:start position:0%
+that in a running program in order for
+ 
+
+00:06:16.440 --> 00:06:18.500 align:start position:0%
+that in a running program in order for
+us<00:06:16.530><c> to</c><00:06:16.680><c> call</c><00:06:16.830><c> a</c><00:06:16.889><c> function</c><00:06:17.099><c> we</c><00:06:17.940><c> need</c><00:06:18.090><c> to</c><00:06:18.240><c> create</c>
+
+00:06:18.500 --> 00:06:18.510 align:start position:0%
+us to call a function we need to create
+ 
+
+00:06:18.510 --> 00:06:20.480 align:start position:0%
+us to call a function we need to create
+the<00:06:19.020><c> entire</c><00:06:19.289><c> stack</c><00:06:19.590><c> frame</c><00:06:19.860><c> for</c><00:06:20.070><c> the</c><00:06:20.130><c> function</c>
+
+00:06:20.480 --> 00:06:20.490 align:start position:0%
+the entire stack frame for the function
+ 
+
+00:06:20.490 --> 00:06:21.920 align:start position:0%
+the entire stack frame for the function
+meaning<00:06:20.639><c> we</c><00:06:20.789><c> have</c><00:06:20.909><c> to</c><00:06:21.030><c> push</c><00:06:21.270><c> things</c><00:06:21.570><c> like</c><00:06:21.780><c> the</c>
+
+00:06:21.920 --> 00:06:21.930 align:start position:0%
+meaning we have to push things like the
+ 
+
+00:06:21.930 --> 00:06:23.450 align:start position:0%
+meaning we have to push things like the
+parameters<00:06:22.440><c> onto</c><00:06:22.710><c> the</c><00:06:22.800><c> stack</c><00:06:23.039><c> we</c><00:06:23.250><c> have</c><00:06:23.370><c> to</c>
+
+00:06:23.450 --> 00:06:23.460 align:start position:0%
+parameters onto the stack we have to
+ 
+
+00:06:23.460 --> 00:06:24.710 align:start position:0%
+parameters onto the stack we have to
+also<00:06:23.610><c> push</c><00:06:23.940><c> something</c><00:06:24.120><c> called</c><00:06:24.389><c> a</c><00:06:24.449><c> return</c>
+
+00:06:24.710 --> 00:06:24.720 align:start position:0%
+also push something called a return
+ 
+
+00:06:24.720 --> 00:06:26.480 align:start position:0%
+also push something called a return
+address<00:06:24.900><c> onto</c><00:06:25.289><c> the</c><00:06:25.409><c> stack</c><00:06:25.620><c> and</c><00:06:25.830><c> then</c><00:06:26.250><c> what</c><00:06:26.400><c> we</c>
+
+00:06:26.480 --> 00:06:26.490 align:start position:0%
+address onto the stack and then what we
+ 
+
+00:06:26.490 --> 00:06:27.980 align:start position:0%
+address onto the stack and then what we
+do<00:06:26.639><c> is</c><00:06:26.669><c> we</c><00:06:26.909><c> actually</c><00:06:27.300><c> jump</c><00:06:27.659><c> to</c><00:06:27.750><c> a</c><00:06:27.900><c> different</c>
+
+00:06:27.980 --> 00:06:27.990 align:start position:0%
+do is we actually jump to a different
+ 
+
+00:06:27.990 --> 00:06:30.529 align:start position:0%
+do is we actually jump to a different
+part<00:06:28.650><c> of</c><00:06:28.830><c> our</c><00:06:28.979><c> binary</c><00:06:29.280><c> in</c><00:06:29.729><c> order</c><00:06:30.240><c> to</c><00:06:30.300><c> start</c>
+
+00:06:30.529 --> 00:06:30.539 align:start position:0%
+part of our binary in order to start
+ 
+
+00:06:30.539 --> 00:06:32.269 align:start position:0%
+part of our binary in order to start
+executing<00:06:31.020><c> the</c><00:06:31.229><c> instructions</c><00:06:31.770><c> from</c><00:06:32.159><c> our</c>
+
+00:06:32.269 --> 00:06:32.279 align:start position:0%
+executing the instructions from our
+ 
+
+00:06:32.279 --> 00:06:34.070 align:start position:0%
+executing the instructions from our
+function<00:06:32.760><c> and</c><00:06:32.880><c> that</c><00:06:33.210><c> return</c><00:06:33.539><c> value</c><00:06:33.570><c> that</c><00:06:33.990><c> we</c>
+
+00:06:34.070 --> 00:06:34.080 align:start position:0%
+function and that return value that we
+ 
+
+00:06:34.080 --> 00:06:35.629 align:start position:0%
+function and that return value that we
+push<00:06:34.320><c> we</c><00:06:34.560><c> need</c><00:06:34.740><c> to</c><00:06:34.860><c> get</c><00:06:35.010><c> back</c><00:06:35.190><c> to</c><00:06:35.370><c> where</c><00:06:35.520><c> we</c>
+
+00:06:35.629 --> 00:06:35.639 align:start position:0%
+push we need to get back to where we
+ 
+
+00:06:35.639 --> 00:06:37.100 align:start position:0%
+push we need to get back to where we
+originally<00:06:35.669><c> were</c><00:06:36.300><c> before</c><00:06:36.690><c> we</c><00:06:36.810><c> call</c><00:06:36.990><c> the</c>
+
+00:06:37.100 --> 00:06:37.110 align:start position:0%
+originally were before we call the
+ 
+
+00:06:37.110 --> 00:06:38.719 align:start position:0%
+originally were before we call the
+function<00:06:37.229><c> so</c><00:06:37.680><c> this</c><00:06:37.770><c> is</c><00:06:37.889><c> called</c><00:06:38.130><c> like</c><00:06:38.279><c> jumping</c>
+
+00:06:38.719 --> 00:06:38.729 align:start position:0%
+function so this is called like jumping
+ 
+
+00:06:38.729 --> 00:06:40.310 align:start position:0%
+function so this is called like jumping
+around<00:06:38.849><c> memory</c><00:06:39.479><c> in</c><00:06:39.719><c> order</c><00:06:39.900><c> to</c><00:06:39.990><c> execute</c>
+
+00:06:40.310 --> 00:06:40.320 align:start position:0%
+around memory in order to execute
+ 
+
+00:06:40.320 --> 00:06:41.690 align:start position:0%
+around memory in order to execute
+function<00:06:40.620><c> instructions</c><00:06:41.279><c> and</c><00:06:41.430><c> all</c><00:06:41.520><c> of</c><00:06:41.639><c> that</c>
+
+00:06:41.690 --> 00:06:41.700 align:start position:0%
+function instructions and all of that
+ 
+
+00:06:41.700 --> 00:06:44.029 align:start position:0%
+function instructions and all of that
+takes<00:06:42.210><c> time</c><00:06:42.510><c> so</c><00:06:43.080><c> it</c><00:06:43.200><c> slows</c><00:06:43.380><c> down</c><00:06:43.409><c> our</c><00:06:43.650><c> program</c>
+
+00:06:44.029 --> 00:06:44.039 align:start position:0%
+takes time so it slows down our program
+ 
+
+00:06:44.039 --> 00:06:45.800 align:start position:0%
+takes time so it slows down our program
+now<00:06:44.279><c> the</c><00:06:44.370><c> reason</c><00:06:44.610><c> I</c><00:06:44.669><c> said</c><00:06:44.849><c> asterisk</c><00:06:45.419><c> earlier</c>
+
+00:06:45.800 --> 00:06:45.810 align:start position:0%
+now the reason I said asterisk earlier
+ 
+
+00:06:45.810 --> 00:06:47.360 align:start position:0%
+now the reason I said asterisk earlier
+was<00:06:46.020><c> because</c><00:06:46.050><c> this</c><00:06:46.529><c> is</c><00:06:46.650><c> all</c><00:06:46.800><c> assuming</c><00:06:47.070><c> that</c>
+
+00:06:47.360 --> 00:06:47.370 align:start position:0%
+was because this is all assuming that
+ 
+
+00:06:47.370 --> 00:06:48.620 align:start position:0%
+was because this is all assuming that
+the<00:06:47.430><c> compiler</c><00:06:47.729><c> decides</c><00:06:48.120><c> to</c><00:06:48.300><c> keep</c><00:06:48.479><c> our</c>
+
+00:06:48.620 --> 00:06:48.630 align:start position:0%
+the compiler decides to keep our
+ 
+
+00:06:48.630 --> 00:06:50.209 align:start position:0%
+the compiler decides to keep our
+function<00:06:49.050><c> as</c><00:06:49.200><c> an</c><00:06:49.320><c> actual</c><00:06:49.560><c> function</c><00:06:50.010><c> and</c>
+
+00:06:50.209 --> 00:06:50.219 align:start position:0%
+function as an actual function and
+ 
+
+00:06:50.219 --> 00:06:51.920 align:start position:0%
+function as an actual function and
+doesn't<00:06:50.550><c> inline</c><00:06:50.909><c> it</c><00:06:51.090><c> we're</c><00:06:51.389><c> going</c><00:06:51.510><c> to</c><00:06:51.570><c> talk</c><00:06:51.719><c> in</c>
+
+00:06:51.920 --> 00:06:51.930 align:start position:0%
+doesn't inline it we're going to talk in
+ 
+
+00:06:51.930 --> 00:06:53.600 align:start position:0%
+doesn't inline it we're going to talk in
+depth<00:06:52.110><c> about</c><00:06:52.200><c> inlining</c><00:06:52.919><c> in</c><00:06:53.130><c> a</c><00:06:53.219><c> future</c><00:06:53.520><c> video</c>
+
+00:06:53.600 --> 00:06:53.610 align:start position:0%
+depth about inlining in a future video
+ 
+
+00:06:53.610 --> 00:06:55.070 align:start position:0%
+depth about inlining in a future video
+so<00:06:54.060><c> the</c><00:06:54.150><c> reason</c><00:06:54.330><c> I'm</c><00:06:54.419><c> saying</c><00:06:54.599><c> all</c><00:06:54.779><c> this</c><00:06:54.900><c> is</c>
+
+00:06:55.070 --> 00:06:55.080 align:start position:0%
+so the reason I'm saying all this is
+ 
+
+00:06:55.080 --> 00:06:56.629 align:start position:0%
+so the reason I'm saying all this is
+because<00:06:55.229><c> you</c><00:06:55.469><c> don't</c><00:06:55.590><c> want</c><00:06:55.950><c> to</c><00:06:56.130><c> just</c><00:06:56.400><c> go</c><00:06:56.550><c> ahead</c>
+
+00:06:56.629 --> 00:06:56.639 align:start position:0%
+because you don't want to just go ahead
+ 
+
+00:06:56.639 --> 00:06:58.310 align:start position:0%
+because you don't want to just go ahead
+and<00:06:56.789><c> create</c><00:06:57.090><c> a</c><00:06:57.120><c> functions</c><00:06:57.539><c> absolutely</c><00:06:58.080><c> every</c>
+
+00:06:58.310 --> 00:06:58.320 align:start position:0%
+and create a functions absolutely every
+ 
+
+00:06:58.320 --> 00:06:59.990 align:start position:0%
+and create a functions absolutely every
+line<00:06:58.469><c> of</c><00:06:58.500><c> code</c><00:06:58.650><c> don't</c><00:06:58.979><c> be</c><00:06:59.130><c> ridiculous</c><00:06:59.610><c> about</c>
+
+00:06:59.990 --> 00:07:00.000 align:start position:0%
+line of code don't be ridiculous about
+ 
+
+00:07:00.000 --> 00:07:01.250 align:start position:0%
+line of code don't be ridiculous about
+it<00:07:00.060><c> it</c><00:07:00.360><c> takes</c><00:07:00.539><c> a</c><00:07:00.630><c> little</c><00:07:00.719><c> bit</c><00:07:00.870><c> of</c><00:07:00.960><c> experience</c>
+
+00:07:01.250 --> 00:07:01.260 align:start position:0%
+it it takes a little bit of experience
+ 
+
+00:07:01.260 --> 00:07:03.110 align:start position:0%
+it it takes a little bit of experience
+to<00:07:01.529><c> realize</c><00:07:01.950><c> what</c><00:07:02.219><c> you</c><00:07:02.250><c> need</c><00:07:02.460><c> a</c><00:07:02.490><c> function</c><00:07:02.849><c> for</c>
+
+00:07:03.110 --> 00:07:03.120 align:start position:0%
+to realize what you need a function for
+ 
+
+00:07:03.120 --> 00:07:04.850 align:start position:0%
+to realize what you need a function for
+but<00:07:03.630><c> basically</c><00:07:03.960><c> if</c><00:07:04.139><c> you</c><00:07:04.229><c> see</c><00:07:04.349><c> yourself</c><00:07:04.469><c> doing</c>
+
+00:07:04.850 --> 00:07:04.860 align:start position:0%
+but basically if you see yourself doing
+ 
+
+00:07:04.860 --> 00:07:05.959 align:start position:0%
+but basically if you see yourself doing
+a<00:07:05.039><c> common</c><00:07:05.430><c> task</c>
+
+00:07:05.959 --> 00:07:05.969 align:start position:0%
+a common task
+ 
+
+00:07:05.969 --> 00:07:08.330 align:start position:0%
+a common task
+multiple<00:07:06.779><c> times</c><00:07:06.960><c> create</c><00:07:07.830><c> a</c><00:07:07.860><c> function</c><00:07:08.219><c> for</c>
+
+00:07:08.330 --> 00:07:08.340 align:start position:0%
+multiple times create a function for
+ 
+
+00:07:08.340 --> 00:07:10.550 align:start position:0%
+multiple times create a function for
+that<00:07:08.460><c> the</c><00:07:08.729><c> primary</c><00:07:09.150><c> point</c><00:07:09.510><c> of</c><00:07:09.750><c> functions</c><00:07:10.349><c> is</c>
+
+00:07:10.550 --> 00:07:10.560 align:start position:0%
+that the primary point of functions is
+ 
+
+00:07:10.560 --> 00:07:13.040 align:start position:0%
+that the primary point of functions is
+to<00:07:10.620><c> prevent</c><00:07:11.099><c> code</c><00:07:11.460><c> duplication</c><00:07:11.690><c> we</c><00:07:12.690><c> don't</c>
+
+00:07:13.040 --> 00:07:13.050 align:start position:0%
+to prevent code duplication we don't
+ 
+
+00:07:13.050 --> 00:07:15.430 align:start position:0%
+to prevent code duplication we don't
+want<00:07:13.469><c> to</c><00:07:13.620><c> just</c><00:07:13.800><c> be</c><00:07:13.919><c> copying</c><00:07:14.370><c> and</c><00:07:14.520><c> pasting</c><00:07:14.700><c> code</c>
+
+00:07:15.430 --> 00:07:15.440 align:start position:0%
+want to just be copying and pasting code
+ 
+
+00:07:15.440 --> 00:07:16.610 align:start position:0%
+want to just be copying and pasting code
+everywhere
+
+00:07:16.610 --> 00:07:16.620 align:start position:0%
+everywhere
+ 
+
+00:07:16.620 --> 00:07:18.230 align:start position:0%
+everywhere
+now<00:07:16.860><c> if</c><00:07:16.919><c> we</c><00:07:17.070><c> go</c><00:07:17.219><c> back</c><00:07:17.370><c> to</c><00:07:17.400><c> our</c><00:07:17.610><c> code</c><00:07:17.789><c> for</c><00:07:18.029><c> just</c><00:07:18.180><c> a</c>
+
+00:07:18.230 --> 00:07:18.240 align:start position:0%
+now if we go back to our code for just a
+ 
+
+00:07:18.240 --> 00:07:19.670 align:start position:0%
+now if we go back to our code for just a
+second<00:07:18.599><c> you</c><00:07:18.750><c> might</c><00:07:18.870><c> have</c><00:07:19.020><c> noticed</c><00:07:19.349><c> something</c>
+
+00:07:19.670 --> 00:07:19.680 align:start position:0%
+second you might have noticed something
+ 
+
+00:07:19.680 --> 00:07:21.019 align:start position:0%
+second you might have noticed something
+a<00:07:19.740><c> little</c><00:07:19.979><c> bit</c><00:07:20.070><c> odd</c><00:07:20.219><c> about</c><00:07:20.610><c> this</c><00:07:20.789><c> main</c>
+
+00:07:21.019 --> 00:07:21.029 align:start position:0%
+a little bit odd about this main
+ 
+
+00:07:21.029 --> 00:07:23.420 align:start position:0%
+a little bit odd about this main
+function<00:07:21.270><c> it</c><00:07:21.630><c> says</c><00:07:22.349><c> that</c><00:07:22.590><c> it's</c><00:07:22.710><c> return</c><00:07:23.039><c> value</c>
+
+00:07:23.420 --> 00:07:23.430 align:start position:0%
+function it says that it's return value
+ 
+
+00:07:23.430 --> 00:07:25.760 align:start position:0%
+function it says that it's return value
+is<00:07:23.460><c> int</c><00:07:23.880><c> however</c><00:07:24.360><c> the</c><00:07:24.930><c> return</c><00:07:25.260><c> keyword</c><00:07:25.500><c> is</c>
+
+00:07:25.760 --> 00:07:25.770 align:start position:0%
+is int however the return keyword is
+ 
+
+00:07:25.770 --> 00:07:28.370 align:start position:0%
+is int however the return keyword is
+nowhere<00:07:26.070><c> to</c><00:07:26.130><c> be</c><00:07:26.370><c> found</c><00:07:26.400><c> and</c><00:07:27.110><c> I'm</c><00:07:28.110><c> obviously</c>
+
+00:07:28.370 --> 00:07:28.380 align:start position:0%
+nowhere to be found and I'm obviously
+ 
+
+00:07:28.380 --> 00:07:31.070 align:start position:0%
+nowhere to be found and I'm obviously
+not<00:07:28.770><c> returning</c><00:07:29.250><c> anything</c><00:07:29.460><c> so</c><00:07:29.969><c> if</c><00:07:30.090><c> I</c><00:07:30.210><c> specify</c><00:07:30.450><c> a</c>
+
+00:07:31.070 --> 00:07:31.080 align:start position:0%
+not returning anything so if I specify a
+ 
+
+00:07:31.080 --> 00:07:32.990 align:start position:0%
+not returning anything so if I specify a
+return<00:07:31.590><c> value</c><00:07:31.770><c> do</c><00:07:32.159><c> I</c><00:07:32.190><c> actually</c><00:07:32.490><c> need</c><00:07:32.969><c> to</c>
+
+00:07:32.990 --> 00:07:33.000 align:start position:0%
+return value do I actually need to
+ 
+
+00:07:33.000 --> 00:07:34.969 align:start position:0%
+return value do I actually need to
+return<00:07:33.360><c> something</c><00:07:33.659><c> let's</c><00:07:34.349><c> go</c><00:07:34.469><c> ahead</c><00:07:34.560><c> and</c><00:07:34.800><c> try</c>
+
+00:07:34.969 --> 00:07:34.979 align:start position:0%
+return something let's go ahead and try
+ 
+
+00:07:34.979 --> 00:07:36.379 align:start position:0%
+return something let's go ahead and try
+and<00:07:35.130><c> just</c><00:07:35.279><c> do</c><00:07:35.370><c> nothing</c><00:07:35.400><c> in</c><00:07:35.880><c> this</c><00:07:36.000><c> multiply</c>
+
+00:07:36.379 --> 00:07:36.389 align:start position:0%
+and just do nothing in this multiply
+ 
+
+00:07:36.389 --> 00:07:38.029 align:start position:0%
+and just do nothing in this multiply
+function<00:07:36.570><c> I'll</c><00:07:36.900><c> hit</c><00:07:37.050><c> control</c><00:07:37.320><c> f7</c><00:07:37.469><c> to</c><00:07:37.770><c> compile</c>
+
+00:07:38.029 --> 00:07:38.039 align:start position:0%
+function I'll hit control f7 to compile
+ 
+
+00:07:38.039 --> 00:07:38.570 align:start position:0%
+function I'll hit control f7 to compile
+my<00:07:38.070><c> file</c>
+
+00:07:38.570 --> 00:07:38.580 align:start position:0%
+my file
+ 
+
+00:07:38.580 --> 00:07:39.709 align:start position:0%
+my file
+look<00:07:38.789><c> at</c><00:07:38.880><c> this</c><00:07:38.969><c> I'm</c><00:07:39.150><c> getting</c><00:07:39.300><c> an</c><00:07:39.479><c> error</c>
+
+00:07:39.709 --> 00:07:39.719 align:start position:0%
+look at this I'm getting an error
+ 
+
+00:07:39.719 --> 00:07:41.269 align:start position:0%
+look at this I'm getting an error
+telling<00:07:40.050><c> me</c><00:07:40.260><c> that</c><00:07:40.409><c> multiply</c><00:07:40.770><c> must</c><00:07:40.979><c> return</c><00:07:41.219><c> a</c>
+
+00:07:41.269 --> 00:07:41.279 align:start position:0%
+telling me that multiply must return a
+ 
+
+00:07:41.279 --> 00:07:41.870 align:start position:0%
+telling me that multiply must return a
+value
+
+00:07:41.870 --> 00:07:41.880 align:start position:0%
+value
+ 
+
+00:07:41.880 --> 00:07:43.370 align:start position:0%
+value
+so<00:07:42.090><c> do</c><00:07:42.240><c> functions</c><00:07:42.659><c> with</c><00:07:42.810><c> the</c><00:07:42.840><c> return</c><00:07:43.139><c> type</c>
+
+00:07:43.370 --> 00:07:43.380 align:start position:0%
+so do functions with the return type
+ 
+
+00:07:43.380 --> 00:07:45.170 align:start position:0%
+so do functions with the return type
+actually<00:07:43.680><c> need</c><00:07:44.070><c> to</c><00:07:44.219><c> return</c><00:07:44.490><c> values</c><00:07:44.880><c> the</c>
+
+00:07:45.170 --> 00:07:45.180 align:start position:0%
+actually need to return values the
+ 
+
+00:07:45.180 --> 00:07:47.930 align:start position:0%
+actually need to return values the
+answer<00:07:45.510><c> is</c><00:07:45.690><c> yes</c><00:07:46.110><c> they</c><00:07:46.469><c> do</c><00:07:46.529><c> the</c><00:07:47.219><c> main</c><00:07:47.460><c> function</c>
+
+00:07:47.930 --> 00:07:47.940 align:start position:0%
+answer is yes they do the main function
+ 
+
+00:07:47.940 --> 00:07:50.180 align:start position:0%
+answer is yes they do the main function
+is<00:07:48.090><c> actually</c><00:07:48.599><c> a</c><00:07:48.630><c> special</c><00:07:48.990><c> function</c><00:07:49.380><c> the</c><00:07:50.010><c> main</c>
+
+00:07:50.180 --> 00:07:50.190 align:start position:0%
+is actually a special function the main
+ 
+
+00:07:50.190 --> 00:07:52.399 align:start position:0%
+is actually a special function the main
+function<00:07:50.669><c> and</c><00:07:50.849><c> only</c><00:07:51.419><c> the</c><00:07:51.599><c> main</c><00:07:51.779><c> function</c><00:07:52.260><c> is</c>
+
+00:07:52.399 --> 00:07:52.409 align:start position:0%
+function and only the main function is
+ 
+
+00:07:52.409 --> 00:07:54.920 align:start position:0%
+function and only the main function is
+exempt<00:07:53.039><c> from</c><00:07:53.070><c> this</c><00:07:53.430><c> kind</c><00:07:53.789><c> of</c><00:07:54.000><c> must</c><00:07:54.510><c> return</c><00:07:54.870><c> a</c>
+
+00:07:54.920 --> 00:07:54.930 align:start position:0%
+exempt from this kind of must return a
+ 
+
+00:07:54.930 --> 00:07:56.750 align:start position:0%
+exempt from this kind of must return a
+value<00:07:55.169><c> if</c><00:07:55.590><c> you</c><00:07:55.740><c> don't</c><00:07:55.919><c> specify</c><00:07:56.159><c> a</c><00:07:56.430><c> return</c>
+
+00:07:56.750 --> 00:07:56.760 align:start position:0%
+value if you don't specify a return
+ 
+
+00:07:56.760 --> 00:07:58.730 align:start position:0%
+value if you don't specify a return
+value<00:07:56.969><c> it</c><00:07:57.330><c> will</c><00:07:57.630><c> automatically</c><00:07:58.380><c> assume</c><00:07:58.560><c> that</c>
+
+00:07:58.730 --> 00:07:58.740 align:start position:0%
+value it will automatically assume that
+ 
+
+00:07:58.740 --> 00:08:00.080 align:start position:0%
+value it will automatically assume that
+you're<00:07:58.979><c> returning</c><00:07:59.219><c> zero</c><00:07:59.580><c> so</c><00:07:59.849><c> we'll</c><00:07:59.940><c> be</c>
+
+00:08:00.080 --> 00:08:00.090 align:start position:0%
+you're returning zero so we'll be
+ 
+
+00:08:00.090 --> 00:08:02.149 align:start position:0%
+you're returning zero so we'll be
+identical<00:08:00.779><c> to</c><00:08:00.870><c> if</c><00:08:01.020><c> I</c><00:08:01.169><c> had</c><00:08:01.320><c> written</c><00:08:01.500><c> this</c><00:08:01.770><c> this</c>
+
+00:08:02.149 --> 00:08:02.159 align:start position:0%
+identical to if I had written this this
+ 
+
+00:08:02.159 --> 00:08:04.279 align:start position:0%
+identical to if I had written this this
+is<00:08:02.340><c> just</c><00:08:02.520><c> a</c><00:08:02.580><c> feature</c><00:08:02.760><c> of</c><00:08:02.909><c> modern</c><00:08:03.300><c> CNC</c><00:08:03.779><c> but</c><00:08:04.110><c> lost</c>
+
+00:08:04.279 --> 00:08:04.289 align:start position:0%
+is just a feature of modern CNC but lost
+ 
+
+00:08:04.289 --> 00:08:06.290 align:start position:0%
+is just a feature of modern CNC but lost
+versions<00:08:04.680><c> that</c><00:08:04.830><c> lets</c><00:08:05.099><c> you</c><00:08:05.310><c> just</c><00:08:05.520><c> keep</c><00:08:06.270><c> your</c>
+
+00:08:06.290 --> 00:08:06.300 align:start position:0%
+versions that lets you just keep your
+ 
+
+00:08:06.300 --> 00:08:07.909 align:start position:0%
+versions that lets you just keep your
+code<00:08:06.539><c> a</c><00:08:06.599><c> little</c><00:08:06.810><c> bit</c><00:08:06.900><c> cleaner</c><00:08:07.080><c> and</c><00:08:07.380><c> just</c><00:08:07.800><c> as</c>
+
+00:08:07.909 --> 00:08:07.919 align:start position:0%
+code a little bit cleaner and just as
+ 
+
+00:08:07.919 --> 00:08:09.680 align:start position:0%
+code a little bit cleaner and just as
+fun<00:08:08.130><c> know</c><00:08:08.520><c> that</c><00:08:08.669><c> this</c><00:08:08.820><c> must</c><00:08:09.120><c> return</c><00:08:09.419><c> a</c><00:08:09.479><c> value</c>
+
+00:08:09.680 --> 00:08:09.690 align:start position:0%
+fun know that this must return a value
+ 
+
+00:08:09.690 --> 00:08:11.689 align:start position:0%
+fun know that this must return a value
+thing<00:08:10.110><c> is</c><00:08:10.289><c> actually</c><00:08:10.830><c> something</c><00:08:11.070><c> that</c><00:08:11.310><c> only</c>
+
+00:08:11.689 --> 00:08:11.699 align:start position:0%
+thing is actually something that only
+ 
+
+00:08:11.699 --> 00:08:13.670 align:start position:0%
+thing is actually something that only
+applies<00:08:12.270><c> in</c><00:08:12.510><c> debug</c><00:08:12.840><c> mode</c><00:08:12.870><c> we</c><00:08:13.260><c> compile</c><00:08:13.560><c> in</c>
+
+00:08:13.670 --> 00:08:13.680 align:start position:0%
+applies in debug mode we compile in
+ 
+
+00:08:13.680 --> 00:08:15.320 align:start position:0%
+applies in debug mode we compile in
+release<00:08:13.919><c> mode</c><00:08:14.159><c> here</c><00:08:14.370><c> you'll</c><00:08:14.909><c> see</c><00:08:15.090><c> that</c><00:08:15.180><c> we</c>
+
+00:08:15.320 --> 00:08:15.330 align:start position:0%
+release mode here you'll see that we
+ 
+
+00:08:15.330 --> 00:08:16.939 align:start position:0%
+release mode here you'll see that we
+actually<00:08:15.360><c> don't</c><00:08:15.810><c> get</c><00:08:15.990><c> an</c><00:08:16.110><c> error</c><00:08:16.380><c> that's</c><00:08:16.800><c> not</c>
+
+00:08:16.939 --> 00:08:16.949 align:start position:0%
+actually don't get an error that's not
+ 
+
+00:08:16.949 --> 00:08:18.110 align:start position:0%
+actually don't get an error that's not
+to<00:08:17.070><c> say</c><00:08:17.219><c> that</c><00:08:17.250><c> what</c><00:08:17.520><c> we're</c><00:08:17.669><c> doing</c><00:08:17.760><c> here</c><00:08:18.000><c> is</c>
+
+00:08:18.110 --> 00:08:18.120 align:start position:0%
+to say that what we're doing here is
+ 
+
+00:08:18.120 --> 00:08:20.240 align:start position:0%
+to say that what we're doing here is
+correct<00:08:18.539><c> because</c><00:08:18.930><c> if</c><00:08:19.320><c> we</c><00:08:19.529><c> actually</c><00:08:19.680><c> do</c>
+
+00:08:20.240 --> 00:08:20.250 align:start position:0%
+correct because if we actually do
+ 
+
+00:08:20.250 --> 00:08:22.010 align:start position:0%
+correct because if we actually do
+capture<00:08:20.760><c> that</c><00:08:21.029><c> return</c><00:08:21.330><c> value</c><00:08:21.360><c> so</c><00:08:21.810><c> to</c><00:08:21.870><c> do</c>
+
+00:08:22.010 --> 00:08:22.020 align:start position:0%
+capture that return value so to do
+ 
+
+00:08:22.020 --> 00:08:23.329 align:start position:0%
+capture that return value so to do
+something<00:08:22.349><c> we</c><00:08:22.500><c> will</c><00:08:22.650><c> get</c><00:08:22.800><c> undefined</c><00:08:23.250><c> behavior</c>
+
+00:08:23.329 --> 00:08:23.339 align:start position:0%
+something we will get undefined behavior
+ 
+
+00:08:23.339 --> 00:08:25.189 align:start position:0%
+something we will get undefined behavior
+it's<00:08:23.940><c> just</c><00:08:24.180><c> as</c><00:08:24.330><c> the</c><00:08:24.419><c> compiler</c><00:08:24.690><c> won't</c><00:08:25.020><c> actually</c>
+
+00:08:25.189 --> 00:08:25.199 align:start position:0%
+it's just as the compiler won't actually
+ 
+
+00:08:25.199 --> 00:08:26.120 align:start position:0%
+it's just as the compiler won't actually
+yell<00:08:25.710><c> at</c><00:08:25.830><c> us</c>
+
+00:08:26.120 --> 00:08:26.130 align:start position:0%
+yell at us
+ 
+
+00:08:26.130 --> 00:08:28.250 align:start position:0%
+yell at us
+however<00:08:26.400><c> in</c><00:08:26.820><c> debug</c><00:08:27.180><c> mode</c><00:08:27.360><c> with</c><00:08:27.599><c> certain</c><00:08:27.930><c> debug</c>
+
+00:08:28.250 --> 00:08:28.260 align:start position:0%
+however in debug mode with certain debug
+ 
+
+00:08:28.260 --> 00:08:31.700 align:start position:0%
+however in debug mode with certain debug
+compilation<00:08:29.130><c> flags</c><00:08:29.699><c> enabled</c><00:08:30.510><c> we</c><00:08:30.810><c> will</c><00:08:31.050><c> get</c><00:08:31.589><c> an</c>
+
+00:08:31.700 --> 00:08:31.710 align:start position:0%
+compilation flags enabled we will get an
+ 
+
+00:08:31.710 --> 00:08:33.589 align:start position:0%
+compilation flags enabled we will get an
+error<00:08:31.889><c> which</c><00:08:32.159><c> will</c><00:08:32.490><c> just</c><00:08:32.669><c> help</c><00:08:32.820><c> us</c><00:08:33.000><c> debug</c><00:08:33.449><c> our</c>
+
+00:08:33.589 --> 00:08:33.599 align:start position:0%
+error which will just help us debug our
+ 
+
+00:08:33.599 --> 00:08:35.540 align:start position:0%
+error which will just help us debug our
+code<00:08:33.810><c> because</c><00:08:34.199><c> at</c><00:08:34.409><c> no</c><00:08:34.620><c> point</c><00:08:34.890><c> should</c><00:08:35.159><c> you</c><00:08:35.370><c> be</c>
+
+00:08:35.540 --> 00:08:35.550 align:start position:0%
+code because at no point should you be
+ 
+
+00:08:35.550 --> 00:08:36.879 align:start position:0%
+code because at no point should you be
+writing<00:08:35.820><c> a</c><00:08:35.880><c> function</c>
+
+00:08:36.879 --> 00:08:36.889 align:start position:0%
+writing a function
+ 
+
+00:08:36.889 --> 00:08:38.109 align:start position:0%
+writing a function
+it's<00:08:37.099><c> going</c><00:08:37.219><c> to</c><00:08:37.279><c> return</c><00:08:37.459><c> something</c><00:08:37.729><c> but</c>
+
+00:08:38.109 --> 00:08:38.119 align:start position:0%
+it's going to return something but
+ 
+
+00:08:38.119 --> 00:08:40.329 align:start position:0%
+it's going to return something but
+doesn't<00:08:38.509><c> okay</c><00:08:38.989><c> so</c><00:08:39.499><c> that's</c><00:08:39.649><c> pretty</c><00:08:39.889><c> much</c><00:08:40.039><c> a</c>
+
+00:08:40.329 --> 00:08:40.339 align:start position:0%
+doesn't okay so that's pretty much a
+ 
+
+00:08:40.339 --> 00:08:41.859 align:start position:0%
+doesn't okay so that's pretty much a
+basic<00:08:40.699><c> introduction</c><00:08:41.329><c> to</c><00:08:41.359><c> functions</c>
+
+00:08:41.859 --> 00:08:41.869 align:start position:0%
+basic introduction to functions
+ 
+
+00:08:41.869 --> 00:08:43.899 align:start position:0%
+basic introduction to functions
+functions<00:08:42.709><c> are</c><00:08:42.829><c> really</c><00:08:43.189><c> useful</c><00:08:43.399><c> I'm</c><00:08:43.729><c> going</c><00:08:43.849><c> to</c>
+
+00:08:43.899 --> 00:08:43.909 align:start position:0%
+functions are really useful I'm going to
+ 
+
+00:08:43.909 --> 00:08:45.549 align:start position:0%
+functions are really useful I'm going to
+be<00:08:43.969><c> writing</c><00:08:44.179><c> a</c><00:08:44.329><c> lot</c><00:08:44.629><c> more</c><00:08:45.049><c> of</c><00:08:45.199><c> them</c><00:08:45.350><c> in</c><00:08:45.470><c> the</c>
+
+00:08:45.549 --> 00:08:45.559 align:start position:0%
+be writing a lot more of them in the
+ 
+
+00:08:45.559 --> 00:08:47.739 align:start position:0%
+be writing a lot more of them in the
+future<00:08:45.769><c> every</c><00:08:46.399><c> program</c><00:08:46.850><c> is</c><00:08:47.059><c> built</c><00:08:47.329><c> from</c><00:08:47.600><c> a</c>
+
+00:08:47.739 --> 00:08:47.749 align:start position:0%
+future every program is built from a
+ 
+
+00:08:47.749 --> 00:08:49.629 align:start position:0%
+future every program is built from a
+collection<00:08:48.019><c> of</c><00:08:48.230><c> functions</c><00:08:48.709><c> so</c><00:08:48.980><c> this</c><00:08:49.459><c> is</c>
+
+00:08:49.629 --> 00:08:49.639 align:start position:0%
+collection of functions so this is
+ 
+
+00:08:49.639 --> 00:08:50.949 align:start position:0%
+collection of functions so this is
+really<00:08:49.910><c> important</c><00:08:50.239><c> stuff</c><00:08:50.299><c> if</c><00:08:50.660><c> you</c><00:08:50.809><c> don't</c>
+
+00:08:50.949 --> 00:08:50.959 align:start position:0%
+really important stuff if you don't
+ 
+
+00:08:50.959 --> 00:08:52.449 align:start position:0%
+really important stuff if you don't
+think<00:08:51.109><c> you</c><00:08:51.170><c> fully</c><00:08:51.350><c> understand</c><00:08:51.829><c> how</c><00:08:51.980><c> functions</c>
+
+00:08:52.449 --> 00:08:52.459 align:start position:0%
+think you fully understand how functions
+ 
+
+00:08:52.459 --> 00:08:54.309 align:start position:0%
+think you fully understand how functions
+work<00:08:52.819><c> don't</c><00:08:53.269><c> worry</c><00:08:53.569><c> because</c><00:08:53.809><c> throughout</c><00:08:54.199><c> this</c>
+
+00:08:54.309 --> 00:08:54.319 align:start position:0%
+work don't worry because throughout this
+ 
+
+00:08:54.319 --> 00:08:55.809 align:start position:0%
+work don't worry because throughout this
+series<00:08:54.589><c> we're</c><00:08:54.919><c> going</c><00:08:55.009><c> to</c><00:08:55.069><c> be</c><00:08:55.129><c> writing</c><00:08:55.399><c> so</c><00:08:55.639><c> many</c>
+
+00:08:55.809 --> 00:08:55.819 align:start position:0%
+series we're going to be writing so many
+ 
+
+00:08:55.819 --> 00:08:57.280 align:start position:0%
+series we're going to be writing so many
+functions<00:08:56.389><c> that</c><00:08:56.600><c> you're</c><00:08:56.809><c> just</c><00:08:56.959><c> going</c><00:08:57.079><c> to</c><00:08:57.139><c> get</c>
+
+00:08:57.280 --> 00:08:57.290 align:start position:0%
+functions that you're just going to get
+ 
+
+00:08:57.290 --> 00:08:58.780 align:start position:0%
+functions that you're just going to get
+used<00:08:57.470><c> to</c><00:08:57.559><c> it</c><00:08:57.709><c> and</c><00:08:57.829><c> the</c><00:08:58.009><c> best</c><00:08:58.160><c> way</c><00:08:58.279><c> to</c><00:08:58.309><c> learn</c><00:08:58.519><c> is</c>
+
+00:08:58.780 --> 00:08:58.790 align:start position:0%
+used to it and the best way to learn is
+ 
+
+00:08:58.790 --> 00:09:00.549 align:start position:0%
+used to it and the best way to learn is
+of<00:08:58.999><c> course</c><00:08:59.179><c> to</c><00:08:59.299><c> practice</c><00:08:59.449><c> we</c><00:09:00.049><c> also</c><00:09:00.199><c> commonly</c>
+
+00:09:00.549 --> 00:09:00.559 align:start position:0%
+of course to practice we also commonly
+ 
+
+00:09:00.559 --> 00:09:02.769 align:start position:0%
+of course to practice we also commonly
+break<00:09:00.829><c> up</c><00:09:01.009><c> functions</c><00:09:01.459><c> into</c><00:09:01.790><c> declarations</c><00:09:02.569><c> and</c>
+
+00:09:02.769 --> 00:09:02.779 align:start position:0%
+break up functions into declarations and
+ 
+
+00:09:02.779 --> 00:09:04.749 align:start position:0%
+break up functions into declarations and
+definitions<00:09:03.529><c> so</c><00:09:03.679><c> declarations</c><00:09:04.279><c> we</c><00:09:04.429><c> usually</c>
+
+00:09:04.749 --> 00:09:04.759 align:start position:0%
+definitions so declarations we usually
+ 
+
+00:09:04.759 --> 00:09:06.340 align:start position:0%
+definitions so declarations we usually
+store<00:09:04.970><c> in</c><00:09:05.119><c> header</c><00:09:05.359><c> file</c><00:09:05.600><c> and</c><00:09:06.019><c> then</c>
+
+00:09:06.340 --> 00:09:06.350 align:start position:0%
+store in header file and then
+ 
+
+00:09:06.350 --> 00:09:08.259 align:start position:0%
+store in header file and then
+definitions<00:09:06.949><c> we</c><00:09:07.189><c> write</c><00:09:07.369><c> in</c><00:09:07.519><c> translation</c><00:09:08.029><c> unit</c>
+
+00:09:08.259 --> 00:09:08.269 align:start position:0%
+definitions we write in translation unit
+ 
+
+00:09:08.269 --> 00:09:09.970 align:start position:0%
+definitions we write in translation unit
+or<00:09:08.449><c> CPP</c><00:09:08.929><c> files</c><00:09:09.139><c> so</c><00:09:09.529><c> now</c><00:09:09.619><c> I'm</c><00:09:09.679><c> going</c><00:09:09.769><c> to</c><00:09:09.829><c> make</c><00:09:09.919><c> a</c>
+
+00:09:09.970 --> 00:09:09.980 align:start position:0%
+or CPP files so now I'm going to make a
+ 
+
+00:09:09.980 --> 00:09:11.919 align:start position:0%
+or CPP files so now I'm going to make a
+whole<00:09:10.220><c> video</c><00:09:10.459><c> dedicated</c><00:09:10.879><c> to</c><00:09:11.299><c> header</c><00:09:11.629><c> files</c>
+
+00:09:11.919 --> 00:09:11.929 align:start position:0%
+whole video dedicated to header files
+ 
+
+00:09:11.929 --> 00:09:13.659 align:start position:0%
+whole video dedicated to header files
+and<00:09:12.230><c> we're</c><00:09:12.379><c> going</c><00:09:12.499><c> to</c><00:09:12.559><c> cover</c><00:09:12.739><c> function</c>
+
+00:09:13.659 --> 00:09:13.669 align:start position:0%
+and we're going to cover function
+ 
+
+00:09:13.669 --> 00:09:15.489 align:start position:0%
+and we're going to cover function
+declarations<00:09:14.480><c> in</c><00:09:14.660><c> a</c><00:09:14.720><c> header</c><00:09:14.929><c> file</c><00:09:15.139><c> in</c><00:09:15.439><c> that</c>
+
+00:09:15.489 --> 00:09:15.499 align:start position:0%
+declarations in a header file in that
+ 
+
+00:09:15.499 --> 00:09:17.499 align:start position:0%
+declarations in a header file in that
+video<00:09:15.889><c> so</c><00:09:16.339><c> anyway</c><00:09:16.609><c> guys</c><00:09:16.790><c> I</c><00:09:16.970><c> hope</c><00:09:17.149><c> you</c><00:09:17.269><c> enjoyed</c>
+
+00:09:17.499 --> 00:09:17.509 align:start position:0%
+video so anyway guys I hope you enjoyed
+ 
+
+00:09:17.509 --> 00:09:19.150 align:start position:0%
+video so anyway guys I hope you enjoyed
+this<00:09:17.600><c> episode</c><00:09:17.779><c> if</c><00:09:18.319><c> you</c><00:09:18.439><c> did</c><00:09:18.679><c> please</c><00:09:18.889><c> hit</c><00:09:19.129><c> the</c>
+
+00:09:19.150 --> 00:09:19.160 align:start position:0%
+this episode if you did please hit the
+ 
+
+00:09:19.160 --> 00:09:20.590 align:start position:0%
+this episode if you did please hit the
+like<00:09:19.369><c> button</c><00:09:19.669><c> don't</c><00:09:19.939><c> forget</c><00:09:20.059><c> to</c><00:09:20.299><c> follow</c><00:09:20.389><c> me</c><00:09:20.569><c> on</c>
+
+00:09:20.590 --> 00:09:20.600 align:start position:0%
+like button don't forget to follow me on
+ 
+
+00:09:20.600 --> 00:09:22.689 align:start position:0%
+like button don't forget to follow me on
+Twitter<00:09:20.929><c> and</c><00:09:21.139><c> Instagram</c><00:09:21.350><c> and</c><00:09:22.040><c> if</c><00:09:22.339><c> you</c><00:09:22.459><c> really</c>
+
+00:09:22.689 --> 00:09:22.699 align:start position:0%
+Twitter and Instagram and if you really
+ 
+
+00:09:22.699 --> 00:09:23.949 align:start position:0%
+Twitter and Instagram and if you really
+enjoy<00:09:22.879><c> this</c><00:09:23.029><c> video</c><00:09:23.239><c> and</c><00:09:23.600><c> you</c><00:09:23.660><c> want</c><00:09:23.809><c> to</c><00:09:23.869><c> see</c>
+
+00:09:23.949 --> 00:09:23.959 align:start position:0%
+enjoy this video and you want to see
+ 
+
+00:09:23.959 --> 00:09:26.319 align:start position:0%
+enjoy this video and you want to see
+drafts<00:09:24.230><c> of</c><00:09:24.470><c> future</c><00:09:24.889><c> videos</c><00:09:25.220><c> early</c><00:09:25.759><c> as</c><00:09:25.970><c> well</c><00:09:26.299><c> as</c>
+
+00:09:26.319 --> 00:09:26.329 align:start position:0%
+drafts of future videos early as well as
+ 
+
+00:09:26.329 --> 00:09:27.819 align:start position:0%
+drafts of future videos early as well as
+discuss<00:09:26.689><c> what</c><00:09:26.899><c> actually</c><00:09:27.199><c> goes</c><00:09:27.319><c> into</c><00:09:27.649><c> these</c>
+
+00:09:27.819 --> 00:09:27.829 align:start position:0%
+discuss what actually goes into these
+ 
+
+00:09:27.829 --> 00:09:29.919 align:start position:0%
+discuss what actually goes into these
+videos<00:09:28.220><c> you</c><00:09:28.850><c> can</c><00:09:28.999><c> support</c><00:09:29.269><c> me</c><00:09:29.419><c> on</c><00:09:29.449><c> patreon</c>
+
+00:09:29.919 --> 00:09:29.929 align:start position:0%
+videos you can support me on patreon
+ 
+
+00:09:29.929 --> 00:09:31.449 align:start position:0%
+videos you can support me on patreon
+link<00:09:30.019><c> will</c><00:09:30.379><c> be</c><00:09:30.470><c> in</c><00:09:30.499><c> description</c><00:09:30.589><c> below</c><00:09:31.160><c> but</c>
+
+00:09:31.449 --> 00:09:31.459 align:start position:0%
+link will be in description below but
+ 
+
+00:09:31.459 --> 00:09:34.460 align:start position:0%
+link will be in description below but
+until<00:09:31.730><c> next</c><00:09:31.850><c> time</c><00:09:32.089><c> guys</c><00:09:32.329><c> goodbye</c>
+
+00:09:34.460 --> 00:09:34.470 align:start position:0%
+until next time guys goodbye
+ 
+
+00:09:34.470 --> 00:09:45.700 align:start position:0%
+until next time guys goodbye
+[Music]
+

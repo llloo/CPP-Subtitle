@@ -1,0 +1,1584 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:00.000 --> 00:00:01.880 align:start position:0%
+ 
+hey<00:00:00.149><c> what's</c><00:00:00.420><c> up</c><00:00:00.480><c> guys</c><00:00:00.659><c> my</c><00:00:00.989><c> name</c><00:00:01.140><c> is</c><00:00:01.170><c> eterno</c><00:00:01.589><c> and</c>
+
+00:00:01.880 --> 00:00:01.890 align:start position:0%
+hey what's up guys my name is eterno and
+ 
+
+00:00:01.890 --> 00:00:03.200 align:start position:0%
+hey what's up guys my name is eterno and
+welcome<00:00:02.190><c> back</c><00:00:02.220><c> to</c><00:00:02.490><c> my</c><00:00:02.580><c> safe</c><00:00:02.820><c> last</c><00:00:02.970><c> class</c>
+
+00:00:03.200 --> 00:00:03.210 align:start position:0%
+welcome back to my safe last class
+ 
+
+00:00:03.210 --> 00:00:04.730 align:start position:0%
+welcome back to my safe last class
+series<00:00:03.659><c> last</c><00:00:03.959><c> time</c><00:00:04.110><c> we</c><00:00:04.200><c> talked</c><00:00:04.350><c> about</c><00:00:04.440><c> virtual</c>
+
+00:00:04.730 --> 00:00:04.740 align:start position:0%
+series last time we talked about virtual
+ 
+
+00:00:04.740 --> 00:00:06.260 align:start position:0%
+series last time we talked about virtual
+functions<00:00:05.460><c> and</c><00:00:05.700><c> today</c><00:00:05.940><c> I'm</c><00:00:06.029><c> going</c><00:00:06.120><c> to</c><00:00:06.180><c> be</c>
+
+00:00:06.260 --> 00:00:06.270 align:start position:0%
+functions and today I'm going to be
+ 
+
+00:00:06.270 --> 00:00:07.849 align:start position:0%
+functions and today I'm going to be
+talking<00:00:06.359><c> about</c><00:00:06.600><c> specific</c><00:00:07.020><c> types</c><00:00:07.319><c> of</c><00:00:07.529><c> virtual</c>
+
+00:00:07.849 --> 00:00:07.859 align:start position:0%
+talking about specific types of virtual
+ 
+
+00:00:07.859 --> 00:00:09.890 align:start position:0%
+talking about specific types of virtual
+functions<00:00:08.429><c> only</c><00:00:08.550><c> called</c><00:00:08.820><c> a</c><00:00:08.910><c> pure</c><00:00:09.269><c> virtual</c>
+
+00:00:09.890 --> 00:00:09.900 align:start position:0%
+functions only called a pure virtual
+ 
+
+00:00:09.900 --> 00:00:11.690 align:start position:0%
+functions only called a pure virtual
+function<00:00:09.929><c> a</c><00:00:10.500><c> pure</c><00:00:10.800><c> virtual</c><00:00:11.099><c> function</c><00:00:11.130><c> in</c><00:00:11.550><c> C++</c>
+
+00:00:11.690 --> 00:00:11.700 align:start position:0%
+function a pure virtual function in C++
+ 
+
+00:00:11.700 --> 00:00:13.850 align:start position:0%
+function a pure virtual function in C++
+is<00:00:12.300><c> essentially</c><00:00:12.690><c> the</c><00:00:12.900><c> same</c><00:00:13.139><c> as</c><00:00:13.349><c> an</c><00:00:13.440><c> abstract</c>
+
+00:00:13.850 --> 00:00:13.860 align:start position:0%
+is essentially the same as an abstract
+ 
+
+00:00:13.860 --> 00:00:15.650 align:start position:0%
+is essentially the same as an abstract
+method<00:00:14.219><c> or</c><00:00:14.340><c> an</c><00:00:14.429><c> interface</c><00:00:14.759><c> in</c><00:00:15.210><c> other</c>
+
+00:00:15.650 --> 00:00:15.660 align:start position:0%
+method or an interface in other
+ 
+
+00:00:15.660 --> 00:00:17.390 align:start position:0%
+method or an interface in other
+languages<00:00:16.199><c> such</c><00:00:16.379><c> as</c><00:00:16.440><c> Java</c><00:00:16.830><c> or</c><00:00:17.130><c> C</c><00:00:17.369><c> sharp</c>
+
+00:00:17.390 --> 00:00:17.400 align:start position:0%
+languages such as Java or C sharp
+ 
+
+00:00:17.400 --> 00:00:19.730 align:start position:0%
+languages such as Java or C sharp
+basically<00:00:18.390><c> a</c><00:00:18.420><c> pure</c><00:00:18.660><c> virtual</c><00:00:18.930><c> function</c><00:00:18.960><c> allows</c>
+
+00:00:19.730 --> 00:00:19.740 align:start position:0%
+basically a pure virtual function allows
+ 
+
+00:00:19.740 --> 00:00:22.040 align:start position:0%
+basically a pure virtual function allows
+us<00:00:19.770><c> to</c><00:00:20.130><c> define</c><00:00:20.310><c> a</c><00:00:20.850><c> function</c><00:00:21.119><c> in</c><00:00:21.539><c> a</c><00:00:21.630><c> base</c><00:00:21.810><c> class</c>
+
+00:00:22.040 --> 00:00:22.050 align:start position:0%
+us to define a function in a base class
+ 
+
+00:00:22.050 --> 00:00:24.560 align:start position:0%
+us to define a function in a base class
+that<00:00:22.470><c> does</c><00:00:22.680><c> not</c><00:00:22.890><c> have</c><00:00:23.250><c> an</c><00:00:23.519><c> implementation</c><00:00:23.820><c> and</c>
+
+00:00:24.560 --> 00:00:24.570 align:start position:0%
+that does not have an implementation and
+ 
+
+00:00:24.570 --> 00:00:27.019 align:start position:0%
+that does not have an implementation and
+then<00:00:25.019><c> for</c><00:00:25.310><c> subclasses</c><00:00:26.310><c> to</c><00:00:26.490><c> actually</c>
+
+00:00:27.019 --> 00:00:27.029 align:start position:0%
+then for subclasses to actually
+ 
+
+00:00:27.029 --> 00:00:28.939 align:start position:0%
+then for subclasses to actually
+implement<00:00:27.570><c> that</c><00:00:27.660><c> function</c><00:00:28.080><c> if</c><00:00:28.560><c> we</c><00:00:28.619><c> take</c><00:00:28.890><c> a</c>
+
+00:00:28.939 --> 00:00:28.949 align:start position:0%
+implement that function if we take a
+ 
+
+00:00:28.949 --> 00:00:30.560 align:start position:0%
+implement that function if we take a
+look<00:00:29.130><c> at</c><00:00:29.220><c> our</c><00:00:29.310><c> example</c><00:00:29.760><c> from</c><00:00:29.910><c> the</c><00:00:30.090><c> previous</c>
+
+00:00:30.560 --> 00:00:30.570 align:start position:0%
+look at our example from the previous
+ 
+
+00:00:30.570 --> 00:00:32.420 align:start position:0%
+look at our example from the previous
+video<00:00:31.170><c> which</c><00:00:31.320><c> is</c><00:00:31.439><c> about</c><00:00:31.619><c> virtual</c><00:00:31.980><c> functions</c>
+
+00:00:32.420 --> 00:00:32.430 align:start position:0%
+video which is about virtual functions
+ 
+
+00:00:32.430 --> 00:00:33.889 align:start position:0%
+video which is about virtual functions
+you<00:00:32.850><c> can</c><00:00:32.969><c> see</c><00:00:33.090><c> that</c><00:00:33.210><c> we</c><00:00:33.300><c> had</c><00:00:33.450><c> a</c><00:00:33.480><c> virtual</c>
+
+00:00:33.889 --> 00:00:33.899 align:start position:0%
+you can see that we had a virtual
+ 
+
+00:00:33.899 --> 00:00:35.870 align:start position:0%
+you can see that we had a virtual
+getname<00:00:34.290><c> function</c><00:00:34.770><c> inside</c><00:00:35.010><c> the</c><00:00:35.190><c> entity</c><00:00:35.640><c> class</c>
+
+00:00:35.870 --> 00:00:35.880 align:start position:0%
+getname function inside the entity class
+ 
+
+00:00:35.880 --> 00:00:38.420 align:start position:0%
+getname function inside the entity class
+and<00:00:36.180><c> then</c><00:00:36.870><c> we</c><00:00:37.410><c> had</c><00:00:37.590><c> an</c><00:00:37.680><c> override</c><00:00:38.129><c> for</c><00:00:38.160><c> that</c>
+
+00:00:38.420 --> 00:00:38.430 align:start position:0%
+and then we had an override for that
+ 
+
+00:00:38.430 --> 00:00:40.400 align:start position:0%
+and then we had an override for that
+function<00:00:38.640><c> inside</c><00:00:39.210><c> our</c><00:00:39.420><c> player</c><00:00:39.750><c> class</c><00:00:40.050><c> by</c>
+
+00:00:40.400 --> 00:00:40.410 align:start position:0%
+function inside our player class by
+ 
+
+00:00:40.410 --> 00:00:42.080 align:start position:0%
+function inside our player class by
+having<00:00:40.770><c> this</c><00:00:40.920><c> get</c><00:00:41.219><c> named</c><00:00:41.430><c> function</c><00:00:41.850><c> inside</c>
+
+00:00:42.080 --> 00:00:42.090 align:start position:0%
+having this get named function inside
+ 
+
+00:00:42.090 --> 00:00:44.420 align:start position:0%
+having this get named function inside
+our<00:00:42.270><c> base</c><00:00:42.480><c> class</c><00:00:42.809><c> with</c><00:00:43.110><c> an</c><00:00:43.230><c> actual</c><00:00:43.500><c> body</c><00:00:43.739><c> means</c>
+
+00:00:44.420 --> 00:00:44.430 align:start position:0%
+our base class with an actual body means
+ 
+
+00:00:44.430 --> 00:00:46.430 align:start position:0%
+our base class with an actual body means
+that<00:00:44.579><c> overriding</c><00:00:45.210><c> it</c><00:00:45.329><c> in</c><00:00:45.510><c> a</c><00:00:45.600><c> subclass</c><00:00:46.050><c> such</c><00:00:46.289><c> as</c>
+
+00:00:46.430 --> 00:00:46.440 align:start position:0%
+that overriding it in a subclass such as
+ 
+
+00:00:46.440 --> 00:00:49.010 align:start position:0%
+that overriding it in a subclass such as
+player<00:00:46.680><c> is</c><00:00:46.980><c> entirely</c><00:00:47.550><c> optional</c><00:00:47.850><c> if</c><00:00:48.420><c> we</c><00:00:48.629><c> didn't</c>
+
+00:00:49.010 --> 00:00:49.020 align:start position:0%
+player is entirely optional if we didn't
+ 
+
+00:00:49.020 --> 00:00:50.630 align:start position:0%
+player is entirely optional if we didn't
+override<00:00:49.469><c> it</c><00:00:49.680><c> then</c><00:00:49.950><c> we</c><00:00:50.070><c> could</c><00:00:50.190><c> still</c><00:00:50.430><c> call</c>
+
+00:00:50.630 --> 00:00:50.640 align:start position:0%
+override it then we could still call
+ 
+
+00:00:50.640 --> 00:00:52.580 align:start position:0%
+override it then we could still call
+play<00:00:50.910><c> it</c><00:00:50.969><c> off</c><00:00:51.210><c> get</c><00:00:51.390><c> name</c><00:00:51.629><c> however</c><00:00:52.110><c> it</c><00:00:52.350><c> would</c><00:00:52.500><c> of</c>
+
+00:00:52.580 --> 00:00:52.590 align:start position:0%
+play it off get name however it would of
+ 
+
+00:00:52.590 --> 00:00:54.770 align:start position:0%
+play it off get name however it would of
+course<00:00:52.770><c> return</c><00:00:53.190><c> the</c><00:00:53.370><c> anti</c><00:00:53.850><c> string</c><00:00:54.180><c> however</c><00:00:54.629><c> in</c>
+
+00:00:54.770 --> 00:00:54.780 align:start position:0%
+course return the anti string however in
+ 
+
+00:00:54.780 --> 00:00:56.930 align:start position:0%
+course return the anti string however in
+some<00:00:55.050><c> cases</c><00:00:55.079><c> it</c><00:00:55.680><c> doesn't</c><00:00:55.920><c> make</c><00:00:56.219><c> sense</c><00:00:56.579><c> for</c><00:00:56.760><c> us</c>
+
+00:00:56.930 --> 00:00:56.940 align:start position:0%
+some cases it doesn't make sense for us
+ 
+
+00:00:56.940 --> 00:00:59.540 align:start position:0%
+some cases it doesn't make sense for us
+to<00:00:57.000><c> provide</c><00:00:57.570><c> this</c><00:00:57.840><c> default</c><00:00:58.550><c> implementation</c>
+
+00:00:59.540 --> 00:00:59.550 align:start position:0%
+to provide this default implementation
+ 
+
+00:00:59.550 --> 00:01:01.369 align:start position:0%
+to provide this default implementation
+we<00:00:59.850><c> actually</c><00:01:00.180><c> might</c><00:01:00.359><c> want</c><00:01:00.600><c> to</c><00:01:00.719><c> force</c><00:01:01.079><c> the</c>
+
+00:01:01.369 --> 00:01:01.379 align:start position:0%
+we actually might want to force the
+ 
+
+00:01:01.379 --> 00:01:03.049 align:start position:0%
+we actually might want to force the
+subclass<00:01:01.829><c> to</c><00:01:02.160><c> actually</c><00:01:02.520><c> provide</c><00:01:02.820><c> its</c><00:01:03.000><c> own</c>
+
+00:01:03.049 --> 00:01:03.059 align:start position:0%
+subclass to actually provide its own
+ 
+
+00:01:03.059 --> 00:01:05.329 align:start position:0%
+subclass to actually provide its own
+definition<00:01:03.930><c> for</c><00:01:04.140><c> a</c><00:01:04.170><c> certain</c><00:01:04.589><c> function</c><00:01:04.799><c> in</c>
+
+00:01:05.329 --> 00:01:05.339 align:start position:0%
+definition for a certain function in
+ 
+
+00:01:05.339 --> 00:01:07.100 align:start position:0%
+definition for a certain function in
+object-oriented<00:01:06.210><c> programming</c><00:01:06.689><c> is</c><00:01:06.810><c> actually</c>
+
+00:01:07.100 --> 00:01:07.110 align:start position:0%
+object-oriented programming is actually
+ 
+
+00:01:07.110 --> 00:01:08.840 align:start position:0%
+object-oriented programming is actually
+quite<00:01:07.290><c> common</c><00:01:07.530><c> for</c><00:01:07.650><c> us</c><00:01:07.920><c> to</c><00:01:08.189><c> create</c><00:01:08.490><c> a</c><00:01:08.580><c> class</c>
+
+00:01:08.840 --> 00:01:08.850 align:start position:0%
+quite common for us to create a class
+ 
+
+00:01:08.850 --> 00:01:10.730 align:start position:0%
+quite common for us to create a class
+that<00:01:08.880><c> consists</c><00:01:09.630><c> only</c><00:01:09.720><c> of</c><00:01:10.170><c> unimplemented</c>
+
+00:01:10.730 --> 00:01:10.740 align:start position:0%
+that consists only of unimplemented
+ 
+
+00:01:10.740 --> 00:01:12.800 align:start position:0%
+that consists only of unimplemented
+methods<00:01:11.070><c> and</c><00:01:11.610><c> then</c><00:01:11.760><c> force</c><00:01:12.030><c> a</c><00:01:12.150><c> subclass</c><00:01:12.630><c> to</c>
+
+00:01:12.800 --> 00:01:12.810 align:start position:0%
+methods and then force a subclass to
+ 
+
+00:01:12.810 --> 00:01:14.420 align:start position:0%
+methods and then force a subclass to
+actually<00:01:13.260><c> implement</c><00:01:13.770><c> them</c><00:01:13.920><c> this</c><00:01:14.250><c> is</c>
+
+00:01:14.420 --> 00:01:14.430 align:start position:0%
+actually implement them this is
+ 
+
+00:01:14.430 --> 00:01:15.980 align:start position:0%
+actually implement them this is
+something<00:01:14.729><c> that</c><00:01:14.850><c> often</c><00:01:15.030><c> referred</c><00:01:15.479><c> to</c><00:01:15.509><c> as</c><00:01:15.840><c> an</c>
+
+00:01:15.980 --> 00:01:15.990 align:start position:0%
+something that often referred to as an
+ 
+
+00:01:15.990 --> 00:01:17.840 align:start position:0%
+something that often referred to as an
+interface<00:01:16.560><c> so</c><00:01:17.070><c> in</c><00:01:17.159><c> interstates</c><00:01:17.520><c> being</c><00:01:17.759><c> a</c>
+
+00:01:17.840 --> 00:01:17.850 align:start position:0%
+interface so in interstates being a
+ 
+
+00:01:17.850 --> 00:01:19.399 align:start position:0%
+interface so in interstates being a
+class<00:01:18.090><c> that</c><00:01:18.270><c> only</c><00:01:18.450><c> consists</c><00:01:19.290><c> of</c>
+
+00:01:19.399 --> 00:01:19.409 align:start position:0%
+class that only consists of
+ 
+
+00:01:19.409 --> 00:01:21.710 align:start position:0%
+class that only consists of
+unimplemented<00:01:19.890><c> methods</c><00:01:20.250><c> and</c><00:01:20.850><c> acting</c><00:01:21.570><c> as</c><00:01:21.689><c> a</c>
+
+00:01:21.710 --> 00:01:21.720 align:start position:0%
+unimplemented methods and acting as a
+ 
+
+00:01:21.720 --> 00:01:23.510 align:start position:0%
+unimplemented methods and acting as a
+template<00:01:22.259><c> of</c><00:01:22.439><c> sorts</c><00:01:22.770><c> and</c><00:01:22.890><c> since</c><00:01:23.369><c> this</c>
+
+00:01:23.510 --> 00:01:23.520 align:start position:0%
+template of sorts and since this
+ 
+
+00:01:23.520 --> 00:01:25.670 align:start position:0%
+template of sorts and since this
+interface<00:01:24.119><c> class</c><00:01:24.450><c> doesn't</c><00:01:25.049><c> actually</c><00:01:25.229><c> contain</c>
+
+00:01:25.670 --> 00:01:25.680 align:start position:0%
+interface class doesn't actually contain
+ 
+
+00:01:25.680 --> 00:01:28.580 align:start position:0%
+interface class doesn't actually contain
+method<00:01:26.340><c> implementations</c><00:01:27.119><c> it's</c><00:01:27.420><c> not</c><00:01:28.140><c> actually</c>
+
+00:01:28.580 --> 00:01:28.590 align:start position:0%
+method implementations it's not actually
+ 
+
+00:01:28.590 --> 00:01:30.649 align:start position:0%
+method implementations it's not actually
+possible<00:01:29.070><c> for</c><00:01:29.220><c> us</c><00:01:29.310><c> to</c><00:01:29.340><c> instantiate</c><00:01:29.970><c> that</c>
+
+00:01:30.649 --> 00:01:30.659 align:start position:0%
+possible for us to instantiate that
+ 
+
+00:01:30.659 --> 00:01:32.690 align:start position:0%
+possible for us to instantiate that
+class<00:01:31.170><c> let's</c><00:01:31.740><c> see</c><00:01:31.860><c> if</c><00:01:31.920><c> we</c><00:01:32.070><c> can</c><00:01:32.189><c> make</c><00:01:32.340><c> this</c><00:01:32.460><c> get</c>
+
+00:01:32.690 --> 00:01:32.700 align:start position:0%
+class let's see if we can make this get
+ 
+
+00:01:32.700 --> 00:01:34.580 align:start position:0%
+class let's see if we can make this get
+main<00:01:32.909><c> function</c><00:01:33.360><c> inside</c><00:01:33.630><c> and</c><00:01:33.869><c> see</c><00:01:34.110><c> a</c><00:01:34.140><c> pure</c>
+
+00:01:34.580 --> 00:01:34.590 align:start position:0%
+main function inside and see a pure
+ 
+
+00:01:34.590 --> 00:01:36.170 align:start position:0%
+main function inside and see a pure
+virtual<00:01:34.950><c> function</c><00:01:34.979><c> to</c><00:01:35.460><c> do</c><00:01:35.579><c> that</c><00:01:35.790><c> I'm</c><00:01:35.970><c> just</c>
+
+00:01:36.170 --> 00:01:36.180 align:start position:0%
+virtual function to do that I'm just
+ 
+
+00:01:36.180 --> 00:01:37.880 align:start position:0%
+virtual function to do that I'm just
+going<00:01:36.329><c> to</c><00:01:36.479><c> get</c><00:01:36.689><c> rid</c><00:01:36.900><c> of</c><00:01:36.990><c> the</c><00:01:37.079><c> body</c><00:01:37.320><c> and</c><00:01:37.650><c> instead</c>
+
+00:01:37.880 --> 00:01:37.890 align:start position:0%
+going to get rid of the body and instead
+ 
+
+00:01:37.890 --> 00:01:40.190 align:start position:0%
+going to get rid of the body and instead
+of<00:01:37.979><c> the</c><00:01:38.040><c> body</c><00:01:38.250><c> just</c><00:01:38.340><c> write</c><00:01:38.820><c> equal</c><00:01:39.450><c> zero</c>
+
+00:01:40.190 --> 00:01:40.200 align:start position:0%
+of the body just write equal zero
+ 
+
+00:01:40.200 --> 00:01:42.080 align:start position:0%
+of the body just write equal zero
+keep<00:01:40.770><c> in</c><00:01:40.890><c> mind</c><00:01:41.040><c> that</c><00:01:41.100><c> it</c><00:01:41.280><c> still</c><00:01:41.549><c> has</c><00:01:41.579><c> to</c><00:01:41.970><c> be</c>
+
+00:01:42.080 --> 00:01:42.090 align:start position:0%
+keep in mind that it still has to be
+ 
+
+00:01:42.090 --> 00:01:44.569 align:start position:0%
+keep in mind that it still has to be
+defined<00:01:42.450><c> as</c><00:01:42.810><c> virtual</c><00:01:43.439><c> but</c><00:01:43.740><c> the</c><00:01:43.890><c> equals</c><00:01:44.250><c> zero</c>
+
+00:01:44.569 --> 00:01:44.579 align:start position:0%
+defined as virtual but the equals zero
+ 
+
+00:01:44.579 --> 00:01:46.639 align:start position:0%
+defined as virtual but the equals zero
+is<00:01:44.880><c> essentially</c><00:01:45.299><c> making</c><00:01:45.600><c> it</c><00:01:45.840><c> a</c><00:01:45.990><c> pure</c><00:01:46.380><c> virtual</c>
+
+00:01:46.639 --> 00:01:46.649 align:start position:0%
+is essentially making it a pure virtual
+ 
+
+00:01:46.649 --> 00:01:48.830 align:start position:0%
+is essentially making it a pure virtual
+function<00:01:46.950><c> meaning</c><00:01:47.790><c> that</c><00:01:48.000><c> it</c><00:01:48.149><c> has</c><00:01:48.479><c> to</c><00:01:48.720><c> be</c>
+
+00:01:48.830 --> 00:01:48.840 align:start position:0%
+function meaning that it has to be
+ 
+
+00:01:48.840 --> 00:01:51.170 align:start position:0%
+function meaning that it has to be
+implemented<00:01:49.530><c> in</c><00:01:49.710><c> a</c><00:01:49.920><c> soft</c><00:01:50.220><c> class</c><00:01:50.460><c> if</c><00:01:50.759><c> you</c><00:01:50.970><c> want</c>
+
+00:01:51.170 --> 00:01:51.180 align:start position:0%
+implemented in a soft class if you want
+ 
+
+00:01:51.180 --> 00:01:53.300 align:start position:0%
+implemented in a soft class if you want
+to<00:01:51.270><c> be</c><00:01:51.390><c> able</c><00:01:51.479><c> to</c><00:01:51.689><c> instantiate</c><00:01:52.049><c> that</c><00:01:52.619><c> class</c><00:01:52.890><c> so</c>
+
+00:01:53.300 --> 00:01:53.310 align:start position:0%
+to be able to instantiate that class so
+ 
+
+00:01:53.310 --> 00:01:54.800 align:start position:0%
+to be able to instantiate that class so
+by<00:01:53.430><c> doing</c><00:01:53.490><c> this</c><00:01:53.759><c> a</c><00:01:53.970><c> few</c><00:01:54.180><c> things</c><00:01:54.360><c> have</c><00:01:54.509><c> actually</c>
+
+00:01:54.800 --> 00:01:54.810 align:start position:0%
+by doing this a few things have actually
+ 
+
+00:01:54.810 --> 00:01:56.359 align:start position:0%
+by doing this a few things have actually
+happened<00:01:54.990><c> first</c><00:01:55.470><c> of</c><00:01:55.649><c> all</c><00:01:55.770><c> if</c><00:01:55.920><c> you</c><00:01:56.070><c> look</c><00:01:56.100><c> at</c>
+
+00:01:56.359 --> 00:01:56.369 align:start position:0%
+happened first of all if you look at
+ 
+
+00:01:56.369 --> 00:01:58.580 align:start position:0%
+happened first of all if you look at
+main<00:01:56.640><c> you</c><00:01:57.299><c> can</c><00:01:57.450><c> see</c><00:01:57.630><c> that</c><00:01:57.810><c> we</c><00:01:58.079><c> now</c><00:01:58.229><c> no</c><00:01:58.439><c> longer</c>
+
+00:01:58.580 --> 00:01:58.590 align:start position:0%
+main you can see that we now no longer
+ 
+
+00:01:58.590 --> 00:02:00.679 align:start position:0%
+main you can see that we now no longer
+have<00:01:58.920><c> the</c><00:01:59.070><c> ability</c><00:01:59.100><c> to</c><00:01:59.579><c> actually</c><00:01:59.880><c> instantiate</c>
+
+00:02:00.679 --> 00:02:00.689 align:start position:0%
+have the ability to actually instantiate
+ 
+
+00:02:00.689 --> 00:02:03.230 align:start position:0%
+have the ability to actually instantiate
+that<00:02:01.229><c> entity</c><00:02:01.649><c> class</c><00:02:02.009><c> we</c><00:02:02.430><c> must</c><00:02:02.700><c> give</c><00:02:02.939><c> it</c><00:02:03.060><c> some</c>
+
+00:02:03.230 --> 00:02:03.240 align:start position:0%
+that entity class we must give it some
+ 
+
+00:02:03.240 --> 00:02:05.780 align:start position:0%
+that entity class we must give it some
+kind<00:02:03.450><c> of</c><00:02:03.600><c> subclass</c><00:02:04.170><c> that</c><00:02:04.469><c> actually</c><00:02:05.250><c> has</c><00:02:05.520><c> that</c>
+
+00:02:05.780 --> 00:02:05.790 align:start position:0%
+kind of subclass that actually has that
+ 
+
+00:02:05.790 --> 00:02:07.850 align:start position:0%
+kind of subclass that actually has that
+function<00:02:06.270><c> implemented</c><00:02:06.869><c> so</c><00:02:07.409><c> in</c><00:02:07.530><c> this</c><00:02:07.619><c> case</c>
+
+00:02:07.850 --> 00:02:07.860 align:start position:0%
+function implemented so in this case
+ 
+
+00:02:07.860 --> 00:02:10.130 align:start position:0%
+function implemented so in this case
+player<00:02:08.610><c> for</c><00:02:08.879><c> example</c><00:02:08.910><c> and</c><00:02:09.539><c> of</c><00:02:09.690><c> course</c><00:02:09.869><c> when</c><00:02:09.989><c> to</c>
+
+00:02:10.130 --> 00:02:10.140 align:start position:0%
+player for example and of course when to
+ 
+
+00:02:10.140 --> 00:02:11.200 align:start position:0%
+player for example and of course when to
+provide<00:02:10.410><c> some</c><00:02:10.619><c> kind</c><00:02:10.739><c> of</c><00:02:10.830><c> string</c>
+
+00:02:11.200 --> 00:02:11.210 align:start position:0%
+provide some kind of string
+ 
+
+00:02:11.210 --> 00:02:12.580 align:start position:0%
+provide some kind of string
+as<00:02:11.300><c> well</c><00:02:11.480><c> you</c><00:02:11.660><c> can</c><00:02:11.840><c> see</c><00:02:11.930><c> the</c><00:02:12.050><c> player</c><00:02:12.290><c> works</c>
+
+00:02:12.580 --> 00:02:12.590 align:start position:0%
+as well you can see the player works
+ 
+
+00:02:12.590 --> 00:02:14.800 align:start position:0%
+as well you can see the player works
+fine<00:02:12.980><c> however</c><00:02:13.610><c> that's</c><00:02:13.880><c> only</c><00:02:14.120><c> because</c><00:02:14.480><c> we've</c>
+
+00:02:14.800 --> 00:02:14.810 align:start position:0%
+fine however that's only because we've
+ 
+
+00:02:14.810 --> 00:02:16.630 align:start position:0%
+fine however that's only because we've
+actually<00:02:15.020><c> implemented</c><00:02:15.830><c> that</c><00:02:16.160><c> getname</c>
+
+00:02:16.630 --> 00:02:16.640 align:start position:0%
+actually implemented that getname
+ 
+
+00:02:16.640 --> 00:02:19.330 align:start position:0%
+actually implemented that getname
+function<00:02:17.150><c> if</c><00:02:17.330><c> I</c><00:02:17.870><c> decide</c><00:02:18.200><c> to</c><00:02:18.230><c> comment</c><00:02:18.830><c> out</c><00:02:18.980><c> that</c>
+
+00:02:19.330 --> 00:02:19.340 align:start position:0%
+function if I decide to comment out that
+ 
+
+00:02:19.340 --> 00:02:22.060 align:start position:0%
+function if I decide to comment out that
+implementation<00:02:20.000><c> you</c><00:02:20.870><c> can</c><00:02:20.900><c> see</c><00:02:21.230><c> this</c><00:02:21.440><c> we</c><00:02:21.740><c> can't</c>
+
+00:02:22.060 --> 00:02:22.070 align:start position:0%
+implementation you can see this we can't
+ 
+
+00:02:22.070 --> 00:02:24.190 align:start position:0%
+implementation you can see this we can't
+instantiate<00:02:22.370><c> player</c><00:02:22.910><c> Evo</c><00:02:23.390><c> so</c><00:02:23.810><c> essentially</c>
+
+00:02:24.190 --> 00:02:24.200 align:start position:0%
+instantiate player Evo so essentially
+ 
+
+00:02:24.200 --> 00:02:27.070 align:start position:0%
+instantiate player Evo so essentially
+you<00:02:24.590><c> can</c><00:02:24.740><c> only</c><00:02:25.010><c> instantiate</c><00:02:25.760><c> the</c><00:02:25.910><c> class</c><00:02:25.940><c> if</c><00:02:26.810><c> it</c>
+
+00:02:27.070 --> 00:02:27.080 align:start position:0%
+you can only instantiate the class if it
+ 
+
+00:02:27.080 --> 00:02:28.840 align:start position:0%
+you can only instantiate the class if it
+actually<00:02:27.260><c> has</c><00:02:27.680><c> all</c><00:02:27.980><c> those</c><00:02:28.190><c> pure</c><00:02:28.520><c> virtual</c>
+
+00:02:28.840 --> 00:02:28.850 align:start position:0%
+actually has all those pure virtual
+ 
+
+00:02:28.850 --> 00:02:30.610 align:start position:0%
+actually has all those pure virtual
+functions<00:02:29.240><c> implemented</c><00:02:29.990><c> or</c><00:02:30.140><c> a</c><00:02:30.200><c> class</c><00:02:30.440><c> was</c>
+
+00:02:30.610 --> 00:02:30.620 align:start position:0%
+functions implemented or a class was
+ 
+
+00:02:30.620 --> 00:02:32.080 align:start position:0%
+functions implemented or a class was
+further<00:02:30.860><c> up</c><00:02:31.100><c> in</c><00:02:31.250><c> the</c><00:02:31.310><c> hierarchy</c><00:02:31.550><c> it's</c><00:02:31.910><c> the</c><00:02:31.970><c> for</c>
+
+00:02:32.080 --> 00:02:32.090 align:start position:0%
+further up in the hierarchy it's the for
+ 
+
+00:02:32.090 --> 00:02:34.270 align:start position:0%
+further up in the hierarchy it's the for
+example<00:02:32.450><c> player</c><00:02:32.720><c> war</c><00:02:33.080><c> to</c><00:02:33.290><c> be</c><00:02:33.530><c> a</c><00:02:33.560><c> soft</c><00:02:33.830><c> class</c><00:02:34.040><c> of</c>
+
+00:02:34.270 --> 00:02:34.280 align:start position:0%
+example player war to be a soft class of
+ 
+
+00:02:34.280 --> 00:02:36.070 align:start position:0%
+example player war to be a soft class of
+another<00:02:34.580><c> class</c><00:02:34.850><c> which</c><00:02:35.210><c> did</c><00:02:35.510><c> implement</c><00:02:35.960><c> that</c>
+
+00:02:36.070 --> 00:02:36.080 align:start position:0%
+another class which did implement that
+ 
+
+00:02:36.080 --> 00:02:38.050 align:start position:0%
+another class which did implement that
+get<00:02:36.350><c> name</c><00:02:36.530><c> function</c><00:02:36.950><c> that</c><00:02:37.460><c> would</c><00:02:37.610><c> also</c><00:02:37.790><c> be</c>
+
+00:02:38.050 --> 00:02:38.060 align:start position:0%
+get name function that would also be
+ 
+
+00:02:38.060 --> 00:02:40.690 align:start position:0%
+get name function that would also be
+fine<00:02:38.270><c> but</c><00:02:38.510><c> the</c><00:02:38.630><c> idea</c><00:02:38.990><c> is</c><00:02:39.050><c> that</c><00:02:39.200><c> get</c><00:02:39.980><c> name</c><00:02:40.250><c> that</c>
+
+00:02:40.690 --> 00:02:40.700 align:start position:0%
+fine but the idea is that get name that
+ 
+
+00:02:40.700 --> 00:02:42.580 align:start position:0%
+fine but the idea is that get name that
+pure<00:02:41.000><c> virtual</c><00:02:41.360><c> function</c><00:02:41.390><c> has</c><00:02:41.960><c> to</c><00:02:42.200><c> actually</c><00:02:42.380><c> be</c>
+
+00:02:42.580 --> 00:02:42.590 align:start position:0%
+pure virtual function has to actually be
+ 
+
+00:02:42.590 --> 00:02:44.650 align:start position:0%
+pure virtual function has to actually be
+implemented<00:02:43.400><c> in</c><00:02:43.850><c> order</c><00:02:44.030><c> for</c><00:02:44.270><c> us</c><00:02:44.330><c> to</c><00:02:44.390><c> be</c><00:02:44.570><c> able</c>
+
+00:02:44.650 --> 00:02:44.660 align:start position:0%
+implemented in order for us to be able
+ 
+
+00:02:44.660 --> 00:02:46.540 align:start position:0%
+implemented in order for us to be able
+to<00:02:44.780><c> create</c><00:02:45.020><c> an</c><00:02:45.110><c> instance</c><00:02:45.500><c> of</c><00:02:45.680><c> this</c><00:02:45.920><c> class</c><00:02:45.980><c> all</c>
+
+00:02:46.540 --> 00:02:46.550 align:start position:0%
+to create an instance of this class all
+ 
+
+00:02:46.550 --> 00:02:47.530 align:start position:0%
+to create an instance of this class all
+right<00:02:46.610><c> let's</c><00:02:46.940><c> take</c><00:02:47.000><c> a</c><00:02:47.090><c> look</c><00:02:47.240><c> at</c><00:02:47.330><c> a</c><00:02:47.360><c> better</c>
+
+00:02:47.530 --> 00:02:47.540 align:start position:0%
+right let's take a look at a better
+ 
+
+00:02:47.540 --> 00:02:49.420 align:start position:0%
+right let's take a look at a better
+example<00:02:47.810><c> I'm</c><00:02:48.290><c> going</c><00:02:48.500><c> to</c><00:02:48.620><c> undo</c><00:02:48.980><c> everything</c>
+
+00:02:49.420 --> 00:02:49.430 align:start position:0%
+example I'm going to undo everything
+ 
+
+00:02:49.430 --> 00:02:51.070 align:start position:0%
+example I'm going to undo everything
+that<00:02:49.640><c> we</c><00:02:49.790><c> had</c><00:02:50.120><c> done</c><00:02:50.510><c> here</c>
+
+00:02:51.070 --> 00:02:51.080 align:start position:0%
+that we had done here
+ 
+
+00:02:51.080 --> 00:02:52.390 align:start position:0%
+that we had done here
+all<00:02:51.140><c> right</c><00:02:51.380><c> that</c><00:02:51.560><c> was</c><00:02:51.650><c> pretty</c><00:02:51.680><c> good</c><00:02:52.040><c> suppose</c>
+
+00:02:52.390 --> 00:02:52.400 align:start position:0%
+all right that was pretty good suppose
+ 
+
+00:02:52.400 --> 00:02:53.830 align:start position:0%
+all right that was pretty good suppose
+that<00:02:52.430><c> we</c><00:02:52.640><c> wanted</c><00:02:52.850><c> to</c><00:02:52.910><c> write</c><00:02:53.150><c> a</c><00:02:53.210><c> function</c><00:02:53.570><c> that</c>
+
+00:02:53.830 --> 00:02:53.840 align:start position:0%
+that we wanted to write a function that
+ 
+
+00:02:53.840 --> 00:02:56.110 align:start position:0%
+that we wanted to write a function that
+would<00:02:54.140><c> print</c><00:02:54.410><c> the</c><00:02:54.560><c> class</c><00:02:54.860><c> name</c><00:02:55.370><c> of</c><00:02:55.670><c> every</c>
+
+00:02:56.110 --> 00:02:56.120 align:start position:0%
+would print the class name of every
+ 
+
+00:02:56.120 --> 00:02:57.850 align:start position:0%
+would print the class name of every
+class<00:02:56.330><c> that</c><00:02:56.570><c> we</c><00:02:56.690><c> have</c><00:02:56.900><c> here</c><00:02:57.140><c> so</c><00:02:57.440><c> what</c><00:02:57.590><c> I'll</c><00:02:57.710><c> do</c>
+
+00:02:57.850 --> 00:02:57.860 align:start position:0%
+class that we have here so what I'll do
+ 
+
+00:02:57.860 --> 00:03:00.820 align:start position:0%
+class that we have here so what I'll do
+is<00:02:58.010><c> outside</c><00:02:58.370><c> void</c><00:02:58.810><c> print</c><00:02:59.810><c> as</c><00:03:00.080><c> my</c><00:03:00.410><c> parameter</c>
+
+00:03:00.820 --> 00:03:00.830 align:start position:0%
+is outside void print as my parameter
+ 
+
+00:03:00.830 --> 00:03:02.470 align:start position:0%
+is outside void print as my parameter
+I'm<00:03:00.920><c> going</c><00:03:01.130><c> to</c><00:03:01.250><c> want</c><00:03:01.430><c> to</c><00:03:01.490><c> take</c><00:03:01.700><c> in</c><00:03:01.880><c> some</c><00:03:02.180><c> kind</c>
+
+00:03:02.470 --> 00:03:02.480 align:start position:0%
+I'm going to want to take in some kind
+ 
+
+00:03:02.480 --> 00:03:05.500 align:start position:0%
+I'm going to want to take in some kind
+of<00:03:02.630><c> class</c><00:03:02.990><c> type</c><00:03:03.350><c> that</c><00:03:03.680><c> will</c><00:03:03.980><c> call</c><00:03:04.370><c> obj</c><00:03:05.210><c> for</c>
+
+00:03:05.500 --> 00:03:05.510 align:start position:0%
+of class type that will call obj for
+ 
+
+00:03:05.510 --> 00:03:07.840 align:start position:0%
+of class type that will call obj for
+example<00:03:06.020><c> and</c><00:03:06.260><c> then</c><00:03:06.470><c> what</c><00:03:07.220><c> I'm</c><00:03:07.340><c> going</c><00:03:07.550><c> to</c><00:03:07.610><c> want</c>
+
+00:03:07.840 --> 00:03:07.850 align:start position:0%
+example and then what I'm going to want
+ 
+
+00:03:07.850 --> 00:03:10.390 align:start position:0%
+example and then what I'm going to want
+to<00:03:08.030><c> do</c><00:03:08.180><c> is</c><00:03:08.480><c> actually</c><00:03:08.720><c> print</c><00:03:09.350><c> the</c><00:03:09.740><c> class's</c><00:03:10.190><c> name</c>
+
+00:03:10.390 --> 00:03:10.400 align:start position:0%
+to do is actually print the class's name
+ 
+
+00:03:10.400 --> 00:03:12.370 align:start position:0%
+to do is actually print the class's name
+so<00:03:10.670><c> maybe</c><00:03:10.850><c> we</c><00:03:11.030><c> have</c><00:03:11.060><c> something</c><00:03:11.630><c> like</c><00:03:11.660><c> obj</c><00:03:12.350><c> dot</c>
+
+00:03:12.370 --> 00:03:12.380 align:start position:0%
+so maybe we have something like obj dot
+ 
+
+00:03:12.380 --> 00:03:14.770 align:start position:0%
+so maybe we have something like obj dot
+get<00:03:12.920><c> class</c><00:03:13.340><c> name</c><00:03:13.670><c> so</c><00:03:14.090><c> what</c><00:03:14.300><c> I</c><00:03:14.330><c> actually</c><00:03:14.510><c> need</c>
+
+00:03:14.770 --> 00:03:14.780 align:start position:0%
+get class name so what I actually need
+ 
+
+00:03:14.780 --> 00:03:18.370 align:start position:0%
+get class name so what I actually need
+here<00:03:15.470><c> is</c><00:03:15.650><c> a</c><00:03:15.710><c> type</c><00:03:16.520><c> that</c><00:03:17.120><c> guarantees</c><00:03:17.870><c> that</c><00:03:17.900><c> we</c>
+
+00:03:18.370 --> 00:03:18.380 align:start position:0%
+here is a type that guarantees that we
+ 
+
+00:03:18.380 --> 00:03:20.260 align:start position:0%
+here is a type that guarantees that we
+actually<00:03:18.800><c> have</c><00:03:19.040><c> a</c><00:03:19.070><c> get</c><00:03:19.430><c> class</c><00:03:19.700><c> name</c><00:03:19.910><c> function</c>
+
+00:03:20.260 --> 00:03:20.270 align:start position:0%
+actually have a get class name function
+ 
+
+00:03:20.270 --> 00:03:22.810 align:start position:0%
+actually have a get class name function
+we<00:03:20.540><c> need</c><00:03:20.660><c> a</c><00:03:20.720><c> type</c><00:03:21.050><c> that</c><00:03:21.500><c> provides</c><00:03:22.070><c> that</c><00:03:22.520><c> get</c>
+
+00:03:22.810 --> 00:03:22.820 align:start position:0%
+we need a type that provides that get
+ 
+
+00:03:22.820 --> 00:03:24.580 align:start position:0%
+we need a type that provides that get
+class<00:03:23.090><c> name</c><00:03:23.360><c> function</c><00:03:23.720><c> and</c><00:03:23.960><c> that's</c><00:03:24.050><c> exactly</c>
+
+00:03:24.580 --> 00:03:24.590 align:start position:0%
+class name function and that's exactly
+ 
+
+00:03:24.590 --> 00:03:26.770 align:start position:0%
+class name function and that's exactly
+what<00:03:24.770><c> an</c><00:03:24.860><c> interface</c><00:03:25.370><c> is</c><00:03:25.640><c> let's</c><00:03:26.240><c> go</c><00:03:26.360><c> ahead</c><00:03:26.390><c> and</c>
+
+00:03:26.770 --> 00:03:26.780 align:start position:0%
+what an interface is let's go ahead and
+ 
+
+00:03:26.780 --> 00:03:29.080 align:start position:0%
+what an interface is let's go ahead and
+call<00:03:26.930><c> this</c><00:03:27.110><c> type</c><00:03:27.380><c> principal</c><00:03:28.250><c> and</c><00:03:28.460><c> we'll</c><00:03:28.880><c> set</c>
+
+00:03:29.080 --> 00:03:29.090 align:start position:0%
+call this type principal and we'll set
+ 
+
+00:03:29.090 --> 00:03:31.150 align:start position:0%
+call this type principal and we'll set
+it<00:03:29.180><c> off</c><00:03:29.330><c> so</c><00:03:29.660><c> at</c><00:03:29.960><c> the</c><00:03:30.110><c> very</c><00:03:30.140><c> top</c><00:03:30.470><c> here</c><00:03:30.710><c> I'll</c><00:03:30.980><c> make</c>
+
+00:03:31.150 --> 00:03:31.160 align:start position:0%
+it off so at the very top here I'll make
+ 
+
+00:03:31.160 --> 00:03:33.760 align:start position:0%
+it off so at the very top here I'll make
+a<00:03:31.190><c> new</c><00:03:31.520><c> file</c><00:03:31.790><c> called</c><00:03:32.030><c> printable</c><00:03:32.780><c> and</c><00:03:32.960><c> the</c><00:03:33.590><c> only</c>
+
+00:03:33.760 --> 00:03:33.770 align:start position:0%
+a new file called printable and the only
+ 
+
+00:03:33.770 --> 00:03:35.140 align:start position:0%
+a new file called printable and the only
+thing<00:03:34.040><c> this</c><00:03:34.130><c> is</c><00:03:34.250><c> going</c><00:03:34.520><c> to</c><00:03:34.640><c> have</c><00:03:34.850><c> I'm</c><00:03:35.060><c> gonna</c>
+
+00:03:35.140 --> 00:03:35.150 align:start position:0%
+thing this is going to have I'm gonna
+ 
+
+00:03:35.150 --> 00:03:38.740 align:start position:0%
+thing this is going to have I'm gonna
+make<00:03:35.300><c> a</c><00:03:35.360><c> public</c><00:03:35.890><c> virtual</c><00:03:36.890><c> string</c><00:03:37.850><c> function</c>
+
+00:03:38.740 --> 00:03:38.750 align:start position:0%
+make a public virtual string function
+ 
+
+00:03:38.750 --> 00:03:41.350 align:start position:0%
+make a public virtual string function
+the<00:03:39.080><c> return</c><00:03:39.380><c> of</c><00:03:39.410><c> string</c><00:03:39.770><c> here</c><00:03:40.010><c> get</c><00:03:40.760><c> class</c><00:03:41.060><c> name</c>
+
+00:03:41.350 --> 00:03:41.360 align:start position:0%
+the return of string here get class name
+ 
+
+00:03:41.360 --> 00:03:43.690 align:start position:0%
+the return of string here get class name
+and<00:03:41.630><c> it's</c><00:03:42.320><c> going</c><00:03:42.470><c> to</c><00:03:42.590><c> be</c><00:03:42.710><c> pure</c><00:03:43.010><c> virtual</c><00:03:43.520><c> so</c><00:03:43.640><c> I'm</c>
+
+00:03:43.690 --> 00:03:43.700 align:start position:0%
+and it's going to be pure virtual so I'm
+ 
+
+00:03:43.700 --> 00:03:45.400 align:start position:0%
+and it's going to be pure virtual so I'm
+going<00:03:43.850><c> to</c><00:03:43.910><c> set</c><00:03:44.030><c> it</c><00:03:44.120><c> equal</c><00:03:44.210><c> to</c><00:03:44.420><c> zero</c><00:03:44.870><c> then</c><00:03:45.290><c> I'm</c>
+
+00:03:45.400 --> 00:03:45.410 align:start position:0%
+going to set it equal to zero then I'm
+ 
+
+00:03:45.410 --> 00:03:47.050 align:start position:0%
+going to set it equal to zero then I'm
+going<00:03:45.620><c> to</c><00:03:45.680><c> make</c><00:03:45.860><c> entity</c><00:03:46.340><c> implement</c><00:03:46.880><c> that</c>
+
+00:03:47.050 --> 00:03:47.060 align:start position:0%
+going to make entity implement that
+ 
+
+00:03:47.060 --> 00:03:50.050 align:start position:0%
+going to make entity implement that
+interstate<00:03:48.040><c> notice</c><00:03:49.040><c> that</c><00:03:49.160><c> player</c><00:03:49.460><c> is</c><00:03:49.700><c> already</c>
+
+00:03:50.050 --> 00:03:50.060 align:start position:0%
+interstate notice that player is already
+ 
+
+00:03:50.060 --> 00:03:52.300 align:start position:0%
+interstate notice that player is already
+an<00:03:50.300><c> entity</c><00:03:50.750><c> so</c><00:03:50.960><c> we</c><00:03:51.110><c> don't</c><00:03:51.260><c> have</c><00:03:51.470><c> to</c><00:03:51.680><c> implement</c>
+
+00:03:52.300 --> 00:03:52.310 align:start position:0%
+an entity so we don't have to implement
+ 
+
+00:03:52.310 --> 00:03:54.400 align:start position:0%
+an entity so we don't have to implement
+printable<00:03:53.030><c> however</c><00:03:53.420><c> if</c><00:03:53.600><c> it</c><00:03:53.720><c> wasn't</c><00:03:54.140><c> for</c>
+
+00:03:54.400 --> 00:03:54.410 align:start position:0%
+printable however if it wasn't for
+ 
+
+00:03:54.410 --> 00:03:55.840 align:start position:0%
+printable however if it wasn't for
+whatever<00:03:54.620><c> reason</c><00:03:55.130><c> we</c><00:03:55.340><c> could</c><00:03:55.490><c> just</c><00:03:55.640><c> add</c><00:03:55.820><c> a</c>
+
+00:03:55.840 --> 00:03:55.850 align:start position:0%
+whatever reason we could just add a
+ 
+
+00:03:55.850 --> 00:03:57.790 align:start position:0%
+whatever reason we could just add a
+comma<00:03:56.210><c> and</c><00:03:56.480><c> then</c><00:03:56.630><c> implement</c><00:03:57.170><c> an</c><00:03:57.350><c> intersect</c>
+
+00:03:57.790 --> 00:03:57.800 align:start position:0%
+comma and then implement an intersect
+ 
+
+00:03:57.800 --> 00:04:00.040 align:start position:0%
+comma and then implement an intersect
+like<00:03:58.010><c> so</c><00:03:58.280><c> gives</c><00:03:59.120><c> mind</c><00:03:59.360><c> that</c><00:03:59.510><c> I</c><00:03:59.570><c> keep</c><00:03:59.780><c> calling</c>
+
+00:04:00.040 --> 00:04:00.050 align:start position:0%
+like so gives mind that I keep calling
+ 
+
+00:04:00.050 --> 00:04:01.870 align:start position:0%
+like so gives mind that I keep calling
+as<00:04:00.140><c> an</c><00:04:00.290><c> interface</c><00:04:00.650><c> but</c><00:04:00.950><c> of</c><00:04:01.040><c> course</c><00:04:01.250><c> it</c><00:04:01.460><c> is</c><00:04:01.610><c> just</c>
+
+00:04:01.870 --> 00:04:01.880 align:start position:0%
+as an interface but of course it is just
+ 
+
+00:04:01.880 --> 00:04:03.490 align:start position:0%
+as an interface but of course it is just
+a<00:04:02.060><c> class</c><00:04:02.390><c> there</c><00:04:02.660><c> is</c><00:04:02.720><c> not</c><00:04:02.930><c> even</c><00:04:03.200><c> at</c><00:04:03.290><c> the</c><00:04:03.350><c> name</c>
+
+00:04:03.490 --> 00:04:03.500 align:start position:0%
+a class there is not even at the name
+ 
+
+00:04:03.500 --> 00:04:05.860 align:start position:0%
+a class there is not even at the name
+interface<00:04:04.010><c> series</c><00:04:04.520><c> because</c><00:04:04.820><c> all</c><00:04:05.060><c> it</c><00:04:05.240><c> has</c><00:04:05.480><c> is</c>
+
+00:04:05.860 --> 00:04:05.870 align:start position:0%
+interface series because all it has is
+ 
+
+00:04:05.870 --> 00:04:07.900 align:start position:0%
+interface series because all it has is
+that<00:04:06.230><c> pure</c><00:04:06.680><c> virtual</c><00:04:07.070><c> function</c><00:04:07.100><c> and</c><00:04:07.700><c> that</c><00:04:07.850><c> is</c>
+
+00:04:07.900 --> 00:04:07.910 align:start position:0%
+that pure virtual function and that is
+ 
+
+00:04:07.910 --> 00:04:10.000 align:start position:0%
+that pure virtual function and that is
+it<00:04:08.180><c> other</c><00:04:08.510><c> languages</c><00:04:09.050><c> actually</c><00:04:09.290><c> do</c><00:04:09.650><c> have</c><00:04:09.890><c> an</c>
+
+00:04:10.000 --> 00:04:10.010 align:start position:0%
+it other languages actually do have an
+ 
+
+00:04:10.010 --> 00:04:12.040 align:start position:0%
+it other languages actually do have an
+interface<00:04:10.310><c> keyword</c><00:04:11.000><c> instead</c><00:04:11.270><c> of</c><00:04:11.450><c> class</c><00:04:11.690><c> but</c>
+
+00:04:12.040 --> 00:04:12.050 align:start position:0%
+interface keyword instead of class but
+ 
+
+00:04:12.050 --> 00:04:13.870 align:start position:0%
+interface keyword instead of class but
+these<00:04:12.230><c> likewise</c><00:04:12.590><c> does</c><00:04:12.830><c> not</c><00:04:13.010><c> interfaces</c><00:04:13.730><c> are</c>
+
+00:04:13.870 --> 00:04:13.880 align:start position:0%
+these likewise does not interfaces are
+ 
+
+00:04:13.880 --> 00:04:15.580 align:start position:0%
+these likewise does not interfaces are
+just<00:04:14.090><c> classes</c><00:04:14.540><c> in</c><00:04:14.660><c> a</c><00:04:14.690><c> set</c><00:04:14.870><c> of</c><00:04:14.990><c> laws</c><00:04:15.200><c> so</c><00:04:15.470><c> now</c>
+
+00:04:15.580 --> 00:04:15.590 align:start position:0%
+just classes in a set of laws so now
+ 
+
+00:04:15.590 --> 00:04:17.440 align:start position:0%
+just classes in a set of laws so now
+everything<00:04:16.130><c> has</c><00:04:16.340><c> to</c><00:04:16.549><c> have</c><00:04:16.730><c> this</c><00:04:16.940><c> get</c><00:04:17.180><c> class</c>
+
+00:04:17.440 --> 00:04:17.450 align:start position:0%
+everything has to have this get class
+ 
+
+00:04:17.450 --> 00:04:19.390 align:start position:0%
+everything has to have this get class
+name<00:04:17.660><c> function</c><00:04:18.080><c> if</c><00:04:18.230><c> it</c><00:04:18.350><c> does</c><00:04:18.500><c> not</c><00:04:18.680><c> you</c><00:04:18.980><c> can't</c>
+
+00:04:19.390 --> 00:04:19.400 align:start position:0%
+name function if it does not you can't
+ 
+
+00:04:19.400 --> 00:04:21.220 align:start position:0%
+name function if it does not you can't
+actually<00:04:19.669><c> instantiate</c><00:04:20.210><c> it</c><00:04:20.510><c> let's</c><00:04:20.930><c> go</c><00:04:21.109><c> ahead</c>
+
+00:04:21.220 --> 00:04:21.230 align:start position:0%
+actually instantiate it let's go ahead
+ 
+
+00:04:21.230 --> 00:04:22.900 align:start position:0%
+actually instantiate it let's go ahead
+and<00:04:21.710><c> add</c><00:04:22.010><c> a</c>
+
+00:04:22.900 --> 00:04:22.910 align:start position:0%
+and add a
+ 
+
+00:04:22.910 --> 00:04:25.450 align:start position:0%
+and add a
+get<00:04:23.300><c> clasp</c><00:04:23.630><c> and</c><00:04:23.840><c> function</c><00:04:24.230><c> forenski</c><00:04:24.740><c> now</c><00:04:25.100><c> if</c>
+
+00:04:25.450 --> 00:04:25.460 align:start position:0%
+get clasp and function forenski now if
+ 
+
+00:04:25.460 --> 00:04:27.520 align:start position:0%
+get clasp and function forenski now if
+we<00:04:25.700><c> were</c><00:04:25.820><c> to</c><00:04:25.940><c> do</c><00:04:26.090><c> what</c><00:04:26.300><c> we</c><00:04:26.450><c> did</c><00:04:26.660><c> here</c><00:04:26.990><c> in</c><00:04:27.290><c> sight</c>
+
+00:04:27.520 --> 00:04:27.530 align:start position:0%
+we were to do what we did here in sight
+ 
+
+00:04:27.530 --> 00:04:30.190 align:start position:0%
+we were to do what we did here in sight
+player<00:04:27.860><c> I'll</c><00:04:28.190><c> just</c><00:04:28.520><c> write</c><00:04:28.730><c> stds</c><00:04:29.300><c> string</c><00:04:29.690><c> and</c>
+
+00:04:30.190 --> 00:04:30.200 align:start position:0%
+player I'll just write stds string and
+ 
+
+00:04:30.200 --> 00:04:33.370 align:start position:0%
+player I'll just write stds string and
+get<00:04:30.380><c> class</c><00:04:30.740><c> name</c><00:04:31.040><c> return</c><00:04:31.810><c> entity</c><00:04:32.810><c> then</c><00:04:33.290><c> we</c>
+
+00:04:33.370 --> 00:04:33.380 align:start position:0%
+get class name return entity then we
+ 
+
+00:04:33.380 --> 00:04:34.840 align:start position:0%
+get class name return entity then we
+actually<00:04:33.530><c> have</c><00:04:33.740><c> a</c><00:04:33.770><c> few</c><00:04:34.010><c> issues</c><00:04:34.160><c> first</c><00:04:34.610><c> of</c><00:04:34.730><c> all</c>
+
+00:04:34.840 --> 00:04:34.850 align:start position:0%
+actually have a few issues first of all
+ 
+
+00:04:34.850 --> 00:04:36.340 align:start position:0%
+actually have a few issues first of all
+our<00:04:35.060><c> problem</c><00:04:35.480><c> of</c><00:04:35.600><c> not</c><00:04:35.780><c> being</c><00:04:35.810><c> able</c><00:04:36.110><c> to</c>
+
+00:04:36.340 --> 00:04:36.350 align:start position:0%
+our problem of not being able to
+ 
+
+00:04:36.350 --> 00:04:37.900 align:start position:0%
+our problem of not being able to
+instantiate<00:04:36.590><c> entity</c><00:04:37.190><c> is</c><00:04:37.280><c> solved</c><00:04:37.610><c> of</c><00:04:37.730><c> course</c>
+
+00:04:37.900 --> 00:04:37.910 align:start position:0%
+instantiate entity is solved of course
+ 
+
+00:04:37.910 --> 00:04:39.580 align:start position:0%
+instantiate entity is solved of course
+because<00:04:38.180><c> we</c><00:04:38.330><c> have</c><00:04:38.480><c> provided</c><00:04:38.870><c> that</c><00:04:39.020><c> function</c>
+
+00:04:39.580 --> 00:04:39.590 align:start position:0%
+because we have provided that function
+ 
+
+00:04:39.590 --> 00:04:41.410 align:start position:0%
+because we have provided that function
+however<00:04:39.980><c> you'll</c><00:04:40.670><c> notice</c><00:04:40.820><c> that</c><00:04:41.030><c> we</c><00:04:41.180><c> haven't</c>
+
+00:04:41.410 --> 00:04:41.420 align:start position:0%
+however you'll notice that we haven't
+ 
+
+00:04:41.420 --> 00:04:43.660 align:start position:0%
+however you'll notice that we haven't
+provided<00:04:41.690><c> one</c><00:04:42.170><c> for</c><00:04:42.410><c> player</c><00:04:42.680><c> so</c><00:04:43.190><c> if</c><00:04:43.280><c> I</c><00:04:43.370><c> go</c><00:04:43.430><c> down</c>
+
+00:04:43.660 --> 00:04:43.670 align:start position:0%
+provided one for player so if I go down
+ 
+
+00:04:43.670 --> 00:04:45.460 align:start position:0%
+provided one for player so if I go down
+to<00:04:43.760><c> print</c><00:04:44.060><c> let's</c><00:04:44.330><c> make</c><00:04:44.510><c> this</c><00:04:44.630><c> a</c><00:04:44.780><c> pointer</c><00:04:45.290><c> and</c>
+
+00:04:45.460 --> 00:04:45.470 align:start position:0%
+to print let's make this a pointer and
+ 
+
+00:04:45.470 --> 00:04:48.930 align:start position:0%
+to print let's make this a pointer and
+actually<00:04:46.130><c> call</c><00:04:46.370><c> print</c><00:04:46.760><c> with</c><00:04:47.210><c> both</c><00:04:47.750><c> player</c><00:04:48.680><c> and</c>
+
+00:04:48.930 --> 00:04:48.940 align:start position:0%
+actually call print with both player and
+ 
+
+00:04:48.940 --> 00:04:51.880 align:start position:0%
+actually call print with both player and
+entity<00:04:49.940><c> we'll</c><00:04:50.750><c> get</c><00:04:50.930><c> rid</c><00:04:51.020><c> of</c><00:04:51.080><c> print</c><00:04:51.380><c> names</c><00:04:51.590><c> that</c>
+
+00:04:51.880 --> 00:04:51.890 align:start position:0%
+entity we'll get rid of print names that
+ 
+
+00:04:51.890 --> 00:04:54.370 align:start position:0%
+entity we'll get rid of print names that
+we're<00:04:52.040><c> not</c><00:04:52.160><c> confused</c><00:04:52.880><c> here</c><00:04:53.150><c> here</c><00:04:53.540><c> five</c><00:04:53.900><c> of</c>
+
+00:04:54.370 --> 00:04:54.380 align:start position:0%
+we're not confused here here five of
+ 
+
+00:04:54.380 --> 00:04:55.750 align:start position:0%
+we're not confused here here five of
+course<00:04:54.620><c> you</c><00:04:54.770><c> can</c><00:04:54.890><c> see</c><00:04:54.980><c> that</c><00:04:55.010><c> we</c><00:04:55.190><c> get</c><00:04:55.310><c> entity</c>
+
+00:04:55.750 --> 00:04:55.760 align:start position:0%
+course you can see that we get entity
+ 
+
+00:04:55.760 --> 00:04:57.040 align:start position:0%
+course you can see that we get entity
+printing<00:04:56.150><c> twice</c><00:04:56.450><c> because</c><00:04:56.720><c> we</c><00:04:56.900><c> haven't</c>
+
+00:04:57.040 --> 00:04:57.050 align:start position:0%
+printing twice because we haven't
+ 
+
+00:04:57.050 --> 00:04:58.630 align:start position:0%
+printing twice because we haven't
+actually<00:04:57.170><c> provided</c><00:04:57.710><c> a</c><00:04:57.770><c> definition</c><00:04:57.920><c> in</c><00:04:58.400><c> player</c>
+
+00:04:58.630 --> 00:04:58.640 align:start position:0%
+actually provided a definition in player
+ 
+
+00:04:58.640 --> 00:05:00.430 align:start position:0%
+actually provided a definition in player
+however<00:04:59.150><c> if</c><00:04:59.450><c> we</c><00:04:59.600><c> do</c><00:04:59.780><c> so</c><00:04:59.990><c> if</c><00:05:00.050><c> I</c><00:05:00.170><c> just</c><00:05:00.260><c> try</c><00:05:00.410><c> and</c>
+
+00:05:00.430 --> 00:05:00.440 align:start position:0%
+however if we do so if I just try and
+ 
+
+00:05:00.440 --> 00:05:02.740 align:start position:0%
+however if we do so if I just try and
+copy<00:05:00.710><c> this</c><00:05:00.950><c> get</c><00:05:01.310><c> class</c><00:05:01.610><c> name</c><00:05:01.910><c> which</c><00:05:02.420><c> of</c><00:05:02.720><c> course</c>
+
+00:05:02.740 --> 00:05:02.750 align:start position:0%
+copy this get class name which of course
+ 
+
+00:05:02.750 --> 00:05:04.990 align:start position:0%
+copy this get class name which of course
+is<00:05:03.110><c> an</c><00:05:03.320><c> override</c><00:05:03.710><c> let's</c><00:05:03.950><c> not</c><00:05:04.130><c> forget</c><00:05:04.370><c> that</c><00:05:04.610><c> if</c>
+
+00:05:04.990 --> 00:05:05.000 align:start position:0%
+is an override let's not forget that if
+ 
+
+00:05:05.000 --> 00:05:07.390 align:start position:0%
+is an override let's not forget that if
+I<00:05:05.180><c> pop</c><00:05:05.420><c> that</c><00:05:05.450><c> down</c><00:05:05.840><c> here</c><00:05:06.230><c> and</c><00:05:06.440><c> rename</c><00:05:06.980><c> this</c><00:05:07.220><c> to</c>
+
+00:05:07.390 --> 00:05:07.400 align:start position:0%
+I pop that down here and rename this to
+ 
+
+00:05:07.400 --> 00:05:09.070 align:start position:0%
+I pop that down here and rename this to
+player<00:05:07.640><c> I</c><00:05:07.910><c> can</c><00:05:08.090><c> hit</c><00:05:08.240><c> up</c><00:05:08.360><c> five</c><00:05:08.540><c> here</c><00:05:08.780><c> to</c><00:05:08.870><c> run</c><00:05:08.960><c> my</c>
+
+00:05:09.070 --> 00:05:09.080 align:start position:0%
+player I can hit up five here to run my
+ 
+
+00:05:09.080 --> 00:05:11.110 align:start position:0%
+player I can hit up five here to run my
+code<00:05:09.290><c> and</c><00:05:09.560><c> you</c><00:05:10.100><c> can</c><00:05:10.250><c> see</c><00:05:10.370><c> that</c><00:05:10.490><c> I</c><00:05:10.580><c> now</c><00:05:10.730><c> get</c><00:05:11.000><c> the</c>
+
+00:05:11.110 --> 00:05:11.120 align:start position:0%
+code and you can see that I now get the
+ 
+
+00:05:11.120 --> 00:05:13.270 align:start position:0%
+code and you can see that I now get the
+appropriate<00:05:11.720><c> class</c><00:05:11.930><c> name</c><00:05:12.260><c> printing</c><00:05:12.830><c> and</c><00:05:13.010><c> all</c>
+
+00:05:13.270 --> 00:05:13.280 align:start position:0%
+appropriate class name printing and all
+ 
+
+00:05:13.280 --> 00:05:14.950 align:start position:0%
+appropriate class name printing and all
+of<00:05:13.400><c> that</c><00:05:13.550><c> is</c><00:05:13.640><c> coming</c><00:05:13.850><c> from</c><00:05:14.120><c> that</c><00:05:14.330><c> one</c><00:05:14.630><c> print</c>
+
+00:05:14.950 --> 00:05:14.960 align:start position:0%
+of that is coming from that one print
+ 
+
+00:05:14.960 --> 00:05:16.510 align:start position:0%
+of that is coming from that one print
+function<00:05:15.350><c> that</c><00:05:15.470><c> takes</c><00:05:15.650><c> in</c><00:05:15.860><c> a</c><00:05:16.010><c> printable</c>
+
+00:05:16.510 --> 00:05:16.520 align:start position:0%
+function that takes in a printable
+ 
+
+00:05:16.520 --> 00:05:18.790 align:start position:0%
+function that takes in a printable
+object<00:05:16.640><c> it</c><00:05:17.270><c> doesn't</c><00:05:17.690><c> really</c><00:05:17.900><c> care</c><00:05:18.320><c> what</c><00:05:18.560><c> class</c>
+
+00:05:18.790 --> 00:05:18.800 align:start position:0%
+object it doesn't really care what class
+ 
+
+00:05:18.800 --> 00:05:20.380 align:start position:0%
+object it doesn't really care what class
+it<00:05:19.010><c> is</c><00:05:19.070><c> we</c><00:05:19.250><c> could</c><00:05:19.430><c> create</c><00:05:19.670><c> a</c><00:05:19.760><c> completely</c>
+
+00:05:20.380 --> 00:05:20.390 align:start position:0%
+it is we could create a completely
+ 
+
+00:05:20.390 --> 00:05:24.070 align:start position:0%
+it is we could create a completely
+different<00:05:20.900><c> class</c><00:05:21.020><c> here</c><00:05:21.440><c> such</c><00:05:22.220><c> as</c><00:05:22.460><c> a</c><00:05:22.580><c> that</c><00:05:23.420><c> is</c><00:05:23.720><c> a</c>
+
+00:05:24.070 --> 00:05:24.080 align:start position:0%
+different class here such as a that is a
+ 
+
+00:05:24.080 --> 00:05:26.980 align:start position:0%
+different class here such as a that is a
+printable<00:05:25.040><c> class</c><00:05:25.400><c> meaning</c><00:05:26.150><c> that</c><00:05:26.360><c> it</c><00:05:26.510><c> has</c><00:05:26.540><c> to</c>
+
+00:05:26.980 --> 00:05:26.990 align:start position:0%
+printable class meaning that it has to
+ 
+
+00:05:26.990 --> 00:05:29.020 align:start position:0%
+printable class meaning that it has to
+have<00:05:27.230><c> that</c><00:05:27.440><c> function</c><00:05:27.980><c> if</c><00:05:28.100><c> it</c><00:05:28.220><c> does</c><00:05:28.430><c> not</c><00:05:28.670><c> have</c>
+
+00:05:29.020 --> 00:05:29.030 align:start position:0%
+have that function if it does not have
+ 
+
+00:05:29.030 --> 00:05:31.330 align:start position:0%
+have that function if it does not have
+that<00:05:29.330><c> get</c><00:05:29.720><c> class</c><00:05:29.990><c> name</c><00:05:30.260><c> function</c><00:05:30.800><c> then</c><00:05:31.310><c> you</c>
+
+00:05:31.330 --> 00:05:31.340 align:start position:0%
+that get class name function then you
+ 
+
+00:05:31.340 --> 00:05:34.180 align:start position:0%
+that get class name function then you
+won't<00:05:31.670><c> be</c><00:05:31.850><c> able</c><00:05:32.000><c> to</c><00:05:32.120><c> instantiate</c><00:05:32.540><c> an</c><00:05:33.190><c> instance</c>
+
+00:05:34.180 --> 00:05:34.190 align:start position:0%
+won't be able to instantiate an instance
+ 
+
+00:05:34.190 --> 00:05:35.530 align:start position:0%
+won't be able to instantiate an instance
+of<00:05:34.310><c> this</c><00:05:34.430><c> class</c><00:05:34.490><c> if</c><00:05:34.910><c> we</c><00:05:35.060><c> do</c><00:05:35.180><c> something</c><00:05:35.510><c> like</c>
+
+00:05:35.530 --> 00:05:35.540 align:start position:0%
+of this class if we do something like
+ 
+
+00:05:35.540 --> 00:05:37.480 align:start position:0%
+of this class if we do something like
+this<00:05:35.840><c> I</c><00:05:36.140><c> created</c><00:05:36.710><c> a</c><00:05:36.770><c> brand</c><00:05:36.950><c> new</c><00:05:37.010><c> class</c><00:05:37.280><c> that</c>
+
+00:05:37.480 --> 00:05:37.490 align:start position:0%
+this I created a brand new class that
+ 
+
+00:05:37.490 --> 00:05:38.650 align:start position:0%
+this I created a brand new class that
+made<00:05:37.640><c> of</c><00:05:37.730><c> principle</c><00:05:38.180><c> meaning</c><00:05:38.420><c> that</c><00:05:38.510><c> I</c><00:05:38.570><c> have</c>
+
+00:05:38.650 --> 00:05:38.660 align:start position:0%
+made of principle meaning that I have
+ 
+
+00:05:38.660 --> 00:05:41.020 align:start position:0%
+made of principle meaning that I have
+implemented<00:05:39.200><c> this</c><00:05:39.470><c> function</c><00:05:39.950><c> I</c><00:05:40.130><c> can</c><00:05:40.400><c> now</c><00:05:40.700><c> call</c>
+
+00:05:41.020 --> 00:05:41.030 align:start position:0%
+implemented this function I can now call
+ 
+
+00:05:41.030 --> 00:05:43.630 align:start position:0%
+implemented this function I can now call
+print<00:05:41.480><c> like</c><00:05:42.350><c> this</c><00:05:42.590><c> the</c><00:05:42.830><c> course</c><00:05:43.040><c> don't</c><00:05:43.280><c> write</c>
+
+00:05:43.630 --> 00:05:43.640 align:start position:0%
+print like this the course don't write
+ 
+
+00:05:43.640 --> 00:05:45.040 align:start position:0%
+print like this the course don't write
+this<00:05:43.790><c> code</c><00:05:44.030><c> exactly</c><00:05:44.450><c> because</c><00:05:44.570><c> the</c><00:05:44.780><c> memory</c>
+
+00:05:45.040 --> 00:05:45.050 align:start position:0%
+this code exactly because the memory
+ 
+
+00:05:45.050 --> 00:05:47.080 align:start position:0%
+this code exactly because the memory
+leaks<00:05:45.260><c> but</c><00:05:45.530><c> for</c><00:05:45.830><c> testing</c><00:05:46.160><c> its</c><00:05:46.280><c> own</c><00:05:46.460><c> if</c><00:05:46.760><c> I</c><00:05:47.030><c> do</c>
+
+00:05:47.080 --> 00:05:47.090 align:start position:0%
+leaks but for testing its own if I do
+ 
+
+00:05:47.090 --> 00:05:48.640 align:start position:0%
+leaks but for testing its own if I do
+something<00:05:47.360><c> like</c><00:05:47.480><c> this</c><00:05:47.750><c> you</c><00:05:48.020><c> can</c><00:05:48.140><c> see</c><00:05:48.320><c> that</c><00:05:48.500><c> we</c>
+
+00:05:48.640 --> 00:05:48.650 align:start position:0%
+something like this you can see that we
+ 
+
+00:05:48.650 --> 00:05:51.220 align:start position:0%
+something like this you can see that we
+now<00:05:48.860><c> get</c><00:05:49.100><c> that</c><00:05:49.640><c> a</c><00:05:49.820><c> class</c><00:05:50.300><c> printing</c><00:05:50.780><c> here</c><00:05:51.020><c> and</c>
+
+00:05:51.220 --> 00:05:51.230 align:start position:0%
+now get that a class printing here and
+ 
+
+00:05:51.230 --> 00:05:53.440 align:start position:0%
+now get that a class printing here and
+because<00:05:51.830><c> it</c><00:05:52.130><c> is</c><00:05:52.190><c> a</c><00:05:52.550><c> principal</c><00:05:53.210><c> it</c><00:05:53.360><c> is</c>
+
+00:05:53.440 --> 00:05:53.450 align:start position:0%
+because it is a principal it is
+ 
+
+00:05:53.450 --> 00:05:55.600 align:start position:0%
+because it is a principal it is
+guaranteed<00:05:54.110><c> to</c><00:05:54.410><c> have</c><00:05:54.650><c> that</c><00:05:54.890><c> gap</c><00:05:55.070><c> class</c><00:05:55.340><c> name</c>
+
+00:05:55.600 --> 00:05:55.610 align:start position:0%
+guaranteed to have that gap class name
+ 
+
+00:05:55.610 --> 00:05:56.680 align:start position:0%
+guaranteed to have that gap class name
+function<00:05:55.940><c> that's</c><00:05:56.210><c> how</c><00:05:56.330><c> this</c><00:05:56.450><c> whole</c><00:05:56.630><c> thing</c>
+
+00:05:56.680 --> 00:05:56.690 align:start position:0%
+function that's how this whole thing
+ 
+
+00:05:56.690 --> 00:05:58.480 align:start position:0%
+function that's how this whole thing
+works<00:05:57.020><c> because</c><00:05:57.470><c> it</c><00:05:57.620><c> knows</c><00:05:57.860><c> that</c><00:05:57.890><c> anything</c>
+
+00:05:58.480 --> 00:05:58.490 align:start position:0%
+works because it knows that anything
+ 
+
+00:05:58.490 --> 00:06:00.400 align:start position:0%
+works because it knows that anything
+that<00:05:58.640><c> is</c><00:05:58.760><c> printable</c><00:05:59.330><c> how</c><00:05:59.840><c> the</c><00:05:59.900><c> guest</c><00:06:00.230><c> Laughing</c>
+
+00:06:00.400 --> 00:06:00.410 align:start position:0%
+that is printable how the guest Laughing
+ 
+
+00:06:00.410 --> 00:06:02.680 align:start position:0%
+that is printable how the guest Laughing
+function<00:06:01.100><c> for</c><00:06:01.550><c> this</c><00:06:01.640><c> to</c><00:06:01.850><c> actually</c><00:06:02.210><c> call</c><00:06:02.450><c> if</c>
+
+00:06:02.680 --> 00:06:02.690 align:start position:0%
+function for this to actually call if
+ 
+
+00:06:02.690 --> 00:06:05.380 align:start position:0%
+function for this to actually call if
+you<00:06:02.870><c> do</c><00:06:03.050><c> not</c><00:06:03.260><c> implement</c><00:06:03.920><c> that</c><00:06:04.250><c> function</c><00:06:04.520><c> then</c>
+
+00:06:05.380 --> 00:06:05.390 align:start position:0%
+you do not implement that function then
+ 
+
+00:06:05.390 --> 00:06:07.390 align:start position:0%
+you do not implement that function then
+you<00:06:05.660><c> will</c><00:06:05.810><c> not</c><00:06:06.050><c> be</c><00:06:06.230><c> able</c><00:06:06.320><c> to</c><00:06:06.500><c> instantiate</c><00:06:06.800><c> the</c>
+
+00:06:07.390 --> 00:06:07.400 align:start position:0%
+you will not be able to instantiate the
+ 
+
+00:06:07.400 --> 00:06:09.010 align:start position:0%
+you will not be able to instantiate the
+class<00:06:07.430><c> so</c><00:06:07.970><c> that's</c><00:06:08.060><c> it</c><00:06:08.300><c> that</c><00:06:08.630><c> is</c><00:06:08.660><c> what</c><00:06:08.900><c> an</c>
+
+00:06:09.010 --> 00:06:09.020 align:start position:0%
+class so that's it that is what an
+ 
+
+00:06:09.020 --> 00:06:10.690 align:start position:0%
+class so that's it that is what an
+interface<00:06:09.500><c> isn't</c><00:06:09.890><c> it</c><00:06:10.010><c> bus</c><00:06:10.160><c> process</c><00:06:10.550><c> what</c><00:06:10.670><c> a</c>
+
+00:06:10.690 --> 00:06:10.700 align:start position:0%
+interface isn't it bus process what a
+ 
+
+00:06:10.700 --> 00:06:13.210 align:start position:0%
+interface isn't it bus process what a
+pure<00:06:10.940><c> virtual</c><00:06:11.120><c> function</c><00:06:11.270><c> is</c><00:06:11.810><c> in</c><00:06:12.020><c> C++</c><00:06:12.650><c> very</c>
+
+00:06:13.210 --> 00:06:13.220 align:start position:0%
+pure virtual function is in C++ very
+ 
+
+00:06:13.220 --> 00:06:15.460 align:start position:0%
+pure virtual function is in C++ very
+very<00:06:13.490><c> useful</c><00:06:13.700><c> stuff</c><00:06:14.240><c> the</c><00:06:14.690><c> number</c><00:06:14.960><c> one</c><00:06:15.110><c> reason</c>
+
+00:06:15.460 --> 00:06:15.470 align:start position:0%
+very useful stuff the number one reason
+ 
+
+00:06:15.470 --> 00:06:17.530 align:start position:0%
+very useful stuff the number one reason
+is<00:06:15.590><c> really</c><00:06:15.920><c> used</c><00:06:16.160><c> is</c><00:06:16.400><c> the</c><00:06:16.610><c> situations</c><00:06:17.150><c> like</c>
+
+00:06:17.530 --> 00:06:17.540 align:start position:0%
+is really used is the situations like
+ 
+
+00:06:17.540 --> 00:06:19.210 align:start position:0%
+is really used is the situations like
+this<00:06:17.810><c> where</c><00:06:18.170><c> you</c><00:06:18.320><c> want</c><00:06:18.590><c> to</c><00:06:18.740><c> be</c><00:06:18.890><c> able</c><00:06:19.130><c> to</c>
+
+00:06:19.210 --> 00:06:19.220 align:start position:0%
+this where you want to be able to
+ 
+
+00:06:19.220 --> 00:06:21.610 align:start position:0%
+this where you want to be able to
+guarantee<00:06:19.520><c> that</c><00:06:20.420><c> if</c><00:06:20.540><c> I</c><00:06:20.720><c> have</c><00:06:21.050><c> a</c><00:06:21.080><c> certain</c>
+
+00:06:21.610 --> 00:06:21.620 align:start position:0%
+guarantee that if I have a certain
+ 
+
+00:06:21.620 --> 00:06:23.140 align:start position:0%
+guarantee that if I have a certain
+function<00:06:21.860><c> so</c><00:06:22.280><c> that</c><00:06:22.430><c> you</c><00:06:22.490><c> can</c><00:06:22.640><c> pass</c><00:06:22.820><c> it</c><00:06:23.030><c> to</c><00:06:23.120><c> a</c>
+
+00:06:23.140 --> 00:06:23.150 align:start position:0%
+function so that you can pass it to a
+ 
+
+00:06:23.150 --> 00:06:24.850 align:start position:0%
+function so that you can pass it to a
+fairly<00:06:23.390><c> generic</c><00:06:23.570><c> method</c><00:06:24.200><c> that</c><00:06:24.620><c> we'll</c><00:06:24.830><c> just</c>
+
+00:06:24.850 --> 00:06:24.860 align:start position:0%
+fairly generic method that we'll just
+ 
+
+00:06:24.860 --> 00:06:27.430 align:start position:0%
+fairly generic method that we'll just
+call<00:06:25.490><c> that</c><00:06:25.520><c> function</c><00:06:26.150><c> or</c><00:06:26.330><c> do</c><00:06:26.990><c> whatever</c><00:06:27.230><c> it</c>
+
+00:06:27.430 --> 00:06:27.440 align:start position:0%
+call that function or do whatever it
+ 
+
+00:06:27.440 --> 00:06:28.630 align:start position:0%
+call that function or do whatever it
+needs<00:06:27.560><c> to</c><00:06:27.710><c> do</c><00:06:27.890><c> hope</c><00:06:28.130><c> you</c><00:06:28.220><c> guys</c><00:06:28.310><c> enjoy</c><00:06:28.550><c> this</c>
+
+00:06:28.630 --> 00:06:28.640 align:start position:0%
+needs to do hope you guys enjoy this
+ 
+
+00:06:28.640 --> 00:06:29.950 align:start position:0%
+needs to do hope you guys enjoy this
+video<00:06:28.820><c> as</c><00:06:29.120><c> always</c><00:06:29.270><c> you</c><00:06:29.480><c> can</c><00:06:29.510><c> leave</c><00:06:29.750><c> any</c>
+
+00:06:29.950 --> 00:06:29.960 align:start position:0%
+video as always you can leave any
+ 
+
+00:06:29.960 --> 00:06:31.480 align:start position:0%
+video as always you can leave any
+questions<00:06:30.440><c> or</c><00:06:30.590><c> comments</c><00:06:30.830><c> you</c><00:06:30.979><c> have</c><00:06:31.190><c> in</c><00:06:31.370><c> the</c>
+
+00:06:31.480 --> 00:06:31.490 align:start position:0%
+questions or comments you have in the
+ 
+
+00:06:31.490 --> 00:06:32.710 align:start position:0%
+questions or comments you have in the
+comment<00:06:31.790><c> section</c><00:06:32.030><c> below</c><00:06:32.150><c> I</c><00:06:32.270><c> try</c><00:06:32.540><c> to</c><00:06:32.600><c> reply</c>
+
+00:06:32.710 --> 00:06:32.720 align:start position:0%
+comment section below I try to reply
+ 
+
+00:06:32.720 --> 00:06:33.159 align:start position:0%
+comment section below I try to reply
+toes
+
+00:06:33.159 --> 00:06:33.169 align:start position:0%
+toes
+ 
+
+00:06:33.169 --> 00:06:35.230 align:start position:0%
+toes
+comments<00:06:33.529><c> as</c><00:06:33.620><c> I</c><00:06:33.830><c> can</c><00:06:34.129><c> and</c><00:06:34.430><c> I</c><00:06:34.849><c> will</c><00:06:35.029><c> see</c><00:06:35.150><c> you</c>
+
+00:06:35.230 --> 00:06:35.240 align:start position:0%
+comments as I can and I will see you
+ 
+
+00:06:35.240 --> 00:06:38.010 align:start position:0%
+comments as I can and I will see you
+guys<00:06:35.360><c> next</c><00:06:35.629><c> time</c><00:06:35.960><c> goodbye</c>
+
+00:06:38.010 --> 00:06:38.020 align:start position:0%
+guys next time goodbye
+ 
+
+00:06:38.020 --> 00:06:46.140 align:start position:0%
+guys next time goodbye
+[Music]
+
+00:06:46.140 --> 00:06:46.150 align:start position:0%
+ 
+ 
+
+00:06:46.150 --> 00:06:53.199 align:start position:0%
+ 
+[Music]
+

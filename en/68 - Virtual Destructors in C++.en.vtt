@@ -1,0 +1,1752 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:00.000 --> 00:00:01.640 align:start position:0%
+ 
+Hey<00:00:00.179><c> look</c><00:00:00.390><c> guys</c><00:00:00.599><c> my</c><00:00:00.900><c> name</c><00:00:01.050><c> is</c><00:00:01.110><c> Jenna</c><00:00:01.350><c> welcome</c>
+
+00:00:01.640 --> 00:00:01.650 align:start position:0%
+Hey look guys my name is Jenna welcome
+ 
+
+00:00:01.650 --> 00:00:03.679 align:start position:0%
+Hey look guys my name is Jenna welcome
+back<00:00:01.800><c> to</c><00:00:01.949><c> my</c><00:00:02.070><c> siblings</c><00:00:02.460><c> boss</c><00:00:02.610><c> series</c><00:00:03.060><c> so</c><00:00:03.389><c> today</c>
+
+00:00:03.679 --> 00:00:03.689 align:start position:0%
+back to my siblings boss series so today
+ 
+
+00:00:03.689 --> 00:00:04.999 align:start position:0%
+back to my siblings boss series so today
+we're<00:00:03.959><c> talking</c><00:00:04.049><c> all</c><00:00:04.319><c> about</c><00:00:04.440><c> virtual</c>
+
+00:00:04.999 --> 00:00:05.009 align:start position:0%
+we're talking all about virtual
+ 
+
+00:00:05.009 --> 00:00:07.220 align:start position:0%
+we're talking all about virtual
+destructors<00:00:05.609><c> in</c><00:00:05.640><c> C++</c><00:00:05.839><c> if</c><00:00:06.839><c> you're</c><00:00:07.020><c> not</c><00:00:07.109><c> sure</c>
+
+00:00:07.220 --> 00:00:07.230 align:start position:0%
+destructors in C++ if you're not sure
+ 
+
+00:00:07.230 --> 00:00:08.629 align:start position:0%
+destructors in C++ if you're not sure
+what<00:00:07.410><c> a</c><00:00:07.470><c> destructor</c><00:00:07.980><c> is</c><00:00:08.130><c> and</c><00:00:08.340><c> definitely</c>
+
+00:00:08.629 --> 00:00:08.639 align:start position:0%
+what a destructor is and definitely
+ 
+
+00:00:08.639 --> 00:00:10.820 align:start position:0%
+what a destructor is and definitely
+check<00:00:08.820><c> out</c><00:00:08.910><c> that</c><00:00:08.970><c> video</c><00:00:09.269><c> first</c><00:00:09.750><c> and</c><00:00:10.019><c> also</c><00:00:10.650><c> you</c>
+
+00:00:10.820 --> 00:00:10.830 align:start position:0%
+check out that video first and also you
+ 
+
+00:00:10.830 --> 00:00:12.020 align:start position:0%
+check out that video first and also you
+don't<00:00:11.010><c> know</c><00:00:11.130><c> what</c><00:00:11.219><c> a</c><00:00:11.280><c> vessel</c><00:00:11.610><c> function</c><00:00:11.759><c> is</c>
+
+00:00:12.020 --> 00:00:12.030 align:start position:0%
+don't know what a vessel function is
+ 
+
+00:00:12.030 --> 00:00:13.430 align:start position:0%
+don't know what a vessel function is
+then<00:00:12.269><c> there's</c><00:00:12.570><c> also</c><00:00:12.719><c> that</c><00:00:12.990><c> video</c><00:00:13.259><c> that</c><00:00:13.320><c> you</c>
+
+00:00:13.430 --> 00:00:13.440 align:start position:0%
+then there's also that video that you
+ 
+
+00:00:13.440 --> 00:00:14.629 align:start position:0%
+then there's also that video that you
+should<00:00:13.559><c> probably</c><00:00:13.710><c> check</c><00:00:13.950><c> out</c><00:00:14.070><c> because</c><00:00:14.309><c> a</c>
+
+00:00:14.629 --> 00:00:14.639 align:start position:0%
+should probably check out because a
+ 
+
+00:00:14.639 --> 00:00:16.550 align:start position:0%
+should probably check out because a
+virtual<00:00:15.030><c> destructor</c><00:00:15.540><c> as</c><00:00:15.719><c> you</c><00:00:15.900><c> can</c><00:00:16.049><c> imagine</c><00:00:16.139><c> is</c>
+
+00:00:16.550 --> 00:00:16.560 align:start position:0%
+virtual destructor as you can imagine is
+ 
+
+00:00:16.560 --> 00:00:18.500 align:start position:0%
+virtual destructor as you can imagine is
+kind<00:00:16.830><c> of</c><00:00:16.980><c> the</c><00:00:17.460><c> combination</c><00:00:17.640><c> of</c><00:00:18.119><c> both</c><00:00:18.240><c> of</c><00:00:18.420><c> those</c>
+
+00:00:18.500 --> 00:00:18.510 align:start position:0%
+kind of the combination of both of those
+ 
+
+00:00:18.510 --> 00:00:20.720 align:start position:0%
+kind of the combination of both of those
+things<00:00:18.619><c> now</c><00:00:19.619><c> this</c><00:00:19.710><c> is</c><00:00:19.830><c> kind</c><00:00:20.010><c> of</c><00:00:20.039><c> simple</c><00:00:20.310><c> this</c>
+
+00:00:20.720 --> 00:00:20.730 align:start position:0%
+things now this is kind of simple this
+ 
+
+00:00:20.730 --> 00:00:22.040 align:start position:0%
+things now this is kind of simple this
+video<00:00:21.029><c> probably</c><00:00:21.180><c> shouldn't</c><00:00:21.510><c> take</c><00:00:21.660><c> too</c><00:00:21.689><c> long</c>
+
+00:00:22.040 --> 00:00:22.050 align:start position:0%
+video probably shouldn't take too long
+ 
+
+00:00:22.050 --> 00:00:23.450 align:start position:0%
+video probably shouldn't take too long
+and<00:00:22.109><c> we're</c><00:00:22.500><c> just</c><00:00:22.650><c> going</c><00:00:22.859><c> to</c><00:00:22.890><c> dive</c><00:00:23.100><c> into</c><00:00:23.310><c> an</c>
+
+00:00:23.450 --> 00:00:23.460 align:start position:0%
+and we're just going to dive into an
+ 
+
+00:00:23.460 --> 00:00:25.429 align:start position:0%
+and we're just going to dive into an
+example<00:00:23.730><c> and</c><00:00:23.939><c> take</c><00:00:24.060><c> a</c><00:00:24.090><c> look</c><00:00:24.300><c> immediately</c><00:00:24.840><c> but</c>
+
+00:00:25.429 --> 00:00:25.439 align:start position:0%
+example and take a look immediately but
+ 
+
+00:00:25.439 --> 00:00:27.320 align:start position:0%
+example and take a look immediately but
+essentially<00:00:25.890><c> virtual</c><00:00:26.430><c> disruptors</c><00:00:26.939><c> are</c><00:00:26.970><c> very</c>
+
+00:00:27.320 --> 00:00:27.330 align:start position:0%
+essentially virtual disruptors are very
+ 
+
+00:00:27.330 --> 00:00:28.759 align:start position:0%
+essentially virtual disruptors are very
+very<00:00:27.599><c> important</c><00:00:28.170><c> for</c><00:00:28.349><c> when</c><00:00:28.500><c> you're</c><00:00:28.650><c> dealing</c>
+
+00:00:28.759 --> 00:00:28.769 align:start position:0%
+very important for when you're dealing
+ 
+
+00:00:28.769 --> 00:00:31.070 align:start position:0%
+very important for when you're dealing
+with<00:00:28.920><c> polymorphism</c><00:00:29.910><c> so</c><00:00:30.390><c> in</c><00:00:30.449><c> other</c><00:00:30.510><c> words</c><00:00:30.720><c> if</c><00:00:30.929><c> I</c>
+
+00:00:31.070 --> 00:00:31.080 align:start position:0%
+with polymorphism so in other words if I
+ 
+
+00:00:31.080 --> 00:00:33.350 align:start position:0%
+with polymorphism so in other words if I
+have<00:00:31.109><c> a</c><00:00:31.619><c> series</c><00:00:32.040><c> of</c><00:00:32.070><c> subclasses</c><00:00:32.880><c> and</c><00:00:32.910><c> all</c><00:00:33.180><c> that</c>
+
+00:00:33.350 --> 00:00:33.360 align:start position:0%
+have a series of subclasses and all that
+ 
+
+00:00:33.360 --> 00:00:35.389 align:start position:0%
+have a series of subclasses and all that
+inheritance<00:00:33.899><c> if</c><00:00:34.170><c> you</c><00:00:34.230><c> guys</c><00:00:34.380><c> haven't</c><00:00:34.649><c> you</c><00:00:35.309><c> guys</c>
+
+00:00:35.389 --> 00:00:35.399 align:start position:0%
+inheritance if you guys haven't you guys
+ 
+
+00:00:35.399 --> 00:00:36.979 align:start position:0%
+inheritance if you guys haven't you guys
+don't<00:00:35.550><c> know</c><00:00:35.610><c> what</c><00:00:35.730><c> inheritance</c><00:00:36.450><c> isn't</c><00:00:36.750><c> simple</c>
+
+00:00:36.979 --> 00:00:36.989 align:start position:0%
+don't know what inheritance isn't simple
+ 
+
+00:00:36.989 --> 00:00:38.180 align:start position:0%
+don't know what inheritance isn't simple
+sports<00:00:37.260><c> definitely</c><00:00:37.620><c> check</c><00:00:37.770><c> out</c><00:00:37.860><c> that</c><00:00:38.010><c> video</c>
+
+00:00:38.180 --> 00:00:38.190 align:start position:0%
+sports definitely check out that video
+ 
+
+00:00:38.190 --> 00:00:41.630 align:start position:0%
+sports definitely check out that video
+as<00:00:38.489><c> well</c><00:00:38.870><c> but</c><00:00:39.870><c> if</c><00:00:40.020><c> you</c><00:00:40.050><c> have</c><00:00:40.170><c> a</c><00:00:40.590><c> class</c><00:00:40.860><c> like</c><00:00:41.280><c> a</c>
+
+00:00:41.630 --> 00:00:41.640 align:start position:0%
+as well but if you have a class like a
+ 
+
+00:00:41.640 --> 00:00:44.209 align:start position:0%
+as well but if you have a class like a
+and<00:00:42.090><c> then</c><00:00:42.149><c> a</c><00:00:42.210><c> class</c><00:00:42.450><c> babies</c><00:00:43.230><c> derive</c><00:00:43.680><c> from</c><00:00:43.950><c> a</c>
+
+00:00:44.209 --> 00:00:44.219 align:start position:0%
+and then a class babies derive from a
+ 
+
+00:00:44.219 --> 00:00:46.850 align:start position:0%
+and then a class babies derive from a
+and<00:00:44.550><c> you</c><00:00:45.120><c> want</c><00:00:45.300><c> to</c><00:00:45.450><c> actually</c><00:00:45.870><c> reference</c><00:00:46.379><c> Class</c>
+
+00:00:46.850 --> 00:00:46.860 align:start position:0%
+and you want to actually reference Class
+ 
+
+00:00:46.860 --> 00:00:49.580 align:start position:0%
+and you want to actually reference Class
+B<00:00:47.129><c> as</c><00:00:47.399><c> Class</c><00:00:47.789><c> A</c><00:00:48.030><c> but</c><00:00:48.360><c> it's</c><00:00:48.480><c> actually</c><00:00:49.020><c> Class</c><00:00:49.260><c> B</c>
+
+00:00:49.580 --> 00:00:49.590 align:start position:0%
+B as Class A but it's actually Class B
+ 
+
+00:00:49.590 --> 00:00:52.400 align:start position:0%
+B as Class A but it's actually Class B
+and<00:00:49.890><c> then</c><00:00:50.280><c> you</c><00:00:50.399><c> decide</c><00:00:50.700><c> to</c><00:00:50.850><c> delete</c><00:00:51.180><c> a</c><00:00:51.480><c> or</c><00:00:52.140><c> it</c>
+
+00:00:52.400 --> 00:00:52.410 align:start position:0%
+and then you decide to delete a or it
+ 
+
+00:00:52.410 --> 00:00:55.610 align:start position:0%
+and then you decide to delete a or it
+gets<00:00:52.590><c> deleted</c><00:00:53.039><c> by</c><00:00:53.340><c> some</c><00:00:53.579><c> kind</c><00:00:53.820><c> of</c><00:00:53.969><c> way</c><00:00:54.899><c> then</c>
+
+00:00:55.610 --> 00:00:55.620 align:start position:0%
+gets deleted by some kind of way then
+ 
+
+00:00:55.620 --> 00:00:58.430 align:start position:0%
+gets deleted by some kind of way then
+you<00:00:56.070><c> also</c><00:00:56.340><c> want</c><00:00:56.879><c> the</c><00:00:56.969><c> destructor</c><00:00:57.539><c> of</c><00:00:57.690><c> B</c><00:00:57.960><c> to</c><00:00:58.020><c> run</c>
+
+00:00:58.430 --> 00:00:58.440 align:start position:0%
+you also want the destructor of B to run
+ 
+
+00:00:58.440 --> 00:01:00.260 align:start position:0%
+you also want the destructor of B to run
+not<00:00:58.620><c> just</c><00:00:58.680><c> a</c><00:00:59.010><c> and</c><00:00:59.460><c> that</c><00:00:59.640><c> is</c><00:00:59.670><c> essentially</c><00:01:00.239><c> what</c>
+
+00:01:00.260 --> 00:01:00.270 align:start position:0%
+not just a and that is essentially what
+ 
+
+00:01:00.270 --> 00:01:02.180 align:start position:0%
+not just a and that is essentially what
+virtual<00:01:00.840><c> disruptors</c><00:01:01.289><c> are</c><00:01:01.440><c> and</c><00:01:01.739><c> that's</c><00:01:01.859><c> what</c>
+
+00:01:02.180 --> 00:01:02.190 align:start position:0%
+virtual disruptors are and that's what
+ 
+
+00:01:02.190 --> 00:01:04.609 align:start position:0%
+virtual disruptors are and that's what
+that's<00:01:02.460><c> what</c><00:01:02.699><c> they</c><00:01:02.789><c> facilitate</c><00:01:03.390><c> so</c><00:01:03.989><c> that</c>
+
+00:01:04.609 --> 00:01:04.619 align:start position:0%
+that's what they facilitate so that
+ 
+
+00:01:04.619 --> 00:01:05.990 align:start position:0%
+that's what they facilitate so that
+probably<00:01:04.890><c> made</c><00:01:05.070><c> no</c><00:01:05.220><c> sense</c><00:01:05.489><c> to</c><00:01:05.729><c> you</c><00:01:05.820><c> in</c><00:01:05.909><c> your</c>
+
+00:01:05.990 --> 00:01:06.000 align:start position:0%
+probably made no sense to you in your
+ 
+
+00:01:06.000 --> 00:01:06.920 align:start position:0%
+probably made no sense to you in your
+head<00:01:06.180><c> because</c><00:01:06.270><c> it's</c><00:01:06.479><c> kind</c><00:01:06.630><c> of</c><00:01:06.689><c> hard</c><00:01:06.900><c> to</c>
+
+00:01:06.920 --> 00:01:06.930 align:start position:0%
+head because it's kind of hard to
+ 
+
+00:01:06.930 --> 00:01:08.240 align:start position:0%
+head because it's kind of hard to
+visualize<00:01:07.020><c> how</c><00:01:07.530><c> it's</c><00:01:07.710><c> going</c><00:01:07.830><c> to</c><00:01:07.890><c> jump</c><00:01:08.070><c> into</c>
+
+00:01:08.240 --> 00:01:08.250 align:start position:0%
+visualize how it's going to jump into
+ 
+
+00:01:08.250 --> 00:01:10.429 align:start position:0%
+visualize how it's going to jump into
+some<00:01:08.460><c> code</c><00:01:08.640><c> straight</c><00:01:09.000><c> away</c><00:01:09.210><c> and</c><00:01:09.420><c> and</c><00:01:10.080><c> just</c><00:01:10.320><c> see</c>
+
+00:01:10.429 --> 00:01:10.439 align:start position:0%
+some code straight away and and just see
+ 
+
+00:01:10.439 --> 00:01:11.990 align:start position:0%
+some code straight away and and just see
+this<00:01:10.560><c> in</c><00:01:10.710><c> action</c><00:01:10.860><c> okay</c><00:01:11.430><c> so</c><00:01:11.490><c> all</c><00:01:11.700><c> I'm</c><00:01:11.820><c> going</c><00:01:11.939><c> to</c>
+
+00:01:11.990 --> 00:01:12.000 align:start position:0%
+this in action okay so all I'm going to
+ 
+
+00:01:12.000 --> 00:01:14.330 align:start position:0%
+this in action okay so all I'm going to
+do<00:01:12.119><c> here</c><00:01:12.450><c> is</c><00:01:12.630><c> make</c><00:01:13.020><c> two</c><00:01:13.439><c> classes</c><00:01:13.950><c> one</c><00:01:14.100><c> is</c><00:01:14.220><c> going</c>
+
+00:01:14.330 --> 00:01:14.340 align:start position:0%
+do here is make two classes one is going
+ 
+
+00:01:14.340 --> 00:01:16.190 align:start position:0%
+do here is make two classes one is going
+to<00:01:14.460><c> be</c><00:01:14.610><c> called</c><00:01:14.880><c> base</c><00:01:15.479><c> because</c><00:01:15.869><c> this</c><00:01:15.990><c> is</c><00:01:16.080><c> going</c>
+
+00:01:16.190 --> 00:01:16.200 align:start position:0%
+to be called base because this is going
+ 
+
+00:01:16.200 --> 00:01:18.380 align:start position:0%
+to be called base because this is going
+to<00:01:16.320><c> be</c><00:01:16.500><c> our</c><00:01:16.680><c> base</c><00:01:16.950><c> class</c><00:01:17.250><c> I'm</c><00:01:17.909><c> just</c><00:01:18.090><c> gonna</c><00:01:18.180><c> make</c>
+
+00:01:18.380 --> 00:01:18.390 align:start position:0%
+to be our base class I'm just gonna make
+ 
+
+00:01:18.390 --> 00:01:20.960 align:start position:0%
+to be our base class I'm just gonna make
+a<00:01:18.420><c> public</c><00:01:18.689><c> constructor</c><00:01:19.619><c> and</c><00:01:20.040><c> I'll</c><00:01:20.340><c> just</c><00:01:20.549><c> print</c>
+
+00:01:20.960 --> 00:01:20.970 align:start position:0%
+a public constructor and I'll just print
+ 
+
+00:01:20.970 --> 00:01:23.990 align:start position:0%
+a public constructor and I'll just print
+out<00:01:21.150><c> that</c><00:01:22.220><c> constructed</c><00:01:23.220><c> just</c><00:01:23.610><c> so</c><00:01:23.759><c> that</c><00:01:23.909><c> we</c>
+
+00:01:23.990 --> 00:01:24.000 align:start position:0%
+out that constructed just so that we
+ 
+
+00:01:24.000 --> 00:01:27.200 align:start position:0%
+out that constructed just so that we
+know<00:01:24.320><c> that</c><00:01:25.320><c> the</c><00:01:26.070><c> class</c><00:01:26.250><c> gets</c><00:01:26.490><c> constructed</c><00:01:26.670><c> and</c>
+
+00:01:27.200 --> 00:01:27.210 align:start position:0%
+know that the class gets constructed and
+ 
+
+00:01:27.210 --> 00:01:28.730 align:start position:0%
+know that the class gets constructed and
+and<00:01:27.570><c> that</c><00:01:27.930><c> the</c><00:01:28.049><c> constructor</c><00:01:28.500><c> gets</c><00:01:28.530><c> called</c>
+
+00:01:28.730 --> 00:01:28.740 align:start position:0%
+and that the constructor gets called
+ 
+
+00:01:28.740 --> 00:01:31.730 align:start position:0%
+and that the constructor gets called
+then<00:01:29.490><c> I</c><00:01:29.549><c> also</c><00:01:29.729><c> write</c><00:01:30.000><c> a</c><00:01:30.030><c> destructor</c>
+
+00:01:31.730 --> 00:01:31.740 align:start position:0%
+then I also write a destructor
+ 
+
+00:01:31.740 --> 00:01:34.969 align:start position:0%
+then I also write a destructor
+and<00:01:32.040><c> I'll</c><00:01:32.729><c> say</c><00:01:33.210><c> destructed</c><00:01:33.869><c> okay</c><00:01:34.470><c> or</c><00:01:34.650><c> actually</c>
+
+00:01:34.969 --> 00:01:34.979 align:start position:0%
+and I'll say destructed okay or actually
+ 
+
+00:01:34.979 --> 00:01:36.260 align:start position:0%
+and I'll say destructed okay or actually
+I'll<00:01:35.100><c> just</c><00:01:35.130><c> call</c><00:01:35.400><c> this</c><00:01:35.549><c> constructor</c><00:01:35.759><c> and</c>
+
+00:01:36.260 --> 00:01:36.270 align:start position:0%
+I'll just call this constructor and
+ 
+
+00:01:36.270 --> 00:01:38.870 align:start position:0%
+I'll just call this constructor and
+destructor<00:01:36.950><c> okay</c><00:01:37.950><c> cool</c><00:01:38.189><c> I</c><00:01:38.369><c> want</c><00:01:38.640><c> to</c><00:01:38.700><c> do</c><00:01:38.759><c> the</c>
+
+00:01:38.870 --> 00:01:38.880 align:start position:0%
+destructor okay cool I want to do the
+ 
+
+00:01:38.880 --> 00:01:40.520 align:start position:0%
+destructor okay cool I want to do the
+exact<00:01:39.119><c> same</c><00:01:39.150><c> thing</c><00:01:39.659><c> for</c><00:01:39.869><c> another</c><00:01:40.049><c> class</c><00:01:40.290><c> I'll</c>
+
+00:01:40.520 --> 00:01:40.530 align:start position:0%
+exact same thing for another class I'll
+ 
+
+00:01:40.530 --> 00:01:42.319 align:start position:0%
+exact same thing for another class I'll
+just<00:01:40.650><c> copy</c><00:01:40.860><c> and</c><00:01:41.070><c> paste</c><00:01:41.280><c> it</c><00:01:41.490><c> but</c><00:01:42.060><c> I'll</c><00:01:42.150><c> call</c>
+
+00:01:42.319 --> 00:01:42.329 align:start position:0%
+just copy and paste it but I'll call
+ 
+
+00:01:42.329 --> 00:01:44.060 align:start position:0%
+just copy and paste it but I'll call
+this<00:01:42.479><c> derived</c><00:01:42.930><c> and</c><00:01:43.380><c> it's</c><00:01:43.500><c> actually</c><00:01:43.829><c> going</c><00:01:43.950><c> to</c>
+
+00:01:44.060 --> 00:01:44.070 align:start position:0%
+this derived and it's actually going to
+ 
+
+00:01:44.070 --> 00:01:46.310 align:start position:0%
+this derived and it's actually going to
+be<00:01:44.250><c> derived</c><00:01:44.549><c> from</c><00:01:44.820><c> base</c><00:01:45.119><c> so</c><00:01:45.689><c> we</c><00:01:45.810><c> have</c><00:01:45.990><c> derived</c>
+
+00:01:46.310 --> 00:01:46.320 align:start position:0%
+be derived from base so we have derived
+ 
+
+00:01:46.320 --> 00:01:49.580 align:start position:0%
+be derived from base so we have derived
+as<00:01:46.560><c> a</c><00:01:46.590><c> subclass</c><00:01:47.100><c> of</c><00:01:47.430><c> the</c><00:01:47.490><c> base</c><00:01:47.820><c> class</c><00:01:48.409><c> and</c><00:01:49.409><c> then</c>
+
+00:01:49.580 --> 00:01:49.590 align:start position:0%
+as a subclass of the base class and then
+ 
+
+00:01:49.590 --> 00:01:51.560 align:start position:0%
+as a subclass of the base class and then
+over<00:01:49.770><c> here</c><00:01:49.799><c> I'm</c><00:01:50.610><c> gonna</c><00:01:50.909><c> do</c><00:01:51.149><c> the</c><00:01:51.270><c> exact</c><00:01:51.540><c> same</c>
+
+00:01:51.560 --> 00:01:51.570 align:start position:0%
+over here I'm gonna do the exact same
+ 
+
+00:01:51.570 --> 00:01:53.870 align:start position:0%
+over here I'm gonna do the exact same
+thing<00:01:52.049><c> and</c><00:01:52.560><c> in</c><00:01:52.860><c> fact</c><00:01:52.890><c> I'm</c><00:01:53.280><c> just</c><00:01:53.340><c> going</c><00:01:53.700><c> to</c>
+
+00:01:53.870 --> 00:01:53.880 align:start position:0%
+thing and in fact I'm just going to
+ 
+
+00:01:53.880 --> 00:01:55.880 align:start position:0%
+thing and in fact I'm just going to
+write<00:01:54.210><c> which</c><00:01:54.600><c> one</c><00:01:54.840><c> was</c><00:01:55.020><c> constructed</c><00:01:55.530><c> so</c><00:01:55.680><c> base</c>
+
+00:01:55.880 --> 00:01:55.890 align:start position:0%
+write which one was constructed so base
+ 
+
+00:01:55.890 --> 00:01:58.730 align:start position:0%
+write which one was constructed so base
+constructor<00:01:56.610><c> based</c><00:01:56.939><c> destructor</c><00:01:57.659><c> and</c><00:01:57.899><c> then</c>
+
+00:01:58.730 --> 00:01:58.740 align:start position:0%
+constructor based destructor and then
+ 
+
+00:01:58.740 --> 00:02:02.870 align:start position:0%
+constructor based destructor and then
+also<00:01:59.280><c> derived</c><00:02:00.030><c> constructor</c><00:02:00.990><c> and</c><00:02:01.640><c> derived</c>
+
+00:02:02.870 --> 00:02:02.880 align:start position:0%
+also derived constructor and derived
+ 
+
+00:02:02.880 --> 00:02:05.600 align:start position:0%
+also derived constructor and derived
+destructor<00:02:04.170><c> okay</c><00:02:04.950><c> so</c><00:02:05.009><c> let's</c><00:02:05.219><c> consider</c><00:02:05.490><c> two</c>
+
+00:02:05.600 --> 00:02:05.610 align:start position:0%
+destructor okay so let's consider two
+ 
+
+00:02:05.610 --> 00:02:07.730 align:start position:0%
+destructor okay so let's consider two
+scenarios<00:02:06.090><c> here</c><00:02:06.570><c> the</c><00:02:07.079><c> first</c><00:02:07.320><c> thing</c><00:02:07.439><c> I</c><00:02:07.530><c> want</c><00:02:07.680><c> to</c>
+
+00:02:07.730 --> 00:02:07.740 align:start position:0%
+scenarios here the first thing I want to
+ 
+
+00:02:07.740 --> 00:02:09.050 align:start position:0%
+scenarios here the first thing I want to
+do<00:02:07.860><c> is</c><00:02:08.190><c> create</c>
+
+00:02:09.050 --> 00:02:09.060 align:start position:0%
+do is create
+ 
+
+00:02:09.060 --> 00:02:10.580 align:start position:0%
+do is create
+an<00:02:09.239><c> instance</c><00:02:09.599><c> of</c><00:02:09.630><c> the</c><00:02:09.780><c> base</c><00:02:09.929><c> class</c><00:02:10.140><c> I'm</c><00:02:10.440><c> gonna</c>
+
+00:02:10.580 --> 00:02:10.590 align:start position:0%
+an instance of the base class I'm gonna
+ 
+
+00:02:10.590 --> 00:02:12.080 align:start position:0%
+an instance of the base class I'm gonna
+allocate<00:02:10.860><c> this</c><00:02:11.099><c> on</c><00:02:11.250><c> the</c><00:02:11.340><c> hip</c><00:02:11.489><c> so</c><00:02:11.700><c> that</c><00:02:11.849><c> we</c><00:02:11.910><c> can</c>
+
+00:02:12.080 --> 00:02:12.090 align:start position:0%
+allocate this on the hip so that we can
+ 
+
+00:02:12.090 --> 00:02:14.660 align:start position:0%
+allocate this on the hip so that we can
+be<00:02:12.209><c> explicit</c><00:02:12.810><c> with</c><00:02:12.989><c> our</c><00:02:13.580><c> creation</c><00:02:14.580><c> and</c>
+
+00:02:14.660 --> 00:02:14.670 align:start position:0%
+be explicit with our creation and
+ 
+
+00:02:14.670 --> 00:02:16.880 align:start position:0%
+be explicit with our creation and
+deletion<00:02:14.910><c> camp</c><00:02:15.270><c> so</c><00:02:15.630><c> base</c><00:02:15.870><c> base</c><00:02:16.170><c> equals</c><00:02:16.709><c> new</c>
+
+00:02:16.880 --> 00:02:16.890 align:start position:0%
+deletion camp so base base equals new
+ 
+
+00:02:16.890 --> 00:02:20.000 align:start position:0%
+deletion camp so base base equals new
+base<00:02:17.150><c> and</c><00:02:18.150><c> I'll</c><00:02:18.239><c> write</c><00:02:18.450><c> the</c><00:02:18.480><c> elite</c><00:02:18.750><c> base</c><00:02:19.010><c> and</c>
+
+00:02:20.000 --> 00:02:20.010 align:start position:0%
+base and I'll write the elite base and
+ 
+
+00:02:20.010 --> 00:02:21.800 align:start position:0%
+base and I'll write the elite base and
+now<00:02:20.160><c> I'll</c><00:02:20.310><c> just</c><00:02:20.340><c> print</c><00:02:20.849><c> like</c><00:02:21.270><c> a</c><00:02:21.300><c> little</c>
+
+00:02:21.800 --> 00:02:21.810 align:start position:0%
+now I'll just print like a little
+ 
+
+00:02:21.810 --> 00:02:25.970 align:start position:0%
+now I'll just print like a little
+divider<00:02:22.590><c> between</c><00:02:22.980><c> the</c><00:02:23.280><c> two</c><00:02:24.050><c> like</c><00:02:25.050><c> that</c><00:02:25.260><c> and</c><00:02:25.500><c> I</c>
+
+00:02:25.970 --> 00:02:25.980 align:start position:0%
+divider between the two like that and I
+ 
+
+00:02:25.980 --> 00:02:30.970 align:start position:0%
+divider between the two like that and I
+also<00:02:26.190><c> do</c><00:02:26.610><c> derived</c><00:02:27.180><c> derived</c><00:02:28.610><c> equals</c><00:02:29.610><c> new</c>
+
+00:02:30.970 --> 00:02:30.980 align:start position:0%
+also do derived derived equals new
+ 
+
+00:02:30.980 --> 00:02:35.059 align:start position:0%
+also do derived derived equals new
+derived<00:02:31.980><c> just</c><00:02:33.050><c> like</c><00:02:34.050><c> that</c><00:02:34.260><c> oops</c><00:02:34.530><c> right</c>
+
+00:02:35.059 --> 00:02:35.069 align:start position:0%
+derived just like that oops right
+ 
+
+00:02:35.069 --> 00:02:37.460 align:start position:0%
+derived just like that oops right
+they'll<00:02:35.340><c> call</c><00:02:35.519><c> it</c><00:02:35.870><c> and</c><00:02:36.870><c> we'll</c><00:02:37.019><c> delete</c><00:02:37.200><c> dropped</c>
+
+00:02:37.460 --> 00:02:37.470 align:start position:0%
+they'll call it and we'll delete dropped
+ 
+
+00:02:37.470 --> 00:02:37.940 align:start position:0%
+they'll call it and we'll delete dropped
+as<00:02:37.590><c> well</c>
+
+00:02:37.940 --> 00:02:37.950 align:start position:0%
+as well
+ 
+
+00:02:37.950 --> 00:02:39.800 align:start position:0%
+as well
+let's<00:02:38.250><c> hit</c><00:02:38.459><c> f5</c><00:02:38.760><c> and</c><00:02:38.819><c> see</c><00:02:39.150><c> what</c><00:02:39.269><c> happens</c><00:02:39.599><c> with</c>
+
+00:02:39.800 --> 00:02:39.810 align:start position:0%
+let's hit f5 and see what happens with
+ 
+
+00:02:39.810 --> 00:02:41.479 align:start position:0%
+let's hit f5 and see what happens with
+this<00:02:39.959><c> current</c><00:02:40.230><c> setup</c><00:02:40.530><c> here</c><00:02:40.800><c> so</c><00:02:41.160><c> you</c><00:02:41.250><c> can</c><00:02:41.370><c> see</c>
+
+00:02:41.479 --> 00:02:41.489 align:start position:0%
+this current setup here so you can see
+ 
+
+00:02:41.489 --> 00:02:43.699 align:start position:0%
+this current setup here so you can see
+nothing<00:02:42.060><c> really</c><00:02:42.360><c> is</c><00:02:42.690><c> different</c><00:02:43.200><c> I</c><00:02:43.319><c> mean</c><00:02:43.530><c> I</c>
+
+00:02:43.699 --> 00:02:43.709 align:start position:0%
+nothing really is different I mean I
+ 
+
+00:02:43.709 --> 00:02:45.140 align:start position:0%
+nothing really is different I mean I
+haven't<00:02:44.160><c> marked</c><00:02:44.459><c> anything</c><00:02:44.730><c> anything</c><00:02:45.060><c> is</c>
+
+00:02:45.140 --> 00:02:45.150 align:start position:0%
+haven't marked anything anything is
+ 
+
+00:02:45.150 --> 00:02:47.420 align:start position:0%
+haven't marked anything anything is
+virtual<00:02:45.480><c> at</c><00:02:45.600><c> all</c><00:02:45.720><c> but</c><00:02:46.049><c> I</c><00:02:46.080><c> have</c><00:02:46.350><c> a</c><00:02:46.620><c> base</c><00:02:46.950><c> and</c><00:02:47.280><c> a</c>
+
+00:02:47.420 --> 00:02:47.430 align:start position:0%
+virtual at all but I have a base and a
+ 
+
+00:02:47.430 --> 00:02:50.630 align:start position:0%
+virtual at all but I have a base and a
+right<00:02:47.640><c> we're</c><00:02:47.970><c> derived</c><00:02:48.299><c> is</c><00:02:48.750><c> also</c><00:02:49.739><c> of</c><00:02:50.069><c> the</c><00:02:50.430><c> type</c>
+
+00:02:50.630 --> 00:02:50.640 align:start position:0%
+right we're derived is also of the type
+ 
+
+00:02:50.640 --> 00:02:52.850 align:start position:0%
+right we're derived is also of the type
+base<00:02:50.970><c> because</c><00:02:51.510><c> it's</c><00:02:51.690><c> a</c><00:02:51.810><c> subclass</c><00:02:52.140><c> of</c><00:02:52.290><c> the</c><00:02:52.680><c> base</c>
+
+00:02:52.850 --> 00:02:52.860 align:start position:0%
+base because it's a subclass of the base
+ 
+
+00:02:52.860 --> 00:02:55.940 align:start position:0%
+base because it's a subclass of the base
+class<00:02:53.069><c> so</c><00:02:53.760><c> 0</c><00:02:54.090><c> 5</c><00:02:54.299><c> ok</c><00:02:54.870><c> so</c><00:02:54.930><c> as</c><00:02:55.140><c> you</c><00:02:55.230><c> can</c><00:02:55.319><c> see</c><00:02:55.380><c> here</c><00:02:55.739><c> I</c>
+
+00:02:55.940 --> 00:02:55.950 align:start position:0%
+class so 0 5 ok so as you can see here I
+ 
+
+00:02:55.950 --> 00:02:57.350 align:start position:0%
+class so 0 5 ok so as you can see here I
+guess<00:02:56.160><c> what</c><00:02:56.370><c> you</c><00:02:56.459><c> probably</c><00:02:56.790><c> would</c><00:02:57.000><c> expect</c>
+
+00:02:57.350 --> 00:02:57.360 align:start position:0%
+guess what you probably would expect
+ 
+
+00:02:57.360 --> 00:02:59.720 align:start position:0%
+guess what you probably would expect
+would<00:02:57.510><c> happen</c><00:02:57.620><c> happen</c><00:02:58.620><c> here</c><00:02:58.860><c> when</c><00:02:59.340><c> we</c><00:02:59.459><c> created</c>
+
+00:02:59.720 --> 00:02:59.730 align:start position:0%
+would happen happen here when we created
+ 
+
+00:02:59.730 --> 00:03:01.820 align:start position:0%
+would happen happen here when we created
+the<00:02:59.849><c> base</c><00:03:00.060><c> class</c><00:03:00.390><c> it</c><00:03:00.959><c> only</c><00:03:01.349><c> called</c><00:03:01.560><c> the</c><00:03:01.650><c> base</c>
+
+00:03:01.820 --> 00:03:01.830 align:start position:0%
+the base class it only called the base
+ 
+
+00:03:01.830 --> 00:03:03.650 align:start position:0%
+the base class it only called the base
+construction<00:03:02.220><c> destroyed</c><00:03:02.790><c> after</c><00:03:03.030><c> we</c><00:03:03.360><c> deleted</c>
+
+00:03:03.650 --> 00:03:03.660 align:start position:0%
+construction destroyed after we deleted
+ 
+
+00:03:03.660 --> 00:03:04.729 align:start position:0%
+construction destroyed after we deleted
+it<00:03:03.870><c> which</c><00:03:03.989><c> is</c><00:03:04.140><c> exactly</c><00:03:04.260><c> what</c><00:03:04.590><c> you</c><00:03:04.680><c> would</c>
+
+00:03:04.729 --> 00:03:04.739 align:start position:0%
+it which is exactly what you would
+ 
+
+00:03:04.739 --> 00:03:06.770 align:start position:0%
+it which is exactly what you would
+expect<00:03:04.830><c> and</c><00:03:05.310><c> 4</c><00:03:05.760><c> derived</c><00:03:06.060><c> as</c><00:03:06.269><c> well</c><00:03:06.450><c> what</c><00:03:06.660><c> it</c>
+
+00:03:06.770 --> 00:03:06.780 align:start position:0%
+expect and 4 derived as well what it
+ 
+
+00:03:06.780 --> 00:03:09.770 align:start position:0%
+expect and 4 derived as well what it
+seemed<00:03:06.959><c> to</c><00:03:07.110><c> have</c><00:03:07.200><c> done</c><00:03:07.410><c> was</c><00:03:08.220><c> it</c><00:03:09.209><c> first</c><00:03:09.480><c> called</c>
+
+00:03:09.770 --> 00:03:09.780 align:start position:0%
+seemed to have done was it first called
+ 
+
+00:03:09.780 --> 00:03:11.240 align:start position:0%
+seemed to have done was it first called
+the<00:03:09.900><c> base</c><00:03:10.049><c> constructor</c><00:03:10.680><c> then</c><00:03:10.830><c> the</c><00:03:10.950><c> derived</c>
+
+00:03:11.240 --> 00:03:11.250 align:start position:0%
+the base constructor then the derived
+ 
+
+00:03:11.250 --> 00:03:13.190 align:start position:0%
+the base constructor then the derived
+constructor<00:03:11.880><c> and</c><00:03:12.000><c> then</c><00:03:12.120><c> after</c><00:03:12.540><c> we</c><00:03:12.660><c> deleted</c><00:03:12.959><c> it</c>
+
+00:03:13.190 --> 00:03:13.200 align:start position:0%
+constructor and then after we deleted it
+ 
+
+00:03:13.200 --> 00:03:15.110 align:start position:0%
+constructor and then after we deleted it
+it<00:03:13.320><c> called</c><00:03:13.890><c> the</c><00:03:13.980><c> derived</c><00:03:14.370><c> destructor</c><00:03:14.880><c> first</c>
+
+00:03:15.110 --> 00:03:15.120 align:start position:0%
+it called the derived destructor first
+ 
+
+00:03:15.120 --> 00:03:16.430 align:start position:0%
+it called the derived destructor first
+and<00:03:15.359><c> then</c><00:03:15.540><c> the</c><00:03:15.660><c> base</c><00:03:15.840><c> destructor</c><00:03:16.320><c> so</c>
+
+00:03:16.430 --> 00:03:16.440 align:start position:0%
+and then the base destructor so
+ 
+
+00:03:16.440 --> 00:03:18.620 align:start position:0%
+and then the base destructor so
+everything<00:03:16.950><c> is</c><00:03:17.070><c> working</c><00:03:17.190><c> correctly</c><00:03:17.760><c> here</c><00:03:18.480><c> as</c>
+
+00:03:18.620 --> 00:03:18.630 align:start position:0%
+everything is working correctly here as
+ 
+
+00:03:18.630 --> 00:03:20.330 align:start position:0%
+everything is working correctly here as
+we<00:03:18.810><c> would</c><00:03:18.989><c> expect</c><00:03:19.019><c> now</c><00:03:19.709><c> the</c><00:03:19.769><c> problem</c><00:03:20.220><c> of</c>
+
+00:03:20.330 --> 00:03:20.340 align:start position:0%
+we would expect now the problem of
+ 
+
+00:03:20.340 --> 00:03:22.310 align:start position:0%
+we would expect now the problem of
+needing<00:03:20.760><c> a</c><00:03:20.850><c> virtual</c><00:03:21.209><c> destructor</c><00:03:21.690><c> arises</c><00:03:22.170><c> when</c>
+
+00:03:22.310 --> 00:03:22.320 align:start position:0%
+needing a virtual destructor arises when
+ 
+
+00:03:22.320 --> 00:03:24.140 align:start position:0%
+needing a virtual destructor arises when
+we<00:03:22.350><c> have</c><00:03:22.560><c> this</c><00:03:22.799><c> scenario</c><00:03:23.459><c> so</c><00:03:23.609><c> let's</c><00:03:23.790><c> just</c><00:03:23.940><c> copy</c>
+
+00:03:24.140 --> 00:03:24.150 align:start position:0%
+we have this scenario so let's just copy
+ 
+
+00:03:24.150 --> 00:03:26.030 align:start position:0%
+we have this scenario so let's just copy
+this<00:03:24.359><c> one</c><00:03:24.510><c> more</c><00:03:24.690><c> time</c><00:03:24.870><c> but</c><00:03:25.470><c> this</c><00:03:25.620><c> time</c><00:03:25.680><c> what</c>
+
+00:03:26.030 --> 00:03:26.040 align:start position:0%
+this one more time but this time what
+ 
+
+00:03:26.040 --> 00:03:28.580 align:start position:0%
+this one more time but this time what
+I'll<00:03:26.160><c> do</c><00:03:26.370><c> is</c><00:03:27.299><c> I'll</c><00:03:27.510><c> actually</c><00:03:27.690><c> have</c><00:03:27.930><c> like</c><00:03:28.530><c> a</c>
+
+00:03:28.580 --> 00:03:28.590 align:start position:0%
+I'll do is I'll actually have like a
+ 
+
+00:03:28.590 --> 00:03:30.590 align:start position:0%
+I'll do is I'll actually have like a
+polymorphic<00:03:29.310><c> kind</c><00:03:29.579><c> of</c><00:03:29.700><c> type</c><00:03:29.880><c> here</c><00:03:30.180><c> so</c><00:03:30.390><c> else</c>
+
+00:03:30.590 --> 00:03:30.600 align:start position:0%
+polymorphic kind of type here so else
+ 
+
+00:03:30.600 --> 00:03:32.210 align:start position:0%
+polymorphic kind of type here so else
+called<00:03:30.900><c> poly</c><00:03:31.140><c> basically</c><00:03:31.920><c> what</c><00:03:32.040><c> we're</c><00:03:32.190><c> doing</c>
+
+00:03:32.210 --> 00:03:32.220 align:start position:0%
+called poly basically what we're doing
+ 
+
+00:03:32.220 --> 00:03:33.680 align:start position:0%
+called poly basically what we're doing
+here<00:03:32.430><c> is</c><00:03:32.700><c> we're</c><00:03:32.850><c> creating</c><00:03:33.030><c> a</c><00:03:33.390><c> derived</c>
+
+00:03:33.680 --> 00:03:33.690 align:start position:0%
+here is we're creating a derived
+ 
+
+00:03:33.690 --> 00:03:35.840 align:start position:0%
+here is we're creating a derived
+instance<00:03:34.350><c> however</c><00:03:34.680><c> we're</c><00:03:35.040><c> assigning</c><00:03:35.310><c> it</c><00:03:35.640><c> to</c><00:03:35.670><c> a</c>
+
+00:03:35.840 --> 00:03:35.850 align:start position:0%
+instance however we're assigning it to a
+ 
+
+00:03:35.850 --> 00:03:38.569 align:start position:0%
+instance however we're assigning it to a
+base<00:03:36.239><c> type</c><00:03:36.690><c> like</c><00:03:37.470><c> this</c><00:03:37.680><c> so</c><00:03:37.859><c> we</c><00:03:37.980><c> are</c><00:03:38.100><c> treating</c>
+
+00:03:38.569 --> 00:03:38.579 align:start position:0%
+base type like this so we are treating
+ 
+
+00:03:38.579 --> 00:03:41.449 align:start position:0%
+base type like this so we are treating
+this<00:03:38.850><c> kind</c><00:03:39.180><c> of</c><00:03:39.269><c> poly</c><00:03:39.510><c> object</c><00:03:40.019><c> as</c><00:03:40.170><c> if</c><00:03:40.980><c> it</c><00:03:41.250><c> was</c><00:03:41.430><c> a</c>
+
+00:03:41.449 --> 00:03:41.459 align:start position:0%
+this kind of poly object as if it was a
+ 
+
+00:03:41.459 --> 00:03:43.910 align:start position:0%
+this kind of poly object as if it was a
+base<00:03:41.819><c> pointer</c><00:03:42.450><c> here</c><00:03:42.690><c> but</c><00:03:42.870><c> it's</c><00:03:43.019><c> actually</c><00:03:43.709><c> a</c>
+
+00:03:43.910 --> 00:03:43.920 align:start position:0%
+base pointer here but it's actually a
+ 
+
+00:03:43.920 --> 00:03:47.990 align:start position:0%
+base pointer here but it's actually a
+pointer<00:03:44.459><c> to</c><00:03:44.730><c> a</c><00:03:44.970><c> derived</c><00:03:45.630><c> derived</c><00:03:46.440><c> type</c><00:03:46.859><c> so</c><00:03:47.670><c> in</c>
+
+00:03:47.990 --> 00:03:48.000 align:start position:0%
+pointer to a derived derived type so in
+ 
+
+00:03:48.000 --> 00:03:50.000 align:start position:0%
+pointer to a derived derived type so in
+this<00:03:48.209><c> case</c><00:03:48.569><c> if</c><00:03:48.870><c> we</c><00:03:49.079><c> run</c><00:03:49.290><c> this</c><00:03:49.500><c> code</c><00:03:49.799><c> and</c><00:03:49.859><c> see</c>
+
+00:03:50.000 --> 00:03:50.010 align:start position:0%
+this case if we run this code and see
+ 
+
+00:03:50.010 --> 00:03:52.340 align:start position:0%
+this case if we run this code and see
+what<00:03:50.130><c> happens</c><00:03:50.579><c> you</c><00:03:51.239><c> can</c><00:03:51.420><c> see</c><00:03:51.630><c> that</c><00:03:51.900><c> we</c><00:03:52.170><c> have</c>
+
+00:03:52.340 --> 00:03:52.350 align:start position:0%
+what happens you can see that we have
+ 
+
+00:03:52.350 --> 00:03:54.170 align:start position:0%
+what happens you can see that we have
+this<00:03:52.530><c> third</c><00:03:52.859><c> scenario</c><00:03:53.430><c> here</c><00:03:53.700><c> where</c><00:03:53.730><c> the</c><00:03:54.000><c> base</c>
+
+00:03:54.170 --> 00:03:54.180 align:start position:0%
+this third scenario here where the base
+ 
+
+00:03:54.180 --> 00:03:55.699 align:start position:0%
+this third scenario here where the base
+constructor<00:03:54.780><c> and</c><00:03:54.930><c> derived</c><00:03:55.230><c> constructor</c><00:03:55.680><c> gets</c>
+
+00:03:55.699 --> 00:03:55.709 align:start position:0%
+constructor and derived constructor gets
+ 
+
+00:03:55.709 --> 00:03:57.860 align:start position:0%
+constructor and derived constructor gets
+called<00:03:55.980><c> correctly</c><00:03:56.670><c> just</c><00:03:56.880><c> as</c><00:03:57.000><c> we</c><00:03:57.150><c> adjust</c><00:03:57.389><c> as</c><00:03:57.750><c> we</c>
+
+00:03:57.860 --> 00:03:57.870 align:start position:0%
+called correctly just as we adjust as we
+ 
+
+00:03:57.870 --> 00:03:59.599 align:start position:0%
+called correctly just as we adjust as we
+would<00:03:57.989><c> expect</c><00:03:58.319><c> from</c><00:03:58.500><c> that</c><00:03:58.590><c> second</c><00:03:59.280><c> example</c>
+
+00:03:59.599 --> 00:03:59.609 align:start position:0%
+would expect from that second example
+ 
+
+00:03:59.609 --> 00:04:01.940 align:start position:0%
+would expect from that second example
+however<00:04:00.359><c> when</c><00:04:00.840><c> it</c><00:04:00.959><c> comes</c><00:04:01.170><c> time</c><00:04:01.350><c> to</c><00:04:01.410><c> delete</c><00:04:01.799><c> it</c>
+
+00:04:01.940 --> 00:04:01.950 align:start position:0%
+however when it comes time to delete it
+ 
+
+00:04:01.950 --> 00:04:04.309 align:start position:0%
+however when it comes time to delete it
+just<00:04:01.980><c> the</c><00:04:02.400><c> base</c><00:04:02.670><c> destructor</c><00:04:03.269><c> is</c><00:04:03.359><c> called</c><00:04:03.660><c> not</c>
+
+00:04:04.309 --> 00:04:04.319 align:start position:0%
+just the base destructor is called not
+ 
+
+00:04:04.319 --> 00:04:05.900 align:start position:0%
+just the base destructor is called not
+the<00:04:04.680><c> derived</c><00:04:05.010><c> destructor</c><00:04:05.430><c> we're</c><00:04:05.549><c> missing</c>
+
+00:04:05.900 --> 00:04:05.910 align:start position:0%
+the derived destructor we're missing
+ 
+
+00:04:05.910 --> 00:04:08.180 align:start position:0%
+the derived destructor we're missing
+this<00:04:06.209><c> here</c><00:04:06.630><c> and</c><00:04:06.870><c> that's</c><00:04:07.410><c> very</c><00:04:07.650><c> important</c>
+
+00:04:08.180 --> 00:04:08.190 align:start position:0%
+this here and that's very important
+ 
+
+00:04:08.190 --> 00:04:09.860 align:start position:0%
+this here and that's very important
+because<00:04:08.430><c> that</c><00:04:08.639><c> could</c><00:04:08.910><c> cause</c><00:04:08.970><c> memory</c><00:04:09.540><c> leak</c><00:04:09.720><c> and</c>
+
+00:04:09.860 --> 00:04:09.870 align:start position:0%
+because that could cause memory leak and
+ 
+
+00:04:09.870 --> 00:04:11.509 align:start position:0%
+because that could cause memory leak and
+I'll<00:04:09.959><c> show</c><00:04:10.170><c> you</c><00:04:10.230><c> how</c><00:04:10.440><c> in</c><00:04:10.590><c> a</c><00:04:10.650><c> minute</c><00:04:10.680><c> but</c><00:04:11.459><c> you</c>
+
+00:04:11.509 --> 00:04:11.519 align:start position:0%
+I'll show you how in a minute but you
+ 
+
+00:04:11.519 --> 00:04:12.949 align:start position:0%
+I'll show you how in a minute but you
+can<00:04:11.670><c> see</c><00:04:11.819><c> that</c><00:04:11.940><c> what</c><00:04:12.180><c> specifically</c><00:04:12.569><c> happening</c>
+
+00:04:12.949 --> 00:04:12.959 align:start position:0%
+can see that what specifically happening
+ 
+
+00:04:12.959 --> 00:04:15.590 align:start position:0%
+can see that what specifically happening
+here<00:04:13.109><c> is</c><00:04:13.200><c> when</c><00:04:13.410><c> we</c><00:04:13.500><c> go</c><00:04:13.620><c> to</c><00:04:13.680><c> delete</c><00:04:14.549><c> poly</c><00:04:14.819><c> it</c>
+
+00:04:15.590 --> 00:04:15.600 align:start position:0%
+here is when we go to delete poly it
+ 
+
+00:04:15.600 --> 00:04:17.839 align:start position:0%
+here is when we go to delete poly it
+doesn't<00:04:16.019><c> know</c><00:04:16.260><c> that</c><00:04:16.289><c> actually</c><00:04:16.849><c> this</c>
+
+00:04:17.839 --> 00:04:17.849 align:start position:0%
+doesn't know that actually this
+ 
+
+00:04:17.849 --> 00:04:20.810 align:start position:0%
+doesn't know that actually this
+destructed<00:04:18.390><c> I'm</c><00:04:18.570><c> calling</c><00:04:18.959><c> my</c><00:04:19.820><c> potentially</c>
+
+00:04:20.810 --> 00:04:20.820 align:start position:0%
+destructed I'm calling my potentially
+ 
+
+00:04:20.820 --> 00:04:23.090 align:start position:0%
+destructed I'm calling my potentially
+have<00:04:21.120><c> another</c><00:04:22.019><c> destructor</c>
+
+00:04:23.090 --> 00:04:23.100 align:start position:0%
+have another destructor
+ 
+
+00:04:23.100 --> 00:04:25.280 align:start position:0%
+have another destructor
+because<00:04:23.310><c> it's</c><00:04:23.550><c> not</c><00:04:23.700><c> marked</c><00:04:24.000><c> as</c><00:04:24.150><c> virtual</c><00:04:24.690><c> which</c>
+
+00:04:25.280 --> 00:04:25.290 align:start position:0%
+because it's not marked as virtual which
+ 
+
+00:04:25.290 --> 00:04:26.720 align:start position:0%
+because it's not marked as virtual which
+means<00:04:25.530><c> that</c><00:04:25.800><c> say</c><00:04:26.010><c> boss</c><00:04:26.160><c> boss</c><00:04:26.340><c> hasn't</c><00:04:26.520><c> actually</c>
+
+00:04:26.720 --> 00:04:26.730 align:start position:0%
+means that say boss boss hasn't actually
+ 
+
+00:04:26.730 --> 00:04:29.480 align:start position:0%
+means that say boss boss hasn't actually
+know<00:04:27.120><c> that</c><00:04:27.720><c> I</c><00:04:27.930><c> okay</c><00:04:28.290><c> this</c><00:04:28.560><c> there</c><00:04:29.250><c> might</c><00:04:29.460><c> be</c>
+
+00:04:29.480 --> 00:04:29.490 align:start position:0%
+know that I okay this there might be
+ 
+
+00:04:29.490 --> 00:04:31.670 align:start position:0%
+know that I okay this there might be
+like<00:04:29.850><c> a</c><00:04:29.880><c> method</c><00:04:30.390><c> and</c><00:04:30.540><c> an</c><00:04:30.690><c> overwrite</c><00:04:31.260><c> some</c><00:04:31.500><c> kind</c>
+
+00:04:31.670 --> 00:04:31.680 align:start position:0%
+like a method and an overwrite some kind
+ 
+
+00:04:31.680 --> 00:04:34.580 align:start position:0%
+like a method and an overwrite some kind
+of<00:04:31.710><c> overridden</c><00:04:32.070><c> method</c><00:04:32.490><c> in</c><00:04:32.940><c> another</c><00:04:33.510><c> kind</c><00:04:34.440><c> of</c>
+
+00:04:34.580 --> 00:04:34.590 align:start position:0%
+of overridden method in another kind of
+ 
+
+00:04:34.590 --> 00:04:36.680 align:start position:0%
+of overridden method in another kind of
+class<00:04:35.130><c> further</c><00:04:35.850><c> dive</c><00:04:36.090><c> down</c><00:04:36.330><c> the</c><00:04:36.390><c> hierarchy</c>
+
+00:04:36.680 --> 00:04:36.690 align:start position:0%
+class further dive down the hierarchy
+ 
+
+00:04:36.690 --> 00:04:38.900 align:start position:0%
+class further dive down the hierarchy
+because<00:04:37.560><c> with</c><00:04:37.950><c> methods</c><00:04:38.400><c> of</c><00:04:38.580><c> course</c><00:04:38.760><c> we're</c>
+
+00:04:38.900 --> 00:04:38.910 align:start position:0%
+because with methods of course we're
+ 
+
+00:04:38.910 --> 00:04:40.250 align:start position:0%
+because with methods of course we're
+just<00:04:39.060><c> with</c><00:04:39.150><c> a</c><00:04:39.180><c> normal</c><00:04:39.540><c> method</c><00:04:39.810><c> if</c><00:04:39.900><c> we</c><00:04:40.020><c> mark</c><00:04:40.170><c> it</c>
+
+00:04:40.250 --> 00:04:40.260 align:start position:0%
+just with a normal method if we mark it
+ 
+
+00:04:40.260 --> 00:04:42.260 align:start position:0%
+just with a normal method if we mark it
+as<00:04:40.380><c> virtual</c><00:04:40.770><c> it</c><00:04:41.250><c> has</c><00:04:41.520><c> the</c><00:04:41.670><c> ability</c><00:04:41.760><c> to</c><00:04:42.030><c> be</c>
+
+00:04:42.260 --> 00:04:42.270 align:start position:0%
+as virtual it has the ability to be
+ 
+
+00:04:42.270 --> 00:04:43.700 align:start position:0%
+as virtual it has the ability to be
+overridden<00:04:42.720><c> which</c><00:04:42.960><c> means</c><00:04:43.140><c> it</c><00:04:43.260><c> has</c><00:04:43.380><c> to</c><00:04:43.410><c> finish</c>
+
+00:04:43.700 --> 00:04:43.710 align:start position:0%
+overridden which means it has to finish
+ 
+
+00:04:43.710 --> 00:04:45.380 align:start position:0%
+overridden which means it has to finish
+at<00:04:43.800><c> the</c><00:04:43.860><c> V</c><00:04:44.010><c> table</c><00:04:44.430><c> and</c><00:04:44.580><c> all</c><00:04:44.670><c> that</c><00:04:44.850><c> has</c><00:04:45.000><c> to</c><00:04:45.180><c> work</c>
+
+00:04:45.380 --> 00:04:45.390 align:start position:0%
+at the V table and all that has to work
+ 
+
+00:04:45.390 --> 00:04:47.300 align:start position:0%
+at the V table and all that has to work
+and<00:04:45.570><c> be</c><00:04:45.720><c> set</c><00:04:45.930><c> up</c><00:04:46.080><c> with</c><00:04:46.620><c> distractions</c><00:04:47.130><c> it's</c><00:04:47.250><c> a</c>
+
+00:04:47.300 --> 00:04:47.310 align:start position:0%
+and be set up with distractions it's a
+ 
+
+00:04:47.310 --> 00:04:48.830 align:start position:0%
+and be set up with distractions it's a
+bit<00:04:47.490><c> different</c><00:04:47.700><c> because</c><00:04:48.090><c> a</c><00:04:48.450><c> virtual</c>
+
+00:04:48.830 --> 00:04:48.840 align:start position:0%
+bit different because a virtual
+ 
+
+00:04:48.840 --> 00:04:51.680 align:start position:0%
+bit different because a virtual
+destructor<00:04:49.580><c> you're</c><00:04:50.580><c> not</c><00:04:50.730><c> overriding</c><00:04:51.360><c> the</c>
+
+00:04:51.680 --> 00:04:51.690 align:start position:0%
+destructor you're not overriding the
+ 
+
+00:04:51.690 --> 00:04:53.450 align:start position:0%
+destructor you're not overriding the
+destructor<00:04:52.230><c> you're</c><00:04:52.500><c> just</c><00:04:52.680><c> adding</c><00:04:52.890><c> a</c>
+
+00:04:53.450 --> 00:04:53.460 align:start position:0%
+destructor you're just adding a
+ 
+
+00:04:53.460 --> 00:04:55.640 align:start position:0%
+destructor you're just adding a
+destructor<00:04:54.150><c> kind</c><00:04:54.390><c> of</c><00:04:54.570><c> so</c><00:04:54.810><c> in</c><00:04:55.020><c> other</c><00:04:55.140><c> words</c><00:04:55.380><c> if</c>
+
+00:04:55.640 --> 00:04:55.650 align:start position:0%
+destructor kind of so in other words if
+ 
+
+00:04:55.650 --> 00:04:57.950 align:start position:0%
+destructor kind of so in other words if
+I<00:04:55.800><c> change</c><00:04:56.130><c> the</c><00:04:56.370><c> base</c><00:04:56.580><c> this</c><00:04:57.180><c> base</c><00:04:57.420><c> destructive</c>
+
+00:04:57.950 --> 00:04:57.960 align:start position:0%
+I change the base this base destructive
+ 
+
+00:04:57.960 --> 00:04:59.780 align:start position:0%
+I change the base this base destructive
+to<00:04:58.050><c> be</c><00:04:58.140><c> virtual</c><00:04:58.620><c> it's</c><00:04:59.160><c> actually</c><00:04:59.550><c> going</c><00:04:59.700><c> to</c>
+
+00:04:59.780 --> 00:04:59.790 align:start position:0%
+to be virtual it's actually going to
+ 
+
+00:04:59.790 --> 00:05:01.490 align:start position:0%
+to be virtual it's actually going to
+call<00:04:59.970><c> both</c><00:05:00.270><c> it's</c><00:05:00.570><c> gonna</c><00:05:00.690><c> end</c><00:05:00.870><c> up</c><00:05:01.050><c> calling</c><00:05:01.350><c> that</c>
+
+00:05:01.490 --> 00:05:01.500 align:start position:0%
+call both it's gonna end up calling that
+ 
+
+00:05:01.500 --> 00:05:03.530 align:start position:0%
+call both it's gonna end up calling that
+derived<00:05:01.800><c> destructor</c><00:05:02.250><c> first</c><00:05:02.550><c> and</c><00:05:02.790><c> then</c><00:05:03.270><c> go</c><00:05:03.450><c> up</c>
+
+00:05:03.530 --> 00:05:03.540 align:start position:0%
+derived destructor first and then go up
+ 
+
+00:05:03.540 --> 00:05:05.300 align:start position:0%
+derived destructor first and then go up
+the<00:05:03.660><c> hierarchy</c><00:05:03.870><c> and</c><00:05:04.200><c> also</c><00:05:04.500><c> call</c><00:05:04.680><c> the</c><00:05:04.800><c> base</c><00:05:05.010><c> one</c>
+
+00:05:05.300 --> 00:05:05.310 align:start position:0%
+the hierarchy and also call the base one
+ 
+
+00:05:05.310 --> 00:05:07.820 align:start position:0%
+the hierarchy and also call the base one
+we'll<00:05:05.730><c> see</c><00:05:05.880><c> that</c><00:05:05.970><c> in</c><00:05:06.120><c> a</c><00:05:06.180><c> minute</c><00:05:06.330><c> so</c><00:05:06.630><c> to</c><00:05:07.260><c> do</c><00:05:07.560><c> this</c>
+
+00:05:07.820 --> 00:05:07.830 align:start position:0%
+we'll see that in a minute so to do this
+ 
+
+00:05:07.830 --> 00:05:10.040 align:start position:0%
+we'll see that in a minute so to do this
+what<00:05:08.160><c> we</c><00:05:08.190><c> need</c><00:05:08.340><c> to</c><00:05:08.580><c> do</c><00:05:08.760><c> is</c><00:05:09.090><c> simply</c><00:05:09.570><c> just</c><00:05:09.750><c> mark</c>
+
+00:05:10.040 --> 00:05:10.050 align:start position:0%
+what we need to do is simply just mark
+ 
+
+00:05:10.050 --> 00:05:12.590 align:start position:0%
+what we need to do is simply just mark
+this<00:05:10.740><c> or</c><00:05:11.670><c> actually</c><00:05:11.880><c> first</c><00:05:12.210><c> of</c><00:05:12.300><c> all</c><00:05:12.360><c> let's</c><00:05:12.480><c> talk</c>
+
+00:05:12.590 --> 00:05:12.600 align:start position:0%
+this or actually first of all let's talk
+ 
+
+00:05:12.600 --> 00:05:14.270 align:start position:0%
+this or actually first of all let's talk
+about<00:05:12.720><c> the</c><00:05:12.870><c> problem</c><00:05:13.170><c> why</c><00:05:13.380><c> do</c><00:05:13.440><c> we</c><00:05:13.680><c> even</c><00:05:13.830><c> need</c><00:05:14.070><c> to</c>
+
+00:05:14.270 --> 00:05:14.280 align:start position:0%
+about the problem why do we even need to
+ 
+
+00:05:14.280 --> 00:05:16.130 align:start position:0%
+about the problem why do we even need to
+call<00:05:14.460><c> the</c><00:05:14.790><c> derived</c><00:05:15.090><c> destructor</c><00:05:15.630><c> well</c>
+
+00:05:16.130 --> 00:05:16.140 align:start position:0%
+call the derived destructor well
+ 
+
+00:05:16.140 --> 00:05:18.530 align:start position:0%
+call the derived destructor well
+consider<00:05:16.470><c> this</c><00:05:16.620><c> example</c><00:05:17.070><c> maybe</c><00:05:17.700><c> we</c><00:05:17.910><c> had</c><00:05:18.300><c> a</c>
+
+00:05:18.530 --> 00:05:18.540 align:start position:0%
+consider this example maybe we had a
+ 
+
+00:05:18.540 --> 00:05:20.720 align:start position:0%
+consider this example maybe we had a
+member<00:05:18.990><c> here</c><00:05:19.230><c> like</c><00:05:19.800><c> an</c><00:05:19.950><c> int</c><00:05:20.160><c> array</c><00:05:20.310><c> or</c>
+
+00:05:20.720 --> 00:05:20.730 align:start position:0%
+member here like an int array or
+ 
+
+00:05:20.730 --> 00:05:22.040 align:start position:0%
+member here like an int array or
+something<00:05:21.060><c> that</c><00:05:21.210><c> was</c><00:05:21.330><c> allocated</c><00:05:21.690><c> on</c><00:05:21.900><c> the</c><00:05:21.960><c> heap</c>
+
+00:05:22.040 --> 00:05:22.050 align:start position:0%
+something that was allocated on the heap
+ 
+
+00:05:22.050 --> 00:05:24.560 align:start position:0%
+something that was allocated on the heap
+here<00:05:22.530><c> in</c><00:05:22.710><c> the</c><00:05:23.190><c> constructor</c><00:05:23.820><c> we</c><00:05:24.000><c> actually</c>
+
+00:05:24.560 --> 00:05:24.570 align:start position:0%
+here in the constructor we actually
+ 
+
+00:05:24.570 --> 00:05:26.900 align:start position:0%
+here in the constructor we actually
+allocate<00:05:24.720><c> it</c><00:05:25.080><c> like</c><00:05:25.200><c> this</c><00:05:25.380><c> maybe</c><00:05:25.830><c> and</c><00:05:26.280><c> then</c><00:05:26.760><c> in</c>
+
+00:05:26.900 --> 00:05:26.910 align:start position:0%
+allocate it like this maybe and then in
+ 
+
+00:05:26.910 --> 00:05:28.370 align:start position:0%
+allocate it like this maybe and then in
+the<00:05:27.000><c> destructor</c><00:05:27.360><c> we</c><00:05:27.660><c> decide</c><00:05:27.930><c> that</c><00:05:28.020><c> we</c><00:05:28.140><c> need</c><00:05:28.170><c> to</c>
+
+00:05:28.370 --> 00:05:28.380 align:start position:0%
+the destructor we decide that we need to
+ 
+
+00:05:28.380 --> 00:05:30.920 align:start position:0%
+the destructor we decide that we need to
+delete<00:05:28.620><c> that</c><00:05:28.770><c> array</c><00:05:29.180><c> now</c><00:05:30.180><c> in</c><00:05:30.360><c> this</c><00:05:30.570><c> scenario</c>
+
+00:05:30.920 --> 00:05:30.930 align:start position:0%
+delete that array now in this scenario
+ 
+
+00:05:30.930 --> 00:05:33.530 align:start position:0%
+delete that array now in this scenario
+if<00:05:31.290><c> we</c><00:05:31.320><c> just</c><00:05:31.560><c> hit</c><00:05:31.680><c> f5</c><00:05:31.860><c> with</c><00:05:32.760><c> this</c><00:05:32.940><c> current</c><00:05:33.330><c> code</c>
+
+00:05:33.530 --> 00:05:33.540 align:start position:0%
+if we just hit f5 with this current code
+ 
+
+00:05:33.540 --> 00:05:35.180 align:start position:0%
+if we just hit f5 with this current code
+what's<00:05:34.110><c> actually</c><00:05:34.320><c> happening</c><00:05:34.920><c> over</c><00:05:35.160><c> here</c>
+
+00:05:35.180 --> 00:05:35.190 align:start position:0%
+what's actually happening over here
+ 
+
+00:05:35.190 --> 00:05:36.920 align:start position:0%
+what's actually happening over here
+because<00:05:35.640><c> you</c><00:05:35.670><c> can</c><00:05:35.880><c> see</c><00:05:36.060><c> it's</c><00:05:36.270><c> not</c><00:05:36.450><c> calling</c>
+
+00:05:36.920 --> 00:05:36.930 align:start position:0%
+because you can see it's not calling
+ 
+
+00:05:36.930 --> 00:05:39.200 align:start position:0%
+because you can see it's not calling
+that<00:05:37.080><c> derived</c><00:05:37.380><c> destructor</c><00:05:37.920><c> but</c><00:05:38.820><c> it</c><00:05:38.910><c> is</c><00:05:39.030><c> of</c>
+
+00:05:39.200 --> 00:05:39.210 align:start position:0%
+that derived destructor but it is of
+ 
+
+00:05:39.210 --> 00:05:41.150 align:start position:0%
+that derived destructor but it is of
+course<00:05:39.360><c> calling</c><00:05:39.780><c> the</c><00:05:39.870><c> derived</c><00:05:40.160><c> constructor</c>
+
+00:05:41.150 --> 00:05:41.160 align:start position:0%
+course calling the derived constructor
+ 
+
+00:05:41.160 --> 00:05:42.740 align:start position:0%
+course calling the derived constructor
+what's<00:05:41.490><c> obviously</c><00:05:41.850><c> happening</c><00:05:42.300><c> is</c><00:05:42.420><c> that</c><00:05:42.570><c> we're</c>
+
+00:05:42.740 --> 00:05:42.750 align:start position:0%
+what's obviously happening is that we're
+ 
+
+00:05:42.750 --> 00:05:44.450 align:start position:0%
+what's obviously happening is that we're
+allocating<00:05:42.870><c> all</c><00:05:43.350><c> of</c><00:05:43.440><c> this</c><00:05:43.530><c> memory</c><00:05:43.950><c> 20</c><00:05:44.280><c> bytes</c>
+
+00:05:44.450 --> 00:05:44.460 align:start position:0%
+allocating all of this memory 20 bytes
+ 
+
+00:05:44.460 --> 00:05:46.220 align:start position:0%
+allocating all of this memory 20 bytes
+here<00:05:44.760><c> and</c><00:05:45.000><c> then</c><00:05:45.510><c> we're</c><00:05:45.750><c> never</c><00:05:45.960><c> actually</c>
+
+00:05:46.220 --> 00:05:46.230 align:start position:0%
+here and then we're never actually
+ 
+
+00:05:46.230 --> 00:05:48.170 align:start position:0%
+here and then we're never actually
+calling<00:05:47.010><c> this</c><00:05:47.130><c> line</c><00:05:47.370><c> of</c><00:05:47.490><c> code</c><00:05:47.670><c> because</c><00:05:48.060><c> the</c>
+
+00:05:48.170 --> 00:05:48.180 align:start position:0%
+calling this line of code because the
+ 
+
+00:05:48.180 --> 00:05:49.820 align:start position:0%
+calling this line of code because the
+destructors<00:05:48.660><c> not</c><00:05:48.840><c> called</c><00:05:49.140><c> so</c><00:05:49.530><c> we're</c><00:05:49.680><c> never</c>
+
+00:05:49.820 --> 00:05:49.830 align:start position:0%
+destructors not called so we're never
+ 
+
+00:05:49.830 --> 00:05:52.040 align:start position:0%
+destructors not called so we're never
+deleting<00:05:50.370><c> that</c><00:05:50.520><c> heap</c><00:05:50.760><c> allocated</c><00:05:51.150><c> array</c><00:05:51.450><c> which</c>
+
+00:05:52.040 --> 00:05:52.050 align:start position:0%
+deleting that heap allocated array which
+ 
+
+00:05:52.050 --> 00:05:54.500 align:start position:0%
+deleting that heap allocated array which
+means<00:05:52.260><c> that</c><00:05:52.440><c> we</c><00:05:52.560><c> have</c><00:05:52.890><c> a</c><00:05:52.920><c> memory</c><00:05:53.280><c> leak</c><00:05:53.460><c> so</c><00:05:54.210><c> how</c>
+
+00:05:54.500 --> 00:05:54.510 align:start position:0%
+means that we have a memory leak so how
+ 
+
+00:05:54.510 --> 00:05:56.150 align:start position:0%
+means that we have a memory leak so how
+do<00:05:54.570><c> we</c><00:05:54.630><c> go</c><00:05:54.750><c> about</c><00:05:54.870><c> solving</c><00:05:55.140><c> this</c><00:05:55.410><c> well</c><00:05:55.770><c> all</c><00:05:55.980><c> we</c>
+
+00:05:56.150 --> 00:05:56.160 align:start position:0%
+do we go about solving this well all we
+ 
+
+00:05:56.160 --> 00:05:58.190 align:start position:0%
+do we go about solving this well all we
+really<00:05:56.430><c> need</c><00:05:56.580><c> to</c><00:05:56.670><c> do</c><00:05:56.790><c> here</c><00:05:57.150><c> is</c><00:05:57.540><c> just</c><00:05:57.780><c> mark</c><00:05:58.020><c> this</c>
+
+00:05:58.190 --> 00:05:58.200 align:start position:0%
+really need to do here is just mark this
+ 
+
+00:05:58.200 --> 00:06:00.860 align:start position:0%
+really need to do here is just mark this
+base<00:05:58.530><c> destructor</c><00:05:59.220><c> as</c><00:05:59.370><c> virtual</c><00:05:59.940><c> which</c><00:06:00.510><c> means</c>
+
+00:06:00.860 --> 00:06:00.870 align:start position:0%
+base destructor as virtual which means
+ 
+
+00:06:00.870 --> 00:06:02.990 align:start position:0%
+base destructor as virtual which means
+that<00:06:01.410><c> there</c><00:06:01.650><c> is</c><00:06:01.800><c> basically</c><00:06:02.190><c> the</c><00:06:02.400><c> possibility</c>
+
+00:06:02.990 --> 00:06:03.000 align:start position:0%
+that there is basically the possibility
+ 
+
+00:06:03.000 --> 00:06:05.270 align:start position:0%
+that there is basically the possibility
+for<00:06:03.030><c> this</c><00:06:03.240><c> class</c><00:06:03.510><c> to</c><00:06:03.810><c> be</c><00:06:03.890><c> extended</c><00:06:04.890><c> to</c><00:06:04.920><c> be</c>
+
+00:06:05.270 --> 00:06:05.280 align:start position:0%
+for this class to be extended to be
+ 
+
+00:06:05.280 --> 00:06:08.270 align:start position:0%
+for this class to be extended to be
+subclassed<00:06:05.730><c> and</c><00:06:06.350><c> we</c><00:06:07.350><c> might</c><00:06:07.590><c> be</c><00:06:07.770><c> including</c><00:06:08.220><c> a</c>
+
+00:06:08.270 --> 00:06:08.280 align:start position:0%
+subclassed and we might be including a
+ 
+
+00:06:08.280 --> 00:06:10.190 align:start position:0%
+subclassed and we might be including a
+destructor<00:06:08.820><c> that</c><00:06:08.940><c> also</c><00:06:09.420><c> needs</c><00:06:09.630><c> to</c><00:06:09.780><c> get</c><00:06:09.900><c> called</c>
+
+00:06:10.190 --> 00:06:10.200 align:start position:0%
+destructor that also needs to get called
+ 
+
+00:06:10.200 --> 00:06:12.470 align:start position:0%
+destructor that also needs to get called
+this<00:06:10.440><c> basically</c><00:06:10.890><c> tell</c><00:06:11.100><c> us</c><00:06:11.190><c> above</c><00:06:11.490><c> us</c><00:06:11.640><c> hey</c><00:06:11.910><c> you</c>
+
+00:06:12.470 --> 00:06:12.480 align:start position:0%
+this basically tell us above us hey you
+ 
+
+00:06:12.480 --> 00:06:14.870 align:start position:0%
+this basically tell us above us hey you
+need<00:06:12.660><c> to</c><00:06:12.870><c> call</c><00:06:13.140><c> the</c><00:06:13.590><c> derived</c><00:06:13.920><c> disruptors</c><00:06:14.640><c> if</c>
+
+00:06:14.870 --> 00:06:14.880 align:start position:0%
+need to call the derived disruptors if
+ 
+
+00:06:14.880 --> 00:06:17.180 align:start position:0%
+need to call the derived disruptors if
+they're<00:06:15.150><c> present</c><00:06:15.630><c> so</c><00:06:16.080><c> now</c><00:06:16.230><c> let's</c><00:06:16.440><c> hit</c><00:06:16.530><c> f5</c><00:06:16.860><c> and</c>
+
+00:06:17.180 --> 00:06:17.190 align:start position:0%
+they're present so now let's hit f5 and
+ 
+
+00:06:17.190 --> 00:06:19.010 align:start position:0%
+they're present so now let's hit f5 and
+see<00:06:17.340><c> what</c><00:06:17.460><c> we</c><00:06:17.550><c> get</c><00:06:17.760><c> ok</c><00:06:18.150><c> cool</c><00:06:18.390><c> check</c><00:06:18.720><c> this</c><00:06:18.840><c> out</c>
+
+00:06:19.010 --> 00:06:19.020 align:start position:0%
+see what we get ok cool check this out
+ 
+
+00:06:19.020 --> 00:06:20.870 align:start position:0%
+see what we get ok cool check this out
+so<00:06:19.170><c> we</c><00:06:19.260><c> have</c><00:06:19.530><c> the</c><00:06:19.650><c> exact</c><00:06:19.980><c> same</c><00:06:20.010><c> behavior</c><00:06:20.370><c> now</c>
+
+00:06:20.870 --> 00:06:20.880 align:start position:0%
+so we have the exact same behavior now
+ 
+
+00:06:20.880 --> 00:06:22.790 align:start position:0%
+so we have the exact same behavior now
+as<00:06:21.090><c> we</c><00:06:21.570><c> did</c><00:06:21.720><c> in</c><00:06:21.840><c> the</c><00:06:21.930><c> second</c><00:06:22.230><c> example</c><00:06:22.350><c> that</c>
+
+00:06:22.790 --> 00:06:22.800 align:start position:0%
+as we did in the second example that
+ 
+
+00:06:22.800 --> 00:06:24.290 align:start position:0%
+as we did in the second example that
+derived<00:06:23.130><c> a</c><00:06:23.250><c> structure</c><00:06:23.580><c> is</c><00:06:23.700><c> called</c><00:06:23.850><c> first</c><00:06:24.150><c> and</c>
+
+00:06:24.290 --> 00:06:24.300 align:start position:0%
+derived a structure is called first and
+ 
+
+00:06:24.300 --> 00:06:25.910 align:start position:0%
+derived a structure is called first and
+then<00:06:24.810><c> the</c><00:06:24.900><c> bank's</c><00:06:25.170><c> destructor</c><00:06:25.590><c> is</c><00:06:25.680><c> called</c>
+
+00:06:25.910 --> 00:06:25.920 align:start position:0%
+then the bank's destructor is called
+ 
+
+00:06:25.920 --> 00:06:27.470 align:start position:0%
+then the bank's destructor is called
+like<00:06:26.100><c> this</c><00:06:26.250><c> which</c><00:06:26.550><c> means</c><00:06:26.790><c> that</c><00:06:27.030><c> this</c><00:06:27.120><c> array</c>
+
+00:06:27.470 --> 00:06:27.480 align:start position:0%
+like this which means that this array
+ 
+
+00:06:27.480 --> 00:06:29.450 align:start position:0%
+like this which means that this array
+does<00:06:28.140><c> indeed</c><00:06:28.500><c> get</c><00:06:28.770><c> cleaned</c><00:06:29.130><c> up</c><00:06:29.280><c> and</c>
+
+00:06:29.450 --> 00:06:29.460 align:start position:0%
+does indeed get cleaned up and
+ 
+
+00:06:29.460 --> 00:06:32.090 align:start position:0%
+does indeed get cleaned up and
+everyone's<00:06:30.120><c> happy</c><00:06:30.330><c> even</c><00:06:30.840><c> if</c><00:06:31.290><c> we</c><00:06:31.500><c> do</c><00:06:31.650><c> treat</c><00:06:31.950><c> it</c>
+
+00:06:32.090 --> 00:06:32.100 align:start position:0%
+everyone's happy even if we do treat it
+ 
+
+00:06:32.100 --> 00:06:33.770 align:start position:0%
+everyone's happy even if we do treat it
+kind<00:06:32.400><c> of</c><00:06:32.430><c> as</c><00:06:32.610><c> the</c><00:06:32.790><c> polymorphic</c><00:06:33.270><c> type</c><00:06:33.510><c> in</c><00:06:33.720><c> a</c>
+
+00:06:33.770 --> 00:06:33.780 align:start position:0%
+kind of as the polymorphic type in a
+ 
+
+00:06:33.780 --> 00:06:34.350 align:start position:0%
+kind of as the polymorphic type in a
+sense<00:06:33.990><c> that</c>
+
+00:06:34.350 --> 00:06:34.360 align:start position:0%
+sense that
+ 
+
+00:06:34.360 --> 00:06:36.929 align:start position:0%
+sense that
+address<00:06:35.050><c> it</c><00:06:35.259><c> or</c><00:06:35.470><c> we</c><00:06:35.710><c> treat</c><00:06:35.949><c> it</c><00:06:36.099><c> like</c><00:06:36.370><c> that</c><00:06:36.639><c> base</c>
+
+00:06:36.929 --> 00:06:36.939 align:start position:0%
+address it or we treat it like that base
+ 
+
+00:06:36.939 --> 00:06:39.300 align:start position:0%
+address it or we treat it like that base
+class<00:06:37.599><c> type</c><00:06:37.900><c> anyway</c><00:06:38.800><c> I</c><00:06:38.830><c> hope</c><00:06:38.889><c> you</c><00:06:38.979><c> guys</c><00:06:39.099><c> enjoy</c>
+
+00:06:39.300 --> 00:06:39.310 align:start position:0%
+class type anyway I hope you guys enjoy
+ 
+
+00:06:39.310 --> 00:06:41.490 align:start position:0%
+class type anyway I hope you guys enjoy
+this<00:06:39.400><c> video</c><00:06:39.550><c> very</c><00:06:40.000><c> simple</c><00:06:40.629><c> bit</c><00:06:41.169><c> of</c><00:06:41.259><c> a</c><00:06:41.319><c> quick</c>
+
+00:06:41.490 --> 00:06:41.500 align:start position:0%
+this video very simple bit of a quick
+ 
+
+00:06:41.500 --> 00:06:44.429 align:start position:0%
+this video very simple bit of a quick
+tip<00:06:42.060><c> really</c><00:06:43.060><c> important</c><00:06:43.719><c> whenever</c><00:06:43.960><c> you're</c>
+
+00:06:44.429 --> 00:06:44.439 align:start position:0%
+tip really important whenever you're
+ 
+
+00:06:44.439 --> 00:06:46.890 align:start position:0%
+tip really important whenever you're
+writing<00:06:44.620><c> whenever</c><00:06:45.310><c> you're</c><00:06:45.580><c> on</c><00:06:45.699><c> in</c><00:06:45.789><c> class</c><00:06:46.090><c> that</c>
+
+00:06:46.890 --> 00:06:46.900 align:start position:0%
+writing whenever you're on in class that
+ 
+
+00:06:46.900 --> 00:06:49.020 align:start position:0%
+writing whenever you're on in class that
+you<00:06:47.139><c> will</c><00:06:47.349><c> be</c><00:06:47.530><c> extending</c><00:06:48.219><c> or</c><00:06:48.370><c> that</c><00:06:48.520><c> might</c><00:06:48.819><c> be</c>
+
+00:06:49.020 --> 00:06:49.030 align:start position:0%
+you will be extending or that might be
+ 
+
+00:06:49.030 --> 00:06:50.309 align:start position:0%
+you will be extending or that might be
+subclass<00:06:49.539><c> whenever</c><00:06:49.930><c> you're</c><00:06:50.050><c> basically</c>
+
+00:06:50.309 --> 00:06:50.319 align:start position:0%
+subclass whenever you're basically
+ 
+
+00:06:50.319 --> 00:06:52.170 align:start position:0%
+subclass whenever you're basically
+permitting<00:06:50.919><c> a</c><00:06:50.979><c> class</c><00:06:51.219><c> to</c><00:06:51.430><c> be</c><00:06:51.550><c> subclassed</c>
+
+00:06:52.170 --> 00:06:52.180 align:start position:0%
+permitting a class to be subclassed
+ 
+
+00:06:52.180 --> 00:06:56.010 align:start position:0%
+permitting a class to be subclassed
+you<00:06:52.569><c> need</c><00:06:52.900><c> 200%</c><00:06:53.860><c> declare</c><00:06:54.340><c> your</c><00:06:55.090><c> destructor</c><00:06:55.840><c> as</c>
+
+00:06:56.010 --> 00:06:56.020 align:start position:0%
+you need 200% declare your destructor as
+ 
+
+00:06:56.020 --> 00:06:58.740 align:start position:0%
+you need 200% declare your destructor as
+virtual<00:06:56.590><c> otherwise</c><00:06:57.550><c> no</c><00:06:57.969><c> one's</c><00:06:58.210><c> going</c><00:06:58.509><c> to</c><00:06:58.569><c> be</c>
+
+00:06:58.740 --> 00:06:58.750 align:start position:0%
+virtual otherwise no one's going to be
+ 
+
+00:06:58.750 --> 00:07:00.809 align:start position:0%
+virtual otherwise no one's going to be
+able<00:06:58.990><c> to</c><00:06:59.080><c> safely</c><00:06:59.560><c> extend</c><00:07:00.370><c> that</c><00:07:00.520><c> class</c>
+
+00:07:00.809 --> 00:07:00.819 align:start position:0%
+able to safely extend that class
+ 
+
+00:07:00.819 --> 00:07:02.850 align:start position:0%
+able to safely extend that class
+including<00:07:01.360><c> yourself</c><00:07:01.750><c> because</c><00:07:02.199><c> if</c><00:07:02.469><c> you</c><00:07:02.530><c> do</c>
+
+00:07:02.850 --> 00:07:02.860 align:start position:0%
+including yourself because if you do
+ 
+
+00:07:02.860 --> 00:07:04.860 align:start position:0%
+including yourself because if you do
+that<00:07:03.129><c> you</c><00:07:03.729><c> can't</c><00:07:04.000><c> use</c><00:07:04.240><c> the</c><00:07:04.270><c> destructor</c>
+
+00:07:04.860 --> 00:07:04.870 align:start position:0%
+that you can't use the destructor
+ 
+
+00:07:04.870 --> 00:07:07.020 align:start position:0%
+that you can't use the destructor
+because<00:07:05.229><c> it</c><00:07:05.379><c> will</c><00:07:05.500><c> never</c><00:07:05.680><c> get</c><00:07:05.919><c> called</c><00:07:06.189><c> if</c>
+
+00:07:07.020 --> 00:07:07.030 align:start position:0%
+because it will never get called if
+ 
+
+00:07:07.030 --> 00:07:09.089 align:start position:0%
+because it will never get called if
+you're<00:07:07.659><c> treating</c><00:07:07.960><c> that</c><00:07:08.080><c> class</c><00:07:08.289><c> by</c><00:07:08.740><c> its</c><00:07:08.889><c> best</c>
+
+00:07:09.089 --> 00:07:09.099 align:start position:0%
+you're treating that class by its best
+ 
+
+00:07:09.099 --> 00:07:10.559 align:start position:0%
+you're treating that class by its best
+type<00:07:09.370><c> which</c><00:07:09.610><c> might</c><00:07:09.819><c> be</c><00:07:09.969><c> the</c><00:07:10.000><c> case</c><00:07:10.120><c> that</c><00:07:10.419><c> you're</c>
+
+00:07:10.559 --> 00:07:10.569 align:start position:0%
+type which might be the case that you're
+ 
+
+00:07:10.569 --> 00:07:12.510 align:start position:0%
+type which might be the case that you're
+passing<00:07:10.900><c> it</c><00:07:10.990><c> into</c><00:07:11.139><c> a</c><00:07:11.259><c> function</c><00:07:11.830><c> as</c><00:07:12.069><c> well</c><00:07:12.280><c> and</c>
+
+00:07:12.510 --> 00:07:12.520 align:start position:0%
+passing it into a function as well and
+ 
+
+00:07:12.520 --> 00:07:14.730 align:start position:0%
+passing it into a function as well and
+maybe<00:07:12.729><c> that</c><00:07:13.000><c> function</c><00:07:13.419><c> only</c><00:07:13.900><c> takes</c><00:07:14.319><c> it</c><00:07:14.530><c> as</c>
+
+00:07:14.730 --> 00:07:14.740 align:start position:0%
+maybe that function only takes it as
+ 
+
+00:07:14.740 --> 00:07:16.800 align:start position:0%
+maybe that function only takes it as
+like<00:07:14.889><c> a</c><00:07:14.919><c> base</c><00:07:15.159><c> pointer</c><00:07:15.669><c> and</c><00:07:15.849><c> then</c><00:07:15.969><c> deletes</c><00:07:16.659><c> it</c>
+
+00:07:16.800 --> 00:07:16.810 align:start position:0%
+like a base pointer and then deletes it
+ 
+
+00:07:16.810 --> 00:07:18.689 align:start position:0%
+like a base pointer and then deletes it
+or<00:07:16.900><c> does</c><00:07:17.110><c> whatever</c><00:07:17.349><c> it</c><00:07:17.560><c> does</c><00:07:17.650><c> this</c><00:07:18.400><c> is</c><00:07:18.550><c> have</c>
+
+00:07:18.689 --> 00:07:18.699 align:start position:0%
+or does whatever it does this is have
+ 
+
+00:07:18.699 --> 00:07:20.279 align:start position:0%
+or does whatever it does this is have
+example<00:07:19.180><c> anyway</c><00:07:19.479><c> so</c><00:07:19.539><c> definitely</c><00:07:20.080><c> make</c><00:07:20.229><c> sure</c>
+
+00:07:20.279 --> 00:07:20.289 align:start position:0%
+example anyway so definitely make sure
+ 
+
+00:07:20.289 --> 00:07:22.110 align:start position:0%
+example anyway so definitely make sure
+that<00:07:20.469><c> you</c><00:07:20.650><c> are</c><00:07:20.860><c> declaring</c><00:07:21.069><c> the</c><00:07:21.610><c> destructors</c>
+
+00:07:22.110 --> 00:07:22.120 align:start position:0%
+that you are declaring the destructors
+ 
+
+00:07:22.120 --> 00:07:24.240 align:start position:0%
+that you are declaring the destructors
+was<00:07:22.300><c> virtual</c><00:07:22.690><c> if</c><00:07:23.229><c> you're</c><00:07:23.530><c> allowing</c><00:07:23.770><c> that</c><00:07:24.039><c> sub</c>
+
+00:07:24.240 --> 00:07:24.250 align:start position:0%
+was virtual if you're allowing that sub
+ 
+
+00:07:24.250 --> 00:07:26.459 align:start position:0%
+was virtual if you're allowing that sub
+classing<00:07:24.669><c> to</c><00:07:24.789><c> actually</c><00:07:25.120><c> happen</c><00:07:25.270><c> if</c><00:07:26.229><c> you</c><00:07:26.349><c> liked</c>
+
+00:07:26.459 --> 00:07:26.469 align:start position:0%
+classing to actually happen if you liked
+ 
+
+00:07:26.469 --> 00:07:27.809 align:start position:0%
+classing to actually happen if you liked
+this<00:07:26.560><c> video</c><00:07:26.830><c> please</c><00:07:27.039><c> hit</c><00:07:27.159><c> the</c><00:07:27.310><c> like</c><00:07:27.460><c> button</c>
+
+00:07:27.809 --> 00:07:27.819 align:start position:0%
+this video please hit the like button
+ 
+
+00:07:27.819 --> 00:07:28.980 align:start position:0%
+this video please hit the like button
+you<00:07:27.879><c> can</c><00:07:28.000><c> also</c><00:07:28.120><c> help</c><00:07:28.300><c> support</c><00:07:28.599><c> the</c><00:07:28.659><c> series</c><00:07:28.870><c> by</c>
+
+00:07:28.980 --> 00:07:28.990 align:start position:0%
+you can also help support the series by
+ 
+
+00:07:28.990 --> 00:07:30.480 align:start position:0%
+you can also help support the series by
+going<00:07:29.199><c> passionate</c><00:07:29.560><c> conference</c><00:07:29.919><c> -</c><00:07:30.099><c> the</c><00:07:30.250><c> China</c>
+
+00:07:30.480 --> 00:07:30.490 align:start position:0%
+going passionate conference - the China
+ 
+
+00:07:30.490 --> 00:07:32.010 align:start position:0%
+going passionate conference - the China
+a<00:07:30.580><c> huge</c><00:07:30.819><c> thank</c><00:07:31.029><c> you</c><00:07:31.120><c> as</c><00:07:31.270><c> always</c><00:07:31.419><c> to</c><00:07:31.629><c> all</c><00:07:31.900><c> my</c>
+
+00:07:32.010 --> 00:07:32.020 align:start position:0%
+a huge thank you as always to all my
+ 
+
+00:07:32.020 --> 00:07:33.570 align:start position:0%
+a huge thank you as always to all my
+lovely<00:07:32.229><c> supporters</c><00:07:32.860><c> this</c><00:07:33.009><c> series</c><00:07:33.310><c> wouldn't</c>
+
+00:07:33.570 --> 00:07:33.580 align:start position:0%
+lovely supporters this series wouldn't
+ 
+
+00:07:33.580 --> 00:07:36.119 align:start position:0%
+lovely supporters this series wouldn't
+be<00:07:33.639><c> here</c><00:07:33.909><c> without</c><00:07:34.419><c> you</c><00:07:34.719><c> guys</c><00:07:34.750><c> I</c><00:07:35.259><c> will</c><00:07:35.919><c> see</c><00:07:35.949><c> you</c>
+
+00:07:36.119 --> 00:07:36.129 align:start position:0%
+be here without you guys I will see you
+ 
+
+00:07:36.129 --> 00:07:38.610 align:start position:0%
+be here without you guys I will see you
+next<00:07:36.250><c> time</c><00:07:36.520><c> goodbye</c>
+
+00:07:38.610 --> 00:07:38.620 align:start position:0%
+next time goodbye
+ 
+
+00:07:38.620 --> 00:07:53.799 align:start position:0%
+next time goodbye
+[Music]
+

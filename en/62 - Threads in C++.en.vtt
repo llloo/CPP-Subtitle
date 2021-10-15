@@ -1,0 +1,2560 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:00.950 --> 00:00:04.420 align:start position:0%
+ 
+[Music]
+
+00:00:04.420 --> 00:00:04.430 align:start position:0%
+[Music]
+ 
+
+00:00:04.430 --> 00:00:06.860 align:start position:0%
+[Music]
+hey<00:00:05.430><c> what's</c><00:00:05.640><c> up</c><00:00:05.670><c> guys</c><00:00:05.819><c> my</c><00:00:06.210><c> name</c><00:00:06.359><c> is</c><00:00:06.509><c> Chen</c><00:00:06.839><c> oh</c>
+
+00:00:06.860 --> 00:00:06.870 align:start position:0%
+hey what's up guys my name is Chen oh
+ 
+
+00:00:06.870 --> 00:00:09.530 align:start position:0%
+hey what's up guys my name is Chen oh
+welcome<00:00:07.350><c> back</c><00:00:07.740><c> to</c><00:00:07.919><c> my</c><00:00:08.069><c> c++</c><00:00:08.730><c> series</c><00:00:09.150><c> today</c>
+
+00:00:09.530 --> 00:00:09.540 align:start position:0%
+welcome back to my c++ series today
+ 
+
+00:00:09.540 --> 00:00:11.480 align:start position:0%
+welcome back to my c++ series today
+we're<00:00:10.080><c> gonna</c><00:00:10.170><c> be</c><00:00:10.349><c> talking</c><00:00:10.500><c> all</c><00:00:10.800><c> about</c><00:00:10.920><c> threads</c>
+
+00:00:11.480 --> 00:00:11.490 align:start position:0%
+we're gonna be talking all about threads
+ 
+
+00:00:11.490 --> 00:00:13.970 align:start position:0%
+we're gonna be talking all about threads
+and<00:00:11.790><c> in</c><00:00:12.059><c> general</c><00:00:12.570><c> how</c><00:00:12.750><c> we</c><00:00:12.809><c> can</c><00:00:13.200><c> parallel</c><00:00:13.769><c> eyes</c>
+
+00:00:13.970 --> 00:00:13.980 align:start position:0%
+and in general how we can parallel eyes
+ 
+
+00:00:13.980 --> 00:00:16.970 align:start position:0%
+and in general how we can parallel eyes
+that's<00:00:14.400><c> a</c><00:00:14.549><c> hard</c><00:00:14.790><c> word</c><00:00:15.000><c> how</c><00:00:15.780><c> we</c><00:00:15.839><c> can</c><00:00:16.139><c> make</c><00:00:16.379><c> stuff</c>
+
+00:00:16.970 --> 00:00:16.980 align:start position:0%
+that's a hard word how we can make stuff
+ 
+
+00:00:16.980 --> 00:00:19.220 align:start position:0%
+that's a hard word how we can make stuff
+happen<00:00:17.160><c> in</c><00:00:17.670><c> parallel</c><00:00:18.029><c> because</c><00:00:18.840><c> most</c><00:00:19.050><c> of</c><00:00:19.140><c> the</c>
+
+00:00:19.220 --> 00:00:19.230 align:start position:0%
+happen in parallel because most of the
+ 
+
+00:00:19.230 --> 00:00:20.929 align:start position:0%
+happen in parallel because most of the
+computers<00:00:19.650><c> or</c><00:00:19.830><c> processes</c><00:00:20.369><c> or</c><00:00:20.490><c> devices</c><00:00:20.789><c> that</c>
+
+00:00:20.929 --> 00:00:20.939 align:start position:0%
+computers or processes or devices that
+ 
+
+00:00:20.939 --> 00:00:23.390 align:start position:0%
+computers or processes or devices that
+we're<00:00:21.180><c> programming</c><00:00:21.600><c> for</c><00:00:21.810><c> nowadays</c><00:00:22.289><c> have</c><00:00:22.980><c> more</c>
+
+00:00:23.390 --> 00:00:23.400 align:start position:0%
+we're programming for nowadays have more
+ 
+
+00:00:23.400 --> 00:00:26.060 align:start position:0%
+we're programming for nowadays have more
+than<00:00:23.580><c> one</c><00:00:23.880><c> logical</c><00:00:24.420><c> thread</c><00:00:24.900><c> of</c><00:00:25.260><c> processing</c>
+
+00:00:26.060 --> 00:00:26.070 align:start position:0%
+than one logical thread of processing
+ 
+
+00:00:26.070 --> 00:00:29.660 align:start position:0%
+than one logical thread of processing
+that<00:00:26.099><c> they</c><00:00:26.519><c> can</c><00:00:26.730><c> actually</c><00:00:26.910><c> do</c><00:00:27.330><c> so</c><00:00:28.289><c> far</c><00:00:28.590><c> all</c><00:00:29.490><c> the</c>
+
+00:00:29.660 --> 00:00:29.670 align:start position:0%
+that they can actually do so far all the
+ 
+
+00:00:29.670 --> 00:00:31.250 align:start position:0%
+that they can actually do so far all the
+code<00:00:29.849><c> that</c><00:00:29.970><c> we've</c><00:00:30.090><c> been</c><00:00:30.269><c> writing</c><00:00:30.420><c> in</c><00:00:30.599><c> the</c><00:00:30.750><c> c++</c>
+
+00:00:31.250 --> 00:00:31.260 align:start position:0%
+code that we've been writing in the c++
+ 
+
+00:00:31.260 --> 00:00:33.260 align:start position:0%
+code that we've been writing in the c++
+series<00:00:31.590><c> and</c><00:00:31.769><c> the</c><00:00:32.099><c> opengl</c><00:00:32.550><c> series</c><00:00:32.850><c> as</c><00:00:33.000><c> well</c><00:00:33.120><c> if</c>
+
+00:00:33.260 --> 00:00:33.270 align:start position:0%
+series and the opengl series as well if
+ 
+
+00:00:33.270 --> 00:00:36.260 align:start position:0%
+series and the opengl series as well if
+you<00:00:33.360><c> guys</c><00:00:33.480><c> are</c><00:00:33.540><c> watching</c><00:00:33.750><c> that</c><00:00:34.050><c> has</c><00:00:34.920><c> been</c><00:00:35.309><c> on</c><00:00:36.030><c> a</c>
+
+00:00:36.260 --> 00:00:36.270 align:start position:0%
+you guys are watching that has been on a
+ 
+
+00:00:36.270 --> 00:00:38.240 align:start position:0%
+you guys are watching that has been on a
+single<00:00:36.930><c> thread</c><00:00:37.079><c> which</c><00:00:37.440><c> means</c><00:00:37.649><c> that</c><00:00:37.890><c> when</c><00:00:38.129><c> we</c>
+
+00:00:38.240 --> 00:00:38.250 align:start position:0%
+single thread which means that when we
+ 
+
+00:00:38.250 --> 00:00:40.430 align:start position:0%
+single thread which means that when we
+actually<00:00:38.430><c> write</c><00:00:38.879><c> code</c><00:00:38.910><c> for</c><00:00:39.600><c> those</c><00:00:39.690><c> episodes</c>
+
+00:00:40.430 --> 00:00:40.440 align:start position:0%
+actually write code for those episodes
+ 
+
+00:00:40.440 --> 00:00:42.470 align:start position:0%
+actually write code for those episodes
+and<00:00:40.800><c> for</c><00:00:40.950><c> those</c><00:00:41.010><c> series</c><00:00:41.460><c> we're</c><00:00:42.149><c> literally</c>
+
+00:00:42.470 --> 00:00:42.480 align:start position:0%
+and for those series we're literally
+ 
+
+00:00:42.480 --> 00:00:44.240 align:start position:0%
+and for those series we're literally
+just<00:00:42.809><c> making</c><00:00:43.140><c> the</c><00:00:43.230><c> computer</c><00:00:43.440><c> do</c><00:00:43.680><c> things</c><00:00:43.890><c> one</c>
+
+00:00:44.240 --> 00:00:44.250 align:start position:0%
+just making the computer do things one
+ 
+
+00:00:44.250 --> 00:00:47.060 align:start position:0%
+just making the computer do things one
+kind<00:00:44.789><c> of</c><00:00:44.969><c> line</c><00:00:45.570><c> of</c><00:00:45.750><c> code</c><00:00:45.960><c> at</c><00:00:46.230><c> a</c><00:00:46.260><c> time</c><00:00:46.559><c> on</c><00:00:46.860><c> one</c>
+
+00:00:47.060 --> 00:00:47.070 align:start position:0%
+kind of line of code at a time on one
+ 
+
+00:00:47.070 --> 00:00:49.330 align:start position:0%
+kind of line of code at a time on one
+instruction<00:00:47.550><c> at</c><00:00:47.670><c> a</c><00:00:47.700><c> time</c><00:00:47.760><c> which</c><00:00:48.600><c> is</c><00:00:48.750><c> fine</c><00:00:48.780><c> a</c>
+
+00:00:49.330 --> 00:00:49.340 align:start position:0%
+instruction at a time which is fine a
+ 
+
+00:00:49.340 --> 00:00:51.170 align:start position:0%
+instruction at a time which is fine a
+lot<00:00:50.340><c> of</c><00:00:50.460><c> the</c><00:00:50.520><c> things</c><00:00:50.760><c> that</c><00:00:50.820><c> we've</c><00:00:51.000><c> written</c>
+
+00:00:51.170 --> 00:00:51.180 align:start position:0%
+lot of the things that we've written
+ 
+
+00:00:51.180 --> 00:00:52.729 align:start position:0%
+lot of the things that we've written
+have<00:00:51.420><c> obviously</c><00:00:51.780><c> not</c><00:00:52.020><c> been</c><00:00:52.230><c> particularly</c>
+
+00:00:52.729 --> 00:00:52.739 align:start position:0%
+have obviously not been particularly
+ 
+
+00:00:52.739 --> 00:00:55.220 align:start position:0%
+have obviously not been particularly
+fast<00:00:53.460><c> or</c><00:00:53.879><c> that</c><00:00:54.239><c> they</c><00:00:54.300><c> haven't</c><00:00:54.480><c> needed</c><00:00:54.899><c> to</c><00:00:55.050><c> be</c>
+
+00:00:55.220 --> 00:00:55.230 align:start position:0%
+fast or that they haven't needed to be
+ 
+
+00:00:55.230 --> 00:00:57.200 align:start position:0%
+fast or that they haven't needed to be
+really<00:00:56.039><c> like</c><00:00:56.190><c> well</c><00:00:56.370><c> optimized</c><00:00:56.820><c> or</c><00:00:57.000><c> really</c>
+
+00:00:57.200 --> 00:00:57.210 align:start position:0%
+really like well optimized or really
+ 
+
+00:00:57.210 --> 00:00:58.760 align:start position:0%
+really like well optimized or really
+quick<00:00:57.449><c> because</c><00:00:57.660><c> we</c><00:00:57.899><c> haven't</c><00:00:58.079><c> really</c><00:00:58.320><c> written</c>
+
+00:00:58.760 --> 00:00:58.770 align:start position:0%
+quick because we haven't really written
+ 
+
+00:00:58.770 --> 00:01:01.010 align:start position:0%
+quick because we haven't really written
+any<00:00:58.980><c> heavy</c><00:00:59.370><c> code</c><00:00:59.760><c> any</c><00:00:59.969><c> code</c><00:01:00.210><c> that</c><00:01:00.239><c> has</c><00:01:00.539><c> that</c>
+
+00:01:01.010 --> 00:01:01.020 align:start position:0%
+any heavy code any code that has that
+ 
+
+00:01:01.020 --> 00:01:02.510 align:start position:0%
+any heavy code any code that has that
+will<00:01:01.230><c> actually</c><00:01:01.500><c> take</c><00:01:01.680><c> the</c><00:01:01.859><c> device</c><00:01:02.160><c> a</c><00:01:02.190><c> long</c>
+
+00:01:02.510 --> 00:01:02.520 align:start position:0%
+will actually take the device a long
+ 
+
+00:01:02.520 --> 00:01:04.579 align:start position:0%
+will actually take the device a long
+time<00:01:02.730><c> to</c><00:01:02.940><c> compute</c><00:01:03.300><c> it's</c><00:01:03.899><c> been</c><00:01:04.080><c> really</c><00:01:04.290><c> simple</c>
+
+00:01:04.579 --> 00:01:04.589 align:start position:0%
+time to compute it's been really simple
+ 
+
+00:01:04.589 --> 00:01:06.350 align:start position:0%
+time to compute it's been really simple
+stuff<00:01:04.769><c> but</c><00:01:05.159><c> as</c><00:01:05.309><c> we</c><00:01:05.489><c> get</c><00:01:05.610><c> into</c><00:01:05.670><c> more</c><00:01:05.939><c> complex</c>
+
+00:01:06.350 --> 00:01:06.360 align:start position:0%
+stuff but as we get into more complex
+ 
+
+00:01:06.360 --> 00:01:10.190 align:start position:0%
+stuff but as we get into more complex
+programs<00:01:06.740><c> it's</c><00:01:07.740><c> very</c><00:01:08.100><c> beneficial</c><00:01:08.310><c> for</c><00:01:08.790><c> us</c><00:01:09.200><c> to</c>
+
+00:01:10.190 --> 00:01:10.200 align:start position:0%
+programs it's very beneficial for us to
+ 
+
+00:01:10.200 --> 00:01:12.440 align:start position:0%
+programs it's very beneficial for us to
+actually<00:01:10.560><c> move</c><00:01:10.799><c> off</c><00:01:11.040><c> certain</c><00:01:11.340><c> work</c><00:01:11.760><c> to</c>
+
+00:01:12.440 --> 00:01:12.450 align:start position:0%
+actually move off certain work to
+ 
+
+00:01:12.450 --> 00:01:14.840 align:start position:0%
+actually move off certain work to
+different<00:01:12.720><c> threads</c><00:01:13.110><c> of</c><00:01:13.260><c> execution</c><00:01:13.400><c> not</c><00:01:14.400><c> just</c>
+
+00:01:14.840 --> 00:01:14.850 align:start position:0%
+different threads of execution not just
+ 
+
+00:01:14.850 --> 00:01:16.910 align:start position:0%
+different threads of execution not just
+for<00:01:15.119><c> the</c><00:01:15.240><c> sake</c><00:01:15.479><c> of</c><00:01:15.540><c> kind</c><00:01:16.170><c> of</c><00:01:16.290><c> performance</c><00:01:16.770><c> but</c>
+
+00:01:16.910 --> 00:01:16.920 align:start position:0%
+for the sake of kind of performance but
+ 
+
+00:01:16.920 --> 00:01:18.050 align:start position:0%
+for the sake of kind of performance but
+also<00:01:16.950><c> for</c><00:01:17.310><c> the</c><00:01:17.369><c> sake</c><00:01:17.520><c> of</c><00:01:17.549><c> what</c><00:01:17.820><c> we</c><00:01:17.909><c> can</c>
+
+00:01:18.050 --> 00:01:18.060 align:start position:0%
+also for the sake of what we can
+ 
+
+00:01:18.060 --> 00:01:20.539 align:start position:0%
+also for the sake of what we can
+actually<00:01:18.360><c> do</c><00:01:18.570><c> with</c><00:01:18.750><c> that</c><00:01:18.780><c> for</c><00:01:19.590><c> example</c><00:01:20.100><c> we've</c>
+
+00:01:20.539 --> 00:01:20.549 align:start position:0%
+actually do with that for example we've
+ 
+
+00:01:20.549 --> 00:01:23.780 align:start position:0%
+actually do with that for example we've
+used<00:01:20.580><c> sed</c><00:01:21.270><c> CN</c><00:01:21.720><c> get</c><00:01:22.350><c> to</c><00:01:22.680><c> request</c><00:01:23.009><c> input</c><00:01:23.460><c> from</c>
+
+00:01:23.780 --> 00:01:23.790 align:start position:0%
+used sed CN get to request input from
+ 
+
+00:01:23.790 --> 00:01:27.320 align:start position:0%
+used sed CN get to request input from
+the<00:01:24.000><c> user</c><00:01:24.030><c> into</c><00:01:24.689><c> the</c><00:01:24.780><c> console</c><00:01:25.229><c> however</c><00:01:26.330><c> we</c>
+
+00:01:27.320 --> 00:01:27.330 align:start position:0%
+the user into the console however we
+ 
+
+00:01:27.330 --> 00:01:28.670 align:start position:0%
+the user into the console however we
+can't<00:01:27.570><c> do</c><00:01:27.780><c> anything</c><00:01:28.140><c> while</c><00:01:28.320><c> we're</c><00:01:28.439><c> waiting</c>
+
+00:01:28.670 --> 00:01:28.680 align:start position:0%
+can't do anything while we're waiting
+ 
+
+00:01:28.680 --> 00:01:30.530 align:start position:0%
+can't do anything while we're waiting
+for<00:01:28.710><c> input</c><00:01:28.950><c> can</c><00:01:29.520><c> we</c><00:01:29.729><c> we're</c><00:01:30.180><c> literally</c><00:01:30.420><c> just</c>
+
+00:01:30.530 --> 00:01:30.540 align:start position:0%
+for input can we we're literally just
+ 
+
+00:01:30.540 --> 00:01:32.990 align:start position:0%
+for input can we we're literally just
+waiting<00:01:31.020><c> to</c><00:01:31.229><c> receive</c><00:01:31.590><c> input</c><00:01:31.890><c> and</c><00:01:32.220><c> that's</c><00:01:32.759><c> kind</c>
+
+00:01:32.990 --> 00:01:33.000 align:start position:0%
+waiting to receive input and that's kind
+ 
+
+00:01:33.000 --> 00:01:34.280 align:start position:0%
+waiting to receive input and that's kind
+of<00:01:33.030><c> like</c><00:01:33.150><c> a</c><00:01:33.210><c> while</c><00:01:33.450><c> true</c><00:01:33.720><c> loop</c><00:01:33.750><c> that's</c><00:01:34.110><c> just</c>
+
+00:01:34.280 --> 00:01:34.290 align:start position:0%
+of like a while true loop that's just
+ 
+
+00:01:34.290 --> 00:01:37.399 align:start position:0%
+of like a while true loop that's just
+going<00:01:34.470><c> on</c><00:01:34.650><c> infinitely</c><00:01:35.159><c> and</c><00:01:35.840><c> until</c><00:01:36.840><c> we</c><00:01:37.020><c> press</c>
+
+00:01:37.399 --> 00:01:37.409 align:start position:0%
+going on infinitely and until we press
+ 
+
+00:01:37.409 --> 00:01:39.289 align:start position:0%
+going on infinitely and until we press
+ENTER<00:01:37.770><c> that's</c><00:01:38.340><c> it</c><00:01:38.579><c> like</c><00:01:38.820><c> our</c><00:01:39.000><c> thread</c><00:01:39.180><c> is</c>
+
+00:01:39.289 --> 00:01:39.299 align:start position:0%
+ENTER that's it like our thread is
+ 
+
+00:01:39.299 --> 00:01:40.999 align:start position:0%
+ENTER that's it like our thread is
+blocked<00:01:39.570><c> but</c><00:01:40.049><c> what</c><00:01:40.170><c> if</c><00:01:40.290><c> we</c><00:01:40.409><c> could</c><00:01:40.560><c> maybe</c><00:01:40.680><c> do</c>
+
+00:01:40.999 --> 00:01:41.009 align:start position:0%
+blocked but what if we could maybe do
+ 
+
+00:01:41.009 --> 00:01:42.350 align:start position:0%
+blocked but what if we could maybe do
+something<00:01:41.250><c> else</c><00:01:41.549><c> like</c><00:01:41.700><c> print</c><00:01:42.060><c> something</c><00:01:42.210><c> to</c>
+
+00:01:42.350 --> 00:01:42.360 align:start position:0%
+something else like print something to
+ 
+
+00:01:42.360 --> 00:01:44.060 align:start position:0%
+something else like print something to
+the<00:01:42.450><c> console</c><00:01:42.780><c> or</c><00:01:43.110><c> just</c><00:01:43.350><c> log</c><00:01:43.590><c> something</c><00:01:43.860><c> or</c>
+
+00:01:44.060 --> 00:01:44.070 align:start position:0%
+the console or just log something or
+ 
+
+00:01:44.070 --> 00:01:46.010 align:start position:0%
+the console or just log something or
+write<00:01:44.460><c> a</c><00:01:44.490><c> file</c><00:01:44.759><c> or</c><00:01:45.000><c> whatever</c><00:01:45.240><c> while</c><00:01:45.780><c> we're</c>
+
+00:01:46.010 --> 00:01:46.020 align:start position:0%
+write a file or whatever while we're
+ 
+
+00:01:46.020 --> 00:01:47.749 align:start position:0%
+write a file or whatever while we're
+actually<00:01:46.200><c> waiting</c><00:01:46.649><c> for</c><00:01:46.710><c> user</c><00:01:47.009><c> input</c><00:01:47.250><c> we</c><00:01:47.520><c> still</c>
+
+00:01:47.749 --> 00:01:47.759 align:start position:0%
+actually waiting for user input we still
+ 
+
+00:01:47.759 --> 00:01:49.160 align:start position:0%
+actually waiting for user input we still
+want<00:01:47.939><c> other</c><00:01:48.119><c> things</c><00:01:48.180><c> to</c><00:01:48.509><c> happen</c><00:01:48.630><c> that's</c><00:01:48.960><c> one</c>
+
+00:01:49.160 --> 00:01:49.170 align:start position:0%
+want other things to happen that's one
+ 
+
+00:01:49.170 --> 00:01:51.319 align:start position:0%
+want other things to happen that's one
+example<00:01:49.259><c> that's</c><00:01:50.130><c> probably</c><00:01:50.670><c> really</c><00:01:50.850><c> simple</c><00:01:51.240><c> to</c>
+
+00:01:51.319 --> 00:01:51.329 align:start position:0%
+example that's probably really simple to
+ 
+
+00:01:51.329 --> 00:01:52.940 align:start position:0%
+example that's probably really simple to
+understand<00:01:51.720><c> but</c><00:01:52.290><c> anyway</c><00:01:52.560><c> we're</c><00:01:52.740><c> just</c><00:01:52.770><c> gonna</c>
+
+00:01:52.940 --> 00:01:52.950 align:start position:0%
+understand but anyway we're just gonna
+ 
+
+00:01:52.950 --> 00:01:55.700 align:start position:0%
+understand but anyway we're just gonna
+dive<00:01:53.220><c> right</c><00:01:53.490><c> into</c><00:01:54.060><c> the</c><00:01:54.240><c> code</c><00:01:54.450><c> and</c><00:01:54.750><c> see</c><00:01:55.229><c> what</c><00:01:55.590><c> we</c>
+
+00:01:55.700 --> 00:01:55.710 align:start position:0%
+dive right into the code and see what we
+ 
+
+00:01:55.710 --> 00:01:58.069 align:start position:0%
+dive right into the code and see what we
+can<00:01:55.860><c> actually</c><00:01:56.009><c> do</c><00:01:56.780><c> alright</c><00:01:57.780><c> so</c><00:01:57.960><c> the</c><00:01:58.049><c> first</c>
+
+00:01:58.069 --> 00:01:58.079 align:start position:0%
+can actually do alright so the first
+ 
+
+00:01:58.079 --> 00:01:59.510 align:start position:0%
+can actually do alright so the first
+thing<00:01:58.350><c> I'm</c><00:01:58.469><c> going</c><00:01:58.590><c> to</c><00:01:58.649><c> do</c><00:01:58.770><c> is</c><00:01:58.890><c> show</c><00:01:59.159><c> you</c><00:01:59.189><c> kind</c>
+
+00:01:59.510 --> 00:01:59.520 align:start position:0%
+thing I'm going to do is show you kind
+ 
+
+00:01:59.520 --> 00:02:00.889 align:start position:0%
+thing I'm going to do is show you kind
+of<00:01:59.579><c> how</c><00:01:59.700><c> threads</c><00:02:00.000><c> work</c><00:02:00.210><c> on</c><00:02:00.390><c> what</c><00:02:00.540><c> we</c><00:02:00.630><c> can</c><00:02:00.780><c> do</c>
+
+00:02:00.889 --> 00:02:00.899 align:start position:0%
+of how threads work on what we can do
+ 
+
+00:02:00.899 --> 00:02:02.569 align:start position:0%
+of how threads work on what we can do
+with<00:02:01.020><c> them</c><00:02:01.140><c> so</c><00:02:01.649><c> I'm</c><00:02:01.770><c> going</c><00:02:01.950><c> to</c><00:02:02.009><c> include</c><00:02:02.310><c> this</c>
+
+00:02:02.569 --> 00:02:02.579 align:start position:0%
+with them so I'm going to include this
+ 
+
+00:02:02.579 --> 00:02:04.700 align:start position:0%
+with them so I'm going to include this
+thread<00:02:03.149><c> header</c><00:02:03.840><c> that</c><00:02:04.020><c> we</c><00:02:04.140><c> have</c><00:02:04.320><c> here</c><00:02:04.530><c> which</c>
+
+00:02:04.700 --> 00:02:04.710 align:start position:0%
+thread header that we have here which
+ 
+
+00:02:04.710 --> 00:02:07.190 align:start position:0%
+thread header that we have here which
+includes<00:02:05.070><c> the</c><00:02:05.850><c> threading</c><00:02:06.149><c> support</c><00:02:06.869><c> basically</c>
+
+00:02:07.190 --> 00:02:07.200 align:start position:0%
+includes the threading support basically
+ 
+
+00:02:07.200 --> 00:02:08.479 align:start position:0%
+includes the threading support basically
+into<00:02:07.469><c> this</c><00:02:07.619><c> file</c><00:02:07.799><c> so</c><00:02:07.979><c> that</c><00:02:08.039><c> we</c><00:02:08.129><c> can</c><00:02:08.310><c> use</c><00:02:08.459><c> a</c>
+
+00:02:08.479 --> 00:02:08.489 align:start position:0%
+into this file so that we can use a
+ 
+
+00:02:08.489 --> 00:02:10.160 align:start position:0%
+into this file so that we can use a
+thread<00:02:08.789><c> class</c><00:02:08.970><c> and</c><00:02:09.149><c> everything</c><00:02:09.300><c> and</c><00:02:09.929><c> I</c><00:02:09.989><c> type</c>
+
+00:02:10.160 --> 00:02:10.170 align:start position:0%
+thread class and everything and I type
+ 
+
+00:02:10.170 --> 00:02:12.170 align:start position:0%
+thread class and everything and I type
+in<00:02:10.200><c> sed</c><00:02:10.739><c> thread</c><00:02:11.039><c> I'm</c><00:02:11.400><c> gonna</c><00:02:11.760><c> call</c><00:02:12.030><c> it</c>
+
+00:02:12.170 --> 00:02:12.180 align:start position:0%
+in sed thread I'm gonna call it
+ 
+
+00:02:12.180 --> 00:02:13.670 align:start position:0%
+in sed thread I'm gonna call it
+something<00:02:12.599><c> so</c><00:02:12.750><c> I'll</c><00:02:12.840><c> call</c><00:02:12.989><c> this</c><00:02:13.050><c> a</c><00:02:13.170><c> work</c>
+
+00:02:13.670 --> 00:02:13.680 align:start position:0%
+something so I'll call this a work
+ 
+
+00:02:13.680 --> 00:02:15.140 align:start position:0%
+something so I'll call this a work
+because<00:02:14.099><c> it's</c><00:02:14.189><c> gonna</c><00:02:14.310><c> be</c><00:02:14.459><c> like</c><00:02:14.640><c> our</c><00:02:14.790><c> worker</c>
+
+00:02:15.140 --> 00:02:15.150 align:start position:0%
+because it's gonna be like our worker
+ 
+
+00:02:15.150 --> 00:02:16.910 align:start position:0%
+because it's gonna be like our worker
+thread<00:02:15.390><c> and</c><00:02:15.629><c> then</c><00:02:16.170><c> what</c><00:02:16.319><c> I</c><00:02:16.349><c> mean</c><00:02:16.560><c> what</c><00:02:16.709><c> are</c><00:02:16.799><c> you</c>
+
+00:02:16.910 --> 00:02:16.920 align:start position:0%
+thread and then what I mean what are you
+ 
+
+00:02:16.920 --> 00:02:18.259 align:start position:0%
+thread and then what I mean what are you
+to<00:02:17.010><c> do</c><00:02:17.129><c> is</c><00:02:17.280><c> pass</c><00:02:17.459><c> in</c><00:02:17.640><c> a</c><00:02:17.700><c> function</c><00:02:17.730><c> and</c>
+
+00:02:18.259 --> 00:02:18.269 align:start position:0%
+to do is pass in a function and
+ 
+
+00:02:18.269 --> 00:02:20.119 align:start position:0%
+to do is pass in a function and
+optionally<00:02:18.780><c> any</c><00:02:19.019><c> kind</c><00:02:19.260><c> of</c><00:02:19.349><c> arguments</c><00:02:19.799><c> that</c><00:02:19.890><c> it</c>
+
+00:02:20.119 --> 00:02:20.129 align:start position:0%
+optionally any kind of arguments that it
+ 
+
+00:02:20.129 --> 00:02:22.670 align:start position:0%
+optionally any kind of arguments that it
+may<00:02:20.310><c> need</c><00:02:20.579><c> so</c><00:02:21.239><c> let's</c><00:02:21.450><c> make</c><00:02:21.599><c> a</c><00:02:21.629><c> function</c><00:02:22.140><c> called</c>
+
+00:02:22.670 --> 00:02:22.680 align:start position:0%
+may need so let's make a function called
+ 
+
+00:02:22.680 --> 00:02:25.099 align:start position:0%
+may need so let's make a function called
+do<00:02:23.129><c> work</c><00:02:23.430><c> this</c><00:02:24.269><c> is</c><00:02:24.390><c> going</c><00:02:24.599><c> to</c><00:02:24.689><c> be</c><00:02:24.810><c> the</c><00:02:24.900><c> word</c>
+
+00:02:25.099 --> 00:02:25.109 align:start position:0%
+do work this is going to be the word
+ 
+
+00:02:25.109 --> 00:02:26.149 align:start position:0%
+do work this is going to be the word
+this<00:02:25.290><c> is</c><00:02:25.349><c> going</c><00:02:25.560><c> to</c><00:02:25.620><c> be</c><00:02:25.680><c> the</c><00:02:25.769><c> function</c><00:02:25.920><c> that</c>
+
+00:02:26.149 --> 00:02:26.159 align:start position:0%
+this is going to be the function that
+ 
+
+00:02:26.159 --> 00:02:27.860 align:start position:0%
+this is going to be the function that
+actually<00:02:26.310><c> performs</c><00:02:26.760><c> what</c><00:02:27.090><c> we</c><00:02:27.209><c> want</c><00:02:27.420><c> to</c><00:02:27.510><c> happen</c>
+
+00:02:27.860 --> 00:02:27.870 align:start position:0%
+actually performs what we want to happen
+ 
+
+00:02:27.870 --> 00:02:31.009 align:start position:0%
+actually performs what we want to happen
+on<00:02:28.049><c> another</c><00:02:28.590><c> thread</c><00:02:28.920><c> of</c><00:02:29.099><c> execution</c><00:02:29.450><c> so</c><00:02:30.450><c> I'm</c>
+
+00:02:31.009 --> 00:02:31.019 align:start position:0%
+on another thread of execution so I'm
+ 
+
+00:02:31.019 --> 00:02:32.780 align:start position:0%
+on another thread of execution so I'm
+going<00:02:31.500><c> to</c><00:02:31.560><c> pass</c><00:02:31.799><c> it</c><00:02:31.950><c> into</c><00:02:32.099><c> here</c><00:02:32.459><c> by</c><00:02:32.730><c> just</c>
+
+00:02:32.780 --> 00:02:32.790 align:start position:0%
+going to pass it into here by just
+ 
+
+00:02:32.790 --> 00:02:34.670 align:start position:0%
+going to pass it into here by just
+typing<00:02:33.060><c> and</c><00:02:33.359><c> do</c><00:02:33.510><c> work</c><00:02:33.719><c> if</c><00:02:34.200><c> you</c><00:02:34.319><c> guys</c><00:02:34.439><c> haven't</c>
+
+00:02:34.670 --> 00:02:34.680 align:start position:0%
+typing and do work if you guys haven't
+ 
+
+00:02:34.680 --> 00:02:36.349 align:start position:0%
+typing and do work if you guys haven't
+seen<00:02:34.950><c> my</c><00:02:35.129><c> function</c><00:02:35.639><c> pointers</c><00:02:36.060><c> video</c>
+
+00:02:36.349 --> 00:02:36.359 align:start position:0%
+seen my function pointers video
+ 
+
+00:02:36.359 --> 00:02:37.759 align:start position:0%
+seen my function pointers video
+definitely<00:02:36.840><c> check</c><00:02:36.989><c> that</c><00:02:37.019><c> up</c><00:02:37.230><c> because</c><00:02:37.349><c> this</c><00:02:37.650><c> is</c>
+
+00:02:37.759 --> 00:02:37.769 align:start position:0%
+definitely check that up because this is
+ 
+
+00:02:37.769 --> 00:02:39.709 align:start position:0%
+definitely check that up because this is
+how<00:02:37.950><c> this</c><00:02:38.159><c> works</c><00:02:38.549><c> it</c><00:02:38.939><c> takes</c><00:02:39.239><c> in</c><00:02:39.450><c> a</c><00:02:39.540><c> function</c>
+
+00:02:39.709 --> 00:02:39.719 align:start position:0%
+how this works it takes in a function
+ 
+
+00:02:39.719 --> 00:02:41.899 align:start position:0%
+how this works it takes in a function
+pointer<00:02:40.290><c> that's</c><00:02:40.379><c> why</c><00:02:40.590><c> we</c><00:02:40.799><c> just</c><00:02:40.920><c> pass</c><00:02:41.159><c> in</c><00:02:41.400><c> do</c>
+
+00:02:41.899 --> 00:02:41.909 align:start position:0%
+pointer that's why we just pass in do
+ 
+
+00:02:41.909 --> 00:02:43.339 align:start position:0%
+pointer that's why we just pass in do
+work<00:02:42.150><c> without</c><00:02:42.389><c> parentheses</c><00:02:43.049><c> or</c><00:02:43.170><c> anything</c>
+
+00:02:43.339 --> 00:02:43.349 align:start position:0%
+work without parentheses or anything
+ 
+
+00:02:43.349 --> 00:02:44.959 align:start position:0%
+work without parentheses or anything
+like<00:02:43.500><c> that</c><00:02:43.560><c> video</c><00:02:44.129><c> link</c><00:02:44.280><c> will</c><00:02:44.459><c> be</c><00:02:44.579><c> up</c><00:02:44.730><c> there</c>
+
+00:02:44.959 --> 00:02:44.969 align:start position:0%
+like that video link will be up there
+ 
+
+00:02:44.969 --> 00:02:46.909 align:start position:0%
+like that video link will be up there
+and<00:02:45.209><c> as</c><00:02:45.420><c> soon</c><00:02:45.569><c> as</c><00:02:45.629><c> we</c><00:02:45.750><c> write</c><00:02:45.959><c> this</c><00:02:46.230><c> actual</c><00:02:46.650><c> code</c>
+
+00:02:46.909 --> 00:02:46.919 align:start position:0%
+and as soon as we write this actual code
+ 
+
+00:02:46.919 --> 00:02:48.800 align:start position:0%
+and as soon as we write this actual code
+it's<00:02:47.250><c> going</c><00:02:47.430><c> to</c><00:02:47.760><c> immediately</c><00:02:48.299><c> kick</c><00:02:48.480><c> off</c><00:02:48.629><c> that</c>
+
+00:02:48.800 --> 00:02:48.810 align:start position:0%
+it's going to immediately kick off that
+ 
+
+00:02:48.810 --> 00:02:50.479 align:start position:0%
+it's going to immediately kick off that
+thread<00:02:49.079><c> and</c><00:02:49.109><c> it's</c><00:02:49.379><c> going</c><00:02:49.530><c> to</c><00:02:49.620><c> do</c><00:02:49.799><c> whatever</c><00:02:50.040><c> is</c>
+
+00:02:50.479 --> 00:02:50.489 align:start position:0%
+thread and it's going to do whatever is
+ 
+
+00:02:50.489 --> 00:02:51.890 align:start position:0%
+thread and it's going to do whatever is
+in<00:02:50.519><c> here</c><00:02:50.939><c> and</c><00:02:51.090><c> it's</c><00:02:51.180><c> going</c><00:02:51.389><c> to</c><00:02:51.480><c> keep</c><00:02:51.629><c> running</c>
+
+00:02:51.890 --> 00:02:51.900 align:start position:0%
+in here and it's going to keep running
+ 
+
+00:02:51.900 --> 00:02:54.830 align:start position:0%
+in here and it's going to keep running
+until<00:02:52.200><c> we</c><00:02:53.010><c> wait</c><00:02:53.220><c> for</c><00:02:53.459><c> it</c><00:02:53.579><c> to</c><00:02:53.790><c> exit</c><00:02:54.389><c> so</c><00:02:54.599><c> the</c><00:02:54.720><c> way</c>
+
+00:02:54.830 --> 00:02:54.840 align:start position:0%
+until we wait for it to exit so the way
+ 
+
+00:02:54.840 --> 00:02:56.479 align:start position:0%
+until we wait for it to exit so the way
+that<00:02:55.019><c> we</c><00:02:55.109><c> can</c><00:02:55.260><c> actually</c><00:02:55.409><c> wait</c><00:02:55.859><c> for</c><00:02:55.889><c> something</c>
+
+00:02:56.479 --> 00:02:56.489 align:start position:0%
+that we can actually wait for something
+ 
+
+00:02:56.489 --> 00:02:58.339 align:start position:0%
+that we can actually wait for something
+to<00:02:56.669><c> finish</c><00:02:56.970><c> or</c><00:02:57.359><c> wait</c><00:02:57.540><c> for</c><00:02:57.659><c> a</c><00:02:57.810><c> thread</c><00:02:58.139><c> to</c>
+
+00:02:58.339 --> 00:02:58.349 align:start position:0%
+to finish or wait for a thread to
+ 
+
+00:02:58.349 --> 00:03:00.920 align:start position:0%
+to finish or wait for a thread to
+complete<00:02:58.859><c> its</c><00:02:59.099><c> work</c><00:02:59.189><c> is</c><00:02:59.669><c> by</c><00:03:00.180><c> tacking</c><00:03:00.569><c> is</c><00:03:00.689><c> by</c>
+
+00:03:00.920 --> 00:03:00.930 align:start position:0%
+complete its work is by tacking is by
+ 
+
+00:03:00.930 --> 00:03:04.159 align:start position:0%
+complete its work is by tacking is by
+typing<00:03:01.139><c> in</c><00:03:01.319><c> worker</c><00:03:01.709><c> dot</c><00:03:01.889><c> join</c><00:03:02.689><c> so</c><00:03:03.689><c> this</c><00:03:03.840><c> is</c><00:03:03.959><c> our</c>
+
+00:03:04.159 --> 00:03:04.169 align:start position:0%
+typing in worker dot join so this is our
+ 
+
+00:03:04.169 --> 00:03:05.690 align:start position:0%
+typing in worker dot join so this is our
+thread<00:03:04.530><c> object</c><00:03:04.889><c> of</c><00:03:04.980><c> course</c><00:03:05.129><c> and</c><00:03:05.430><c> then</c><00:03:05.519><c> this</c>
+
+00:03:05.690 --> 00:03:05.700 align:start position:0%
+thread object of course and then this
+ 
+
+00:03:05.700 --> 00:03:07.940 align:start position:0%
+thread object of course and then this
+join<00:03:05.969><c> function</c><00:03:06.209><c> is</c><00:03:06.659><c> essentially</c><00:03:07.620><c> going</c><00:03:07.859><c> to</c>
+
+00:03:07.940 --> 00:03:07.950 align:start position:0%
+join function is essentially going to
+ 
+
+00:03:07.950 --> 00:03:09.740 align:start position:0%
+join function is essentially going to
+just<00:03:08.219><c> wait</c><00:03:08.519><c> for</c><00:03:08.790><c> this</c><00:03:08.909><c> thread</c><00:03:09.239><c> to</c><00:03:09.419><c> be</c><00:03:09.450><c> joined</c>
+
+00:03:09.740 --> 00:03:09.750 align:start position:0%
+just wait for this thread to be joined
+ 
+
+00:03:09.750 --> 00:03:12.020 align:start position:0%
+just wait for this thread to be joined
+now<00:03:09.870><c> thread</c><00:03:10.530><c> joining</c><00:03:10.859><c> is</c><00:03:10.980><c> a</c><00:03:11.010><c> another</c><00:03:11.700><c> kind</c><00:03:11.969><c> of</c>
+
+00:03:12.020 --> 00:03:12.030 align:start position:0%
+now thread joining is a another kind of
+ 
+
+00:03:12.030 --> 00:03:14.360 align:start position:0%
+now thread joining is a another kind of
+portent<00:03:12.989><c> potentially</c><00:03:13.530><c> complex</c><00:03:13.889><c> topic</c><00:03:14.250><c> that</c>
+
+00:03:14.360 --> 00:03:14.370 align:start position:0%
+portent potentially complex topic that
+ 
+
+00:03:14.370 --> 00:03:15.770 align:start position:0%
+portent potentially complex topic that
+might<00:03:14.489><c> be</c><00:03:14.609><c> worth</c><00:03:14.760><c> discussing</c><00:03:15.060><c> in</c><00:03:15.269><c> more</c><00:03:15.419><c> detail</c>
+
+00:03:15.770 --> 00:03:15.780 align:start position:0%
+might be worth discussing in more detail
+ 
+
+00:03:15.780 --> 00:03:18.379 align:start position:0%
+might be worth discussing in more detail
+but<00:03:16.290><c> basically</c><00:03:16.709><c> in</c><00:03:16.919><c> like</c><00:03:17.159><c> in</c><00:03:17.609><c> c-sharp</c><00:03:17.970><c> and</c>
+
+00:03:18.379 --> 00:03:18.389 align:start position:0%
+but basically in like in c-sharp and
+ 
+
+00:03:18.389 --> 00:03:19.759 align:start position:0%
+but basically in like in c-sharp and
+kind<00:03:18.540><c> of</c><00:03:18.569><c> more</c><00:03:18.780><c> modern</c><00:03:19.139><c> programming</c><00:03:19.530><c> it's</c>
+
+00:03:19.759 --> 00:03:19.769 align:start position:0%
+kind of more modern programming it's
+ 
+
+00:03:19.769 --> 00:03:22.250 align:start position:0%
+kind of more modern programming it's
+just<00:03:19.889><c> called</c><00:03:20.099><c> wait</c><00:03:20.400><c> or</c><00:03:21.030><c> wait</c><00:03:21.419><c> for</c><00:03:21.449><c> exit</c><00:03:22.109><c> or</c>
+
+00:03:22.250 --> 00:03:22.260 align:start position:0%
+just called wait or wait for exit or
+ 
+
+00:03:22.260 --> 00:03:24.039 align:start position:0%
+just called wait or wait for exit or
+just<00:03:22.530><c> me</c><00:03:22.799><c> away</c><00:03:23.069><c> it</c><00:03:23.129><c> is</c><00:03:23.340><c> probably</c><00:03:23.699><c> reasonable</c>
+
+00:03:24.039 --> 00:03:24.049 align:start position:0%
+just me away it is probably reasonable
+ 
+
+00:03:24.049 --> 00:03:26.449 align:start position:0%
+just me away it is probably reasonable
+basically<00:03:25.049><c> all</c><00:03:25.229><c> of</c><00:03:25.409><c> this</c><00:03:25.530><c> does</c><00:03:25.799><c> is</c><00:03:26.129><c> it</c><00:03:26.340><c> just</c>
+
+00:03:26.449 --> 00:03:26.459 align:start position:0%
+basically all of this does is it just
+ 
+
+00:03:26.459 --> 00:03:29.360 align:start position:0%
+basically all of this does is it just
+says<00:03:26.729><c> hey</c><00:03:27.359><c> can</c><00:03:27.870><c> you</c><00:03:28.019><c> wait</c><00:03:28.349><c> on</c><00:03:28.650><c> the</c><00:03:29.069><c> current</c>
+
+00:03:29.360 --> 00:03:29.370 align:start position:0%
+says hey can you wait on the current
+ 
+
+00:03:29.370 --> 00:03:31.610 align:start position:0%
+says hey can you wait on the current
+thread<00:03:29.639><c> for</c><00:03:29.939><c> this</c><00:03:30.180><c> thread</c><00:03:30.540><c> to</c><00:03:30.840><c> finish</c><00:03:31.349><c> its</c>
+
+00:03:31.610 --> 00:03:31.620 align:start position:0%
+thread for this thread to finish its
+ 
+
+00:03:31.620 --> 00:03:33.580 align:start position:0%
+thread for this thread to finish its
+work<00:03:31.829><c> so</c><00:03:32.129><c> block</c><00:03:32.400><c> the</c><00:03:32.549><c> current</c><00:03:32.699><c> thread</c><00:03:33.150><c> until</c>
+
+00:03:33.580 --> 00:03:33.590 align:start position:0%
+work so block the current thread until
+ 
+
+00:03:33.590 --> 00:03:36.530 align:start position:0%
+work so block the current thread until
+this<00:03:34.590><c> other</c><00:03:34.859><c> thread</c><00:03:35.340><c> has</c><00:03:35.549><c> completed</c><00:03:35.970><c> so</c>
+
+00:03:36.530 --> 00:03:36.540 align:start position:0%
+this other thread has completed so
+ 
+
+00:03:36.540 --> 00:03:37.819 align:start position:0%
+this other thread has completed so
+because<00:03:36.870><c> this</c><00:03:36.989><c> stuff</c><00:03:37.229><c> is</c><00:03:37.379><c> running</c><00:03:37.590><c> in</c>
+
+00:03:37.819 --> 00:03:37.829 align:start position:0%
+because this stuff is running in
+ 
+
+00:03:37.829 --> 00:03:40.250 align:start position:0%
+because this stuff is running in
+parallel<00:03:38.010><c> we</c><00:03:38.760><c> have</c><00:03:38.939><c> our</c><00:03:39.060><c> main</c><00:03:39.329><c> thread</c><00:03:39.689><c> which</c>
+
+00:03:40.250 --> 00:03:40.260 align:start position:0%
+parallel we have our main thread which
+ 
+
+00:03:40.260 --> 00:03:42.349 align:start position:0%
+parallel we have our main thread which
+starts<00:03:40.620><c> off</c><00:03:40.739><c> a</c><00:03:40.919><c> worker</c><00:03:41.280><c> thread</c><00:03:41.760><c> which</c><00:03:42.150><c> does</c>
+
+00:03:42.349 --> 00:03:42.359 align:start position:0%
+starts off a worker thread which does
+ 
+
+00:03:42.359 --> 00:03:44.839 align:start position:0%
+starts off a worker thread which does
+its<00:03:42.629><c> work</c><00:03:42.750><c> and</c><00:03:43.199><c> then</c><00:03:43.859><c> eventually</c><00:03:44.220><c> what</c><00:03:44.699><c> we're</c>
+
+00:03:44.839 --> 00:03:44.849 align:start position:0%
+its work and then eventually what we're
+ 
+
+00:03:44.849 --> 00:03:46.789 align:start position:0%
+its work and then eventually what we're
+doing<00:03:45.090><c> by</c><00:03:45.299><c> writing</c><00:03:45.509><c> this</c><00:03:45.750><c> join</c><00:03:46.049><c> kind</c><00:03:46.500><c> of</c><00:03:46.560><c> call</c>
+
+00:03:46.789 --> 00:03:46.799 align:start position:0%
+doing by writing this join kind of call
+ 
+
+00:03:46.799 --> 00:03:48.800 align:start position:0%
+doing by writing this join kind of call
+here<00:03:47.099><c> is</c><00:03:47.220><c> we're</c><00:03:47.699><c> saying</c><00:03:47.879><c> on</c><00:03:48.120><c> the</c><00:03:48.419><c> main</c><00:03:48.599><c> thread</c>
+
+00:03:48.800 --> 00:03:48.810 align:start position:0%
+here is we're saying on the main thread
+ 
+
+00:03:48.810 --> 00:03:51.080 align:start position:0%
+here is we're saying on the main thread
+wait<00:03:49.349><c> for</c><00:03:49.680><c> that</c><00:03:49.799><c> worker</c><00:03:50.220><c> thread</c><00:03:50.459><c> to</c><00:03:50.639><c> finish</c>
+
+00:03:51.080 --> 00:03:51.090 align:start position:0%
+wait for that worker thread to finish
+ 
+
+00:03:51.090 --> 00:03:54.170 align:start position:0%
+wait for that worker thread to finish
+all<00:03:51.389><c> of</c><00:03:51.419><c> its</c><00:03:51.689><c> execution</c><00:03:52.579><c> before</c><00:03:53.579><c> we</c><00:03:53.729><c> continue</c>
+
+00:03:54.170 --> 00:03:54.180 align:start position:0%
+all of its execution before we continue
+ 
+
+00:03:54.180 --> 00:03:56.149 align:start position:0%
+all of its execution before we continue
+on<00:03:54.329><c> was</c><00:03:54.540><c> with</c><00:03:54.870><c> whatever</c><00:03:55.109><c> our</c><00:03:55.590><c> main</c><00:03:55.859><c> thread</c>
+
+00:03:56.149 --> 00:03:56.159 align:start position:0%
+on was with whatever our main thread
+ 
+
+00:03:56.159 --> 00:03:58.339 align:start position:0%
+on was with whatever our main thread
+hands<00:03:56.430><c> so</c><00:03:57.030><c> what</c><00:03:57.150><c> that</c><00:03:57.269><c> means</c><00:03:57.509><c> is</c><00:03:57.659><c> that</c><00:03:57.689><c> this</c><00:03:58.019><c> CN</c>
+
+00:03:58.339 --> 00:03:58.349 align:start position:0%
+hands so what that means is that this CN
+ 
+
+00:03:58.349 --> 00:04:00.740 align:start position:0%
+hands so what that means is that this CN
+dot<00:03:58.560><c> get</c><00:03:58.799><c> line</c><00:03:59.250><c> of</c><00:03:59.430><c> code</c><00:03:59.639><c> will</c><00:04:00.060><c> not</c><00:04:00.090><c> run</c>
+
+00:04:00.740 --> 00:04:00.750 align:start position:0%
+dot get line of code will not run
+ 
+
+00:04:00.750 --> 00:04:02.119 align:start position:0%
+dot get line of code will not run
+because<00:04:00.959><c> it's</c><00:04:01.229><c> the</c><00:04:01.290><c> next</c><00:04:01.530><c> line</c><00:04:01.680><c> of</c><00:04:01.769><c> code</c><00:04:01.799><c> after</c>
+
+00:04:02.119 --> 00:04:02.129 align:start position:0%
+because it's the next line of code after
+ 
+
+00:04:02.129 --> 00:04:04.909 align:start position:0%
+because it's the next line of code after
+this<00:04:02.310><c> it</c><00:04:02.790><c> will</c><00:04:03.000><c> not</c><00:04:03.359><c> run</c><00:04:03.599><c> until</c><00:04:04.259><c> everything</c>
+
+00:04:04.909 --> 00:04:04.919 align:start position:0%
+this it will not run until everything
+ 
+
+00:04:04.919 --> 00:04:06.800 align:start position:0%
+this it will not run until everything
+that<00:04:05.040><c> is</c><00:04:05.129><c> in</c><00:04:05.250><c> this</c><00:04:05.340><c> function</c><00:04:05.790><c> has</c><00:04:06.269><c> finished</c>
+
+00:04:06.800 --> 00:04:06.810 align:start position:0%
+that is in this function has finished
+ 
+
+00:04:06.810 --> 00:04:08.360 align:start position:0%
+that is in this function has finished
+and<00:04:07.049><c> we'll</c><00:04:07.139><c> say</c><00:04:07.259><c> this</c><00:04:07.470><c> in</c><00:04:07.650><c> pro</c><00:04:07.919><c> and</c><00:04:08.159><c> prayer</c>
+
+00:04:08.360 --> 00:04:08.370 align:start position:0%
+and we'll say this in pro and prayer
+ 
+
+00:04:08.370 --> 00:04:10.369 align:start position:0%
+and we'll say this in pro and prayer
+will<00:04:09.060><c> citizen</c><00:04:09.389><c> practice</c><00:04:09.689><c> in</c><00:04:09.810><c> just</c><00:04:09.959><c> a</c><00:04:10.049><c> second</c>
+
+00:04:10.369 --> 00:04:10.379 align:start position:0%
+will citizen practice in just a second
+ 
+
+00:04:10.379 --> 00:04:12.289 align:start position:0%
+will citizen practice in just a second
+as<00:04:10.470><c> well</c><00:04:10.620><c> so</c><00:04:11.099><c> as</c><00:04:11.280><c> an</c><00:04:11.400><c> example</c><00:04:11.939><c> what</c><00:04:12.180><c> I'm</c><00:04:12.239><c> going</c>
+
+00:04:12.289 --> 00:04:12.299 align:start position:0%
+as well so as an example what I'm going
+ 
+
+00:04:12.299 --> 00:04:14.599 align:start position:0%
+as well so as an example what I'm going
+to<00:04:12.449><c> do</c><00:04:12.629><c> now</c><00:04:12.840><c> is</c><00:04:13.139><c> just</c><00:04:13.439><c> let's</c><00:04:14.159><c> just</c><00:04:14.220><c> dive</c><00:04:14.459><c> right</c>
+
+00:04:14.599 --> 00:04:14.609 align:start position:0%
+to do now is just let's just dive right
+ 
+
+00:04:14.609 --> 00:04:16.759 align:start position:0%
+to do now is just let's just dive right
+into<00:04:14.790><c> it</c><00:04:14.909><c> and</c><00:04:15.060><c> I'll</c><00:04:15.209><c> demonstrate</c><00:04:15.769><c> that</c>
+
+00:04:16.759 --> 00:04:16.769 align:start position:0%
+into it and I'll demonstrate that
+ 
+
+00:04:16.769 --> 00:04:19.159 align:start position:0%
+into it and I'll demonstrate that
+example<00:04:17.280><c> that</c><00:04:17.400><c> I</c><00:04:17.430><c> made</c><00:04:17.639><c> with</c><00:04:17.820><c> sand</c><00:04:18.000><c> cat</c><00:04:18.479><c> if</c><00:04:18.930><c> we</c>
+
+00:04:19.159 --> 00:04:19.169 align:start position:0%
+example that I made with sand cat if we
+ 
+
+00:04:19.169 --> 00:04:21.110 align:start position:0%
+example that I made with sand cat if we
+just<00:04:19.320><c> write</c><00:04:19.470><c> a</c><00:04:19.500><c> normal</c><00:04:19.680><c> program</c><00:04:20.250><c> maybe</c><00:04:20.909><c> we</c>
+
+00:04:21.110 --> 00:04:21.120 align:start position:0%
+just write a normal program maybe we
+ 
+
+00:04:21.120 --> 00:04:22.909 align:start position:0%
+just write a normal program maybe we
+want<00:04:21.329><c> work</c><00:04:21.779><c> to</c><00:04:21.989><c> be</c><00:04:22.109><c> done</c><00:04:22.320><c> that</c><00:04:22.620><c> prints</c>
+
+00:04:22.909 --> 00:04:22.919 align:start position:0%
+want work to be done that prints
+ 
+
+00:04:22.919 --> 00:04:24.890 align:start position:0%
+want work to be done that prints
+something<00:04:23.070><c> to</c><00:04:23.310><c> the</c><00:04:23.430><c> console</c><00:04:23.849><c> we'll</c><00:04:24.270><c> say</c><00:04:24.510><c> it</c>
+
+00:04:24.890 --> 00:04:24.900 align:start position:0%
+something to the console we'll say it
+ 
+
+00:04:24.900 --> 00:04:26.600 align:start position:0%
+something to the console we'll say it
+prints<00:04:25.229><c> working</c><00:04:26.070><c> to</c>
+
+00:04:26.600 --> 00:04:26.610 align:start position:0%
+prints working to
+ 
+
+00:04:26.610 --> 00:04:29.300 align:start position:0%
+prints working to
+council<00:04:26.969><c> just</c><00:04:27.629><c> like</c><00:04:27.840><c> that</c><00:04:28.080><c> and</c><00:04:28.349><c> it's</c><00:04:28.919><c> going</c><00:04:29.159><c> to</c>
+
+00:04:29.300 --> 00:04:29.310 align:start position:0%
+council just like that and it's going to
+ 
+
+00:04:29.310 --> 00:04:31.490 align:start position:0%
+council just like that and it's going to
+kind<00:04:29.550><c> of</c><00:04:29.699><c> keep</c><00:04:30.000><c> running</c><00:04:30.479><c> forever</c><00:04:31.050><c> we</c>
+
+00:04:31.490 --> 00:04:31.500 align:start position:0%
+kind of keep running forever we
+ 
+
+00:04:31.500 --> 00:04:32.980 align:start position:0%
+kind of keep running forever we
+essentially<00:04:31.830><c> wanted</c><00:04:32.129><c> to</c><00:04:32.250><c> just</c><00:04:32.430><c> run</c><00:04:32.639><c> forever</c>
+
+00:04:32.980 --> 00:04:32.990 align:start position:0%
+essentially wanted to just run forever
+ 
+
+00:04:32.990 --> 00:04:35.600 align:start position:0%
+essentially wanted to just run forever
+so<00:04:33.990><c> I'll</c><00:04:34.110><c> put</c><00:04:34.289><c> this</c><00:04:34.409><c> into</c><00:04:34.620><c> here</c><00:04:34.979><c> if</c><00:04:35.189><c> we</c><00:04:35.400><c> were</c><00:04:35.550><c> to</c>
+
+00:04:35.600 --> 00:04:35.610 align:start position:0%
+so I'll put this into here if we were to
+ 
+
+00:04:35.610 --> 00:04:38.089 align:start position:0%
+so I'll put this into here if we were to
+want<00:04:36.030><c> to</c><00:04:36.180><c> write</c><00:04:36.449><c> something</c><00:04:36.810><c> like</c><00:04:37.169><c> this</c><00:04:37.469><c> that</c>
+
+00:04:38.089 --> 00:04:38.099 align:start position:0%
+want to write something like this that
+ 
+
+00:04:38.099 --> 00:04:39.830 align:start position:0%
+want to write something like this that
+performs<00:04:38.550><c> any</c><00:04:38.669><c> kind</c><00:04:38.909><c> of</c><00:04:38.969><c> work</c><00:04:39.210><c> that</c><00:04:39.479><c> happens</c>
+
+00:04:39.830 --> 00:04:39.840 align:start position:0%
+performs any kind of work that happens
+ 
+
+00:04:39.840 --> 00:04:42.170 align:start position:0%
+performs any kind of work that happens
+until<00:04:40.469><c> we</c><00:04:40.740><c> tell</c><00:04:41.039><c> it</c><00:04:41.219><c> to</c><00:04:41.370><c> stop</c><00:04:41.699><c> by</c><00:04:41.909><c> maybe</c>
+
+00:04:42.170 --> 00:04:42.180 align:start position:0%
+until we tell it to stop by maybe
+ 
+
+00:04:42.180 --> 00:04:43.999 align:start position:0%
+until we tell it to stop by maybe
+hitting<00:04:42.330><c> enter</c><00:04:42.960><c> how</c><00:04:43.500><c> would</c><00:04:43.680><c> we</c><00:04:43.800><c> go</c><00:04:43.979><c> about</c>
+
+00:04:43.999 --> 00:04:44.009 align:start position:0%
+hitting enter how would we go about
+ 
+
+00:04:44.009 --> 00:04:46.040 align:start position:0%
+hitting enter how would we go about
+doing<00:04:44.520><c> this</c><00:04:44.639><c> well</c><00:04:44.909><c> we</c><00:04:45.150><c> know</c><00:04:45.449><c> that</c><00:04:45.479><c> what</c><00:04:45.900><c> we</c>
+
+00:04:46.040 --> 00:04:46.050 align:start position:0%
+doing this well we know that what we
+ 
+
+00:04:46.050 --> 00:04:48.920 align:start position:0%
+doing this well we know that what we
+could<00:04:46.349><c> do</c><00:04:46.560><c> is</c><00:04:46.830><c> we</c><00:04:47.340><c> could</c><00:04:47.699><c> say</c><00:04:47.939><c> Manuela</c><00:04:48.449><c> Casey</c>
+
+00:04:48.920 --> 00:04:48.930 align:start position:0%
+could do is we could say Manuela Casey
+ 
+
+00:04:48.930 --> 00:04:51.140 align:start position:0%
+could do is we could say Manuela Casey
+and<00:04:49.080><c> don't</c><00:04:49.259><c> get</c><00:04:49.500><c> so</c><00:04:50.039><c> maybe</c><00:04:50.280><c> we</c><00:04:50.520><c> want</c><00:04:50.729><c> this</c>
+
+00:04:51.140 --> 00:04:51.150 align:start position:0%
+and don't get so maybe we want this
+ 
+
+00:04:51.150 --> 00:04:53.619 align:start position:0%
+and don't get so maybe we want this
+while<00:04:51.509><c> loop</c><00:04:51.689><c> to</c><00:04:51.840><c> continue</c><00:04:52.379><c> until</c><00:04:52.530><c> saying</c><00:04:53.039><c> get</c>
+
+00:04:53.619 --> 00:04:53.629 align:start position:0%
+while loop to continue until saying get
+ 
+
+00:04:53.629 --> 00:04:56.029 align:start position:0%
+while loop to continue until saying get
+actually<00:04:54.629><c> return</c><00:04:54.960><c> something</c><00:04:55.289><c> because</c><00:04:55.800><c> saying</c>
+
+00:04:56.029 --> 00:04:56.039 align:start position:0%
+actually return something because saying
+ 
+
+00:04:56.039 --> 00:04:58.279 align:start position:0%
+actually return something because saying
+get<00:04:56.610><c> we'll</c><00:04:56.879><c> just</c><00:04:57.090><c> wait</c><00:04:57.360><c> for</c><00:04:57.389><c> us</c><00:04:57.750><c> to</c><00:04:57.960><c> basically</c>
+
+00:04:58.279 --> 00:04:58.289 align:start position:0%
+get we'll just wait for us to basically
+ 
+
+00:04:58.289 --> 00:05:00.559 align:start position:0%
+get we'll just wait for us to basically
+press<00:04:58.830><c> Enter</c><00:04:59.310><c> so</c><00:05:00.090><c> we</c><00:05:00.210><c> want</c><00:05:00.389><c> to</c><00:05:00.419><c> write</c><00:05:00.539><c> a</c>
+
+00:05:00.559 --> 00:05:00.569 align:start position:0%
+press Enter so we want to write a
+ 
+
+00:05:00.569 --> 00:05:04.760 align:start position:0%
+press Enter so we want to write a
+program<00:05:00.750><c> that</c><00:05:01.580><c> waits</c><00:05:02.580><c> until</c><00:05:03.080><c> we</c><00:05:04.080><c> press</c><00:05:04.349><c> ENTER</c>
+
+00:05:04.760 --> 00:05:04.770 align:start position:0%
+program that waits until we press ENTER
+ 
+
+00:05:04.770 --> 00:05:08.059 align:start position:0%
+program that waits until we press ENTER
+but<00:05:05.669><c> the</c><00:05:05.819><c> line</c><00:05:06.029><c> of</c><00:05:06.150><c> code</c><00:05:06.419><c> that</c><00:05:06.680><c> waits</c><00:05:07.680><c> until</c><00:05:07.830><c> we</c>
+
+00:05:08.059 --> 00:05:08.069 align:start position:0%
+but the line of code that waits until we
+ 
+
+00:05:08.069 --> 00:05:08.899 align:start position:0%
+but the line of code that waits until we
+press<00:05:08.279><c> Enter</c>
+
+00:05:08.899 --> 00:05:08.909 align:start position:0%
+press Enter
+ 
+
+00:05:08.909 --> 00:05:11.570 align:start position:0%
+press Enter
+blocks<00:05:09.719><c> execution</c><00:05:10.560><c> because</c><00:05:10.860><c> it's</c><00:05:11.189><c> waiting</c>
+
+00:05:11.570 --> 00:05:11.580 align:start position:0%
+blocks execution because it's waiting
+ 
+
+00:05:11.580 --> 00:05:12.980 align:start position:0%
+blocks execution because it's waiting
+for<00:05:11.699><c> us</c><00:05:11.759><c> to</c><00:05:11.879><c> press</c><00:05:12.029><c> ENTER</c><00:05:12.330><c> so</c><00:05:12.689><c> it</c><00:05:12.810><c> can't</c>
+
+00:05:12.980 --> 00:05:12.990 align:start position:0%
+for us to press ENTER so it can't
+ 
+
+00:05:12.990 --> 00:05:15.290 align:start position:0%
+for us to press ENTER so it can't
+actually<00:05:13.139><c> print</c><00:05:13.949><c> working</c><00:05:14.550><c> continuously</c>
+
+00:05:15.290 --> 00:05:15.300 align:start position:0%
+actually print working continuously
+ 
+
+00:05:15.300 --> 00:05:17.089 align:start position:0%
+actually print working continuously
+because<00:05:15.810><c> it's</c><00:05:15.990><c> waiting</c><00:05:16.229><c> for</c><00:05:16.379><c> us</c><00:05:16.469><c> to</c><00:05:16.680><c> press</c>
+
+00:05:17.089 --> 00:05:17.099 align:start position:0%
+because it's waiting for us to press
+ 
+
+00:05:17.099 --> 00:05:19.070 align:start position:0%
+because it's waiting for us to press
+ENTER<00:05:17.460><c> so</c><00:05:18.000><c> on</c><00:05:18.210><c> one</c><00:05:18.389><c> thread</c><00:05:18.629><c> this</c><00:05:18.779><c> doesn't</c>
+
+00:05:19.070 --> 00:05:19.080 align:start position:0%
+ENTER so on one thread this doesn't
+ 
+
+00:05:19.080 --> 00:05:20.570 align:start position:0%
+ENTER so on one thread this doesn't
+really<00:05:19.349><c> work</c><00:05:19.650><c> we</c><00:05:19.830><c> need</c><00:05:19.949><c> to</c><00:05:20.039><c> be</c><00:05:20.129><c> able</c><00:05:20.189><c> to</c><00:05:20.279><c> do</c><00:05:20.400><c> two</c>
+
+00:05:20.570 --> 00:05:20.580 align:start position:0%
+really work we need to be able to do two
+ 
+
+00:05:20.580 --> 00:05:22.279 align:start position:0%
+really work we need to be able to do two
+things<00:05:20.729><c> at</c><00:05:20.879><c> the</c><00:05:20.969><c> same</c><00:05:21.120><c> time</c><00:05:21.180><c> we</c><00:05:21.840><c> want</c><00:05:22.080><c> to</c><00:05:22.169><c> be</c>
+
+00:05:22.279 --> 00:05:22.289 align:start position:0%
+things at the same time we want to be
+ 
+
+00:05:22.289 --> 00:05:24.920 align:start position:0%
+things at the same time we want to be
+able<00:05:22.409><c> to</c><00:05:22.680><c> wait</c><00:05:23.610><c> for</c><00:05:24.000><c> the</c><00:05:24.090><c> user</c><00:05:24.210><c> to</c><00:05:24.389><c> press</c><00:05:24.509><c> ENTER</c>
+
+00:05:24.920 --> 00:05:24.930 align:start position:0%
+able to wait for the user to press ENTER
+ 
+
+00:05:24.930 --> 00:05:26.899 align:start position:0%
+able to wait for the user to press ENTER
+and<00:05:25.139><c> repeatedly</c><00:05:25.680><c> check</c><00:05:25.979><c> to</c><00:05:26.159><c> see</c><00:05:26.340><c> has</c><00:05:26.580><c> the</c><00:05:26.759><c> user</c>
+
+00:05:26.899 --> 00:05:26.909 align:start position:0%
+and repeatedly check to see has the user
+ 
+
+00:05:26.909 --> 00:05:29.420 align:start position:0%
+and repeatedly check to see has the user
+press<00:05:27.150><c> ENTER</c><00:05:27.539><c> but</c><00:05:28.080><c> then</c><00:05:28.199><c> we</c><00:05:28.349><c> also</c><00:05:28.590><c> want</c><00:05:29.039><c> to</c><00:05:29.099><c> log</c>
+
+00:05:29.420 --> 00:05:29.430 align:start position:0%
+press ENTER but then we also want to log
+ 
+
+00:05:29.430 --> 00:05:31.820 align:start position:0%
+press ENTER but then we also want to log
+working<00:05:29.969><c> to</c><00:05:30.210><c> the</c><00:05:30.300><c> console</c><00:05:30.750><c> so</c><00:05:31.440><c> let's</c><00:05:31.589><c> look</c><00:05:31.680><c> at</c>
+
+00:05:31.820 --> 00:05:31.830 align:start position:0%
+working to the console so let's look at
+ 
+
+00:05:31.830 --> 00:05:33.469 align:start position:0%
+working to the console so let's look at
+one<00:05:32.039><c> way</c><00:05:32.190><c> that</c><00:05:32.310><c> we</c><00:05:32.430><c> might</c><00:05:32.580><c> solve</c><00:05:32.789><c> this</c><00:05:33.000><c> so</c><00:05:33.360><c> what</c>
+
+00:05:33.469 --> 00:05:33.479 align:start position:0%
+one way that we might solve this so what
+ 
+
+00:05:33.479 --> 00:05:35.240 align:start position:0%
+one way that we might solve this so what
+I'm<00:05:33.569><c> going</c><00:05:33.719><c> to</c><00:05:33.810><c> do</c><00:05:33.990><c> is</c><00:05:34.229><c> write</c><00:05:34.740><c> a</c><00:05:34.770><c> static</c>
+
+00:05:35.240 --> 00:05:35.250 align:start position:0%
+I'm going to do is write a static
+ 
+
+00:05:35.250 --> 00:05:40.100 align:start position:0%
+I'm going to do is write a static
+boolean<00:05:35.580><c> here</c><00:05:35.900><c> called</c><00:05:36.900><c> s</c><00:05:37.129><c> working</c><00:05:38.129><c> and</c><00:05:39.110><c> or</c>
+
+00:05:40.100 --> 00:05:40.110 align:start position:0%
+boolean here called s working and or
+ 
+
+00:05:40.110 --> 00:05:42.439 align:start position:0%
+boolean here called s working and or
+well<00:05:40.589><c> we'll</c><00:05:40.830><c> call</c><00:05:40.979><c> it</c><00:05:41.129><c> s</c><00:05:41.250><c> finished</c><00:05:41.490><c> and</c><00:05:42.330><c> I'll</c>
+
+00:05:42.439 --> 00:05:42.449 align:start position:0%
+well we'll call it s finished and I'll
+ 
+
+00:05:42.449 --> 00:05:44.329 align:start position:0%
+well we'll call it s finished and I'll
+set<00:05:42.629><c> it</c><00:05:42.659><c> equal</c><00:05:42.810><c> to</c><00:05:43.020><c> false</c><00:05:43.469><c> because</c><00:05:44.099><c> we</c><00:05:44.219><c> haven't</c>
+
+00:05:44.329 --> 00:05:44.339 align:start position:0%
+set it equal to false because we haven't
+ 
+
+00:05:44.339 --> 00:05:46.100 align:start position:0%
+set it equal to false because we haven't
+finished<00:05:44.699><c> yet</c><00:05:44.879><c> and</c><00:05:45.060><c> then</c><00:05:45.539><c> this</c><00:05:45.659><c> while</c><00:05:45.900><c> loop</c>
+
+00:05:46.100 --> 00:05:46.110 align:start position:0%
+finished yet and then this while loop
+ 
+
+00:05:46.110 --> 00:05:48.379 align:start position:0%
+finished yet and then this while loop
+will<00:05:46.349><c> run</c><00:05:46.379><c> until</c><00:05:47.069><c> finished</c><00:05:47.550><c> has</c><00:05:47.909><c> been</c><00:05:48.150><c> set</c><00:05:48.360><c> to</c>
+
+00:05:48.379 --> 00:05:48.389 align:start position:0%
+will run until finished has been set to
+ 
+
+00:05:48.389 --> 00:05:50.809 align:start position:0%
+will run until finished has been set to
+true<00:05:48.719><c> so</c><00:05:48.960><c> while</c><00:05:49.169><c> not</c><00:05:49.469><c> finished</c><00:05:49.949><c> keep</c><00:05:50.550><c> printing</c>
+
+00:05:50.809 --> 00:05:50.819 align:start position:0%
+true so while not finished keep printing
+ 
+
+00:05:50.819 --> 00:05:53.450 align:start position:0%
+true so while not finished keep printing
+out<00:05:51.120><c> working</c><00:05:51.629><c> and</c><00:05:51.979><c> then</c><00:05:52.979><c> what</c><00:05:53.159><c> I'm</c><00:05:53.219><c> going</c><00:05:53.370><c> to</c>
+
+00:05:53.450 --> 00:05:53.460 align:start position:0%
+out working and then what I'm going to
+ 
+
+00:05:53.460 --> 00:05:57.709 align:start position:0%
+out working and then what I'm going to
+do<00:05:53.669><c> over</c><00:05:53.849><c> here</c><00:05:53.879><c> is</c><00:05:54.650><c> Pesta</c><00:05:55.650><c> D</c><00:05:55.770><c> syndicate</c><00:05:56.719><c> which</c>
+
+00:05:57.709 --> 00:05:57.719 align:start position:0%
+do over here is Pesta D syndicate which
+ 
+
+00:05:57.719 --> 00:06:00.140 align:start position:0%
+do over here is Pesta D syndicate which
+blocks<00:05:58.080><c> this</c><00:05:58.500><c> thread</c><00:05:58.860><c> until</c><00:05:59.279><c> we</c><00:05:59.430><c> press</c><00:05:59.669><c> ENTER</c>
+
+00:06:00.140 --> 00:06:00.150 align:start position:0%
+blocks this thread until we press ENTER
+ 
+
+00:06:00.150 --> 00:06:02.450 align:start position:0%
+blocks this thread until we press ENTER
+and<00:06:00.409><c> after</c><00:06:01.409><c> we</c><00:06:01.529><c> press</c><00:06:01.710><c> ENTER</c><00:06:02.039><c> I'm</c><00:06:02.129><c> on</c><00:06:02.219><c> a</c><00:06:02.250><c> set</c>
+
+00:06:02.450 --> 00:06:02.460 align:start position:0%
+and after we press ENTER I'm on a set
+ 
+
+00:06:02.460 --> 00:06:04.219 align:start position:0%
+and after we press ENTER I'm on a set
+finish<00:06:02.789><c> to</c><00:06:02.939><c> true</c><00:06:03.150><c> and</c><00:06:03.330><c> then</c><00:06:03.930><c> I'm</c><00:06:04.020><c> gonna</c><00:06:04.110><c> go</c>
+
+00:06:04.219 --> 00:06:04.229 align:start position:0%
+finish to true and then I'm gonna go
+ 
+
+00:06:04.229 --> 00:06:05.390 align:start position:0%
+finish to true and then I'm gonna go
+just<00:06:04.409><c> wait</c><00:06:04.560><c> for</c><00:06:04.710><c> this</c><00:06:04.800><c> work</c><00:06:04.979><c> at</c><00:06:05.099><c> thread</c><00:06:05.279><c> to</c>
+
+00:06:05.390 --> 00:06:05.400 align:start position:0%
+just wait for this work at thread to
+ 
+
+00:06:05.400 --> 00:06:07.519 align:start position:0%
+just wait for this work at thread to
+join<00:06:05.580><c> so</c><00:06:06.180><c> what's</c><00:06:06.330><c> happening</c><00:06:06.659><c> here</c><00:06:06.900><c> if</c><00:06:07.199><c> we</c><00:06:07.349><c> look</c>
+
+00:06:07.519 --> 00:06:07.529 align:start position:0%
+join so what's happening here if we look
+ 
+
+00:06:07.529 --> 00:06:09.019 align:start position:0%
+join so what's happening here if we look
+at<00:06:07.650><c> this</c><00:06:07.770><c> kind</c><00:06:08.039><c> of</c><00:06:08.129><c> concurrently</c><00:06:08.729><c> and</c><00:06:08.849><c> how</c>
+
+00:06:09.019 --> 00:06:09.029 align:start position:0%
+at this kind of concurrently and how
+ 
+
+00:06:09.029 --> 00:06:11.089 align:start position:0%
+at this kind of concurrently and how
+it's<00:06:09.180><c> actually</c><00:06:09.300><c> running</c><00:06:09.689><c> this</c><00:06:10.349><c> is</c><00:06:10.650><c> printing</c>
+
+00:06:11.089 --> 00:06:11.099 align:start position:0%
+it's actually running this is printing
+ 
+
+00:06:11.099 --> 00:06:13.040 align:start position:0%
+it's actually running this is printing
+working<00:06:11.580><c> as</c><00:06:11.759><c> fast</c><00:06:12.060><c> as</c><00:06:12.240><c> I</c><00:06:12.330><c> can</c><00:06:12.479><c> to</c><00:06:12.599><c> the</c><00:06:12.629><c> console</c>
+
+00:06:13.040 --> 00:06:13.050 align:start position:0%
+working as fast as I can to the console
+ 
+
+00:06:13.050 --> 00:06:16.040 align:start position:0%
+working as fast as I can to the console
+and<00:06:13.110><c> that's</c><00:06:13.379><c> all</c><00:06:13.529><c> it's</c><00:06:13.650><c> doing</c><00:06:14.330><c> this</c><00:06:15.330><c> thread</c><00:06:15.779><c> is</c>
+
+00:06:16.040 --> 00:06:16.050 align:start position:0%
+and that's all it's doing this thread is
+ 
+
+00:06:16.050 --> 00:06:17.659 align:start position:0%
+and that's all it's doing this thread is
+waiting<00:06:16.680><c> for</c><00:06:16.830><c> us</c><00:06:16.919><c> to</c><00:06:17.039><c> press</c><00:06:17.219><c> the</c><00:06:17.370><c> Enter</c><00:06:17.639><c> key</c>
+
+00:06:17.659 --> 00:06:17.669 align:start position:0%
+waiting for us to press the Enter key
+ 
+
+00:06:17.669 --> 00:06:20.929 align:start position:0%
+waiting for us to press the Enter key
+and<00:06:18.000><c> when</c><00:06:18.270><c> we</c><00:06:18.419><c> do</c><00:06:18.629><c> in</c><00:06:19.039><c> advances</c><00:06:20.039><c> to</c><00:06:20.279><c> line</c><00:06:20.490><c> 19</c>
+
+00:06:20.929 --> 00:06:20.939 align:start position:0%
+and when we do in advances to line 19
+ 
+
+00:06:20.939 --> 00:06:23.029 align:start position:0%
+and when we do in advances to line 19
+which<00:06:21.150><c> that's</c><00:06:21.389><c> finished</c><00:06:21.689><c> it</c><00:06:21.810><c> true</c><00:06:22.020><c> the</c><00:06:22.710><c> next</c>
+
+00:06:23.029 --> 00:06:23.039 align:start position:0%
+which that's finished it true the next
+ 
+
+00:06:23.039 --> 00:06:25.100 align:start position:0%
+which that's finished it true the next
+time<00:06:23.219><c> this</c><00:06:23.520><c> checks</c><00:06:23.969><c> checks</c><00:06:24.479><c> the</c><00:06:24.629><c> state</c><00:06:24.930><c> of</c>
+
+00:06:25.100 --> 00:06:25.110 align:start position:0%
+time this checks checks the state of
+ 
+
+00:06:25.110 --> 00:06:27.709 align:start position:0%
+time this checks checks the state of
+finished<00:06:25.800><c> it</c><00:06:26.039><c> will</c><00:06:26.639><c> see</c><00:06:26.819><c> that</c><00:06:26.969><c> it's</c><00:06:27.330><c> been</c><00:06:27.479><c> set</c>
+
+00:06:27.709 --> 00:06:27.719 align:start position:0%
+finished it will see that it's been set
+ 
+
+00:06:27.719 --> 00:06:30.619 align:start position:0%
+finished it will see that it's been set
+to<00:06:27.900><c> true</c><00:06:28.259><c> which</c><00:06:29.069><c> means</c><00:06:29.339><c> that</c><00:06:29.610><c> I'm</c><00:06:29.789><c> finished</c><00:06:30.330><c> so</c>
+
+00:06:30.619 --> 00:06:30.629 align:start position:0%
+to true which means that I'm finished so
+ 
+
+00:06:30.629 --> 00:06:32.300 align:start position:0%
+to true which means that I'm finished so
+it's<00:06:30.779><c> going</c><00:06:30.900><c> to</c><00:06:31.110><c> advance</c><00:06:31.560><c> past</c><00:06:31.949><c> this</c><00:06:32.099><c> while</c>
+
+00:06:32.300 --> 00:06:32.310 align:start position:0%
+it's going to advance past this while
+ 
+
+00:06:32.310 --> 00:06:34.070 align:start position:0%
+it's going to advance past this while
+loop<00:06:32.490><c> and</c><00:06:32.699><c> at</c><00:06:32.789><c> the</c><00:06:32.939><c> end</c><00:06:33.029><c> of</c><00:06:33.120><c> the</c><00:06:33.180><c> function</c><00:06:33.599><c> thus</c>
+
+00:06:34.070 --> 00:06:34.080 align:start position:0%
+loop and at the end of the function thus
+ 
+
+00:06:34.080 --> 00:06:35.959 align:start position:0%
+loop and at the end of the function thus
+that<00:06:34.289><c> thread</c><00:06:34.529><c> has</c><00:06:34.709><c> finished</c><00:06:34.949><c> and</c><00:06:35.279><c> this</c><00:06:35.909><c> is</c>
+
+00:06:35.959 --> 00:06:35.969 align:start position:0%
+that thread has finished and this is
+ 
+
+00:06:35.969 --> 00:06:37.760 align:start position:0%
+that thread has finished and this is
+going<00:06:36.270><c> to</c><00:06:36.419><c> make</c><00:06:36.630><c> sure</c><00:06:36.779><c> that</c><00:06:36.930><c> we</c><00:06:37.080><c> don't</c><00:06:37.349><c> do</c><00:06:37.560><c> see</c>
+
+00:06:37.760 --> 00:06:37.770 align:start position:0%
+going to make sure that we don't do see
+ 
+
+00:06:37.770 --> 00:06:40.310 align:start position:0%
+going to make sure that we don't do see
+and<00:06:37.919><c> get</c><00:06:38.279><c> until</c><00:06:39.270><c> that</c><00:06:39.839><c> thread</c>
+
+00:06:40.310 --> 00:06:40.320 align:start position:0%
+and get until that thread
+ 
+
+00:06:40.320 --> 00:06:42.890 align:start position:0%
+and get until that thread
+has<00:06:40.410><c> actually</c><00:06:40.770><c> finished</c><00:06:40.950><c> its</c><00:06:41.430><c> execution</c><00:06:42.000><c> so</c>
+
+00:06:42.890 --> 00:06:42.900 align:start position:0%
+has actually finished its execution so
+ 
+
+00:06:42.900 --> 00:06:44.720 align:start position:0%
+has actually finished its execution so
+if<00:06:43.200><c> we</c><00:06:43.410><c> just</c><00:06:43.560><c> hit</c><00:06:43.680><c> f5</c><00:06:44.040><c> and</c><00:06:44.100><c> say</c><00:06:44.460><c> what</c><00:06:44.610><c> this</c>
+
+00:06:44.720 --> 00:06:44.730 align:start position:0%
+if we just hit f5 and say what this
+ 
+
+00:06:44.730 --> 00:06:46.430 align:start position:0%
+if we just hit f5 and say what this
+actually<00:06:44.910><c> does</c><00:06:45.120><c> you</c><00:06:45.840><c> can</c><00:06:45.960><c> see</c><00:06:46.080><c> over</c><00:06:46.170><c> here</c><00:06:46.260><c> that</c>
+
+00:06:46.430 --> 00:06:46.440 align:start position:0%
+actually does you can see over here that
+ 
+
+00:06:46.440 --> 00:06:48.050 align:start position:0%
+actually does you can see over here that
+is<00:06:46.620><c> repeatedly</c><00:06:46.980><c> printing</c><00:06:47.400><c> walking</c><00:06:47.760><c> and</c><00:06:47.940><c> when</c>
+
+00:06:48.050 --> 00:06:48.060 align:start position:0%
+is repeatedly printing walking and when
+ 
+
+00:06:48.060 --> 00:06:50.420 align:start position:0%
+is repeatedly printing walking and when
+I<00:06:48.120><c> press</c><00:06:48.360><c> ENTER</c><00:06:48.650><c> that's</c><00:06:49.650><c> it</c><00:06:49.890><c> it</c><00:06:50.070><c> stops</c>
+
+00:06:50.420 --> 00:06:50.430 align:start position:0%
+I press ENTER that's it it stops
+ 
+
+00:06:50.430 --> 00:06:51.710 align:start position:0%
+I press ENTER that's it it stops
+printing<00:06:50.640><c> working</c><00:06:51.120><c> and</c><00:06:51.240><c> if</c><00:06:51.330><c> I</c><00:06:51.420><c> press</c><00:06:51.570><c> ENTER</c>
+
+00:06:51.710 --> 00:06:51.720 align:start position:0%
+printing working and if I press ENTER
+ 
+
+00:06:51.720 --> 00:06:53.210 align:start position:0%
+printing working and if I press ENTER
+again<00:06:51.930><c> it's</c><00:06:52.650><c> going</c><00:06:52.800><c> to</c><00:06:52.950><c> terminate</c><00:06:53.040><c> our</c>
+
+00:06:53.210 --> 00:06:53.220 align:start position:0%
+again it's going to terminate our
+ 
+
+00:06:53.220 --> 00:06:54.920 align:start position:0%
+again it's going to terminate our
+program<00:06:53.670><c> because</c><00:06:54.060><c> we</c><00:06:54.300><c> have</c><00:06:54.480><c> another</c><00:06:54.660><c> scene</c>
+
+00:06:54.920 --> 00:06:54.930 align:start position:0%
+program because we have another scene
+ 
+
+00:06:54.930 --> 00:06:56.450 align:start position:0%
+program because we have another scene
+not<00:06:55.110><c> get</c><00:06:55.290><c> over</c><00:06:55.470><c> here</c><00:06:55.650><c> which</c><00:06:55.830><c> waits</c><00:06:56.100><c> for</c><00:06:56.340><c> that</c>
+
+00:06:56.450 --> 00:06:56.460 align:start position:0%
+not get over here which waits for that
+ 
+
+00:06:56.460 --> 00:06:59.180 align:start position:0%
+not get over here which waits for that
+before<00:06:57.150><c> it</c><00:06:57.240><c> just</c><00:06:57.360><c> closes</c><00:06:57.750><c> our</c><00:06:57.870><c> program</c><00:06:58.260><c> sorry</c>
+
+00:06:59.180 --> 00:06:59.190 align:start position:0%
+before it just closes our program sorry
+ 
+
+00:06:59.190 --> 00:07:00.620 align:start position:0%
+before it just closes our program sorry
+maybe<00:06:59.640><c> instead</c><00:06:59.850><c> of</c><00:06:59.940><c> printing</c><00:07:00.210><c> working</c><00:07:00.540><c> as</c>
+
+00:07:00.620 --> 00:07:00.630 align:start position:0%
+maybe instead of printing working as
+ 
+
+00:07:00.630 --> 00:07:02.240 align:start position:0%
+maybe instead of printing working as
+fast<00:07:00.750><c> as</c><00:07:00.930><c> possible</c><00:07:01.440><c> we</c><00:07:01.560><c> might</c><00:07:01.740><c> want</c><00:07:01.980><c> to</c><00:07:02.040><c> say</c>
+
+00:07:02.240 --> 00:07:02.250 align:start position:0%
+fast as possible we might want to say
+ 
+
+00:07:02.250 --> 00:07:04.460 align:start position:0%
+fast as possible we might want to say
+well<00:07:02.280><c> actually</c><00:07:02.820><c> let's</c><00:07:03.660><c> wait</c><00:07:03.840><c> for</c><00:07:04.050><c> a</c><00:07:04.110><c> bit</c>
+
+00:07:04.460 --> 00:07:04.470 align:start position:0%
+well actually let's wait for a bit
+ 
+
+00:07:04.470 --> 00:07:06.200 align:start position:0%
+well actually let's wait for a bit
+the<00:07:04.650><c> thing</c><00:07:04.860><c> with</c><00:07:05.040><c> multi-threading</c><00:07:05.730><c> is</c><00:07:05.880><c> that</c>
+
+00:07:06.200 --> 00:07:06.210 align:start position:0%
+the thing with multi-threading is that
+ 
+
+00:07:06.210 --> 00:07:08.300 align:start position:0%
+the thing with multi-threading is that
+if<00:07:06.390><c> you</c><00:07:06.630><c> continually</c><00:07:07.290><c> do</c><00:07:07.530><c> things</c><00:07:07.770><c> as</c><00:07:07.920><c> fast</c><00:07:08.160><c> as</c>
+
+00:07:08.300 --> 00:07:08.310 align:start position:0%
+if you continually do things as fast as
+ 
+
+00:07:08.310 --> 00:07:10.490 align:start position:0%
+if you continually do things as fast as
+possible<00:07:08.760><c> like</c><00:07:08.880><c> this</c><00:07:09.150><c> it</c><00:07:09.720><c> is</c><00:07:09.780><c> going</c><00:07:09.990><c> to</c><00:07:10.350><c> kind</c>
+
+00:07:10.490 --> 00:07:10.500 align:start position:0%
+possible like this it is going to kind
+ 
+
+00:07:10.500 --> 00:07:12.650 align:start position:0%
+possible like this it is going to kind
+of<00:07:10.590><c> result</c><00:07:10.950><c> in</c><00:07:11.130><c> like</c><00:07:11.340><c> a</c><00:07:11.370><c> hundred</c><00:07:11.790><c> percent</c><00:07:11.880><c> CPU</c>
+
+00:07:12.650 --> 00:07:12.660 align:start position:0%
+of result in like a hundred percent CPU
+ 
+
+00:07:12.660 --> 00:07:14.330 align:start position:0%
+of result in like a hundred percent CPU
+usage<00:07:13.020><c> for</c><00:07:13.170><c> that</c><00:07:13.350><c> thread</c><00:07:13.680><c> which</c><00:07:13.920><c> isn't</c><00:07:14.070><c> great</c>
+
+00:07:14.330 --> 00:07:14.340 align:start position:0%
+usage for that thread which isn't great
+ 
+
+00:07:14.340 --> 00:07:15.920 align:start position:0%
+usage for that thread which isn't great
+so<00:07:14.940><c> what</c><00:07:15.030><c> we</c><00:07:15.120><c> can</c><00:07:15.240><c> do</c><00:07:15.330><c> is</c><00:07:15.390><c> because</c><00:07:15.600><c> they</c><00:07:15.720><c> will</c>
+
+00:07:15.920 --> 00:07:15.930 align:start position:0%
+so what we can do is because they will
+ 
+
+00:07:15.930 --> 00:07:18.080 align:start position:0%
+so what we can do is because they will
+wait<00:07:16.500><c> for</c><00:07:16.530><c> a</c><00:07:16.980><c> bit</c><00:07:17.160><c> and</c><00:07:17.340><c> what</c><00:07:17.640><c> I'm</c><00:07:17.760><c> going</c><00:07:17.850><c> to</c><00:07:17.940><c> do</c>
+
+00:07:18.080 --> 00:07:18.090 align:start position:0%
+wait for a bit and what I'm going to do
+ 
+
+00:07:18.090 --> 00:07:20.960 align:start position:0%
+wait for a bit and what I'm going to do
+here<00:07:18.450><c> is</c><00:07:18.840><c> just</c><00:07:18.900><c> tell</c><00:07:19.410><c> this</c><00:07:19.620><c> current</c><00:07:20.070><c> thread</c><00:07:20.370><c> to</c>
+
+00:07:20.960 --> 00:07:20.970 align:start position:0%
+here is just tell this current thread to
+ 
+
+00:07:20.970 --> 00:07:22.640 align:start position:0%
+here is just tell this current thread to
+sleep<00:07:21.360><c> so</c><00:07:21.720><c> I'm</c><00:07:21.810><c> going</c><00:07:21.930><c> to</c><00:07:21.990><c> write</c><00:07:22.140><c> asleep</c>
+
+00:07:22.640 --> 00:07:22.650 align:start position:0%
+sleep so I'm going to write asleep
+ 
+
+00:07:22.650 --> 00:07:25.820 align:start position:0%
+sleep so I'm going to write asleep
+before<00:07:23.030><c> and</c><00:07:24.030><c> then</c><00:07:24.510><c> one</c><00:07:24.750><c> s</c><00:07:24.990><c> which</c><00:07:25.410><c> stands</c><00:07:25.740><c> for</c>
+
+00:07:25.820 --> 00:07:25.830 align:start position:0%
+before and then one s which stands for
+ 
+
+00:07:25.830 --> 00:07:27.560 align:start position:0%
+before and then one s which stands for
+one<00:07:26.040><c> second</c><00:07:26.520><c> and</c><00:07:26.700><c> in</c><00:07:26.820><c> order</c><00:07:27.000><c> to</c><00:07:27.150><c> write</c><00:07:27.300><c> code</c>
+
+00:07:27.560 --> 00:07:27.570 align:start position:0%
+one second and in order to write code
+ 
+
+00:07:27.570 --> 00:07:28.790 align:start position:0%
+one second and in order to write code
+like<00:07:27.600><c> that</c><00:07:27.930><c> I'm</c><00:07:28.080><c> gonna</c><00:07:28.170><c> have</c><00:07:28.380><c> to</c><00:07:28.500><c> using</c>
+
+00:07:28.790 --> 00:07:28.800 align:start position:0%
+like that I'm gonna have to using
+ 
+
+00:07:28.800 --> 00:07:32.000 align:start position:0%
+like that I'm gonna have to using
+namespace<00:07:28.950><c> Pro</c><00:07:29.640><c> know</c><00:07:29.700><c> literals</c><00:07:30.530><c> okay</c><00:07:31.530><c> so</c>
+
+00:07:32.000 --> 00:07:32.010 align:start position:0%
+namespace Pro know literals okay so
+ 
+
+00:07:32.010 --> 00:07:33.590 align:start position:0%
+namespace Pro know literals okay so
+basically<00:07:32.280><c> I'm</c><00:07:32.580><c> just</c><00:07:32.610><c> saying</c><00:07:32.910><c> after</c><00:07:33.510><c> you</c>
+
+00:07:33.590 --> 00:07:33.600 align:start position:0%
+basically I'm just saying after you
+ 
+
+00:07:33.600 --> 00:07:35.600 align:start position:0%
+basically I'm just saying after you
+print<00:07:33.900><c> this</c><00:07:34.050><c> working</c><00:07:34.620><c> line</c><00:07:35.070><c> of</c><00:07:35.190><c> code</c><00:07:35.400><c> just</c>
+
+00:07:35.600 --> 00:07:35.610 align:start position:0%
+print this working line of code just
+ 
+
+00:07:35.610 --> 00:07:38.000 align:start position:0%
+print this working line of code just
+sleep<00:07:36.210><c> for</c><00:07:36.240><c> a</c><00:07:36.450><c> second</c><00:07:36.810><c> before</c><00:07:37.050><c> you</c><00:07:37.260><c> go</c><00:07:37.350><c> back</c><00:07:37.740><c> up</c>
+
+00:07:38.000 --> 00:07:38.010 align:start position:0%
+sleep for a second before you go back up
+ 
+
+00:07:38.010 --> 00:07:40.070 align:start position:0%
+sleep for a second before you go back up
+to<00:07:38.220><c> this</c><00:07:38.370><c> while</c><00:07:38.820><c> loop</c><00:07:39.000><c> and</c><00:07:39.240><c> continue</c><00:07:39.390><c> printing</c>
+
+00:07:40.070 --> 00:07:40.080 align:start position:0%
+to this while loop and continue printing
+ 
+
+00:07:40.080 --> 00:07:43.490 align:start position:0%
+to this while loop and continue printing
+working<00:07:40.530><c> until</c><00:07:41.520><c> finished</c><00:07:42.210><c> is</c><00:07:42.330><c> set</c><00:07:42.510><c> to</c><00:07:42.660><c> true</c><00:07:42.810><c> so</c>
+
+00:07:43.490 --> 00:07:43.500 align:start position:0%
+working until finished is set to true so
+ 
+
+00:07:43.500 --> 00:07:45.560 align:start position:0%
+working until finished is set to true so
+if<00:07:43.560><c> I</c><00:07:43.650><c> hit</c><00:07:43.770><c> f5</c><00:07:44.100><c> now</c><00:07:44.370><c> we</c><00:07:44.700><c> should</c><00:07:44.940><c> get</c><00:07:45.090><c> working</c>
+
+00:07:45.560 --> 00:07:45.570 align:start position:0%
+if I hit f5 now we should get working
+ 
+
+00:07:45.570 --> 00:07:47.750 align:start position:0%
+if I hit f5 now we should get working
+printing<00:07:46.080><c> to</c><00:07:46.140><c> the</c><00:07:46.170><c> console</c><00:07:46.620><c> once</c><00:07:47.310><c> every</c>
+
+00:07:47.750 --> 00:07:47.760 align:start position:0%
+printing to the console once every
+ 
+
+00:07:47.760 --> 00:07:49.520 align:start position:0%
+printing to the console once every
+second<00:07:48.180><c> and</c><00:07:48.570><c> there</c><00:07:48.750><c> we</c><00:07:48.840><c> go</c><00:07:48.960><c> you</c><00:07:49.020><c> can</c><00:07:49.140><c> see</c><00:07:49.260><c> that</c>
+
+00:07:49.520 --> 00:07:49.530 align:start position:0%
+second and there we go you can see that
+ 
+
+00:07:49.530 --> 00:07:51.620 align:start position:0%
+second and there we go you can see that
+it's<00:07:49.650><c> ticking</c><00:07:49.920><c> like</c><00:07:50.040><c> that</c><00:07:50.280><c> working</c><00:07:51.030><c> working</c>
+
+00:07:51.620 --> 00:07:51.630 align:start position:0%
+it's ticking like that working working
+ 
+
+00:07:51.630 --> 00:07:54.590 align:start position:0%
+it's ticking like that working working
+and<00:07:51.750><c> if</c><00:07:51.810><c> I</c><00:07:51.930><c> press</c><00:07:52.110><c> ENTER</c><00:07:52.790><c> then</c><00:07:53.790><c> that's</c><00:07:54.060><c> it</c><00:07:54.240><c> it's</c>
+
+00:07:54.590 --> 00:07:54.600 align:start position:0%
+and if I press ENTER then that's it it's
+ 
+
+00:07:54.600 --> 00:07:56.270 align:start position:0%
+and if I press ENTER then that's it it's
+done<00:07:54.840><c> and</c><00:07:55.020><c> in</c><00:07:55.230><c> fact</c><00:07:55.410><c> let's</c><00:07:55.590><c> just</c><00:07:55.620><c> maybe</c><00:07:55.860><c> write</c>
+
+00:07:56.270 --> 00:07:56.280 align:start position:0%
+done and in fact let's just maybe write
+ 
+
+00:07:56.280 --> 00:07:58.310 align:start position:0%
+done and in fact let's just maybe write
+something<00:07:56.790><c> to</c><00:07:57.030><c> just</c><00:07:57.240><c> indicate</c><00:07:57.780><c> that</c><00:07:58.200><c> it's</c>
+
+00:07:58.310 --> 00:07:58.320 align:start position:0%
+something to just indicate that it's
+ 
+
+00:07:58.320 --> 00:08:00.950 align:start position:0%
+something to just indicate that it's
+done<00:07:58.500><c> so</c><00:07:58.830><c> after</c><00:07:59.130><c> work</c><00:07:59.280><c> adjoin</c><00:07:59.790><c> I'll</c><00:08:00.420><c> print</c>
+
+00:08:00.950 --> 00:08:00.960 align:start position:0%
+done so after work adjoin I'll print
+ 
+
+00:08:00.960 --> 00:08:05.900 align:start position:0%
+done so after work adjoin I'll print
+finished<00:08:02.810><c> and</c><00:08:04.190><c> let's</c><00:08:05.190><c> see</c><00:08:05.370><c> what</c><00:08:05.550><c> that</c><00:08:05.670><c> looks</c>
+
+00:08:05.900 --> 00:08:05.910 align:start position:0%
+finished and let's see what that looks
+ 
+
+00:08:05.910 --> 00:08:07.280 align:start position:0%
+finished and let's see what that looks
+like<00:08:05.970><c> so</c><00:08:06.360><c> there</c><00:08:06.630><c> we</c><00:08:06.690><c> go</c><00:08:06.720><c> working</c><00:08:07.140><c> working</c>
+
+00:08:07.280 --> 00:08:07.290 align:start position:0%
+like so there we go working working
+ 
+
+00:08:07.290 --> 00:08:09.050 align:start position:0%
+like so there we go working working
+working<00:08:07.440><c> ENTER</c><00:08:08.190><c> and</c><00:08:08.430><c> you</c><00:08:08.610><c> can</c><00:08:08.730><c> see</c><00:08:08.910><c> we've</c>
+
+00:08:09.050 --> 00:08:09.060 align:start position:0%
+working ENTER and you can see we've
+ 
+
+00:08:09.060 --> 00:08:10.670 align:start position:0%
+working ENTER and you can see we've
+finished<00:08:09.240><c> and</c><00:08:09.600><c> that</c><00:08:09.630><c> is</c><00:08:10.080><c> the</c><00:08:10.260><c> end</c><00:08:10.410><c> of</c><00:08:10.530><c> our</c>
+
+00:08:10.670 --> 00:08:10.680 align:start position:0%
+finished and that is the end of our
+ 
+
+00:08:10.680 --> 00:08:13.400 align:start position:0%
+finished and that is the end of our
+execution<00:08:11.160><c> so</c><00:08:11.850><c> that's</c><00:08:12.180><c> a</c><00:08:12.270><c> very</c><00:08:12.480><c> basic</c><00:08:12.960><c> example</c>
+
+00:08:13.400 --> 00:08:13.410 align:start position:0%
+execution so that's a very basic example
+ 
+
+00:08:13.410 --> 00:08:15.920 align:start position:0%
+execution so that's a very basic example
+of<00:08:13.440><c> how</c><00:08:13.590><c> threads</c><00:08:13.950><c> work</c><00:08:14.190><c> arguably</c><00:08:15.090><c> fairly</c>
+
+00:08:15.920 --> 00:08:15.930 align:start position:0%
+of how threads work arguably fairly
+ 
+
+00:08:15.930 --> 00:08:17.630 align:start position:0%
+of how threads work arguably fairly
+useless<00:08:16.290><c> but</c><00:08:16.680><c> the</c><00:08:16.830><c> point</c><00:08:17.070><c> of</c><00:08:17.160><c> this</c><00:08:17.220><c> video</c><00:08:17.370><c> is</c>
+
+00:08:17.630 --> 00:08:17.640 align:start position:0%
+useless but the point of this video is
+ 
+
+00:08:17.640 --> 00:08:19.100 align:start position:0%
+useless but the point of this video is
+just<00:08:17.670><c> to</c><00:08:17.820><c> show</c><00:08:17.910><c> you</c><00:08:18.060><c> first</c><00:08:18.660><c> of</c><00:08:18.810><c> all</c><00:08:18.870><c> how</c><00:08:19.080><c> you</c>
+
+00:08:19.100 --> 00:08:19.110 align:start position:0%
+just to show you first of all how you
+ 
+
+00:08:19.110 --> 00:08:21.110 align:start position:0%
+just to show you first of all how you
+can<00:08:19.380><c> access</c><00:08:19.530><c> threads</c><00:08:19.980><c> in</c><00:08:20.160><c> the</c><00:08:20.280><c> C++</c><00:08:20.460><c> API</c>
+
+00:08:21.110 --> 00:08:21.120 align:start position:0%
+can access threads in the C++ API
+ 
+
+00:08:21.120 --> 00:08:22.940 align:start position:0%
+can access threads in the C++ API
+of<00:08:21.690><c> course</c><00:08:21.990><c> this</c><00:08:22.110><c> ends</c><00:08:22.410><c> up</c><00:08:22.470><c> boiling</c><00:08:22.680><c> down</c><00:08:22.890><c> to</c>
+
+00:08:22.940 --> 00:08:22.950 align:start position:0%
+of course this ends up boiling down to
+ 
+
+00:08:22.950 --> 00:08:25.130 align:start position:0%
+of course this ends up boiling down to
+platform<00:08:23.460><c> specific</c><00:08:23.910><c> code</c><00:08:24.120><c> but</c><00:08:24.750><c> you</c><00:08:24.780><c> just</c><00:08:25.020><c> need</c>
+
+00:08:25.130 --> 00:08:25.140 align:start position:0%
+platform specific code but you just need
+ 
+
+00:08:25.140 --> 00:08:27.110 align:start position:0%
+platform specific code but you just need
+to<00:08:25.230><c> include</c><00:08:25.440><c> thread</c><00:08:25.740><c> and</c><00:08:26.040><c> when</c><00:08:26.220><c> you</c><00:08:26.370><c> just</c><00:08:26.550><c> make</c>
+
+00:08:27.110 --> 00:08:27.120 align:start position:0%
+to include thread and when you just make
+ 
+
+00:08:27.120 --> 00:08:29.300 align:start position:0%
+to include thread and when you just make
+a<00:08:27.150><c> thread</c><00:08:27.510><c> object</c><00:08:27.630><c> by</c><00:08:28.170><c> typing</c><00:08:28.770><c> in</c><00:08:28.920><c> a</c><00:08:29.070><c> city</c>
+
+00:08:29.300 --> 00:08:29.310 align:start position:0%
+a thread object by typing in a city
+ 
+
+00:08:29.310 --> 00:08:31.040 align:start position:0%
+a thread object by typing in a city
+thread<00:08:29.580><c> and</c><00:08:29.760><c> then</c><00:08:29.850><c> you</c><00:08:30.360><c> make</c><00:08:30.480><c> a</c><00:08:30.510><c> variable</c><00:08:30.930><c> out</c>
+
+00:08:31.040 --> 00:08:31.050 align:start position:0%
+thread and then you make a variable out
+ 
+
+00:08:31.050 --> 00:08:32.360 align:start position:0%
+thread and then you make a variable out
+of<00:08:31.080><c> it</c><00:08:31.260><c> and</c><00:08:31.410><c> you</c><00:08:31.470><c> pass</c><00:08:31.680><c> in</c><00:08:31.830><c> a</c><00:08:31.890><c> function</c><00:08:31.920><c> to</c><00:08:32.280><c> the</c>
+
+00:08:32.360 --> 00:08:32.370 align:start position:0%
+of it and you pass in a function to the
+ 
+
+00:08:32.370 --> 00:08:34.219 align:start position:0%
+of it and you pass in a function to the
+constructor<00:08:32.700><c> that</c><00:08:32.969><c> immediately</c><00:08:33.810><c> kicks</c><00:08:34.080><c> off</c>
+
+00:08:34.219 --> 00:08:34.229 align:start position:0%
+constructor that immediately kicks off
+ 
+
+00:08:34.229 --> 00:08:35.959 align:start position:0%
+constructor that immediately kicks off
+that<00:08:34.410><c> thread</c><00:08:34.680><c> doing</c><00:08:35.250><c> whatever</c><00:08:35.430><c> work</c><00:08:35.700><c> you've</c>
+
+00:08:35.959 --> 00:08:35.969 align:start position:0%
+that thread doing whatever work you've
+ 
+
+00:08:35.969 --> 00:08:38.659 align:start position:0%
+that thread doing whatever work you've
+made<00:08:36.180><c> it</c><00:08:36.300><c> to</c><00:08:36.330><c> and</c><00:08:36.830><c> that</c><00:08:37.830><c> thread</c><00:08:38.130><c> will</c><00:08:38.160><c> continue</c>
+
+00:08:38.659 --> 00:08:38.669 align:start position:0%
+made it to and that thread will continue
+ 
+
+00:08:38.669 --> 00:08:41.270 align:start position:0%
+made it to and that thread will continue
+until<00:08:38.789><c> it's</c><00:08:39.000><c> done</c><00:08:39.240><c> you</c><00:08:39.930><c> can</c><00:08:39.960><c> always</c><00:08:40.229><c> use</c><00:08:40.620><c> like</c>
+
+00:08:41.270 --> 00:08:41.280 align:start position:0%
+until it's done you can always use like
+ 
+
+00:08:41.280 --> 00:08:43.940 align:start position:0%
+until it's done you can always use like
+that<00:08:41.490><c> thread</c><00:08:41.789><c> join</c><00:08:42.510><c> to</c><00:08:43.110><c> actually</c><00:08:43.530><c> wait</c><00:08:43.919><c> for</c>
+
+00:08:43.940 --> 00:08:43.950 align:start position:0%
+that thread join to actually wait for
+ 
+
+00:08:43.950 --> 00:08:45.800 align:start position:0%
+that thread join to actually wait for
+the<00:08:44.340><c> current</c><00:08:44.700><c> thread</c><00:08:44.970><c> that's</c><00:08:45.210><c> kicked</c><00:08:45.600><c> off</c>
+
+00:08:45.800 --> 00:08:45.810 align:start position:0%
+the current thread that's kicked off
+ 
+
+00:08:45.810 --> 00:08:48.200 align:start position:0%
+the current thread that's kicked off
+that<00:08:46.020><c> second</c><00:08:46.470><c> thread</c><00:08:46.710><c> to</c><00:08:47.340><c> actually</c><00:08:47.790><c> finish</c>
+
+00:08:48.200 --> 00:08:48.210 align:start position:0%
+that second thread to actually finish
+ 
+
+00:08:48.210 --> 00:08:50.240 align:start position:0%
+that second thread to actually finish
+its<00:08:48.360><c> execution</c><00:08:48.960><c> in</c><00:08:49.620><c> case</c><00:08:49.800><c> you</c><00:08:49.920><c> need</c><00:08:50.070><c> to</c><00:08:50.100><c> do</c>
+
+00:08:50.240 --> 00:08:50.250 align:start position:0%
+its execution in case you need to do
+ 
+
+00:08:50.250 --> 00:08:51.890 align:start position:0%
+its execution in case you need to do
+some<00:08:50.400><c> kind</c><00:08:50.580><c> of</c><00:08:50.640><c> clean</c><00:08:50.820><c> up</c><00:08:50.850><c> or</c><00:08:51.150><c> wait</c><00:08:51.540><c> like</c><00:08:51.720><c> this</c>
+
+00:08:51.890 --> 00:08:51.900 align:start position:0%
+some kind of clean up or wait like this
+ 
+
+00:08:51.900 --> 00:08:54.000 align:start position:0%
+some kind of clean up or wait like this
+for<00:08:52.470><c> the</c><00:08:52.560><c> actual</c><00:08:52.980><c> program</c><00:08:53.130><c> to</c><00:08:53.430><c> terminate</c>
+
+00:08:54.000 --> 00:08:54.010 align:start position:0%
+for the actual program to terminate
+ 
+
+00:08:54.010 --> 00:08:57.780 align:start position:0%
+for the actual program to terminate
+after<00:08:54.220><c> all</c><00:08:54.400><c> the</c><00:08:54.550><c> threads</c><00:08:54.790><c> are</c><00:08:54.910><c> done</c><00:08:56.460><c> that's</c><00:08:57.460><c> as</c>
+
+00:08:57.780 --> 00:08:57.790 align:start position:0%
+after all the threads are done that's as
+ 
+
+00:08:57.790 --> 00:08:59.640 align:start position:0%
+after all the threads are done that's as
+far<00:08:58.120><c> as</c><00:08:58.240><c> the</c><00:08:58.330><c> API</c><00:08:58.570><c> goes</c><00:08:58.900><c> there's</c><00:08:59.200><c> really</c><00:08:59.350><c> not</c><00:08:59.590><c> a</c>
+
+00:08:59.640 --> 00:08:59.650 align:start position:0%
+far as the API goes there's really not a
+ 
+
+00:08:59.650 --> 00:09:01.260 align:start position:0%
+far as the API goes there's really not a
+lot<00:08:59.890><c> of</c><00:08:59.920><c> things</c><00:09:00.070><c> you</c><00:09:00.220><c> can</c><00:09:00.370><c> do</c><00:09:00.550><c> there's</c><00:09:01.150><c> not</c><00:09:01.210><c> a</c>
+
+00:09:01.260 --> 00:09:01.270 align:start position:0%
+lot of things you can do there's not a
+ 
+
+00:09:01.270 --> 00:09:02.610 align:start position:0%
+lot of things you can do there's not a
+lot<00:09:01.450><c> of</c><00:09:01.510><c> things</c><00:09:01.660><c> you</c><00:09:01.780><c> need</c><00:09:01.900><c> to</c><00:09:01.960><c> do</c><00:09:02.110><c> the</c><00:09:02.260><c> concept</c>
+
+00:09:02.610 --> 00:09:02.620 align:start position:0%
+lot of things you need to do the concept
+ 
+
+00:09:02.620 --> 00:09:03.870 align:start position:0%
+lot of things you need to do the concept
+of<00:09:02.680><c> threads</c><00:09:02.920><c> is</c><00:09:03.070><c> really</c><00:09:03.310><c> really</c><00:09:03.490><c> simple</c><00:09:03.820><c> but</c>
+
+00:09:03.870 --> 00:09:03.880 align:start position:0%
+of threads is really really simple but
+ 
+
+00:09:03.880 --> 00:09:05.550 align:start position:0%
+of threads is really really simple but
+it<00:09:04.210><c> gets</c><00:09:04.420><c> really</c><00:09:04.720><c> complicated</c><00:09:05.380><c> really</c>
+
+00:09:05.550 --> 00:09:05.560 align:start position:0%
+it gets really complicated really
+ 
+
+00:09:05.560 --> 00:09:08.010 align:start position:0%
+it gets really complicated really
+quickly<00:09:06.040><c> like</c><00:09:06.550><c> a</c><00:09:06.610><c> lot</c><00:09:06.790><c> of</c><00:09:06.910><c> things</c><00:09:07.060><c> do</c><00:09:07.240><c> in</c><00:09:07.420><c> C++</c>
+
+00:09:08.010 --> 00:09:08.020 align:start position:0%
+quickly like a lot of things do in C++
+ 
+
+00:09:08.020 --> 00:09:10.440 align:start position:0%
+quickly like a lot of things do in C++
+the<00:09:08.530><c> sed</c><00:09:08.830><c> this</c><00:09:09.220><c> thread</c><00:09:09.550><c> thing</c><00:09:09.820><c> as</c><00:09:10.000><c> well</c><00:09:10.180><c> can</c>
+
+00:09:10.440 --> 00:09:10.450 align:start position:0%
+the sed this thread thing as well can
+ 
+
+00:09:10.450 --> 00:09:15.900 align:start position:0%
+the sed this thread thing as well can
+just<00:09:10.600><c> make</c><00:09:10.750><c> sure</c><00:09:10.780><c> well</c><00:09:14.250><c> there's</c><00:09:15.250><c> also</c><00:09:15.400><c> a</c><00:09:15.520><c> this</c>
+
+00:09:15.900 --> 00:09:15.910 align:start position:0%
+just make sure well there's also a this
+ 
+
+00:09:15.910 --> 00:09:17.880 align:start position:0%
+just make sure well there's also a this
+thread<00:09:16.330><c> object</c><00:09:16.870><c> that</c><00:09:16.960><c> I</c><00:09:17.050><c> used</c><00:09:17.320><c> here</c><00:09:17.560><c> if</c><00:09:17.680><c> I</c><00:09:17.770><c> just</c>
+
+00:09:17.880 --> 00:09:17.890 align:start position:0%
+thread object that I used here if I just
+ 
+
+00:09:17.890 --> 00:09:19.740 align:start position:0%
+thread object that I used here if I just
+grab<00:09:18.010><c> my</c><00:09:18.160><c> laptop</c><00:09:18.280><c> again</c><00:09:18.610><c> we</c><00:09:19.030><c> have</c><00:09:19.180><c> this</c><00:09:19.300><c> sed</c>
+
+00:09:19.740 --> 00:09:19.750 align:start position:0%
+grab my laptop again we have this sed
+ 
+
+00:09:19.750 --> 00:09:21.360 align:start position:0%
+grab my laptop again we have this sed
+this<00:09:19.930><c> thread</c><00:09:20.230><c> which</c><00:09:20.740><c> you</c><00:09:20.890><c> can</c><00:09:21.040><c> use</c><00:09:21.220><c> to</c>
+
+00:09:21.360 --> 00:09:21.370 align:start position:0%
+this thread which you can use to
+ 
+
+00:09:21.370 --> 00:09:23.610 align:start position:0%
+this thread which you can use to
+actually<00:09:21.600><c> basically</c><00:09:22.600><c> give</c><00:09:23.020><c> commands</c><00:09:23.350><c> to</c><00:09:23.590><c> the</c>
+
+00:09:23.610 --> 00:09:23.620 align:start position:0%
+actually basically give commands to the
+ 
+
+00:09:23.620 --> 00:09:24.960 align:start position:0%
+actually basically give commands to the
+current<00:09:24.100><c> thread</c><00:09:24.310><c> because</c><00:09:24.460><c> you</c><00:09:24.550><c> can</c><00:09:24.670><c> say</c><00:09:24.820><c> that</c>
+
+00:09:24.960 --> 00:09:24.970 align:start position:0%
+current thread because you can say that
+ 
+
+00:09:24.970 --> 00:09:26.340 align:start position:0%
+current thread because you can say that
+in<00:09:25.120><c> this</c><00:09:25.300><c> thread</c><00:09:25.570><c> I</c><00:09:25.630><c> don't</c><00:09:25.840><c> have</c><00:09:25.960><c> access</c><00:09:26.290><c> to</c>
+
+00:09:26.340 --> 00:09:26.350 align:start position:0%
+in this thread I don't have access to
+ 
+
+00:09:26.350 --> 00:09:28.380 align:start position:0%
+in this thread I don't have access to
+this<00:09:26.590><c> thread</c><00:09:26.860><c> object</c><00:09:27.000><c> even</c><00:09:28.000><c> though</c><00:09:28.180><c> I'm</c>
+
+00:09:28.380 --> 00:09:28.390 align:start position:0%
+this thread object even though I'm
+ 
+
+00:09:28.390 --> 00:09:30.120 align:start position:0%
+this thread object even though I'm
+actually<00:09:28.600><c> on</c><00:09:28.930><c> it</c><00:09:29.140><c> so</c><00:09:29.380><c> what</c><00:09:29.530><c> I</c><00:09:29.560><c> could</c><00:09:29.650><c> do</c><00:09:29.920><c> for</c>
+
+00:09:30.120 --> 00:09:30.130 align:start position:0%
+actually on it so what I could do for
+ 
+
+00:09:30.130 --> 00:09:32.490 align:start position:0%
+actually on it so what I could do for
+example<00:09:30.190><c> is</c><00:09:31.000><c> just</c><00:09:31.240><c> print</c><00:09:31.480><c> the</c><00:09:31.720><c> thread</c><00:09:31.930><c> ID</c><00:09:32.080><c> that</c>
+
+00:09:32.490 --> 00:09:32.500 align:start position:0%
+example is just print the thread ID that
+ 
+
+00:09:32.500 --> 00:09:35.490 align:start position:0%
+example is just print the thread ID that
+I'm<00:09:32.590><c> on</c><00:09:32.800><c> so</c><00:09:33.040><c> I</c><00:09:33.070><c> might</c><00:09:33.340><c> say</c><00:09:33.580><c> something</c><00:09:33.940><c> like</c><00:09:34.500><c> s</c>
+
+00:09:35.490 --> 00:09:35.500 align:start position:0%
+I'm on so I might say something like s
+ 
+
+00:09:35.500 --> 00:09:36.360 align:start position:0%
+I'm on so I might say something like s
+CDCR
+
+00:09:36.360 --> 00:09:36.370 align:start position:0%
+CDCR
+ 
+
+00:09:36.370 --> 00:09:40.740 align:start position:0%
+CDCR
+started<00:09:37.150><c> thread</c><00:09:37.930><c> ID</c><00:09:38.460><c> equals</c><00:09:39.460><c> and</c><00:09:39.940><c> then</c><00:09:40.600><c> I'll</c>
+
+00:09:40.740 --> 00:09:40.750 align:start position:0%
+started thread ID equals and then I'll
+ 
+
+00:09:40.750 --> 00:09:42.720 align:start position:0%
+started thread ID equals and then I'll
+print<00:09:41.020><c> the</c><00:09:41.320><c> actual</c><00:09:41.500><c> thread</c><00:09:41.800><c> ID</c><00:09:41.950><c> by</c><00:09:42.220><c> typing</c><00:09:42.460><c> in</c>
+
+00:09:42.720 --> 00:09:42.730 align:start position:0%
+print the actual thread ID by typing in
+ 
+
+00:09:42.730 --> 00:09:46.530 align:start position:0%
+print the actual thread ID by typing in
+a<00:09:42.970><c> city</c><00:09:43.390><c> this</c><00:09:43.570><c> thread</c><00:09:43.950><c> get</c><00:09:44.950><c> ID</c><00:09:45.160><c> and</c><00:09:45.610><c> then</c><00:09:46.420><c> I'll</c>
+
+00:09:46.530 --> 00:09:46.540 align:start position:0%
+a city this thread get ID and then I'll
+ 
+
+00:09:46.540 --> 00:09:49.520 align:start position:0%
+a city this thread get ID and then I'll
+copy<00:09:46.720><c> that</c><00:09:46.960><c> line</c><00:09:47.140><c> of</c><00:09:47.230><c> code</c><00:09:47.440><c> and</c><00:09:47.790><c> also</c><00:09:48.790><c> print</c><00:09:49.090><c> it</c>
+
+00:09:49.520 --> 00:09:49.530 align:start position:0%
+copy that line of code and also print it
+ 
+
+00:09:49.530 --> 00:09:53.000 align:start position:0%
+copy that line of code and also print it
+maybe<00:09:50.530><c> after</c><00:09:50.920><c> we</c><00:09:51.070><c> finish</c><00:09:51.400><c> over</c><00:09:52.120><c> here</c><00:09:52.360><c> and</c>
+
+00:09:53.000 --> 00:09:53.010 align:start position:0%
+maybe after we finish over here and
+ 
+
+00:09:53.010 --> 00:09:55.350 align:start position:0%
+maybe after we finish over here and
+these<00:09:54.010><c> authorities</c><00:09:54.730><c> should</c><00:09:54.970><c> be</c><00:09:55.090><c> different</c>
+
+00:09:55.350 --> 00:09:55.360 align:start position:0%
+these authorities should be different
+ 
+
+00:09:55.360 --> 00:09:56.310 align:start position:0%
+these authorities should be different
+because<00:09:55.720><c> they're</c><00:09:55.930><c> running</c><00:09:56.140><c> on</c><00:09:56.200><c> different</c>
+
+00:09:56.310 --> 00:09:56.320 align:start position:0%
+because they're running on different
+ 
+
+00:09:56.320 --> 00:09:58.740 align:start position:0%
+because they're running on different
+threads<00:09:56.710><c> so</c><00:09:57.160><c> if</c><00:09:57.250><c> I</c><00:09:57.340><c> hit</c><00:09:57.610><c> f5</c><00:09:57.970><c> to</c><00:09:58.030><c> run</c><00:09:58.270><c> my</c><00:09:58.390><c> program</c>
+
+00:09:58.740 --> 00:09:58.750 align:start position:0%
+threads so if I hit f5 to run my program
+ 
+
+00:09:58.750 --> 00:10:01.140 align:start position:0%
+threads so if I hit f5 to run my program
+you<00:09:58.930><c> can</c><00:09:59.140><c> see</c><00:09:59.260><c> we</c><00:09:59.410><c> start</c><00:09:59.620><c> at</c><00:09:59.710><c> thread</c><00:09:59.920><c> ID</c><00:10:00.070><c> 8</c><00:10:00.400><c> 3</c><00:10:00.760><c> 4</c>
+
+00:10:01.140 --> 00:10:01.150 align:start position:0%
+you can see we start at thread ID 8 3 4
+ 
+
+00:10:01.150 --> 00:10:03.060 align:start position:0%
+you can see we start at thread ID 8 3 4
+8<00:10:01.390><c> and</c><00:10:01.660><c> then</c><00:10:01.960><c> if</c><00:10:02.050><c> I</c><00:10:02.140><c> hit</c><00:10:02.290><c> enter</c><00:10:02.620><c> you</c><00:10:02.770><c> can</c><00:10:02.830><c> see</c>
+
+00:10:03.060 --> 00:10:03.070 align:start position:0%
+8 and then if I hit enter you can see
+ 
+
+00:10:03.070 --> 00:10:04.830 align:start position:0%
+8 and then if I hit enter you can see
+it's<00:10:03.190><c> a</c><00:10:03.250><c> completely</c><00:10:03.580><c> different</c><00:10:03.760><c> ID</c><00:10:04.030><c> because</c>
+
+00:10:04.830 --> 00:10:04.840 align:start position:0%
+it's a completely different ID because
+ 
+
+00:10:04.840 --> 00:10:06.510 align:start position:0%
+it's a completely different ID because
+they're<00:10:05.050><c> actually</c><00:10:05.230><c> on</c><00:10:05.590><c> different</c><00:10:06.070><c> threads</c><00:10:06.400><c> of</c>
+
+00:10:06.510 --> 00:10:06.520 align:start position:0%
+they're actually on different threads of
+ 
+
+00:10:06.520 --> 00:10:08.220 align:start position:0%
+they're actually on different threads of
+execution<00:10:06.640><c> we've</c><00:10:07.210><c> created</c><00:10:07.390><c> another</c><00:10:07.840><c> thread</c>
+
+00:10:08.220 --> 00:10:08.230 align:start position:0%
+execution we've created another thread
+ 
+
+00:10:08.230 --> 00:10:10.620 align:start position:0%
+execution we've created another thread
+to<00:10:08.710><c> print</c><00:10:09.010><c> our</c><00:10:09.250><c> working</c><00:10:09.640><c> stuff</c><00:10:10.450><c> to</c><00:10:10.570><c> the</c>
+
+00:10:10.620 --> 00:10:10.630 align:start position:0%
+to print our working stuff to the
+ 
+
+00:10:10.630 --> 00:10:13.140 align:start position:0%
+to print our working stuff to the
+console<00:10:11.050><c> so</c><00:10:11.950><c> yeah</c><00:10:12.310><c> threads</c><00:10:12.820><c> are</c><00:10:12.940><c> really</c>
+
+00:10:13.140 --> 00:10:13.150 align:start position:0%
+console so yeah threads are really
+ 
+
+00:10:13.150 --> 00:10:14.730 align:start position:0%
+console so yeah threads are really
+important<00:10:13.570><c> we're</c><00:10:14.140><c> going</c><00:10:14.260><c> to</c><00:10:14.320><c> be</c><00:10:14.410><c> talking</c><00:10:14.590><c> a</c>
+
+00:10:14.730 --> 00:10:14.740 align:start position:0%
+important we're going to be talking a
+ 
+
+00:10:14.740 --> 00:10:15.960 align:start position:0%
+important we're going to be talking a
+lot<00:10:14.860><c> more</c><00:10:14.890><c> about</c><00:10:15.190><c> them</c><00:10:15.370><c> in</c><00:10:15.460><c> the</c><00:10:15.610><c> future</c>
+
+00:10:15.960 --> 00:10:15.970 align:start position:0%
+lot more about them in the future
+ 
+
+00:10:15.970 --> 00:10:17.460 align:start position:0%
+lot more about them in the future
+they're<00:10:16.210><c> really</c><00:10:16.510><c> useful</c><00:10:16.840><c> for</c><00:10:16.960><c> speeding</c><00:10:17.380><c> up</c>
+
+00:10:17.460 --> 00:10:17.470 align:start position:0%
+they're really useful for speeding up
+ 
+
+00:10:17.470 --> 00:10:19.260 align:start position:0%
+they're really useful for speeding up
+your<00:10:17.530><c> program</c><00:10:18.070><c> the</c><00:10:18.220><c> primary</c><00:10:18.700><c> purpose</c><00:10:19.240><c> of</c>
+
+00:10:19.260 --> 00:10:19.270 align:start position:0%
+your program the primary purpose of
+ 
+
+00:10:19.270 --> 00:10:22.110 align:start position:0%
+your program the primary purpose of
+threads<00:10:19.750><c> is</c><00:10:19.960><c> optimisation</c><00:10:20.800><c> but</c><00:10:20.830><c> not</c><00:10:21.190><c> only</c><00:10:21.670><c> you</c>
+
+00:10:22.110 --> 00:10:22.120 align:start position:0%
+threads is optimisation but not only you
+ 
+
+00:10:22.120 --> 00:10:23.580 align:start position:0%
+threads is optimisation but not only you
+can<00:10:22.240><c> also</c><00:10:22.390><c> use</c><00:10:22.630><c> them</c><00:10:22.810><c> to</c><00:10:22.930><c> do</c><00:10:23.020><c> things</c><00:10:23.200><c> like</c><00:10:23.410><c> we</c>
+
+00:10:23.580 --> 00:10:23.590 align:start position:0%
+can also use them to do things like we
+ 
+
+00:10:23.590 --> 00:10:25.590 align:start position:0%
+can also use them to do things like we
+did<00:10:23.740><c> today</c><00:10:23.890><c> that</c><00:10:24.010><c> isn't</c><00:10:24.820><c> really</c><00:10:25.030><c> possible</c><00:10:25.210><c> to</c>
+
+00:10:25.590 --> 00:10:25.600 align:start position:0%
+did today that isn't really possible to
+ 
+
+00:10:25.600 --> 00:10:27.570 align:start position:0%
+did today that isn't really possible to
+do<00:10:25.780><c> because</c><00:10:26.350><c> we</c><00:10:26.620><c> literally</c><00:10:27.040><c> need</c><00:10:27.280><c> to</c><00:10:27.340><c> be</c><00:10:27.520><c> able</c>
+
+00:10:27.570 --> 00:10:27.580 align:start position:0%
+do because we literally need to be able
+ 
+
+00:10:27.580 --> 00:10:28.620 align:start position:0%
+do because we literally need to be able
+to<00:10:27.730><c> do</c><00:10:27.820><c> two</c><00:10:28.000><c> things</c><00:10:28.120><c> at</c><00:10:28.330><c> once</c>
+
+00:10:28.620 --> 00:10:28.630 align:start position:0%
+to do two things at once
+ 
+
+00:10:28.630 --> 00:10:31.170 align:start position:0%
+to do two things at once
+if<00:10:28.810><c> you</c><00:10:29.380><c> did</c><00:10:29.620><c> have</c><00:10:29.920><c> your</c><00:10:30.160><c> own</c><00:10:30.400><c> send</c><00:10:30.850><c> dog</c><00:10:31.000><c> gate</c>
+
+00:10:31.170 --> 00:10:31.180 align:start position:0%
+if you did have your own send dog gate
+ 
+
+00:10:31.180 --> 00:10:32.640 align:start position:0%
+if you did have your own send dog gate
+function<00:10:31.540><c> you</c><00:10:31.690><c> could</c><00:10:31.840><c> of</c><00:10:31.960><c> course</c><00:10:31.990><c> alternate</c>
+
+00:10:32.640 --> 00:10:32.650 align:start position:0%
+function you could of course alternate
+ 
+
+00:10:32.650 --> 00:10:34.470 align:start position:0%
+function you could of course alternate
+between<00:10:32.800><c> work</c><00:10:33.250><c> what</c><00:10:33.910><c> I</c><00:10:33.940><c> mean</c><00:10:34.090><c> by</c><00:10:34.180><c> that</c><00:10:34.300><c> is</c>
+
+00:10:34.470 --> 00:10:34.480 align:start position:0%
+between work what I mean by that is
+ 
+
+00:10:34.480 --> 00:10:36.510 align:start position:0%
+between work what I mean by that is
+let's<00:10:34.990><c> see</c><00:10:35.140><c> if</c><00:10:35.200><c> the</c><00:10:35.290><c> users</c><00:10:35.590><c> press</c><00:10:35.860><c> ENTER</c><00:10:36.250><c> if</c>
+
+00:10:36.510 --> 00:10:36.520 align:start position:0%
+let's see if the users press ENTER if
+ 
+
+00:10:36.520 --> 00:10:38.550 align:start position:0%
+let's see if the users press ENTER if
+not<00:10:36.940><c> let's</c><00:10:37.420><c> print</c><00:10:37.600><c> working</c><00:10:38.050><c> to</c><00:10:38.170><c> the</c><00:10:38.260><c> console</c>
+
+00:10:38.550 --> 00:10:38.560 align:start position:0%
+not let's print working to the console
+ 
+
+00:10:38.560 --> 00:10:40.770 align:start position:0%
+not let's print working to the console
+then<00:10:39.280><c> we</c><00:10:39.460><c> do</c><00:10:39.550><c> that</c><00:10:39.670><c> again</c><00:10:39.850><c> like</c><00:10:40.000><c> you</c><00:10:40.120><c> can</c><00:10:40.390><c> do</c><00:10:40.660><c> it</c>
+
+00:10:40.770 --> 00:10:40.780 align:start position:0%
+then we do that again like you can do it
+ 
+
+00:10:40.780 --> 00:10:42.540 align:start position:0%
+then we do that again like you can do it
+on<00:10:40.870><c> one</c><00:10:40.900><c> thread</c><00:10:41.320><c> you</c><00:10:41.470><c> can't</c><00:10:41.770><c> with</c><00:10:41.890><c> seen</c><00:10:42.130><c> yet</c>
+
+00:10:42.540 --> 00:10:42.550 align:start position:0%
+on one thread you can't with seen yet
+ 
+
+00:10:42.550 --> 00:10:44.850 align:start position:0%
+on one thread you can't with seen yet
+because<00:10:42.880><c> it</c><00:10:43.060><c> blocks</c><00:10:43.390><c> the</c><00:10:43.540><c> entire</c><00:10:43.900><c> thread</c><00:10:44.260><c> but</c>
+
+00:10:44.850 --> 00:10:44.860 align:start position:0%
+because it blocks the entire thread but
+ 
+
+00:10:44.860 --> 00:10:46.320 align:start position:0%
+because it blocks the entire thread but
+if<00:10:44.950><c> you</c><00:10:45.070><c> had</c><00:10:45.250><c> your</c><00:10:45.430><c> own</c><00:10:45.580><c> method</c><00:10:46.000><c> there's</c><00:10:46.240><c> no</c>
+
+00:10:46.320 --> 00:10:46.330 align:start position:0%
+if you had your own method there's no
+ 
+
+00:10:46.330 --> 00:10:48.000 align:start position:0%
+if you had your own method there's no
+reason<00:10:46.660><c> why</c><00:10:46.750><c> you</c><00:10:46.810><c> couldn't</c><00:10:47.140><c> do</c><00:10:47.320><c> that</c><00:10:47.350><c> so</c><00:10:47.920><c> it's</c>
+
+00:10:48.000 --> 00:10:48.010 align:start position:0%
+reason why you couldn't do that so it's
+ 
+
+00:10:48.010 --> 00:10:49.080 align:start position:0%
+reason why you couldn't do that so it's
+not<00:10:48.070><c> like</c><00:10:48.250><c> things</c><00:10:48.370><c> are</c><00:10:48.580><c> completely</c>
+
+00:10:49.080 --> 00:10:49.090 align:start position:0%
+not like things are completely
+ 
+
+00:10:49.090 --> 00:10:51.060 align:start position:0%
+not like things are completely
+impossible<00:10:49.330><c> it's</c><00:10:50.140><c> just</c><00:10:50.200><c> more</c><00:10:50.500><c> or</c><00:10:50.530><c> less</c><00:10:50.650><c> than</c>
+
+00:10:51.060 --> 00:10:51.070 align:start position:0%
+impossible it's just more or less than
+ 
+
+00:10:51.070 --> 00:10:52.950 align:start position:0%
+impossible it's just more or less than
+some<00:10:51.250><c> things</c><00:10:51.460><c> a</c><00:10:51.580><c> lot</c><00:10:51.730><c> easier</c><00:10:51.940><c> and</c><00:10:52.360><c> a</c><00:10:52.840><c> lot</c>
+
+00:10:52.950 --> 00:10:52.960 align:start position:0%
+some things a lot easier and a lot
+ 
+
+00:10:52.960 --> 00:10:55.440 align:start position:0%
+some things a lot easier and a lot
+faster<00:10:53.020><c> if</c><00:10:53.860><c> you</c><00:10:54.340><c> actually</c><00:10:54.670><c> utilize</c><00:10:54.970><c> threading</c>
+
+00:10:55.440 --> 00:10:55.450 align:start position:0%
+faster if you actually utilize threading
+ 
+
+00:10:55.450 --> 00:10:57.060 align:start position:0%
+faster if you actually utilize threading
+and<00:10:55.600><c> that's</c><00:10:56.110><c> a</c><00:10:56.200><c> huge</c><00:10:56.410><c> topic</c><00:10:56.560><c> which</c><00:10:56.830><c> we</c><00:10:56.950><c> will</c>
+
+00:10:57.060 --> 00:10:57.070 align:start position:0%
+and that's a huge topic which we will
+ 
+
+00:10:57.070 --> 00:10:59.160 align:start position:0%
+and that's a huge topic which we will
+continue<00:10:57.370><c> to</c><00:10:57.460><c> explore</c><00:10:57.640><c> in</c><00:10:57.910><c> the</c><00:10:57.970><c> future</c><00:10:58.110><c> do</c><00:10:59.110><c> you</c>
+
+00:10:59.160 --> 00:10:59.170 align:start position:0%
+continue to explore in the future do you
+ 
+
+00:10:59.170 --> 00:11:00.330 align:start position:0%
+continue to explore in the future do you
+guys<00:10:59.290><c> like</c><00:10:59.470><c> this</c><00:10:59.590><c> video</c><00:10:59.740><c> you</c><00:11:00.010><c> can</c><00:11:00.130><c> hit</c><00:11:00.220><c> the</c>
+
+00:11:00.330 --> 00:11:00.340 align:start position:0%
+guys like this video you can hit the
+ 
+
+00:11:00.340 --> 00:11:01.470 align:start position:0%
+guys like this video you can hit the
+like<00:11:00.550><c> button</c><00:11:00.880><c> you</c><00:11:00.940><c> can</c><00:11:01.060><c> also</c><00:11:01.180><c> help</c><00:11:01.360><c> support</c>
+
+00:11:01.470 --> 00:11:01.480 align:start position:0%
+like button you can also help support
+ 
+
+00:11:01.480 --> 00:11:02.910 align:start position:0%
+like button you can also help support
+this<00:11:01.720><c> series</c><00:11:01.990><c> by</c><00:11:02.080><c> go</c><00:11:02.200><c> to</c><00:11:02.260><c> patreon.com/scishow</c>
+
+00:11:02.910 --> 00:11:02.920 align:start position:0%
+this series by go to patreon.com/scishow
+ 
+
+00:11:02.920 --> 00:11:05.520 align:start position:0%
+this series by go to patreon.com/scishow
+no<00:11:03.880><c> link</c><00:11:04.210><c> will</c><00:11:04.330><c> be</c><00:11:04.450><c> in</c><00:11:04.600><c> the</c><00:11:04.660><c> description</c><00:11:05.110><c> huge</c>
+
+00:11:05.520 --> 00:11:05.530 align:start position:0%
+no link will be in the description huge
+ 
+
+00:11:05.530 --> 00:11:07.269 align:start position:0%
+no link will be in the description huge
+thank<00:11:05.770><c> you</c><00:11:05.890><c> as</c><00:11:05.980><c> always</c><00:11:06.100><c> to</c><00:11:06.580><c> all</c><00:11:06.790><c> the</c><00:11:06.910><c> patron</c>
+
+00:11:07.269 --> 00:11:07.279 align:start position:0%
+thank you as always to all the patron
+ 
+
+00:11:07.279 --> 00:11:09.460 align:start position:0%
+thank you as always to all the patron
+support<00:11:07.910><c> this</c><00:11:08.089><c> series</c><00:11:08.420><c> they</c><00:11:08.930><c> would</c><00:11:09.110><c> not</c><00:11:09.230><c> be</c>
+
+00:11:09.460 --> 00:11:09.470 align:start position:0%
+support this series they would not be
+ 
+
+00:11:09.470 --> 00:11:12.460 align:start position:0%
+support this series they would not be
+here<00:11:09.740><c> without</c><00:11:09.920><c> you</c><00:11:10.879><c> I'm</c><00:11:11.839><c> gonna</c><00:11:12.139><c> get</c><00:11:12.319><c> out</c><00:11:12.439><c> of</c>
+
+00:11:12.460 --> 00:11:12.470 align:start position:0%
+here without you I'm gonna get out of
+ 
+
+00:11:12.470 --> 00:11:14.499 align:start position:0%
+here without you I'm gonna get out of
+this<00:11:12.620><c> forest</c><00:11:13.040><c> before</c><00:11:13.430><c> it</c><00:11:13.490><c> gets</c><00:11:13.639><c> too</c><00:11:13.939><c> dark</c><00:11:13.970><c> and</c>
+
+00:11:14.499 --> 00:11:14.509 align:start position:0%
+this forest before it gets too dark and
+ 
+
+00:11:14.509 --> 00:11:17.890 align:start position:0%
+this forest before it gets too dark and
+I'll<00:11:14.689><c> see</c><00:11:14.959><c> you</c><00:11:15.019><c> guys</c><00:11:15.170><c> next</c><00:11:15.230><c> time</c><00:11:15.560><c> goodbye</c>
+
+00:11:17.890 --> 00:11:17.900 align:start position:0%
+I'll see you guys next time goodbye
+ 
+
+00:11:17.900 --> 00:11:33.080 align:start position:0%
+I'll see you guys next time goodbye
+[Music]
+

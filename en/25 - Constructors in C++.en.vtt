@@ -1,0 +1,1616 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:00.000 --> 00:00:01.400 align:start position:0%
+ 
+it<00:00:00.149><c> was</c><00:00:00.240><c> look</c><00:00:00.359><c> guys</c><00:00:00.510><c> my</c><00:00:00.840><c> name</c><00:00:00.989><c> is</c><00:00:01.020><c> the</c><00:00:01.170><c> china</c>
+
+00:00:01.400 --> 00:00:01.410 align:start position:0%
+it was look guys my name is the china
+ 
+
+00:00:01.410 --> 00:00:03.260 align:start position:0%
+it was look guys my name is the china
+rose<00:00:01.620><c> and</c><00:00:01.829><c> back</c><00:00:01.920><c> to</c><00:00:02.100><c> my</c><00:00:02.220><c> sip</c><00:00:02.429><c> of</c><00:00:02.580><c> blood</c><00:00:02.850><c> series</c>
+
+00:00:03.260 --> 00:00:03.270 align:start position:0%
+rose and back to my sip of blood series
+ 
+
+00:00:03.270 --> 00:00:04.579 align:start position:0%
+rose and back to my sip of blood series
+today<00:00:03.689><c> we're</c><00:00:03.780><c> going</c><00:00:03.899><c> to</c><00:00:03.990><c> continue</c><00:00:04.350><c> on</c><00:00:04.470><c> our</c>
+
+00:00:04.579 --> 00:00:04.589 align:start position:0%
+today we're going to continue on our
+ 
+
+00:00:04.589 --> 00:00:06.050 align:start position:0%
+today we're going to continue on our
+whole<00:00:04.890><c> object-oriented</c><00:00:05.640><c> programming</c>
+
+00:00:06.050 --> 00:00:06.060 align:start position:0%
+whole object-oriented programming
+ 
+
+00:00:06.060 --> 00:00:07.970 align:start position:0%
+whole object-oriented programming
+classes<00:00:06.480><c> or</c><00:00:07.020><c> that</c><00:00:07.259><c> doesn't</c><00:00:07.740><c> want</c><00:00:07.859><c> to</c><00:00:07.919><c> talk</c>
+
+00:00:07.970 --> 00:00:07.980 align:start position:0%
+classes or that doesn't want to talk
+ 
+
+00:00:07.980 --> 00:00:09.980 align:start position:0%
+classes or that doesn't want to talk
+about<00:00:08.069><c> constructors</c><00:00:08.849><c> in</c><00:00:09.059><c> C++</c>
+
+00:00:09.980 --> 00:00:09.990 align:start position:0%
+about constructors in C++
+ 
+
+00:00:09.990 --> 00:00:12.320 align:start position:0%
+about constructors in C++
+so<00:00:10.139><c> what</c><00:00:10.530><c> is</c><00:00:10.710><c> a</c><00:00:10.860><c> constructor</c><00:00:11.639><c> a</c><00:00:11.790><c> constructor</c>
+
+00:00:12.320 --> 00:00:12.330 align:start position:0%
+so what is a constructor a constructor
+ 
+
+00:00:12.330 --> 00:00:13.940 align:start position:0%
+so what is a constructor a constructor
+is<00:00:12.420><c> basically</c><00:00:12.719><c> a</c><00:00:12.840><c> special</c><00:00:13.170><c> type</c><00:00:13.320><c> of</c><00:00:13.349><c> method</c>
+
+00:00:13.940 --> 00:00:13.950 align:start position:0%
+is basically a special type of method
+ 
+
+00:00:13.950 --> 00:00:16.189 align:start position:0%
+is basically a special type of method
+which<00:00:14.190><c> runs</c><00:00:14.460><c> every</c><00:00:14.820><c> time</c><00:00:15.030><c> we</c><00:00:15.179><c> instantiate</c><00:00:15.660><c> an</c>
+
+00:00:16.189 --> 00:00:16.199 align:start position:0%
+which runs every time we instantiate an
+ 
+
+00:00:16.199 --> 00:00:17.990 align:start position:0%
+which runs every time we instantiate an
+object<00:00:16.410><c> so</c><00:00:16.920><c> I</c><00:00:16.949><c> think</c><00:00:17.100><c> the</c><00:00:17.340><c> best</c><00:00:17.550><c> described</c>
+
+00:00:17.990 --> 00:00:18.000 align:start position:0%
+object so I think the best described
+ 
+
+00:00:18.000 --> 00:00:20.150 align:start position:0%
+object so I think the best described
+with<00:00:18.449><c> an</c><00:00:18.539><c> example</c><00:00:18.900><c> suppose</c><00:00:19.410><c> that</c><00:00:19.740><c> we</c><00:00:19.859><c> want</c><00:00:20.039><c> to</c>
+
+00:00:20.150 --> 00:00:20.160 align:start position:0%
+with an example suppose that we want to
+ 
+
+00:00:20.160 --> 00:00:21.650 align:start position:0%
+with an example suppose that we want to
+create<00:00:20.400><c> an</c><00:00:20.580><c> empty</c><00:00:20.939><c> class</c><00:00:21.240><c> let's</c><00:00:21.510><c> actually</c>
+
+00:00:21.650 --> 00:00:21.660 align:start position:0%
+create an empty class let's actually
+ 
+
+00:00:21.660 --> 00:00:23.509 align:start position:0%
+create an empty class let's actually
+dive<00:00:21.900><c> into</c><00:00:22.050><c> some</c><00:00:22.350><c> code</c><00:00:22.500><c> daybook</c><00:00:22.859><c> we</c><00:00:23.310><c> want</c><00:00:23.460><c> to</c>
+
+00:00:23.509 --> 00:00:23.519 align:start position:0%
+dive into some code daybook we want to
+ 
+
+00:00:23.519 --> 00:00:26.060 align:start position:0%
+dive into some code daybook we want to
+create<00:00:23.640><c> an</c><00:00:23.760><c> entity</c><00:00:23.939><c> class</c><00:00:24.330><c> here</c><00:00:24.830><c> which</c><00:00:25.830><c> has</c>
+
+00:00:26.060 --> 00:00:26.070 align:start position:0%
+create an entity class here which has
+ 
+
+00:00:26.070 --> 00:00:29.179 align:start position:0%
+create an entity class here which has
+two<00:00:26.490><c> members</c><00:00:27.150><c> perhaps</c><00:00:27.630><c> it</c><00:00:27.810><c> has</c><00:00:27.990><c> a</c><00:00:28.289><c> flirt</c><00:00:28.619><c> X</c><00:00:28.890><c> and</c>
+
+00:00:29.179 --> 00:00:29.189 align:start position:0%
+two members perhaps it has a flirt X and
+ 
+
+00:00:29.189 --> 00:00:31.220 align:start position:0%
+two members perhaps it has a flirt X and
+a<00:00:29.220><c> flirt</c><00:00:29.519><c> Y</c><00:00:30.029><c> which</c><00:00:30.359><c> is</c><00:00:30.720><c> basically</c><00:00:31.109><c> just</c>
+
+00:00:31.220 --> 00:00:31.230 align:start position:0%
+a flirt Y which is basically just
+ 
+
+00:00:31.230 --> 00:00:33.380 align:start position:0%
+a flirt Y which is basically just
+describing<00:00:31.650><c> the</c><00:00:31.859><c> position</c><00:00:32.040><c> of</c><00:00:32.550><c> the</c><00:00:32.700><c> entity</c><00:00:33.180><c> if</c>
+
+00:00:33.380 --> 00:00:33.390 align:start position:0%
+describing the position of the entity if
+ 
+
+00:00:33.390 --> 00:00:35.479 align:start position:0%
+describing the position of the entity if
+I<00:00:33.719><c> try</c><00:00:33.960><c> and</c><00:00:34.079><c> create</c><00:00:34.260><c> this</c><00:00:34.500><c> entity</c><00:00:35.040><c> and</c><00:00:35.340><c> then</c>
+
+00:00:35.479 --> 00:00:35.489 align:start position:0%
+I try and create this entity and then
+ 
+
+00:00:35.489 --> 00:00:37.340 align:start position:0%
+I try and create this entity and then
+perhaps<00:00:35.670><c> maybe</c><00:00:36.149><c> give</c><00:00:36.420><c> it</c><00:00:36.450><c> a</c><00:00:36.660><c> print</c><00:00:37.050><c> function</c>
+
+00:00:37.340 --> 00:00:37.350 align:start position:0%
+perhaps maybe give it a print function
+ 
+
+00:00:37.350 --> 00:00:39.740 align:start position:0%
+perhaps maybe give it a print function
+so<00:00:37.800><c> that</c><00:00:37.829><c> it</c><00:00:37.980><c> can</c><00:00:38.190><c> output</c><00:00:38.370><c> what</c><00:00:39.120><c> it</c><00:00:39.239><c> is</c><00:00:39.390><c> into</c>
+
+00:00:39.740 --> 00:00:39.750 align:start position:0%
+so that it can output what it is into
+ 
+
+00:00:39.750 --> 00:00:42.770 align:start position:0%
+so that it can output what it is into
+the<00:00:39.840><c> console</c><00:00:40.290><c> I'll</c><00:00:41.129><c> just</c><00:00:41.579><c> print</c><00:00:41.820><c> X</c><00:00:42.180><c> and</c><00:00:42.600><c> have</c><00:00:42.750><c> a</c>
+
+00:00:42.770 --> 00:00:42.780 align:start position:0%
+the console I'll just print X and have a
+ 
+
+00:00:42.780 --> 00:00:45.350 align:start position:0%
+the console I'll just print X and have a
+nice<00:00:43.020><c> little</c><00:00:43.290><c> separator</c><00:00:44.129><c> comma</c><00:00:44.430><c> between</c><00:00:45.270><c> the</c>
+
+00:00:45.350 --> 00:00:45.360 align:start position:0%
+nice little separator comma between the
+ 
+
+00:00:45.360 --> 00:00:48.410 align:start position:0%
+nice little separator comma between the
+two<00:00:45.570><c> then</c><00:00:46.440><c> why</c><00:00:46.739><c> I'm</c><00:00:47.550><c> instantiating</c><00:00:47.969><c> the</c>
+
+00:00:48.410 --> 00:00:48.420 align:start position:0%
+two then why I'm instantiating the
+ 
+
+00:00:48.420 --> 00:00:50.479 align:start position:0%
+two then why I'm instantiating the
+entity<00:00:48.809><c> here</c><00:00:49.200><c> and</c><00:00:49.469><c> then</c><00:00:49.860><c> I'm</c><00:00:49.980><c> going</c><00:00:50.190><c> to</c><00:00:50.280><c> call</c>
+
+00:00:50.479 --> 00:00:50.489 align:start position:0%
+entity here and then I'm going to call
+ 
+
+00:00:50.489 --> 00:00:52.880 align:start position:0%
+entity here and then I'm going to call
+the<00:00:50.640><c> print</c><00:00:51.030><c> function</c><00:00:51.510><c> if</c><00:00:52.110><c> I</c><00:00:52.260><c> find</c><00:00:52.530><c> on</c><00:00:52.680><c> this</c>
+
+00:00:52.880 --> 00:00:52.890 align:start position:0%
+the print function if I find on this
+ 
+
+00:00:52.890 --> 00:00:55.189 align:start position:0%
+the print function if I find on this
+code<00:00:53.160><c> you</c><00:00:53.520><c> can</c><00:00:53.699><c> see</c><00:00:53.850><c> that</c><00:00:54.059><c> it</c><00:00:54.270><c> will</c><00:00:54.539><c> work</c>
+
+00:00:55.189 --> 00:00:55.199 align:start position:0%
+code you can see that it will work
+ 
+
+00:00:55.199 --> 00:00:58.340 align:start position:0%
+code you can see that it will work
+however<00:00:55.829><c> I</c><00:00:56.129><c> get</c><00:00:56.489><c> seemingly</c><00:00:57.149><c> random</c><00:00:57.719><c> values</c>
+
+00:00:58.340 --> 00:00:58.350 align:start position:0%
+however I get seemingly random values
+ 
+
+00:00:58.350 --> 00:01:00.470 align:start position:0%
+however I get seemingly random values
+for<00:00:58.710><c> the</c><00:00:58.829><c> position</c><00:00:59.370><c> of</c><00:00:59.520><c> this</c><00:00:59.730><c> entity</c><00:01:00.239><c> and</c><00:01:00.359><c> that</c>
+
+00:01:00.470 --> 00:01:00.480 align:start position:0%
+for the position of this entity and that
+ 
+
+00:01:00.480 --> 00:01:02.029 align:start position:0%
+for the position of this entity and that
+is<00:01:00.600><c> because</c><00:01:00.870><c> when</c><00:01:01.020><c> we</c><00:01:01.140><c> instantiated</c><00:01:01.530><c> this</c>
+
+00:01:02.029 --> 00:01:02.039 align:start position:0%
+is because when we instantiated this
+ 
+
+00:01:02.039 --> 00:01:04.820 align:start position:0%
+is because when we instantiated this
+empty<00:01:02.579><c> and</c><00:01:02.820><c> allocated</c><00:01:03.750><c> memory</c><00:01:03.899><c> for</c><00:01:04.409><c> it</c><00:01:04.530><c> we</c>
+
+00:01:04.820 --> 00:01:04.830 align:start position:0%
+empty and allocated memory for it we
+ 
+
+00:01:04.830 --> 00:01:06.859 align:start position:0%
+empty and allocated memory for it we
+didn't<00:01:05.129><c> actually</c><00:01:05.309><c> initialize</c><00:01:06.150><c> that</c><00:01:06.390><c> memory</c>
+
+00:01:06.859 --> 00:01:06.869 align:start position:0%
+didn't actually initialize that memory
+ 
+
+00:01:06.869 --> 00:01:08.600 align:start position:0%
+didn't actually initialize that memory
+meaning<00:01:07.260><c> that</c><00:01:07.560><c> we</c><00:01:07.770><c> got</c><00:01:08.010><c> whatever</c><00:01:08.369><c> was</c><00:01:08.580><c> left</c>
+
+00:01:08.600 --> 00:01:08.610 align:start position:0%
+meaning that we got whatever was left
+ 
+
+00:01:08.610 --> 00:01:11.210 align:start position:0%
+meaning that we got whatever was left
+over<00:01:09.000><c> in</c><00:01:09.450><c> that</c><00:01:09.689><c> in</c><00:01:10.020><c> that</c><00:01:10.049><c> memory</c><00:01:10.530><c> space</c><00:01:10.860><c> what</c>
+
+00:01:11.210 --> 00:01:11.220 align:start position:0%
+over in that in that memory space what
+ 
+
+00:01:11.220 --> 00:01:13.039 align:start position:0%
+over in that in that memory space what
+we<00:01:11.340><c> probably</c><00:01:11.580><c> want</c><00:01:12.000><c> to</c><00:01:12.060><c> do</c><00:01:12.299><c> is</c><00:01:12.600><c> actually</c>
+
+00:01:13.039 --> 00:01:13.049 align:start position:0%
+we probably want to do is actually
+ 
+
+00:01:13.049 --> 00:01:15.530 align:start position:0%
+we probably want to do is actually
+initialize<00:01:13.560><c> the</c><00:01:13.799><c> memory</c><00:01:14.159><c> and</c><00:01:14.430><c> set</c><00:01:14.700><c> it</c><00:01:14.850><c> to</c><00:01:15.030><c> zero</c>
+
+00:01:15.530 --> 00:01:15.540 align:start position:0%
+initialize the memory and set it to zero
+ 
+
+00:01:15.540 --> 00:01:16.850 align:start position:0%
+initialize the memory and set it to zero
+or<00:01:15.780><c> something</c><00:01:15.810><c> like</c><00:01:16.229><c> that</c><00:01:16.439><c> so</c><00:01:16.650><c> that</c><00:01:16.680><c> our</c>
+
+00:01:16.850 --> 00:01:16.860 align:start position:0%
+or something like that so that our
+ 
+
+00:01:16.860 --> 00:01:18.950 align:start position:0%
+or something like that so that our
+position<00:01:17.400><c> is</c><00:01:17.549><c> zero</c><00:01:17.850><c> by</c><00:01:18.060><c> default</c><00:01:18.420><c> we</c><00:01:18.750><c> don't</c>
+
+00:01:18.950 --> 00:01:18.960 align:start position:0%
+position is zero by default we don't
+ 
+
+00:01:18.960 --> 00:01:21.230 align:start position:0%
+position is zero by default we don't
+specify<00:01:19.229><c> it</c><00:01:19.619><c> or</c><00:01:19.830><c> set</c><00:01:20.100><c> a</c><00:01:20.310><c> position</c><00:01:20.820><c> in</c><00:01:21.060><c> the</c>
+
+00:01:21.230 --> 00:01:21.240 align:start position:0%
+specify it or set a position in the
+ 
+
+00:01:21.240 --> 00:01:22.249 align:start position:0%
+specify it or set a position in the
+future<00:01:21.390><c> I'm</c><00:01:21.570><c> going</c><00:01:21.659><c> to</c><00:01:21.750><c> make</c><00:01:21.840><c> an</c><00:01:21.930><c> in-depth</c>
+
+00:01:22.249 --> 00:01:22.259 align:start position:0%
+future I'm going to make an in-depth
+ 
+
+00:01:22.259 --> 00:01:24.320 align:start position:0%
+future I'm going to make an in-depth
+video<00:01:22.619><c> about</c><00:01:22.799><c> initialization</c><00:01:23.729><c> for</c><00:01:23.939><c> classes</c>
+
+00:01:24.320 --> 00:01:24.330 align:start position:0%
+video about initialization for classes
+ 
+
+00:01:24.330 --> 00:01:25.789 align:start position:0%
+video about initialization for classes
+and<00:01:24.509><c> all</c><00:01:24.600><c> of</c><00:01:24.720><c> that</c><00:01:24.750><c> so</c><00:01:25.170><c> I'm</c><00:01:25.229><c> going</c><00:01:25.439><c> to</c><00:01:25.500><c> keep</c><00:01:25.650><c> it</c>
+
+00:01:25.789 --> 00:01:25.799 align:start position:0%
+and all of that so I'm going to keep it
+ 
+
+00:01:25.799 --> 00:01:27.740 align:start position:0%
+and all of that so I'm going to keep it
+brief<00:01:25.979><c> here</c><00:01:26.369><c> but</c><00:01:26.700><c> another</c><00:01:26.880><c> great</c><00:01:27.090><c> example</c><00:01:27.600><c> is</c>
+
+00:01:27.740 --> 00:01:27.750 align:start position:0%
+brief here but another great example is
+ 
+
+00:01:27.750 --> 00:01:30.200 align:start position:0%
+brief here but another great example is
+if<00:01:27.930><c> we</c><00:01:28.110><c> decide</c><00:01:28.409><c> to</c><00:01:28.439><c> manually</c><00:01:29.250><c> print</c><00:01:29.610><c> x</c><00:01:29.850><c> and</c><00:01:30.119><c> y</c>
+
+00:01:30.200 --> 00:01:30.210 align:start position:0%
+if we decide to manually print x and y
+ 
+
+00:01:30.210 --> 00:01:31.880 align:start position:0%
+if we decide to manually print x and y
+they're<00:01:30.479><c> public</c><00:01:30.869><c> so</c><00:01:31.110><c> we</c><00:01:31.229><c> can</c><00:01:31.380><c> go</c><00:01:31.500><c> ahead</c><00:01:31.530><c> and</c>
+
+00:01:31.880 --> 00:01:31.890 align:start position:0%
+they're public so we can go ahead and
+ 
+
+00:01:31.890 --> 00:01:33.830 align:start position:0%
+they're public so we can go ahead and
+try<00:01:32.070><c> and</c><00:01:32.130><c> write</c><00:01:32.369><c> code</c><00:01:32.670><c> which</c><00:01:32.939><c> prints</c><00:01:33.360><c> out</c><00:01:33.509><c> X</c>
+
+00:01:33.830 --> 00:01:33.840 align:start position:0%
+try and write code which prints out X
+ 
+
+00:01:33.840 --> 00:01:36.800 align:start position:0%
+try and write code which prints out X
+for<00:01:34.200><c> example</c><00:01:34.290><c> P</c><00:01:34.920><c> dot</c><00:01:35.189><c> X</c><00:01:35.520><c> if</c><00:01:36.329><c> we</c><00:01:36.479><c> try</c><00:01:36.689><c> and</c>
+
+00:01:36.800 --> 00:01:36.810 align:start position:0%
+for example P dot X if we try and
+ 
+
+00:01:36.810 --> 00:01:38.539 align:start position:0%
+for example P dot X if we try and
+compile<00:01:37.140><c> this</c><00:01:37.350><c> code</c><00:01:37.439><c> you</c><00:01:37.979><c> can</c><00:01:38.130><c> see</c><00:01:38.250><c> that</c><00:01:38.430><c> we</c>
+
+00:01:38.539 --> 00:01:38.549 align:start position:0%
+compile this code you can see that we
+ 
+
+00:01:38.549 --> 00:01:40.310 align:start position:0%
+compile this code you can see that we
+get<00:01:38.670><c> an</c><00:01:38.820><c> uninitialized</c><00:01:39.210><c> local</c><00:01:39.840><c> variable</c><00:01:40.200><c> e</c>
+
+00:01:40.310 --> 00:01:40.320 align:start position:0%
+get an uninitialized local variable e
+ 
+
+00:01:40.320 --> 00:01:42.800 align:start position:0%
+get an uninitialized local variable e
+used<00:01:40.770><c> error</c><00:01:41.130><c> message</c><00:01:41.700><c> so</c><00:01:42.180><c> in</c><00:01:42.299><c> other</c><00:01:42.390><c> words</c><00:01:42.659><c> it</c>
+
+00:01:42.800 --> 00:01:42.810 align:start position:0%
+used error message so in other words it
+ 
+
+00:01:42.810 --> 00:01:44.899 align:start position:0%
+used error message so in other words it
+will<00:01:43.259><c> not</c><00:01:43.470><c> even</c><00:01:43.860><c> compile</c><00:01:44.310><c> because</c><00:01:44.759><c> we're</c>
+
+00:01:44.899 --> 00:01:44.909 align:start position:0%
+will not even compile because we're
+ 
+
+00:01:44.909 --> 00:01:46.730 align:start position:0%
+will not even compile because we're
+trying<00:01:45.119><c> to</c><00:01:45.240><c> use</c><00:01:45.540><c> memory</c><00:01:45.810><c> that</c><00:01:46.140><c> has</c><00:01:46.320><c> not</c><00:01:46.590><c> been</c>
+
+00:01:46.730 --> 00:01:46.740 align:start position:0%
+trying to use memory that has not been
+ 
+
+00:01:46.740 --> 00:01:48.679 align:start position:0%
+trying to use memory that has not been
+initialized<00:01:47.340><c> this</c><00:01:47.880><c> print</c><00:01:48.210><c> function</c><00:01:48.509><c> does</c>
+
+00:01:48.679 --> 00:01:48.689 align:start position:0%
+initialized this print function does
+ 
+
+00:01:48.689 --> 00:01:50.480 align:start position:0%
+initialized this print function does
+compile<00:01:49.110><c> however</c><00:01:49.470><c> it</c><00:01:49.649><c> doesn't</c><00:01:49.829><c> work</c><00:01:50.130><c> the</c><00:01:50.369><c> way</c>
+
+00:01:50.480 --> 00:01:50.490 align:start position:0%
+compile however it doesn't work the way
+ 
+
+00:01:50.490 --> 00:01:51.980 align:start position:0%
+compile however it doesn't work the way
+that<00:01:50.520><c> we</c><00:01:50.729><c> expect</c><00:01:51.030><c> it</c><00:01:51.240><c> to</c><00:01:51.270><c> of</c><00:01:51.479><c> course</c><00:01:51.630><c> because</c>
+
+00:01:51.980 --> 00:01:51.990 align:start position:0%
+that we expect it to of course because
+ 
+
+00:01:51.990 --> 00:01:53.870 align:start position:0%
+that we expect it to of course because
+it's<00:01:52.140><c> printing</c><00:01:52.470><c> x</c><00:01:52.680><c> and</c><00:01:52.860><c> y</c><00:01:52.979><c> however</c><00:01:53.399><c> they</c><00:01:53.640><c> are</c>
+
+00:01:53.870 --> 00:01:53.880 align:start position:0%
+it's printing x and y however they are
+ 
+
+00:01:53.880 --> 00:01:56.060 align:start position:0%
+it's printing x and y however they are
+set<00:01:54.149><c> to</c><00:01:54.360><c> seemingly</c><00:01:54.780><c> random</c><00:01:55.200><c> values</c><00:01:55.590><c> so</c><00:01:55.920><c> we've</c>
+
+00:01:56.060 --> 00:01:56.070 align:start position:0%
+set to seemingly random values so we've
+ 
+
+00:01:56.070 --> 00:01:57.620 align:start position:0%
+set to seemingly random values so we've
+already<00:01:56.219><c> got</c><00:01:56.490><c> a</c><00:01:56.640><c> need</c><00:01:56.909><c> for</c><00:01:57.119><c> some</c><00:01:57.329><c> kind</c><00:01:57.570><c> of</c>
+
+00:01:57.620 --> 00:01:57.630 align:start position:0%
+already got a need for some kind of
+ 
+
+00:01:57.630 --> 00:02:00.469 align:start position:0%
+already got a need for some kind of
+initialization<00:01:58.320><c> we</c><00:01:59.070><c> need</c><00:01:59.280><c> a</c><00:01:59.310><c> way</c><00:01:59.610><c> to</c><00:01:59.670><c> every</c>
+
+00:02:00.469 --> 00:02:00.479 align:start position:0%
+initialization we need a way to every
+ 
+
+00:02:00.479 --> 00:02:03.020 align:start position:0%
+initialization we need a way to every
+time<00:02:00.689><c> we</c><00:02:00.840><c> construct</c><00:02:01.380><c> an</c><00:02:01.530><c> entity</c><00:02:02.070><c> we</c><00:02:02.759><c> want</c><00:02:02.939><c> to</c>
+
+00:02:03.020 --> 00:02:03.030 align:start position:0%
+time we construct an entity we want to
+ 
+
+00:02:03.030 --> 00:02:04.910 align:start position:0%
+time we construct an entity we want to
+be<00:02:03.119><c> able</c><00:02:03.270><c> to</c><00:02:03.360><c> set</c><00:02:03.540><c> x</c><00:02:03.750><c> and</c><00:02:03.960><c> y</c><00:02:04.079><c> to</c><00:02:04.110><c> zero</c><00:02:04.590><c> unless</c>
+
+00:02:04.910 --> 00:02:04.920 align:start position:0%
+be able to set x and y to zero unless
+ 
+
+00:02:04.920 --> 00:02:06.820 align:start position:0%
+be able to set x and y to zero unless
+we've<00:02:05.250><c> specified</c><00:02:05.549><c> some</c>
+
+00:02:06.820 --> 00:02:06.830 align:start position:0%
+we've specified some
+ 
+
+00:02:06.830 --> 00:02:08.800 align:start position:0%
+we've specified some
+you<00:02:06.920><c> so</c><00:02:07.640><c> what</c><00:02:07.850><c> you</c><00:02:07.880><c> might</c><00:02:08.090><c> want</c><00:02:08.330><c> to</c><00:02:08.390><c> do</c><00:02:08.540><c> to</c><00:02:08.690><c> do</c>
+
+00:02:08.800 --> 00:02:08.810 align:start position:0%
+you so what you might want to do to do
+ 
+
+00:02:08.810 --> 00:02:10.870 align:start position:0%
+you so what you might want to do to do
+that<00:02:08.840><c> is</c><00:02:09.229><c> create</c><00:02:09.530><c> an</c><00:02:09.680><c> init</c><00:02:10.070><c> method</c><00:02:10.610><c> so</c><00:02:10.790><c> I'll</c>
+
+00:02:10.870 --> 00:02:10.880 align:start position:0%
+that is create an init method so I'll
+ 
+
+00:02:10.880 --> 00:02:12.340 align:start position:0%
+that is create an init method so I'll
+create<00:02:11.060><c> a</c><00:02:11.180><c> method</c><00:02:11.510><c> called</c><00:02:11.720><c> internet</c><00:02:12.140><c> it'll</c>
+
+00:02:12.340 --> 00:02:12.350 align:start position:0%
+create a method called internet it'll
+ 
+
+00:02:12.350 --> 00:02:14.230 align:start position:0%
+create a method called internet it'll
+just<00:02:12.500><c> be</c><00:02:12.650><c> void</c><00:02:12.860><c> and</c><00:02:13.160><c> it</c><00:02:13.580><c> will</c><00:02:13.730><c> just</c><00:02:13.880><c> take</c><00:02:14.060><c> the</c>
+
+00:02:14.230 --> 00:02:14.240 align:start position:0%
+just be void and it will just take the
+ 
+
+00:02:14.240 --> 00:02:17.350 align:start position:0%
+just be void and it will just take the
+job<00:02:14.390><c> of</c><00:02:14.570><c> setting</c><00:02:14.870><c> ax</c><00:02:15.080><c> and</c><00:02:15.290><c> y</c><00:02:15.320><c> to</c><00:02:15.500><c> zero</c><00:02:16.190><c> now</c><00:02:16.760><c> what</c>
+
+00:02:17.350 --> 00:02:17.360 align:start position:0%
+job of setting ax and y to zero now what
+ 
+
+00:02:17.360 --> 00:02:19.240 align:start position:0%
+job of setting ax and y to zero now what
+I<00:02:17.390><c> can</c><00:02:17.600><c> do</c><00:02:17.750><c> is</c><00:02:18.020><c> when</c><00:02:18.590><c> my</c><00:02:18.710><c> entity</c><00:02:18.920><c> gets</c>
+
+00:02:19.240 --> 00:02:19.250 align:start position:0%
+I can do is when my entity gets
+ 
+
+00:02:19.250 --> 00:02:21.510 align:start position:0%
+I can do is when my entity gets
+constructed<00:02:19.490><c> I</c><00:02:19.850><c> can</c><00:02:20.030><c> call</c><00:02:20.210><c> a</c><00:02:20.450><c> dot</c><00:02:20.660><c> in</c><00:02:20.870><c> it</c><00:02:21.110><c> and</c>
+
+00:02:21.510 --> 00:02:21.520 align:start position:0%
+constructed I can call a dot in it and
+ 
+
+00:02:21.520 --> 00:02:23.890 align:start position:0%
+constructed I can call a dot in it and
+then<00:02:22.520><c> if</c><00:02:22.640><c> I</c><00:02:22.760><c> try</c><00:02:22.820><c> and</c><00:02:23.060><c> print</c><00:02:23.330><c> my</c><00:02:23.600><c> event</c><00:02:23.870><c> my</c>
+
+00:02:23.890 --> 00:02:23.900 align:start position:0%
+then if I try and print my event my
+ 
+
+00:02:23.900 --> 00:02:26.530 align:start position:0%
+then if I try and print my event my
+values<00:02:24.440><c> you</c><00:02:25.130><c> can</c><00:02:25.280><c> see</c><00:02:25.430><c> that</c><00:02:25.580><c> I</c><00:02:25.610><c> get</c><00:02:25.730><c> zero</c><00:02:26.210><c> and</c>
+
+00:02:26.530 --> 00:02:26.540 align:start position:0%
+values you can see that I get zero and
+ 
+
+00:02:26.540 --> 00:02:28.990 align:start position:0%
+values you can see that I get zero and
+then<00:02:26.780><c> when</c><00:02:27.080><c> I</c><00:02:27.110><c> call</c><00:02:27.440><c> print</c><00:02:27.740><c> I</c><00:02:27.950><c> get</c><00:02:28.370><c> zero</c><00:02:28.700><c> comma</c>
+
+00:02:28.990 --> 00:02:29.000 align:start position:0%
+then when I call print I get zero comma
+ 
+
+00:02:29.000 --> 00:02:30.850 align:start position:0%
+then when I call print I get zero comma
+zero<00:02:29.120><c> printing</c><00:02:29.690><c> meaning</c><00:02:29.960><c> that</c><00:02:30.020><c> x</c><00:02:30.230><c> and</c><00:02:30.410><c> y</c><00:02:30.530><c> I</c><00:02:30.560><c> set</c>
+
+00:02:30.850 --> 00:02:30.860 align:start position:0%
+zero printing meaning that x and y I set
+ 
+
+00:02:30.860 --> 00:02:33.280 align:start position:0%
+zero printing meaning that x and y I set
+to<00:02:30.950><c> zero</c><00:02:31.190><c> wonderful</c><00:02:31.880><c> however</c><00:02:32.480><c> this</c><00:02:32.810><c> is</c><00:02:32.990><c> quite</c>
+
+00:02:33.280 --> 00:02:33.290 align:start position:0%
+to zero wonderful however this is quite
+ 
+
+00:02:33.290 --> 00:02:34.720 align:start position:0%
+to zero wonderful however this is quite
+a<00:02:33.320><c> bit</c><00:02:33.440><c> of</c><00:02:33.530><c> code</c><00:02:33.710><c> that</c><00:02:33.740><c> we've</c><00:02:33.950><c> written</c><00:02:33.980><c> extra</c>
+
+00:02:34.720 --> 00:02:34.730 align:start position:0%
+a bit of code that we've written extra
+ 
+
+00:02:34.730 --> 00:02:37.000 align:start position:0%
+a bit of code that we've written extra
+we've<00:02:35.240><c> had</c><00:02:35.450><c> to</c><00:02:35.600><c> define</c><00:02:35.900><c> this</c><00:02:36.140><c> in</c><00:02:36.380><c> this</c><00:02:36.590><c> method</c>
+
+00:02:37.000 --> 00:02:37.010 align:start position:0%
+we've had to define this in this method
+ 
+
+00:02:37.010 --> 00:02:38.500 align:start position:0%
+we've had to define this in this method
+and<00:02:37.190><c> every</c><00:02:37.580><c> time</c><00:02:37.790><c> we</c><00:02:37.940><c> want</c><00:02:38.120><c> to</c><00:02:38.150><c> create</c><00:02:38.240><c> an</c>
+
+00:02:38.500 --> 00:02:38.510 align:start position:0%
+and every time we want to create an
+ 
+
+00:02:38.510 --> 00:02:40.570 align:start position:0%
+and every time we want to create an
+entity<00:02:38.780><c> in</c><00:02:39.080><c> our</c><00:02:39.170><c> code</c><00:02:39.470><c> it</c><00:02:39.830><c> means</c><00:02:40.010><c> that</c><00:02:40.250><c> we</c><00:02:40.370><c> have</c>
+
+00:02:40.570 --> 00:02:40.580 align:start position:0%
+entity in our code it means that we have
+ 
+
+00:02:40.580 --> 00:02:42.580 align:start position:0%
+entity in our code it means that we have
+to<00:02:40.730><c> actually</c><00:02:40.940><c> run</c><00:02:41.420><c> that</c><00:02:41.630><c> init</c><00:02:41.990><c> function</c><00:02:42.230><c> that</c>
+
+00:02:42.580 --> 00:02:42.590 align:start position:0%
+to actually run that init function that
+ 
+
+00:02:42.590 --> 00:02:44.560 align:start position:0%
+to actually run that init function that
+is<00:02:42.830><c> quite</c><00:02:43.190><c> a</c><00:02:43.220><c> lot</c><00:02:43.580><c> of</c><00:02:43.610><c> extra</c><00:02:44.060><c> code</c><00:02:44.240><c> and</c>
+
+00:02:44.560 --> 00:02:44.570 align:start position:0%
+is quite a lot of extra code and
+ 
+
+00:02:44.570 --> 00:02:46.390 align:start position:0%
+is quite a lot of extra code and
+definitely<00:02:45.230><c> not</c><00:02:45.350><c> clean</c><00:02:45.650><c> so</c><00:02:45.860><c> whether</c><00:02:46.100><c> it</c><00:02:46.250><c> was</c><00:02:46.340><c> a</c>
+
+00:02:46.390 --> 00:02:46.400 align:start position:0%
+definitely not clean so whether it was a
+ 
+
+00:02:46.400 --> 00:02:48.190 align:start position:0%
+definitely not clean so whether it was a
+way<00:02:46.490><c> for</c><00:02:46.520><c> us</c><00:02:46.760><c> to</c><00:02:46.940><c> run</c><00:02:47.360><c> this</c><00:02:47.540><c> initialization</c>
+
+00:02:48.190 --> 00:02:48.200 align:start position:0%
+way for us to run this initialization
+ 
+
+00:02:48.200 --> 00:02:50.740 align:start position:0%
+way for us to run this initialization
+code<00:02:48.320><c> one</c><00:02:48.500><c> we</c><00:02:48.590><c> construct</c><00:02:49.100><c> an</c><00:02:49.370><c> empty</c><00:02:49.760><c> in</c><00:02:50.420><c> comes</c>
+
+00:02:50.740 --> 00:02:50.750 align:start position:0%
+code one we construct an empty in comes
+ 
+
+00:02:50.750 --> 00:02:52.630 align:start position:0%
+code one we construct an empty in comes
+the<00:02:50.990><c> constructor</c><00:02:51.560><c> so</c><00:02:51.770><c> the</c><00:02:51.830><c> constructor</c><00:02:52.370><c> is</c><00:02:52.490><c> a</c>
+
+00:02:52.630 --> 00:02:52.640 align:start position:0%
+the constructor so the constructor is a
+ 
+
+00:02:52.640 --> 00:02:54.670 align:start position:0%
+the constructor so the constructor is a
+special<00:02:53.090><c> type</c><00:02:53.330><c> of</c><00:02:53.360><c> method</c><00:02:54.080><c> which</c><00:02:54.350><c> is</c>
+
+00:02:54.670 --> 00:02:54.680 align:start position:0%
+special type of method which is
+ 
+
+00:02:54.680 --> 00:02:57.580 align:start position:0%
+special type of method which is
+basically<00:02:55.670><c> this</c><00:02:56.420><c> if</c><00:02:56.660><c> the</c><00:02:57.020><c> message</c><00:02:57.350><c> that</c><00:02:57.470><c> gets</c>
+
+00:02:57.580 --> 00:02:57.590 align:start position:0%
+basically this if the message that gets
+ 
+
+00:02:57.590 --> 00:02:59.410 align:start position:0%
+basically this if the message that gets
+called<00:02:57.890><c> every</c><00:02:58.130><c> time</c><00:02:58.520><c> you</c><00:02:58.850><c> construct</c><00:02:59.300><c> an</c>
+
+00:02:59.410 --> 00:02:59.420 align:start position:0%
+called every time you construct an
+ 
+
+00:02:59.420 --> 00:03:01.630 align:start position:0%
+called every time you construct an
+object<00:02:59.570><c> to</c><00:03:00.170><c> define</c><00:03:00.530><c> it</c><00:03:00.740><c> we</c><00:03:01.130><c> define</c><00:03:01.490><c> it</c><00:03:01.610><c> like</c>
+
+00:03:01.630 --> 00:03:01.640 align:start position:0%
+object to define it we define it like
+ 
+
+00:03:01.640 --> 00:03:03.070 align:start position:0%
+object to define it we define it like
+any<00:03:01.940><c> other</c><00:03:02.000><c> method</c><00:03:02.450><c> however</c><00:03:02.630><c> it</c><00:03:02.930><c> does</c><00:03:03.050><c> not</c>
+
+00:03:03.070 --> 00:03:03.080 align:start position:0%
+any other method however it does not
+ 
+
+00:03:03.080 --> 00:03:05.590 align:start position:0%
+any other method however it does not
+have<00:03:03.230><c> a</c><00:03:03.410><c> return</c><00:03:03.650><c> type</c><00:03:04.100><c> and</c><00:03:04.310><c> its</c><00:03:05.000><c> name</c><00:03:05.270><c> must</c>
+
+00:03:05.590 --> 00:03:05.600 align:start position:0%
+have a return type and its name must
+ 
+
+00:03:05.600 --> 00:03:07.600 align:start position:0%
+have a return type and its name must
+match<00:03:05.720><c> the</c><00:03:05.990><c> name</c><00:03:06.440><c> of</c><00:03:06.680><c> the</c><00:03:06.770><c> class</c><00:03:07.040><c> if</c><00:03:07.280><c> I</c><00:03:07.400><c> want</c><00:03:07.550><c> to</c>
+
+00:03:07.600 --> 00:03:07.610 align:start position:0%
+match the name of the class if I want to
+ 
+
+00:03:07.610 --> 00:03:09.250 align:start position:0%
+match the name of the class if I want to
+construct<00:03:07.850><c> it</c><00:03:08.000><c> for</c><00:03:08.120><c> entity</c><00:03:08.480><c> I</c><00:03:08.510><c> just</c><00:03:08.870><c> type</c><00:03:09.050><c> in</c>
+
+00:03:09.250 --> 00:03:09.260 align:start position:0%
+construct it for entity I just type in
+ 
+
+00:03:09.260 --> 00:03:11.229 align:start position:0%
+construct it for entity I just type in
+the<00:03:09.620><c> name</c><00:03:09.800><c> of</c><00:03:09.860><c> the</c><00:03:10.040><c> class</c><00:03:10.190><c> which</c><00:03:10.520><c> is</c><00:03:10.640><c> entity</c><00:03:11.030><c> I</c>
+
+00:03:11.229 --> 00:03:11.239 align:start position:0%
+the name of the class which is entity I
+ 
+
+00:03:11.239 --> 00:03:13.090 align:start position:0%
+the name of the class which is entity I
+can<00:03:11.750><c> optionally</c><00:03:11.930><c> give</c><00:03:12.410><c> it</c><00:03:12.500><c> parameters</c><00:03:12.950><c> which</c>
+
+00:03:13.090 --> 00:03:13.100 align:start position:0%
+can optionally give it parameters which
+ 
+
+00:03:13.100 --> 00:03:15.070 align:start position:0%
+can optionally give it parameters which
+we'll<00:03:13.220><c> talk</c><00:03:13.340><c> about</c><00:03:13.400><c> in</c><00:03:13.580><c> a</c><00:03:13.760><c> second</c><00:03:14.239><c> or</c><00:03:14.540><c> at</c><00:03:14.870><c> live</c>
+
+00:03:15.070 --> 00:03:15.080 align:start position:0%
+we'll talk about in a second or at live
+ 
+
+00:03:15.080 --> 00:03:16.900 align:start position:0%
+we'll talk about in a second or at live
+blog<00:03:15.320><c> and</c><00:03:15.650><c> then</c><00:03:15.920><c> I</c><00:03:15.950><c> can</c><00:03:16.160><c> just</c><00:03:16.280><c> give</c><00:03:16.459><c> it</c><00:03:16.550><c> a</c><00:03:16.640><c> body</c>
+
+00:03:16.900 --> 00:03:16.910 align:start position:0%
+blog and then I can just give it a body
+ 
+
+00:03:16.910 --> 00:03:19.540 align:start position:0%
+blog and then I can just give it a body
+and<00:03:17.300><c> in</c><00:03:17.450><c> this</c><00:03:17.540><c> case</c><00:03:17.780><c> I</c><00:03:17.959><c> can</c><00:03:18.170><c> set</c><00:03:18.380><c> X</c><00:03:18.620><c> to</c><00:03:18.739><c> be</c><00:03:18.950><c> 0</c><00:03:19.250><c> and</c>
+
+00:03:19.540 --> 00:03:19.550 align:start position:0%
+and in this case I can set X to be 0 and
+ 
+
+00:03:19.550 --> 00:03:21.940 align:start position:0%
+and in this case I can set X to be 0 and
+Y<00:03:20.120><c> should</c><00:03:20.180><c> be</c><00:03:20.450><c> 0</c><00:03:20.810><c> as</c><00:03:20.959><c> well</c><00:03:21.170><c> we</c><00:03:21.470><c> can</c><00:03:21.590><c> get</c><00:03:21.739><c> rid</c><00:03:21.920><c> of</c>
+
+00:03:21.940 --> 00:03:21.950 align:start position:0%
+Y should be 0 as well we can get rid of
+ 
+
+00:03:21.950 --> 00:03:23.710 align:start position:0%
+Y should be 0 as well we can get rid of
+this<00:03:22.130><c> igneous</c><00:03:22.489><c> method</c><00:03:22.970><c> and</c><00:03:23.300><c> if</c><00:03:23.390><c> we</c><00:03:23.510><c> scroll</c>
+
+00:03:23.710 --> 00:03:23.720 align:start position:0%
+this igneous method and if we scroll
+ 
+
+00:03:23.720 --> 00:03:25.570 align:start position:0%
+this igneous method and if we scroll
+down<00:03:23.780><c> here</c><00:03:23.930><c> we</c><00:03:24.650><c> don't</c><00:03:24.709><c> need</c><00:03:24.860><c> to</c><00:03:25.010><c> call</c><00:03:25.190><c> in</c><00:03:25.430><c> it</c>
+
+00:03:25.570 --> 00:03:25.580 align:start position:0%
+down here we don't need to call in it
+ 
+
+00:03:25.580 --> 00:03:28.780 align:start position:0%
+down here we don't need to call in it
+anymore<00:03:25.880><c> at</c><00:03:26.269><c> all</c><00:03:26.600><c> if</c><00:03:27.170><c> I</c><00:03:27.380><c> run</c><00:03:27.560><c> my</c><00:03:27.590><c> code</c><00:03:27.920><c> now</c><00:03:28.220><c> you</c>
+
+00:03:28.780 --> 00:03:28.790 align:start position:0%
+anymore at all if I run my code now you
+ 
+
+00:03:28.790 --> 00:03:30.640 align:start position:0%
+anymore at all if I run my code now you
+can<00:03:28.940><c> see</c><00:03:29.060><c> that</c><00:03:29.150><c> we</c><00:03:29.269><c> get</c><00:03:29.420><c> an</c><00:03:29.600><c> identical</c><00:03:30.290><c> result</c>
+
+00:03:30.640 --> 00:03:30.650 align:start position:0%
+can see that we get an identical result
+ 
+
+00:03:30.650 --> 00:03:32.650 align:start position:0%
+can see that we get an identical result
+to<00:03:30.950><c> what</c><00:03:31.100><c> we</c><00:03:31.250><c> had</c><00:03:31.430><c> when</c><00:03:31.580><c> we</c><00:03:31.730><c> ran</c><00:03:32.239><c> the</c><00:03:32.450><c> init</c>
+
+00:03:32.650 --> 00:03:32.660 align:start position:0%
+to what we had when we ran the init
+ 
+
+00:03:32.660 --> 00:03:34.479 align:start position:0%
+to what we had when we ran the init
+method<00:03:32.690><c> however</c><00:03:33.230><c> now</c><00:03:33.440><c> we'll</c><00:03:33.650><c> need</c><00:03:34.100><c> the</c><00:03:34.280><c> init</c>
+
+00:03:34.479 --> 00:03:34.489 align:start position:0%
+method however now we'll need the init
+ 
+
+00:03:34.489 --> 00:03:35.860 align:start position:0%
+method however now we'll need the init
+method<00:03:34.519><c> it's</c><00:03:34.910><c> handled</c><00:03:35.300><c> for</c><00:03:35.480><c> us</c><00:03:35.600><c> by</c><00:03:35.810><c> the</c>
+
+00:03:35.860 --> 00:03:35.870 align:start position:0%
+method it's handled for us by the
+ 
+
+00:03:35.870 --> 00:03:37.090 align:start position:0%
+method it's handled for us by the
+constructor<00:03:36.320><c> if</c><00:03:36.620><c> you</c><00:03:36.769><c> don't</c><00:03:36.950><c> specify</c>
+
+00:03:37.090 --> 00:03:37.100 align:start position:0%
+constructor if you don't specify
+ 
+
+00:03:37.100 --> 00:03:39.940 align:start position:0%
+constructor if you don't specify
+constructor<00:03:37.970><c> you</c><00:03:38.540><c> still</c><00:03:38.840><c> have</c><00:03:39.080><c> a</c><00:03:39.230><c> constructor</c>
+
+00:03:39.940 --> 00:03:39.950 align:start position:0%
+constructor you still have a constructor
+ 
+
+00:03:39.950 --> 00:03:41.500 align:start position:0%
+constructor you still have a constructor
+it's<00:03:40.130><c> just</c><00:03:40.459><c> something</c><00:03:40.730><c> called</c><00:03:41.060><c> a</c><00:03:41.150><c> default</c>
+
+00:03:41.500 --> 00:03:41.510 align:start position:0%
+it's just something called a default
+ 
+
+00:03:41.510 --> 00:03:43.390 align:start position:0%
+it's just something called a default
+constructor<00:03:41.780><c> it's</c><00:03:42.350><c> actually</c><00:03:42.620><c> provided</c><00:03:43.100><c> for</c>
+
+00:03:43.390 --> 00:03:43.400 align:start position:0%
+constructor it's actually provided for
+ 
+
+00:03:43.400 --> 00:03:45.490 align:start position:0%
+constructor it's actually provided for
+you<00:03:43.580><c> by</c><00:03:44.120><c> default</c><00:03:44.180><c> however</c><00:03:44.959><c> that</c><00:03:45.110><c> constructor</c>
+
+00:03:45.490 --> 00:03:45.500 align:start position:0%
+you by default however that constructor
+ 
+
+00:03:45.500 --> 00:03:46.840 align:start position:0%
+you by default however that constructor
+doesn't<00:03:45.800><c> actually</c><00:03:46.070><c> do</c><00:03:46.400><c> anything</c><00:03:46.430><c> it's</c>
+
+00:03:46.840 --> 00:03:46.850 align:start position:0%
+doesn't actually do anything it's
+ 
+
+00:03:46.850 --> 00:03:48.970 align:start position:0%
+doesn't actually do anything it's
+basically<00:03:47.239><c> equivalent</c><00:03:47.540><c> to</c><00:03:48.050><c> this</c><00:03:48.530><c> it</c><00:03:48.830><c> does</c>
+
+00:03:48.970 --> 00:03:48.980 align:start position:0%
+basically equivalent to this it does
+ 
+
+00:03:48.980 --> 00:03:50.380 align:start position:0%
+basically equivalent to this it does
+nothing<00:03:49.459><c> so</c><00:03:49.580><c> those</c><00:03:49.880><c> things</c><00:03:50.150><c> that</c><00:03:50.269><c> is</c>
+
+00:03:50.380 --> 00:03:50.390 align:start position:0%
+nothing so those things that is
+ 
+
+00:03:50.390 --> 00:03:52.060 align:start position:0%
+nothing so those things that is
+initializes<00:03:51.019><c> your</c><00:03:51.140><c> variable</c><00:03:51.560><c> at</c><00:03:51.739><c> all</c><00:03:51.769><c> in</c>
+
+00:03:52.060 --> 00:03:52.070 align:start position:0%
+initializes your variable at all in
+ 
+
+00:03:52.070 --> 00:03:53.920 align:start position:0%
+initializes your variable at all in
+languages<00:03:52.489><c> such</c><00:03:52.550><c> as</c><00:03:52.730><c> Java</c><00:03:53.150><c> primitive</c><00:03:53.480><c> types</c>
+
+00:03:53.920 --> 00:03:53.930 align:start position:0%
+languages such as Java primitive types
+ 
+
+00:03:53.930 --> 00:03:56.080 align:start position:0%
+languages such as Java primitive types
+like<00:03:54.140><c> int</c><00:03:54.440><c> or</c><00:03:54.680><c> floats</c><00:03:55.130><c> are</c><00:03:55.430><c> automatically</c>
+
+00:03:56.080 --> 00:03:56.090 align:start position:0%
+like int or floats are automatically
+ 
+
+00:03:56.090 --> 00:03:58.300 align:start position:0%
+like int or floats are automatically
+initialized<00:03:56.330><c> and</c><00:03:56.840><c> set</c><00:03:57.110><c> to</c><00:03:57.230><c> 0</c><00:03:57.500><c> that</c><00:03:57.739><c> is</c><00:03:57.800><c> not</c><00:03:58.130><c> the</c>
+
+00:03:58.300 --> 00:03:58.310 align:start position:0%
+initialized and set to 0 that is not the
+ 
+
+00:03:58.310 --> 00:03:59.800 align:start position:0%
+initialized and set to 0 that is not the
+case<00:03:58.519><c> in</c><00:03:58.760><c> simple</c><00:03:59.120><c> slots</c><00:03:59.360><c> you</c><00:03:59.480><c> have</c><00:03:59.660><c> to</c>
+
+00:03:59.800 --> 00:03:59.810 align:start position:0%
+case in simple slots you have to
+ 
+
+00:03:59.810 --> 00:04:02.470 align:start position:0%
+case in simple slots you have to
+manually<00:04:00.370><c> initialize</c><00:04:01.370><c> all</c><00:04:01.910><c> of</c><00:04:02.330><c> your</c>
+
+00:04:02.470 --> 00:04:02.480 align:start position:0%
+manually initialize all of your
+ 
+
+00:04:02.480 --> 00:04:03.220 align:start position:0%
+manually initialize all of your
+primitive<00:04:02.690><c> types</c>
+
+00:04:03.220 --> 00:04:03.230 align:start position:0%
+primitive types
+ 
+
+00:04:03.230 --> 00:04:05.860 align:start position:0%
+primitive types
+otherwise<00:04:03.920><c> they</c><00:04:04.310><c> will</c><00:04:04.580><c> be</c><00:04:04.610><c> set</c><00:04:05.480><c> to</c><00:04:05.660><c> whatever</c>
+
+00:04:05.860 --> 00:04:05.870 align:start position:0%
+otherwise they will be set to whatever
+ 
+
+00:04:05.870 --> 00:04:07.870 align:start position:0%
+otherwise they will be set to whatever
+was<00:04:06.110><c> left</c><00:04:06.170><c> over</c><00:04:06.500><c> in</c><00:04:06.769><c> that</c><00:04:06.950><c> memory</c><00:04:07.280><c> so</c><00:04:07.640><c> very</c>
+
+00:04:07.870 --> 00:04:07.880 align:start position:0%
+was left over in that memory so very
+ 
+
+00:04:07.880 --> 00:04:09.070 align:start position:0%
+was left over in that memory so very
+very<00:04:08.120><c> important</c><00:04:08.570><c> that</c><00:04:08.660><c> you</c><00:04:08.720><c> don't</c><00:04:08.810><c> forget</c>
+
+00:04:09.070 --> 00:04:09.080 align:start position:0%
+very important that you don't forget
+ 
+
+00:04:09.080 --> 00:04:10.420 align:start position:0%
+very important that you don't forget
+about<00:04:09.170><c> analyzation</c><00:04:09.830><c> again</c><00:04:10.160><c> I'm</c><00:04:10.250><c> going</c><00:04:10.340><c> to</c>
+
+00:04:10.420 --> 00:04:10.430 align:start position:0%
+about analyzation again I'm going to
+ 
+
+00:04:10.430 --> 00:04:12.130 align:start position:0%
+about analyzation again I'm going to
+talk<00:04:10.549><c> more</c><00:04:10.580><c> about</c><00:04:10.880><c> initialization</c><00:04:11.510><c> in</c><00:04:12.049><c> a</c>
+
+00:04:12.130 --> 00:04:12.140 align:start position:0%
+talk more about initialization in a
+ 
+
+00:04:12.140 --> 00:04:13.550 align:start position:0%
+talk more about initialization in a
+future<00:04:12.560><c> video</c><00:04:12.739><c> and</c>
+
+00:04:13.550 --> 00:04:13.560 align:start position:0%
+future video and
+ 
+
+00:04:13.560 --> 00:04:15.680 align:start position:0%
+future video and
+strategies<00:04:14.340><c> and</c><00:04:14.490><c> ways</c><00:04:14.670><c> to</c><00:04:14.730><c> initialize</c><00:04:15.270><c> memory</c>
+
+00:04:15.680 --> 00:04:15.690 align:start position:0%
+strategies and ways to initialize memory
+ 
+
+00:04:15.690 --> 00:04:17.390 align:start position:0%
+strategies and ways to initialize memory
+correctly<00:04:16.260><c> so</c><00:04:16.530><c> definitely</c><00:04:16.799><c> check</c><00:04:16.859><c> that</c><00:04:17.250><c> out</c>
+
+00:04:17.390 --> 00:04:17.400 align:start position:0%
+correctly so definitely check that out
+ 
+
+00:04:17.400 --> 00:04:19.340 align:start position:0%
+correctly so definitely check that out
+when<00:04:17.670><c> ever</c><00:04:18.209><c> I</c><00:04:18.359><c> get</c><00:04:18.600><c> around</c><00:04:18.840><c> to</c><00:04:18.989><c> making</c><00:04:19.139><c> that</c>
+
+00:04:19.340 --> 00:04:19.350 align:start position:0%
+when ever I get around to making that
+ 
+
+00:04:19.350 --> 00:04:21.349 align:start position:0%
+when ever I get around to making that
+let's<00:04:19.709><c> take</c><00:04:19.859><c> a</c><00:04:19.889><c> look</c><00:04:20.100><c> at</c><00:04:20.250><c> a</c><00:04:20.459><c> constructor</c><00:04:21.180><c> with</c>
+
+00:04:21.349 --> 00:04:21.359 align:start position:0%
+let's take a look at a constructor with
+ 
+
+00:04:21.359 --> 00:04:22.820 align:start position:0%
+let's take a look at a constructor with
+parameters<00:04:21.540><c> so</c><00:04:22.019><c> I</c><00:04:22.079><c> can</c><00:04:22.290><c> write</c><00:04:22.440><c> as</c><00:04:22.650><c> many</c>
+
+00:04:22.820 --> 00:04:22.830 align:start position:0%
+parameters so I can write as many
+ 
+
+00:04:22.830 --> 00:04:24.080 align:start position:0%
+parameters so I can write as many
+constructors<00:04:23.340><c> as</c><00:04:23.430><c> I</c><00:04:23.520><c> want</c><00:04:23.790><c> of</c><00:04:23.910><c> course</c>
+
+00:04:24.080 --> 00:04:24.090 align:start position:0%
+constructors as I want of course
+ 
+
+00:04:24.090 --> 00:04:25.850 align:start position:0%
+constructors as I want of course
+provided<00:04:24.630><c> they</c><00:04:24.690><c> have</c><00:04:24.900><c> different</c><00:04:25.680><c> parameters</c>
+
+00:04:25.850 --> 00:04:25.860 align:start position:0%
+provided they have different parameters
+ 
+
+00:04:25.860 --> 00:04:28.100 align:start position:0%
+provided they have different parameters
+are<00:04:26.400><c> the</c><00:04:26.520><c> same</c><00:04:26.550><c> as</c><00:04:27.000><c> if</c><00:04:27.120><c> I</c><00:04:27.240><c> was</c><00:04:27.389><c> writing</c><00:04:27.600><c> methods</c>
+
+00:04:28.100 --> 00:04:28.110 align:start position:0%
+are the same as if I was writing methods
+ 
+
+00:04:28.110 --> 00:04:30.110 align:start position:0%
+are the same as if I was writing methods
+with<00:04:28.770><c> the</c><00:04:29.070><c> same</c><00:04:29.190><c> name</c>
+
+00:04:30.110 --> 00:04:30.120 align:start position:0%
+with the same name
+ 
+
+00:04:30.120 --> 00:04:31.550 align:start position:0%
+with the same name
+however<00:04:30.419><c> providing</c><00:04:30.870><c> different</c><00:04:31.050><c> overloads</c>
+
+00:04:31.550 --> 00:04:31.560 align:start position:0%
+however providing different overloads
+ 
+
+00:04:31.560 --> 00:04:33.320 align:start position:0%
+however providing different overloads
+for<00:04:31.860><c> them</c><00:04:31.980><c> so</c><00:04:32.190><c> basically</c><00:04:32.340><c> different</c><00:04:32.730><c> versions</c>
+
+00:04:33.320 --> 00:04:33.330 align:start position:0%
+for them so basically different versions
+ 
+
+00:04:33.330 --> 00:04:35.150 align:start position:0%
+for them so basically different versions
+of<00:04:33.419><c> the</c><00:04:33.540><c> same</c><00:04:33.720><c> method</c><00:04:34.139><c> with</c><00:04:34.770><c> different</c>
+
+00:04:35.150 --> 00:04:35.160 align:start position:0%
+of the same method with different
+ 
+
+00:04:35.160 --> 00:04:37.190 align:start position:0%
+of the same method with different
+parameters<00:04:35.580><c> I'm</c><00:04:35.850><c> going</c><00:04:36.090><c> to</c><00:04:36.180><c> add</c><00:04:36.300><c> X</c><00:04:36.600><c> and</c><00:04:36.810><c> y</c><00:04:36.930><c> as</c><00:04:37.169><c> a</c>
+
+00:04:37.190 --> 00:04:37.200 align:start position:0%
+parameters I'm going to add X and y as a
+ 
+
+00:04:37.200 --> 00:04:39.200 align:start position:0%
+parameters I'm going to add X and y as a
+parameter<00:04:37.500><c> here</c><00:04:37.889><c> and</c><00:04:38.100><c> I'm</c><00:04:38.190><c> going</c><00:04:38.430><c> to</c><00:04:38.550><c> assign</c><00:04:38.850><c> X</c>
+
+00:04:39.200 --> 00:04:39.210 align:start position:0%
+parameter here and I'm going to assign X
+ 
+
+00:04:39.210 --> 00:04:41.600 align:start position:0%
+parameter here and I'm going to assign X
+and<00:04:39.419><c> y</c><00:04:39.570><c> to</c><00:04:40.020><c> x</c><00:04:40.050><c> and</c><00:04:40.530><c> y</c><00:04:40.680><c> so</c><00:04:41.040><c> basically</c><00:04:41.430><c> I'm</c>
+
+00:04:41.600 --> 00:04:41.610 align:start position:0%
+and y to x and y so basically I'm
+ 
+
+00:04:41.610 --> 00:04:44.900 align:start position:0%
+and y to x and y so basically I'm
+assigning<00:04:41.970><c> my</c><00:04:42.480><c> parameter</c><00:04:43.350><c> to</c><00:04:44.010><c> my</c><00:04:44.460><c> member</c>
+
+00:04:44.900 --> 00:04:44.910 align:start position:0%
+assigning my parameter to my member
+ 
+
+00:04:44.910 --> 00:04:46.970 align:start position:0%
+assigning my parameter to my member
+variable<00:04:45.389><c> here</c><00:04:45.630><c> I</c><00:04:45.840><c> now</c><00:04:46.110><c> have</c><00:04:46.320><c> the</c><00:04:46.440><c> option</c><00:04:46.890><c> of</c>
+
+00:04:46.970 --> 00:04:46.980 align:start position:0%
+variable here I now have the option of
+ 
+
+00:04:46.980 --> 00:04:49.190 align:start position:0%
+variable here I now have the option of
+constructing<00:04:47.580><c> entity</c><00:04:48.030><c> with</c><00:04:48.330><c> parameters</c><00:04:48.960><c> so</c><00:04:49.169><c> I</c>
+
+00:04:49.190 --> 00:04:49.200 align:start position:0%
+constructing entity with parameters so I
+ 
+
+00:04:49.200 --> 00:04:51.350 align:start position:0%
+constructing entity with parameters so I
+simply<00:04:49.530><c> write</c><00:04:50.070><c> whatever</c><00:04:50.610><c> my</c><00:04:50.820><c> I</c><00:04:50.850><c> want</c><00:04:51.330><c> my</c>
+
+00:04:51.350 --> 00:04:51.360 align:start position:0%
+simply write whatever my I want my
+ 
+
+00:04:51.360 --> 00:04:53.960 align:start position:0%
+simply write whatever my I want my
+values<00:04:51.750><c> to</c><00:04:51.870><c> be</c><00:04:51.900><c> such</c><00:04:52.230><c> as</c><00:04:52.410><c> 10</c><00:04:52.680><c> and</c><00:04:52.710><c> 5</c><00:04:53.370><c> I'll</c><00:04:53.760><c> get</c>
+
+00:04:53.960 --> 00:04:53.970 align:start position:0%
+values to be such as 10 and 5 I'll get
+ 
+
+00:04:53.970 --> 00:04:55.610 align:start position:0%
+values to be such as 10 and 5 I'll get
+rid<00:04:54.090><c> of</c><00:04:54.180><c> this</c><00:04:54.270><c> extra</c><00:04:54.600><c> print</c><00:04:54.960><c> and</c><00:04:55.169><c> if</c><00:04:55.320><c> I</c><00:04:55.440><c> run</c>
+
+00:04:55.610 --> 00:04:55.620 align:start position:0%
+rid of this extra print and if I run
+ 
+
+00:04:55.620 --> 00:04:57.409 align:start position:0%
+rid of this extra print and if I run
+this<00:04:55.770><c> I</c><00:04:56.010><c> should</c><00:04:56.310><c> have</c><00:04:56.400><c> called</c><00:04:56.580><c> get</c><00:04:56.820><c> 10</c><00:04:57.060><c> and</c><00:04:57.240><c> 5</c>
+
+00:04:57.409 --> 00:04:57.419 align:start position:0%
+this I should have called get 10 and 5
+ 
+
+00:04:57.419 --> 00:05:00.380 align:start position:0%
+this I should have called get 10 and 5
+printing<00:04:57.960><c> to</c><00:04:58.080><c> the</c><00:04:58.110><c> console</c><00:04:58.560><c> like</c><00:04:58.919><c> so</c><00:04:59.460><c> all</c>
+
+00:05:00.380 --> 00:05:00.390 align:start position:0%
+printing to the console like so all
+ 
+
+00:05:00.390 --> 00:05:02.180 align:start position:0%
+printing to the console like so all
+right<00:05:00.630><c> cool</c><00:05:00.870><c> that's</c><00:05:01.260><c> constructors</c><00:05:01.890><c> pretty</c>
+
+00:05:02.180 --> 00:05:02.190 align:start position:0%
+right cool that's constructors pretty
+ 
+
+00:05:02.190 --> 00:05:04.070 align:start position:0%
+right cool that's constructors pretty
+much<00:05:02.370><c> covered</c><00:05:02.730><c> constructors</c><00:05:03.390><c> of</c><00:05:03.540><c> course</c><00:05:03.840><c> will</c>
+
+00:05:04.070 --> 00:05:04.080 align:start position:0%
+much covered constructors of course will
+ 
+
+00:05:04.080 --> 00:05:05.870 align:start position:0%
+much covered constructors of course will
+not<00:05:04.260><c> run</c><00:05:04.500><c> if</c><00:05:04.770><c> you</c><00:05:04.890><c> do</c><00:05:05.010><c> not</c><00:05:05.130><c> instantiate</c><00:05:05.760><c> an</c>
+
+00:05:05.870 --> 00:05:05.880 align:start position:0%
+not run if you do not instantiate an
+ 
+
+00:05:05.880 --> 00:05:08.659 align:start position:0%
+not run if you do not instantiate an
+object<00:05:05.970><c> so</c><00:05:06.479><c> if</c><00:05:06.660><c> you</c><00:05:06.870><c> just</c><00:05:07.320><c> use</c><00:05:07.560><c> static</c><00:05:08.250><c> methods</c>
+
+00:05:08.659 --> 00:05:08.669 align:start position:0%
+object so if you just use static methods
+ 
+
+00:05:08.669 --> 00:05:11.870 align:start position:0%
+object so if you just use static methods
+from<00:05:08.970><c> a</c><00:05:09.060><c> class</c><00:05:09.330><c> it</c><00:05:10.140><c> would</c><00:05:10.890><c> run</c><00:05:11.400><c> we</c><00:05:11.669><c> haven't</c>
+
+00:05:11.870 --> 00:05:11.880 align:start position:0%
+from a class it would run we haven't
+ 
+
+00:05:11.880 --> 00:05:13.280 align:start position:0%
+from a class it would run we haven't
+talked<00:05:12.000><c> about</c><00:05:12.060><c> heap</c><00:05:12.360><c> allocation</c><00:05:12.810><c> yet</c><00:05:13.139><c> we</c>
+
+00:05:13.280 --> 00:05:13.290 align:start position:0%
+talked about heap allocation yet we
+ 
+
+00:05:13.290 --> 00:05:14.420 align:start position:0%
+talked about heap allocation yet we
+definitely<00:05:13.710><c> will</c><00:05:13.889><c> in</c><00:05:14.010><c> a</c><00:05:14.070><c> future</c><00:05:14.310><c> video</c>
+
+00:05:14.420 --> 00:05:14.430 align:start position:0%
+definitely will in a future video
+ 
+
+00:05:14.430 --> 00:05:16.400 align:start position:0%
+definitely will in a future video
+probably<00:05:14.880><c> really</c><00:05:15.330><c> really</c><00:05:15.600><c> soon</c><00:05:15.930><c> but</c><00:05:15.960><c> of</c>
+
+00:05:16.400 --> 00:05:16.410 align:start position:0%
+probably really really soon but of
+ 
+
+00:05:16.410 --> 00:05:17.960 align:start position:0%
+probably really really soon but of
+course<00:05:16.590><c> when</c><00:05:16.800><c> you</c><00:05:16.889><c> use</c><00:05:17.070><c> the</c><00:05:17.220><c> new</c><00:05:17.340><c> keyword</c><00:05:17.550><c> and</c>
+
+00:05:17.960 --> 00:05:17.970 align:start position:0%
+course when you use the new keyword and
+ 
+
+00:05:17.970 --> 00:05:20.870 align:start position:0%
+course when you use the new keyword and
+create<00:05:18.360><c> an</c><00:05:18.540><c> object</c><00:05:18.780><c> instance</c><00:05:19.590><c> it</c><00:05:19.860><c> will</c><00:05:20.490><c> also</c>
+
+00:05:20.870 --> 00:05:20.880 align:start position:0%
+create an object instance it will also
+ 
+
+00:05:20.880 --> 00:05:22.250 align:start position:0%
+create an object instance it will also
+call<00:05:21.090><c> the</c><00:05:21.180><c> constructor</c><00:05:21.419><c> there</c><00:05:21.990><c> are</c><00:05:22.080><c> ways</c><00:05:22.229><c> to</c>
+
+00:05:22.250 --> 00:05:22.260 align:start position:0%
+call the constructor there are ways to
+ 
+
+00:05:22.260 --> 00:05:24.080 align:start position:0%
+call the constructor there are ways to
+remove<00:05:22.650><c> a</c><00:05:22.919><c> constructor</c><00:05:23.340><c> as</c><00:05:23.430><c> well</c><00:05:23.610><c> if</c><00:05:23.790><c> for</c>
+
+00:05:24.080 --> 00:05:24.090 align:start position:0%
+remove a constructor as well if for
+ 
+
+00:05:24.090 --> 00:05:26.480 align:start position:0%
+remove a constructor as well if for
+example<00:05:24.120><c> you</c><00:05:24.690><c> had</c><00:05:24.870><c> a</c><00:05:25.110><c> log</c><00:05:25.440><c> class</c><00:05:25.919><c> which</c><00:05:26.310><c> you</c>
+
+00:05:26.480 --> 00:05:26.490 align:start position:0%
+example you had a log class which you
+ 
+
+00:05:26.490 --> 00:05:29.120 align:start position:0%
+example you had a log class which you
+only<00:05:26.790><c> had</c><00:05:27.180><c> static</c><00:05:27.600><c> methods</c><00:05:28.350><c> in</c><00:05:28.530><c> so</c><00:05:28.950><c> for</c>
+
+00:05:29.120 --> 00:05:29.130 align:start position:0%
+only had static methods in so for
+ 
+
+00:05:29.130 --> 00:05:31.540 align:start position:0%
+only had static methods in so for
+example<00:05:29.550><c> I</c><00:05:29.640><c> had</c><00:05:29.820><c> my</c><00:05:30.000><c> static</c><00:05:30.450><c> void</c><00:05:30.660><c> log</c><00:05:30.930><c> here</c>
+
+00:05:31.540 --> 00:05:31.550 align:start position:0%
+example I had my static void log here
+ 
+
+00:05:31.550 --> 00:05:33.500 align:start position:0%
+example I had my static void log here
+let's<00:05:32.550><c> call</c><00:05:32.700><c> it</c><00:05:32.789><c> something</c><00:05:32.910><c> like</c><00:05:33.210><c> right</c>
+
+00:05:33.500 --> 00:05:33.510 align:start position:0%
+let's call it something like right
+ 
+
+00:05:33.510 --> 00:05:35.600 align:start position:0%
+let's call it something like right
+instead<00:05:34.050><c> of</c><00:05:34.110><c> monkey</c><00:05:34.590><c> silly</c><00:05:34.830><c> and</c><00:05:35.100><c> I</c><00:05:35.340><c> only</c>
+
+00:05:35.600 --> 00:05:35.610 align:start position:0%
+instead of monkey silly and I only
+ 
+
+00:05:35.610 --> 00:05:37.730 align:start position:0%
+instead of monkey silly and I only
+wanted<00:05:36.120><c> to</c><00:05:36.240><c> allow</c><00:05:36.510><c> people</c><00:05:36.750><c> to</c><00:05:36.960><c> use</c><00:05:37.080><c> my</c><00:05:37.470><c> class</c>
+
+00:05:37.730 --> 00:05:37.740 align:start position:0%
+wanted to allow people to use my class
+ 
+
+00:05:37.740 --> 00:05:39.320 align:start position:0%
+wanted to allow people to use my class
+like<00:05:38.039><c> Thoreau</c><00:05:38.460><c> I</c><00:05:38.580><c> did</c><00:05:38.789><c> not</c><00:05:39.030><c> want</c><00:05:39.270><c> people</c>
+
+00:05:39.320 --> 00:05:39.330 align:start position:0%
+like Thoreau I did not want people
+ 
+
+00:05:39.330 --> 00:05:41.240 align:start position:0%
+like Thoreau I did not want people
+creating<00:05:39.900><c> instances</c><00:05:40.260><c> there's</c><00:05:40.650><c> two</c><00:05:40.890><c> different</c>
+
+00:05:41.240 --> 00:05:41.250 align:start position:0%
+creating instances there's two different
+ 
+
+00:05:41.250 --> 00:05:43.460 align:start position:0%
+creating instances there's two different
+strategies<00:05:41.460><c> for</c><00:05:42.270><c> sorting</c><00:05:42.570><c> that</c><00:05:42.750><c> out</c><00:05:42.810><c> we</c><00:05:43.440><c> can</c>
+
+00:05:43.460 --> 00:05:43.470 align:start position:0%
+strategies for sorting that out we can
+ 
+
+00:05:43.470 --> 00:05:45.469 align:start position:0%
+strategies for sorting that out we can
+either<00:05:43.800><c> hide</c><00:05:44.100><c> the</c><00:05:44.310><c> constructor</c><00:05:44.820><c> by</c><00:05:44.970><c> making</c><00:05:45.390><c> it</c>
+
+00:05:45.469 --> 00:05:45.479 align:start position:0%
+either hide the constructor by making it
+ 
+
+00:05:45.479 --> 00:05:47.630 align:start position:0%
+either hide the constructor by making it
+private<00:05:45.780><c> like</c><00:05:46.229><c> so</c><00:05:46.560><c> as</c><00:05:47.070><c> you</c><00:05:47.190><c> can</c><00:05:47.310><c> see</c><00:05:47.370><c> that</c><00:05:47.610><c> I</c>
+
+00:05:47.630 --> 00:05:47.640 align:start position:0%
+private like so as you can see that I
+ 
+
+00:05:47.640 --> 00:05:48.980 align:start position:0%
+private like so as you can see that I
+get<00:05:47.760><c> an</c><00:05:48.030><c> error</c><00:05:48.150><c> here</c><00:05:48.419><c> because</c><00:05:48.450><c> I</c><00:05:48.750><c> cannot</c>
+
+00:05:48.980 --> 00:05:48.990 align:start position:0%
+get an error here because I cannot
+ 
+
+00:05:48.990 --> 00:05:51.230 align:start position:0%
+get an error here because I cannot
+access<00:05:49.500><c> the</c><00:05:49.710><c> constructor</c><00:05:50.250><c> if</c><00:05:50.640><c> I</c><00:05:50.850><c> don't</c><00:05:51.090><c> do</c>
+
+00:05:51.230 --> 00:05:51.240 align:start position:0%
+access the constructor if I don't do
+ 
+
+00:05:51.240 --> 00:05:52.490 align:start position:0%
+access the constructor if I don't do
+something<00:05:51.450><c> like</c><00:05:51.690><c> that</c><00:05:51.900><c> you</c><00:05:52.050><c> can</c><00:05:52.200><c> see</c><00:05:52.350><c> it</c>
+
+00:05:52.490 --> 00:05:52.500 align:start position:0%
+something like that you can see it
+ 
+
+00:05:52.500 --> 00:05:53.900 align:start position:0%
+something like that you can see it
+obviously<00:05:52.860><c> allows</c><00:05:53.130><c> the</c><00:05:53.340><c> construction</c><00:05:53.850><c> of</c>
+
+00:05:53.900 --> 00:05:53.910 align:start position:0%
+obviously allows the construction of
+ 
+
+00:05:53.910 --> 00:05:55.730 align:start position:0%
+obviously allows the construction of
+this<00:05:54.030><c> object</c><00:05:54.510><c> because</c><00:05:54.900><c> they</c><00:05:55.440><c> both</c><00:05:55.590><c> lost</c>
+
+00:05:55.730 --> 00:05:55.740 align:start position:0%
+this object because they both lost
+ 
+
+00:05:55.740 --> 00:05:57.440 align:start position:0%
+this object because they both lost
+applied<00:05:56.100><c> the</c><00:05:56.250><c> default</c><00:05:56.580><c> constructor</c><00:05:56.820><c> for</c><00:05:57.270><c> us</c>
+
+00:05:57.440 --> 00:05:57.450 align:start position:0%
+applied the default constructor for us
+ 
+
+00:05:57.450 --> 00:05:59.630 align:start position:0%
+applied the default constructor for us
+however<00:05:58.169><c> we</c><00:05:58.320><c> can</c><00:05:58.530><c> tell</c><00:05:58.740><c> the</c><00:05:58.830><c> compiler</c><00:05:59.100><c> no</c><00:05:59.400><c> I</c>
+
+00:05:59.630 --> 00:05:59.640 align:start position:0%
+however we can tell the compiler no I
+ 
+
+00:05:59.640 --> 00:06:01.430 align:start position:0%
+however we can tell the compiler no I
+don't<00:05:59.880><c> want</c><00:06:00.060><c> that</c><00:06:00.120><c> default</c><00:06:00.539><c> constructor</c><00:06:00.990><c> and</c>
+
+00:06:01.430 --> 00:06:01.440 align:start position:0%
+don't want that default constructor and
+ 
+
+00:06:01.440 --> 00:06:03.950 align:start position:0%
+don't want that default constructor and
+we<00:06:01.620><c> can</c><00:06:01.770><c> do</c><00:06:01.890><c> so</c><00:06:02.100><c> by</c><00:06:02.340><c> simply</c><00:06:02.700><c> writing</c><00:06:02.940><c> log</c><00:06:03.390><c> which</c>
+
+00:06:03.950 --> 00:06:03.960 align:start position:0%
+we can do so by simply writing log which
+ 
+
+00:06:03.960 --> 00:06:06.170 align:start position:0%
+we can do so by simply writing log which
+is<00:06:04.080><c> a</c><00:06:04.169><c> default</c><00:06:04.620><c> constructor</c><00:06:04.800><c> equals</c><00:06:05.640><c> delete</c>
+
+00:06:06.170 --> 00:06:06.180 align:start position:0%
+is a default constructor equals delete
+ 
+
+00:06:06.180 --> 00:06:09.230 align:start position:0%
+is a default constructor equals delete
+and<00:06:06.419><c> if</c><00:06:07.410><c> you</c><00:06:07.530><c> look</c><00:06:07.710><c> over</c><00:06:07.950><c> here</c><00:06:07.979><c> we</c><00:06:08.460><c> cannot</c><00:06:08.820><c> call</c>
+
+00:06:09.230 --> 00:06:09.240 align:start position:0%
+and if you look over here we cannot call
+ 
+
+00:06:09.240 --> 00:06:11.150 align:start position:0%
+and if you look over here we cannot call
+love<00:06:09.750><c> like</c><00:06:09.960><c> this</c><00:06:10.140><c> because</c><00:06:10.560><c> the</c><00:06:10.830><c> default</c>
+
+00:06:11.150 --> 00:06:11.160 align:start position:0%
+love like this because the default
+ 
+
+00:06:11.160 --> 00:06:13.400 align:start position:0%
+love like this because the default
+constructor<00:06:11.430><c> doesn't</c><00:06:12.210><c> actually</c><00:06:12.570><c> exist</c><00:06:12.960><c> it's</c>
+
+00:06:13.400 --> 00:06:13.410 align:start position:0%
+constructor doesn't actually exist it's
+ 
+
+00:06:13.410 --> 00:06:15.320 align:start position:0%
+constructor doesn't actually exist it's
+delete<00:06:13.710><c> it</c><00:06:13.830><c> there</c><00:06:14.460><c> are</c><00:06:14.520><c> also</c><00:06:14.610><c> special</c><00:06:15.090><c> types</c>
+
+00:06:15.320 --> 00:06:15.330 align:start position:0%
+delete it there are also special types
+ 
+
+00:06:15.330 --> 00:06:16.700 align:start position:0%
+delete it there are also special types
+of<00:06:15.510><c> constructor</c><00:06:15.990><c> such</c><00:06:16.169><c> as</c><00:06:16.289><c> the</c><00:06:16.410><c> copy</c>
+
+00:06:16.700 --> 00:06:16.710 align:start position:0%
+of constructor such as the copy
+ 
+
+00:06:16.710 --> 00:06:18.409 align:start position:0%
+of constructor such as the copy
+constructor<00:06:17.250><c> and</c><00:06:17.400><c> the</c><00:06:17.550><c> move</c><00:06:17.789><c> constructor</c>
+
+00:06:18.409 --> 00:06:18.419 align:start position:0%
+constructor and the move constructor
+ 
+
+00:06:18.419 --> 00:06:19.320 align:start position:0%
+constructor and the move constructor
+they're<00:06:18.780><c> going</c><00:06:18.930><c> to</c><00:06:18.990><c> be</c><00:06:19.050><c> set</c>
+
+00:06:19.320 --> 00:06:19.330 align:start position:0%
+they're going to be set
+ 
+
+00:06:19.330 --> 00:06:20.909 align:start position:0%
+they're going to be set
+videos<00:06:19.659><c> on</c><00:06:19.870><c> each</c><00:06:20.110><c> of</c><00:06:20.289><c> those</c><00:06:20.379><c> because</c><00:06:20.680><c> they're</c>
+
+00:06:20.909 --> 00:06:20.919 align:start position:0%
+videos on each of those because they're
+ 
+
+00:06:20.919 --> 00:06:22.770 align:start position:0%
+videos on each of those because they're
+rather<00:06:21.129><c> complicated</c><00:06:21.699><c> but</c><00:06:21.909><c> to</c><00:06:22.030><c> the</c><00:06:22.270><c> basic</c><00:06:22.569><c> use</c>
+
+00:06:22.770 --> 00:06:22.780 align:start position:0%
+rather complicated but to the basic use
+ 
+
+00:06:22.780 --> 00:06:24.659 align:start position:0%
+rather complicated but to the basic use
+that<00:06:23.229><c> is</c><00:06:23.379><c> what</c><00:06:23.560><c> a</c><00:06:23.590><c> constructor</c><00:06:24.039><c> is</c><00:06:24.159><c> a</c><00:06:24.189><c> special</c>
+
+00:06:24.659 --> 00:06:24.669 align:start position:0%
+that is what a constructor is a special
+ 
+
+00:06:24.669 --> 00:06:26.279 align:start position:0%
+that is what a constructor is a special
+method<00:06:24.789><c> which</c><00:06:25.060><c> one</c><00:06:25.270><c> whenever</c><00:06:25.569><c> you</c><00:06:25.810><c> create</c><00:06:26.169><c> an</c>
+
+00:06:26.279 --> 00:06:26.289 align:start position:0%
+method which one whenever you create an
+ 
+
+00:06:26.289 --> 00:06:28.559 align:start position:0%
+method which one whenever you create an
+instance<00:06:26.560><c> of</c><00:06:26.919><c> a</c><00:06:27.159><c> class</c><00:06:27.189><c> the</c><00:06:27.879><c> primary</c><00:06:28.300><c> use</c><00:06:28.539><c> for</c>
+
+00:06:28.559 --> 00:06:28.569 align:start position:0%
+instance of a class the primary use for
+ 
+
+00:06:28.569 --> 00:06:31.110 align:start position:0%
+instance of a class the primary use for
+this<00:06:28.840><c> is</c><00:06:29.050><c> to</c><00:06:29.129><c> initialize</c><00:06:30.129><c> that</c><00:06:30.580><c> class</c><00:06:30.849><c> make</c>
+
+00:06:31.110 --> 00:06:31.120 align:start position:0%
+this is to initialize that class make
+ 
+
+00:06:31.120 --> 00:06:32.399 align:start position:0%
+this is to initialize that class make
+sure<00:06:31.150><c> that</c><00:06:31.389><c> you</c><00:06:31.509><c> neutralize</c><00:06:31.840><c> all</c><00:06:32.139><c> of</c><00:06:32.259><c> your</c>
+
+00:06:32.399 --> 00:06:32.409 align:start position:0%
+sure that you neutralize all of your
+ 
+
+00:06:32.409 --> 00:06:34.529 align:start position:0%
+sure that you neutralize all of your
+memory<00:06:32.740><c> and</c><00:06:33.099><c> do</c><00:06:33.310><c> any</c><00:06:33.550><c> kind</c><00:06:33.639><c> of</c><00:06:33.879><c> setups</c><00:06:34.449><c> that</c>
+
+00:06:34.529 --> 00:06:34.539 align:start position:0%
+memory and do any kind of setups that
+ 
+
+00:06:34.539 --> 00:06:35.879 align:start position:0%
+memory and do any kind of setups that
+you<00:06:34.719><c> need</c><00:06:34.870><c> to</c><00:06:34.960><c> do</c><00:06:35.080><c> whenever</c><00:06:35.319><c> you</c><00:06:35.530><c> creating</c>
+
+00:06:35.879 --> 00:06:35.889 align:start position:0%
+you need to do whenever you creating
+ 
+
+00:06:35.889 --> 00:06:37.709 align:start position:0%
+you need to do whenever you creating
+your<00:06:36.039><c> object</c><00:06:36.400><c> instance</c><00:06:36.849><c> process</c><00:06:37.389><c> we've</c><00:06:37.569><c> got</c>
+
+00:06:37.709 --> 00:06:37.719 align:start position:0%
+your object instance process we've got
+ 
+
+00:06:37.719 --> 00:06:39.659 align:start position:0%
+your object instance process we've got
+so<00:06:37.990><c> much</c><00:06:38.169><c> stuff</c><00:06:38.379><c> to</c><00:06:38.620><c> cover</c><00:06:38.800><c> I'll</c><00:06:39.250><c> see</c><00:06:39.490><c> you</c><00:06:39.580><c> guys</c>
+
+00:06:39.659 --> 00:06:39.669 align:start position:0%
+so much stuff to cover I'll see you guys
+ 
+
+00:06:39.669 --> 00:06:41.510 align:start position:0%
+so much stuff to cover I'll see you guys
+next<00:06:39.849><c> time</c><00:06:40.000><c> goodbye</c>
+
+00:06:41.510 --> 00:06:41.520 align:start position:0%
+next time goodbye
+ 
+
+00:06:41.520 --> 00:06:49.640 align:start position:0%
+next time goodbye
+[Music]
+
+00:06:49.640 --> 00:06:49.650 align:start position:0%
+ 
+ 
+
+00:06:49.650 --> 00:06:56.699 align:start position:0%
+ 
+[Music]
+

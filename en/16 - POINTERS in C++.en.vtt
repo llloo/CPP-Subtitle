@@ -1,0 +1,3928 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:03.830 --> 00:00:06.740 align:start position:0%
+ 
+hey<00:00:04.830><c> guys</c><00:00:05.040><c> hey</c><00:00:05.670><c> what's</c><00:00:05.850><c> up</c><00:00:06.000><c> guys</c><00:00:06.150><c> my</c><00:00:06.509><c> name</c><00:00:06.540><c> is</c>
+
+00:00:06.740 --> 00:00:06.750 align:start position:0%
+hey guys hey what's up guys my name is
+ 
+
+00:00:06.750 --> 00:00:08.720 align:start position:0%
+hey guys hey what's up guys my name is
+the<00:00:07.200><c> Cherno</c><00:00:07.529><c> and</c><00:00:07.799><c> welcome</c><00:00:08.040><c> back</c><00:00:08.069><c> to</c><00:00:08.429><c> my</c><00:00:08.550><c> say</c>
+
+00:00:08.720 --> 00:00:08.730 align:start position:0%
+the Cherno and welcome back to my say
+ 
+
+00:00:08.730 --> 00:00:11.240 align:start position:0%
+the Cherno and welcome back to my say
+class<00:00:08.910><c> class</c><00:00:09.120><c> series</c><00:00:09.540><c> so</c><00:00:09.929><c> today</c><00:00:10.200><c> possibly</c><00:00:10.920><c> the</c>
+
+00:00:11.240 --> 00:00:11.250 align:start position:0%
+class class series so today possibly the
+ 
+
+00:00:11.250 --> 00:00:13.249 align:start position:0%
+class class series so today possibly the
+most<00:00:11.460><c> important</c><00:00:12.210><c> episode</c><00:00:12.630><c> in</c><00:00:12.780><c> this</c><00:00:12.900><c> entire</c>
+
+00:00:13.249 --> 00:00:13.259 align:start position:0%
+most important episode in this entire
+ 
+
+00:00:13.259 --> 00:00:15.259 align:start position:0%
+most important episode in this entire
+series<00:00:13.940><c> we're</c><00:00:14.940><c> going</c><00:00:15.059><c> to</c><00:00:15.120><c> talk</c><00:00:15.240><c> about</c>
+
+00:00:15.259 --> 00:00:15.269 align:start position:0%
+series we're going to talk about
+ 
+
+00:00:15.269 --> 00:00:17.390 align:start position:0%
+series we're going to talk about
+pointers<00:00:15.809><c> now</c><00:00:16.020><c> fortunately</c><00:00:16.590><c> pointers</c><00:00:17.070><c> are</c><00:00:17.310><c> an</c>
+
+00:00:17.390 --> 00:00:17.400 align:start position:0%
+pointers now fortunately pointers are an
+ 
+
+00:00:17.400 --> 00:00:18.950 align:start position:0%
+pointers now fortunately pointers are an
+area<00:00:17.760><c> that</c><00:00:17.910><c> a</c><00:00:17.970><c> lot</c><00:00:18.150><c> of</c><00:00:18.240><c> people</c><00:00:18.510><c> struggle</c><00:00:18.930><c> with</c>
+
+00:00:18.950 --> 00:00:18.960 align:start position:0%
+area that a lot of people struggle with
+ 
+
+00:00:18.960 --> 00:00:21.560 align:start position:0%
+area that a lot of people struggle with
+so<00:00:19.740><c> I</c><00:00:19.770><c> just</c><00:00:19.980><c> really</c><00:00:20.160><c> want</c><00:00:20.310><c> to</c><00:00:20.340><c> say</c><00:00:20.550><c> don't</c><00:00:21.270><c> worry</c>
+
+00:00:21.560 --> 00:00:21.570 align:start position:0%
+so I just really want to say don't worry
+ 
+
+00:00:21.570 --> 00:00:23.689 align:start position:0%
+so I just really want to say don't worry
+you<00:00:21.810><c> don't</c><00:00:22.230><c> over</c><00:00:22.590><c> think</c><00:00:22.619><c> hip</c><00:00:23.070><c> pointers</c><00:00:23.550><c> are</c>
+
+00:00:23.689 --> 00:00:23.699 align:start position:0%
+you don't over think hip pointers are
+ 
+
+00:00:23.699 --> 00:00:25.790 align:start position:0%
+you don't over think hip pointers are
+actually<00:00:24.150><c> really</c><00:00:24.480><c> simple</c><00:00:24.869><c> and</c><00:00:25.260><c> I</c><00:00:25.470><c> also</c><00:00:25.619><c> want</c>
+
+00:00:25.790 --> 00:00:25.800 align:start position:0%
+actually really simple and I also want
+ 
+
+00:00:25.800 --> 00:00:27.019 align:start position:0%
+actually really simple and I also want
+to<00:00:25.830><c> mention</c><00:00:26.160><c> that</c><00:00:26.310><c> today</c><00:00:26.490><c> we'll</c><00:00:26.789><c> be</c><00:00:26.880><c> talking</c>
+
+00:00:27.019 --> 00:00:27.029 align:start position:0%
+to mention that today we'll be talking
+ 
+
+00:00:27.029 --> 00:00:29.269 align:start position:0%
+to mention that today we'll be talking
+about<00:00:27.240><c> Raw</c><00:00:27.689><c> pointers</c><00:00:28.199><c> not</c><00:00:28.380><c> smart</c><00:00:28.800><c> pointers</c><00:00:29.189><c> if</c>
+
+00:00:29.269 --> 00:00:29.279 align:start position:0%
+about Raw pointers not smart pointers if
+ 
+
+00:00:29.279 --> 00:00:30.500 align:start position:0%
+about Raw pointers not smart pointers if
+you<00:00:29.369><c> don't</c><00:00:29.490><c> know</c><00:00:29.580><c> what</c><00:00:29.730><c> smart</c><00:00:29.970><c> pointers</c><00:00:30.330><c> are</c>
+
+00:00:30.500 --> 00:00:30.510 align:start position:0%
+you don't know what smart pointers are
+ 
+
+00:00:30.510 --> 00:00:31.880 align:start position:0%
+you don't know what smart pointers are
+don't<00:00:30.779><c> worry</c><00:00:30.929><c> about</c><00:00:31.140><c> that</c><00:00:31.410><c> we'll</c><00:00:31.590><c> get</c><00:00:31.740><c> it</c><00:00:31.859><c> back</c>
+
+00:00:31.880 --> 00:00:31.890 align:start position:0%
+don't worry about that we'll get it back
+ 
+
+00:00:31.890 --> 00:00:33.830 align:start position:0%
+don't worry about that we'll get it back
+in<00:00:32.250><c> the</c><00:00:32.340><c> future</c><00:00:32.520><c> computers</c><00:00:33.090><c> deal</c><00:00:33.390><c> with</c><00:00:33.570><c> memory</c>
+
+00:00:33.830 --> 00:00:33.840 align:start position:0%
+in the future computers deal with memory
+ 
+
+00:00:33.840 --> 00:00:36.770 align:start position:0%
+in the future computers deal with memory
+memory<00:00:34.290><c> is</c><00:00:34.739><c> everything</c><00:00:35.700><c> to</c><00:00:35.910><c> a</c><00:00:35.940><c> computer</c><00:00:36.420><c> if</c><00:00:36.630><c> I</c>
+
+00:00:36.770 --> 00:00:36.780 align:start position:0%
+memory is everything to a computer if I
+ 
+
+00:00:36.780 --> 00:00:38.569 align:start position:0%
+memory is everything to a computer if I
+had<00:00:36.960><c> to</c><00:00:37.050><c> name</c><00:00:37.170><c> the</c><00:00:37.350><c> single</c><00:00:37.739><c> most</c><00:00:37.980><c> important</c>
+
+00:00:38.569 --> 00:00:38.579 align:start position:0%
+had to name the single most important
+ 
+
+00:00:38.579 --> 00:00:40.400 align:start position:0%
+had to name the single most important
+thing<00:00:38.640><c> in</c><00:00:38.910><c> programming</c><00:00:39.510><c> it</c><00:00:40.110><c> would</c><00:00:40.260><c> probably</c>
+
+00:00:40.400 --> 00:00:40.410 align:start position:0%
+thing in programming it would probably
+ 
+
+00:00:40.410 --> 00:00:42.110 align:start position:0%
+thing in programming it would probably
+be<00:00:40.770><c> memory</c><00:00:41.190><c> when</c><00:00:41.610><c> you</c><00:00:41.700><c> write</c><00:00:41.879><c> an</c><00:00:42.000><c> application</c>
+
+00:00:42.110 --> 00:00:42.120 align:start position:0%
+be memory when you write an application
+ 
+
+00:00:42.120 --> 00:00:44.180 align:start position:0%
+be memory when you write an application
+and<00:00:42.629><c> you</c><00:00:43.050><c> launch</c><00:00:43.290><c> it</c><00:00:43.530><c> that</c><00:00:43.710><c> entire</c>
+
+00:00:44.180 --> 00:00:44.190 align:start position:0%
+and you launch it that entire
+ 
+
+00:00:44.190 --> 00:00:46.520 align:start position:0%
+and you launch it that entire
+application<00:00:44.910><c> gets</c><00:00:45.149><c> loaded</c><00:00:45.420><c> into</c><00:00:45.690><c> memory</c><00:00:46.020><c> all</c>
+
+00:00:46.520 --> 00:00:46.530 align:start position:0%
+application gets loaded into memory all
+ 
+
+00:00:46.530 --> 00:00:48.229 align:start position:0%
+application gets loaded into memory all
+of<00:00:46.800><c> the</c><00:00:46.920><c> instructions</c><00:00:47.579><c> that</c><00:00:47.700><c> tell</c><00:00:47.910><c> the</c>
+
+00:00:48.229 --> 00:00:48.239 align:start position:0%
+of the instructions that tell the
+ 
+
+00:00:48.239 --> 00:00:50.000 align:start position:0%
+of the instructions that tell the
+computer<00:00:48.510><c> what</c><00:00:48.840><c> to</c><00:00:49.020><c> do</c><00:00:49.200><c> in</c><00:00:49.469><c> the</c><00:00:49.649><c> code</c><00:00:49.829><c> that</c>
+
+00:00:50.000 --> 00:00:50.010 align:start position:0%
+computer what to do in the code that
+ 
+
+00:00:50.010 --> 00:00:51.860 align:start position:0%
+computer what to do in the code that
+you've<00:00:50.190><c> written</c><00:00:50.430><c> all</c><00:00:50.820><c> of</c><00:00:51.030><c> that</c><00:00:51.420><c> gets</c><00:00:51.660><c> loaded</c>
+
+00:00:51.860 --> 00:00:51.870 align:start position:0%
+you've written all of that gets loaded
+ 
+
+00:00:51.870 --> 00:00:53.930 align:start position:0%
+you've written all of that gets loaded
+into<00:00:52.020><c> memory</c><00:00:52.350><c> that's</c><00:00:52.949><c> how</c><00:00:53.190><c> the</c><00:00:53.250><c> CPU</c><00:00:53.760><c> can</c>
+
+00:00:53.930 --> 00:00:53.940 align:start position:0%
+into memory that's how the CPU can
+ 
+
+00:00:53.940 --> 00:00:56.060 align:start position:0%
+into memory that's how the CPU can
+actually<00:00:54.239><c> access</c><00:00:54.480><c> your</c><00:00:54.960><c> program</c><00:00:55.379><c> and</c><00:00:55.590><c> start</c>
+
+00:00:56.060 --> 00:00:56.070 align:start position:0%
+actually access your program and start
+ 
+
+00:00:56.070 --> 00:00:58.340 align:start position:0%
+actually access your program and start
+executing<00:00:56.430><c> its</c><00:00:57.030><c> instructions</c><00:00:57.750><c> when</c><00:00:58.260><c> you</c>
+
+00:00:58.340 --> 00:00:58.350 align:start position:0%
+executing its instructions when you
+ 
+
+00:00:58.350 --> 00:01:00.560 align:start position:0%
+executing its instructions when you
+create<00:00:58.649><c> a</c><00:00:58.680><c> variable</c><00:00:59.309><c> when</c><00:00:59.699><c> you</c><00:00:59.789><c> load</c><00:01:00.090><c> in</c><00:01:00.300><c> data</c>
+
+00:01:00.560 --> 00:01:00.570 align:start position:0%
+create a variable when you load in data
+ 
+
+00:01:00.570 --> 00:01:02.930 align:start position:0%
+create a variable when you load in data
+from<00:01:00.960><c> disk</c><00:01:01.289><c> everything</c><00:01:02.129><c> gets</c><00:01:02.430><c> stored</c><00:01:02.730><c> in</c>
+
+00:01:02.930 --> 00:01:02.940 align:start position:0%
+from disk everything gets stored in
+ 
+
+00:01:02.940 --> 00:01:05.149 align:start position:0%
+from disk everything gets stored in
+memory<00:01:03.210><c> there</c><00:01:03.809><c> is</c><00:01:03.930><c> nothing</c><00:01:04.409><c> you</c><00:01:04.439><c> can</c><00:01:04.680><c> do</c><00:01:04.890><c> if</c>
+
+00:01:05.149 --> 00:01:05.159 align:start position:0%
+memory there is nothing you can do if
+ 
+
+00:01:05.159 --> 00:01:07.429 align:start position:0%
+memory there is nothing you can do if
+you<00:01:05.400><c> do</c><00:01:05.549><c> not</c><00:01:05.729><c> have</c><00:01:06.000><c> memory</c><00:01:06.270><c> and</c><00:01:06.630><c> pointers</c><00:01:07.170><c> are</c>
+
+00:01:07.429 --> 00:01:07.439 align:start position:0%
+you do not have memory and pointers are
+ 
+
+00:01:07.439 --> 00:01:09.560 align:start position:0%
+you do not have memory and pointers are
+extremely<00:01:08.070><c> important</c><00:01:08.549><c> for</c><00:01:08.580><c> managing</c><00:01:09.390><c> and</c>
+
+00:01:09.560 --> 00:01:09.570 align:start position:0%
+extremely important for managing and
+ 
+
+00:01:09.570 --> 00:01:12.200 align:start position:0%
+extremely important for managing and
+manipulating<00:01:10.320><c> that</c><00:01:10.710><c> memory</c><00:01:11.159><c> so</c><00:01:11.820><c> what</c><00:01:12.000><c> are</c>
+
+00:01:12.200 --> 00:01:12.210 align:start position:0%
+manipulating that memory so what are
+ 
+
+00:01:12.210 --> 00:01:13.940 align:start position:0%
+manipulating that memory so what are
+pointers<00:01:12.720><c> I'm</c><00:01:13.020><c> only</c><00:01:13.290><c> going</c><00:01:13.470><c> to</c><00:01:13.530><c> end</c><00:01:13.560><c> up</c><00:01:13.740><c> saying</c>
+
+00:01:13.940 --> 00:01:13.950 align:start position:0%
+pointers I'm only going to end up saying
+ 
+
+00:01:13.950 --> 00:01:15.320 align:start position:0%
+pointers I'm only going to end up saying
+this<00:01:14.130><c> multiple</c><00:01:14.610><c> times</c><00:01:14.850><c> throughout</c><00:01:15.180><c> the</c>
+
+00:01:15.320 --> 00:01:15.330 align:start position:0%
+this multiple times throughout the
+ 
+
+00:01:15.330 --> 00:01:17.390 align:start position:0%
+this multiple times throughout the
+course<00:01:15.360><c> of</c><00:01:15.600><c> this</c><00:01:15.720><c> video</c><00:01:15.900><c> a</c><00:01:16.320><c> pointer</c><00:01:17.040><c> is</c><00:01:17.220><c> an</c>
+
+00:01:17.390 --> 00:01:17.400 align:start position:0%
+course of this video a pointer is an
+ 
+
+00:01:17.400 --> 00:01:20.149 align:start position:0%
+course of this video a pointer is an
+integer<00:01:17.759><c> a</c><00:01:18.060><c> number</c><00:01:18.659><c> which</c><00:01:19.170><c> stores</c><00:01:19.530><c> a</c><00:01:19.770><c> memory</c>
+
+00:01:20.149 --> 00:01:20.159 align:start position:0%
+integer a number which stores a memory
+ 
+
+00:01:20.159 --> 00:01:22.550 align:start position:0%
+integer a number which stores a memory
+address<00:01:20.250><c> that</c><00:01:20.850><c> is</c><00:01:21.060><c> all</c><00:01:21.420><c> that</c><00:01:21.840><c> it</c><00:01:21.930><c> is</c><00:01:22.110><c> I</c><00:01:22.350><c> don't</c>
+
+00:01:22.550 --> 00:01:22.560 align:start position:0%
+address that is all that it is I don't
+ 
+
+00:01:22.560 --> 00:01:24.050 align:start position:0%
+address that is all that it is I don't
+wanna<00:01:22.680><c> get</c><00:01:22.799><c> too</c><00:01:22.979><c> deep</c><00:01:23.220><c> into</c><00:01:23.460><c> how</c><00:01:23.610><c> memory</c>
+
+00:01:24.050 --> 00:01:24.060 align:start position:0%
+wanna get too deep into how memory
+ 
+
+00:01:24.060 --> 00:01:25.850 align:start position:0%
+wanna get too deep into how memory
+actually<00:01:24.299><c> works</c><00:01:24.780><c> in</c><00:01:25.020><c> a</c><00:01:25.080><c> computer</c><00:01:25.350><c> I</c><00:01:25.500><c> might</c><00:01:25.680><c> say</c>
+
+00:01:25.850 --> 00:01:25.860 align:start position:0%
+actually works in a computer I might say
+ 
+
+00:01:25.860 --> 00:01:27.050 align:start position:0%
+actually works in a computer I might say
+that<00:01:25.890><c> for</c><00:01:26.130><c> another</c><00:01:26.549><c> video</c>
+
+00:01:27.050 --> 00:01:27.060 align:start position:0%
+that for another video
+ 
+
+00:01:27.060 --> 00:01:30.020 align:start position:0%
+that for another video
+but<00:01:27.630><c> simply</c><00:01:28.020><c> put</c><00:01:28.439><c> your</c><00:01:29.070><c> memory</c><00:01:29.460><c> inside</c><00:01:29.850><c> your</c>
+
+00:01:30.020 --> 00:01:30.030 align:start position:0%
+but simply put your memory inside your
+ 
+
+00:01:30.030 --> 00:01:32.840 align:start position:0%
+but simply put your memory inside your
+computer<00:01:30.299><c> is</c><00:01:30.840><c> just</c><00:01:31.140><c> like</c><00:01:31.320><c> one</c><00:01:31.740><c> big</c><00:01:32.220><c> blob</c><00:01:32.520><c> it's</c>
+
+00:01:32.840 --> 00:01:32.850 align:start position:0%
+computer is just like one big blob it's
+ 
+
+00:01:32.850 --> 00:01:35.210 align:start position:0%
+computer is just like one big blob it's
+like<00:01:33.030><c> one</c><00:01:33.329><c> big</c><00:01:33.600><c> line</c><00:01:33.960><c> that's</c><00:01:34.439><c> all</c><00:01:34.710><c> it</c><00:01:34.890><c> is</c>
+
+00:01:35.210 --> 00:01:35.220 align:start position:0%
+like one big line that's all it is
+ 
+
+00:01:35.220 --> 00:01:37.670 align:start position:0%
+like one big line that's all it is
+picture<00:01:35.880><c> one</c><00:01:36.240><c> is</c><00:01:36.390><c> straight</c><00:01:36.750><c> if</c><00:01:37.049><c> if</c><00:01:37.439><c> your</c>
+
+00:01:37.670 --> 00:01:37.680 align:start position:0%
+picture one is straight if if your
+ 
+
+00:01:37.680 --> 00:01:39.649 align:start position:0%
+picture one is straight if if your
+entire<00:01:37.979><c> city</c><00:01:38.400><c> that</c><00:01:38.610><c> you</c><00:01:38.700><c> live</c><00:01:38.880><c> in</c><00:01:39.030><c> just</c><00:01:39.479><c> had</c><00:01:39.630><c> a</c>
+
+00:01:39.649 --> 00:01:39.659 align:start position:0%
+entire city that you live in just had a
+ 
+
+00:01:39.659 --> 00:01:41.270 align:start position:0%
+entire city that you live in just had a
+single<00:01:39.990><c> straight</c><00:01:40.439><c> and</c><00:01:40.650><c> there</c><00:01:40.770><c> was</c><00:01:40.890><c> a</c><00:01:40.920><c> start</c>
+
+00:01:41.270 --> 00:01:41.280 align:start position:0%
+single straight and there was a start
+ 
+
+00:01:41.280 --> 00:01:43.039 align:start position:0%
+single straight and there was a start
+and<00:01:41.490><c> there</c><00:01:41.670><c> was</c><00:01:41.790><c> an</c><00:01:41.880><c> end</c><00:01:42.150><c> and</c><00:01:42.390><c> then</c><00:01:42.780><c> you</c><00:01:42.869><c> had</c><00:01:43.020><c> a</c>
+
+00:01:43.039 --> 00:01:43.049 align:start position:0%
+and there was an end and then you had a
+ 
+
+00:01:43.049 --> 00:01:44.480 align:start position:0%
+and there was an end and then you had a
+bunch<00:01:43.290><c> of</c><00:01:43.380><c> houses</c><00:01:43.890><c> there</c><00:01:44.070><c> were</c><00:01:44.159><c> no</c><00:01:44.220><c> houses</c>
+
+00:01:44.480 --> 00:01:44.490 align:start position:0%
+bunch of houses there were no houses
+ 
+
+00:01:44.490 --> 00:01:46.039 align:start position:0%
+bunch of houses there were no houses
+across<00:01:44.939><c> the</c><00:01:45.090><c> road</c><00:01:45.270><c> let's</c><00:01:45.509><c> just</c><00:01:45.689><c> say</c><00:01:45.810><c> there's</c>
+
+00:01:46.039 --> 00:01:46.049 align:start position:0%
+across the road let's just say there's
+ 
+
+00:01:46.049 --> 00:01:48.410 align:start position:0%
+across the road let's just say there's
+just<00:01:46.110><c> a</c><00:01:46.439><c> street</c><00:01:47.100><c> and</c><00:01:47.280><c> there's</c><00:01:47.520><c> like</c><00:01:47.700><c> a</c><00:01:47.850><c> row</c><00:01:48.390><c> of</c>
+
+00:01:48.410 --> 00:01:48.420 align:start position:0%
+just a street and there's like a row of
+ 
+
+00:01:48.420 --> 00:01:51.200 align:start position:0%
+just a street and there's like a row of
+houses<00:01:48.990><c> that</c><00:01:49.950><c> is</c><00:01:50.130><c> what</c><00:01:50.340><c> memory</c><00:01:50.729><c> is</c><00:01:50.939><c> in</c><00:01:51.149><c> a</c>
+
+00:01:51.200 --> 00:01:51.210 align:start position:0%
+houses that is what memory is in a
+ 
+
+00:01:51.210 --> 00:01:52.960 align:start position:0%
+houses that is what memory is in a
+computer<00:01:51.659><c> it's</c><00:01:51.960><c> just</c><00:01:52.229><c> a</c><00:01:52.380><c> linear</c>
+
+00:01:52.960 --> 00:01:52.970 align:start position:0%
+computer it's just a linear
+ 
+
+00:01:52.970 --> 00:01:56.120 align:start position:0%
+computer it's just a linear
+one-dimensional<00:01:53.970><c> line</c><00:01:54.600><c> and</c><00:01:54.990><c> every</c><00:01:55.619><c> house</c><00:01:55.860><c> on</c>
+
+00:01:56.120 --> 00:01:56.130 align:start position:0%
+one-dimensional line and every house on
+ 
+
+00:01:56.130 --> 00:01:58.310 align:start position:0%
+one-dimensional line and every house on
+that<00:01:56.310><c> street</c><00:01:56.670><c> is</c><00:01:56.880><c> going</c><00:01:57.180><c> to</c><00:01:57.299><c> have</c><00:01:57.509><c> a</c><00:01:57.719><c> number</c><00:01:57.960><c> an</c>
+
+00:01:58.310 --> 00:01:58.320 align:start position:0%
+that street is going to have a number an
+ 
+
+00:01:58.320 --> 00:02:00.679 align:start position:0%
+that street is going to have a number an
+address<00:01:58.649><c> so</c><00:01:59.460><c> bring</c><00:01:59.700><c> that</c><00:01:59.729><c> metaphor</c><00:02:00.299><c> back</c><00:02:00.509><c> to</c>
+
+00:02:00.679 --> 00:02:00.689 align:start position:0%
+address so bring that metaphor back to
+ 
+
+00:02:00.689 --> 00:02:02.810 align:start position:0%
+address so bring that metaphor back to
+computers<00:02:01.170><c> picture</c><00:02:01.920><c> that</c><00:02:02.070><c> every</c><00:02:02.430><c> house</c><00:02:02.610><c> on</c>
+
+00:02:02.810 --> 00:02:02.820 align:start position:0%
+computers picture that every house on
+ 
+
+00:02:02.820 --> 00:02:04.580 align:start position:0%
+computers picture that every house on
+that<00:02:03.000><c> street</c><00:02:03.390><c> that</c><00:02:03.659><c> has</c><00:02:03.840><c> an</c><00:02:03.990><c> address</c><00:02:04.350><c> is</c><00:02:04.530><c> a</c>
+
+00:02:04.580 --> 00:02:04.590 align:start position:0%
+that street that has an address is a
+ 
+
+00:02:04.590 --> 00:02:07.429 align:start position:0%
+that street that has an address is a
+byte<00:02:05.100><c> it</c><00:02:05.520><c> is</c><00:02:05.670><c> one</c><00:02:05.969><c> byte</c><00:02:06.210><c> of</c><00:02:06.450><c> data</c><00:02:06.570><c> we</c><00:02:07.259><c> obviously</c>
+
+00:02:07.429 --> 00:02:07.439 align:start position:0%
+byte it is one byte of data we obviously
+ 
+
+00:02:07.439 --> 00:02:09.139 align:start position:0%
+byte it is one byte of data we obviously
+need<00:02:07.799><c> a</c><00:02:07.829><c> way</c><00:02:08.099><c> to</c><00:02:08.129><c> be</c><00:02:08.429><c> able</c><00:02:08.520><c> to</c><00:02:08.640><c> address</c><00:02:08.879><c> all</c><00:02:09.119><c> of</c>
+
+00:02:09.139 --> 00:02:09.149 align:start position:0%
+need a way to be able to address all of
+ 
+
+00:02:09.149 --> 00:02:09.740 align:start position:0%
+need a way to be able to address all of
+those<00:02:09.330><c> bytes</c>
+
+00:02:09.740 --> 00:02:09.750 align:start position:0%
+those bytes
+ 
+
+00:02:09.750 --> 00:02:11.180 align:start position:0%
+those bytes
+all<00:02:09.869><c> those</c><00:02:10.080><c> houses</c><00:02:10.590><c> on</c><00:02:10.739><c> our</c>
+
+00:02:11.180 --> 00:02:11.190 align:start position:0%
+all those houses on our
+ 
+
+00:02:11.190 --> 00:02:13.280 align:start position:0%
+all those houses on our
+read<00:02:11.400><c> because</c><00:02:12.090><c> for</c><00:02:12.390><c> example</c><00:02:12.480><c> let's</c><00:02:13.110><c> say</c>
+
+00:02:13.280 --> 00:02:13.290 align:start position:0%
+read because for example let's say
+ 
+
+00:02:13.290 --> 00:02:14.780 align:start position:0%
+read because for example let's say
+someone<00:02:13.320><c> orders</c><00:02:13.980><c> something</c><00:02:14.310><c> online</c><00:02:14.430><c> and</c>
+
+00:02:14.780 --> 00:02:14.790 align:start position:0%
+someone orders something online and
+ 
+
+00:02:14.790 --> 00:02:16.580 align:start position:0%
+someone orders something online and
+wants<00:02:15.060><c> to</c><00:02:15.150><c> have</c><00:02:15.270><c> it</c><00:02:15.420><c> delivered</c><00:02:15.840><c> it</c><00:02:16.200><c> needs</c><00:02:16.440><c> to</c>
+
+00:02:16.580 --> 00:02:16.590 align:start position:0%
+wants to have it delivered it needs to
+ 
+
+00:02:16.590 --> 00:02:18.440 align:start position:0%
+wants to have it delivered it needs to
+be<00:02:16.710><c> delivered</c><00:02:16.950><c> into</c><00:02:17.280><c> the</c><00:02:17.430><c> right</c><00:02:17.790><c> house</c><00:02:18.150><c> or</c>
+
+00:02:18.440 --> 00:02:18.450 align:start position:0%
+be delivered into the right house or
+ 
+
+00:02:18.450 --> 00:02:20.240 align:start position:0%
+be delivered into the right house or
+maybe<00:02:19.170><c> someone's</c><00:02:19.560><c> sending</c><00:02:19.800><c> something</c>
+
+00:02:20.240 --> 00:02:20.250 align:start position:0%
+maybe someone's sending something
+ 
+
+00:02:20.250 --> 00:02:21.140 align:start position:0%
+maybe someone's sending something
+they're<00:02:20.490><c> sending</c><00:02:20.700><c> something</c><00:02:20.940><c> away</c><00:02:21.090><c> from</c>
+
+00:02:21.140 --> 00:02:21.150 align:start position:0%
+they're sending something away from
+ 
+
+00:02:21.150 --> 00:02:23.360 align:start position:0%
+they're sending something away from
+their<00:02:21.540><c> house</c><00:02:21.750><c> either</c><00:02:22.080><c> way</c><00:02:22.380><c> you</c><00:02:22.980><c> need</c><00:02:23.100><c> to</c><00:02:23.160><c> be</c>
+
+00:02:23.360 --> 00:02:23.370 align:start position:0%
+their house either way you need to be
+ 
+
+00:02:23.370 --> 00:02:25.670 align:start position:0%
+their house either way you need to be
+able<00:02:23.460><c> to</c><00:02:23.670><c> read</c><00:02:23.940><c> and</c><00:02:24.210><c> write</c><00:02:24.240><c> from</c><00:02:25.050><c> memory</c><00:02:25.470><c> from</c>
+
+00:02:25.670 --> 00:02:25.680 align:start position:0%
+able to read and write from memory from
+ 
+
+00:02:25.680 --> 00:02:27.410 align:start position:0%
+able to read and write from memory from
+those<00:02:25.830><c> bytes</c><00:02:26.100><c> of</c><00:02:26.280><c> memory</c><00:02:26.340><c> from</c><00:02:26.790><c> those</c><00:02:27.000><c> houses</c>
+
+00:02:27.410 --> 00:02:27.420 align:start position:0%
+those bytes of memory from those houses
+ 
+
+00:02:27.420 --> 00:02:29.420 align:start position:0%
+those bytes of memory from those houses
+so<00:02:27.660><c> a</c><00:02:27.690><c> pointer</c><00:02:28.110><c> is</c><00:02:28.320><c> that</c><00:02:28.620><c> address</c><00:02:29.070><c> is</c><00:02:29.280><c> the</c>
+
+00:02:29.420 --> 00:02:29.430 align:start position:0%
+so a pointer is that address is the
+ 
+
+00:02:29.430 --> 00:02:31.340 align:start position:0%
+so a pointer is that address is the
+address<00:02:29.460><c> that</c><00:02:30.090><c> tells</c><00:02:30.330><c> us</c><00:02:30.570><c> where</c><00:02:30.870><c> that</c><00:02:31.050><c> house</c>
+
+00:02:31.340 --> 00:02:31.350 align:start position:0%
+address that tells us where that house
+ 
+
+00:02:31.350 --> 00:02:34.070 align:start position:0%
+address that tells us where that house
+is<00:02:31.620><c> where</c><00:02:31.980><c> that</c><00:02:32.130><c> specific</c><00:02:32.850><c> byte</c><00:02:33.120><c> of</c><00:02:33.390><c> memory</c><00:02:33.450><c> is</c>
+
+00:02:34.070 --> 00:02:34.080 align:start position:0%
+is where that specific byte of memory is
+ 
+
+00:02:34.080 --> 00:02:35.810 align:start position:0%
+is where that specific byte of memory is
+and<00:02:34.350><c> that's</c><00:02:34.740><c> extremely</c><00:02:35.010><c> important</c><00:02:35.730><c> because</c>
+
+00:02:35.810 --> 00:02:35.820 align:start position:0%
+and that's extremely important because
+ 
+
+00:02:35.820 --> 00:02:37.850 align:start position:0%
+and that's extremely important because
+pretty<00:02:36.150><c> much</c><00:02:36.240><c> everything</c><00:02:36.840><c> we</c><00:02:37.140><c> do</c><00:02:37.290><c> in</c><00:02:37.470><c> our</c><00:02:37.560><c> code</c>
+
+00:02:37.850 --> 00:02:37.860 align:start position:0%
+pretty much everything we do in our code
+ 
+
+00:02:37.860 --> 00:02:40.610 align:start position:0%
+pretty much everything we do in our code
+is<00:02:38.130><c> going</c><00:02:38.640><c> to</c><00:02:38.730><c> be</c><00:02:38.820><c> reading</c><00:02:39.120><c> or</c><00:02:39.450><c> writing</c><00:02:39.870><c> from</c>
+
+00:02:40.610 --> 00:02:40.620 align:start position:0%
+is going to be reading or writing from
+ 
+
+00:02:40.620 --> 00:02:42.830 align:start position:0%
+is going to be reading or writing from
+and<00:02:40.890><c> to</c><00:02:41.220><c> memory</c><00:02:41.880><c> now</c><00:02:42.300><c> of</c><00:02:42.390><c> course</c><00:02:42.540><c> it's</c>
+
+00:02:42.830 --> 00:02:42.840 align:start position:0%
+and to memory now of course it's
+ 
+
+00:02:42.840 --> 00:02:44.630 align:start position:0%
+and to memory now of course it's
+perfectly<00:02:43.230><c> possible</c><00:02:43.410><c> for</c><00:02:43.650><c> you</c><00:02:43.830><c> and</c><00:02:43.860><c> C++</c><00:02:44.430><c> to</c>
+
+00:02:44.630 --> 00:02:44.640 align:start position:0%
+perfectly possible for you and C++ to
+ 
+
+00:02:44.640 --> 00:02:46.190 align:start position:0%
+perfectly possible for you and C++ to
+write<00:02:44.760><c> an</c><00:02:44.850><c> application</c><00:02:44.940><c> that</c><00:02:45.540><c> does</c><00:02:45.600><c> not</c><00:02:45.960><c> use</c>
+
+00:02:46.190 --> 00:02:46.200 align:start position:0%
+write an application that does not use
+ 
+
+00:02:46.200 --> 00:02:48.830 align:start position:0%
+write an application that does not use
+pointers<00:02:46.680><c> that's</c><00:02:46.980><c> you</c><00:02:47.760><c> can</c><00:02:48.210><c> do</c><00:02:48.360><c> that</c><00:02:48.510><c> you</c>
+
+00:02:48.830 --> 00:02:48.840 align:start position:0%
+pointers that's you can do that you
+ 
+
+00:02:48.840 --> 00:02:50.450 align:start position:0%
+pointers that's you can do that you
+don't<00:02:48.990><c> necessarily</c><00:02:49.440><c> need</c><00:02:49.650><c> to</c><00:02:49.710><c> use</c><00:02:49.950><c> pointers</c>
+
+00:02:50.450 --> 00:02:50.460 align:start position:0%
+don't necessarily need to use pointers
+ 
+
+00:02:50.460 --> 00:02:52.100 align:start position:0%
+don't necessarily need to use pointers
+however<00:02:50.820><c> they</c><00:02:51.000><c> are</c><00:02:51.120><c> an</c><00:02:51.240><c> extremely</c><00:02:51.780><c> useful</c>
+
+00:02:52.100 --> 00:02:52.110 align:start position:0%
+however they are an extremely useful
+ 
+
+00:02:52.110 --> 00:02:54.620 align:start position:0%
+however they are an extremely useful
+tool<00:02:52.590><c> because</c><00:02:53.160><c> as</c><00:02:53.490><c> I</c><00:02:53.670><c> just</c><00:02:53.700><c> mentioned</c><00:02:54.240><c> memory</c>
+
+00:02:54.620 --> 00:02:54.630 align:start position:0%
+tool because as I just mentioned memory
+ 
+
+00:02:54.630 --> 00:02:56.360 align:start position:0%
+tool because as I just mentioned memory
+is<00:02:54.840><c> probably</c><00:02:55.170><c> the</c><00:02:55.290><c> single</c><00:02:55.500><c> most</c><00:02:55.800><c> important</c>
+
+00:02:56.360 --> 00:02:56.370 align:start position:0%
+is probably the single most important
+ 
+
+00:02:56.370 --> 00:02:58.520 align:start position:0%
+is probably the single most important
+thing<00:02:56.400><c> you</c><00:02:56.580><c> have</c><00:02:57.000><c> the</c><00:02:57.510><c> single</c><00:02:57.720><c> most</c><00:02:58.050><c> important</c>
+
+00:02:58.520 --> 00:02:58.530 align:start position:0%
+thing you have the single most important
+ 
+
+00:02:58.530 --> 00:03:00.080 align:start position:0%
+thing you have the single most important
+resource<00:02:58.980><c> that</c><00:02:59.160><c> your</c><00:02:59.310><c> computer</c><00:02:59.670><c> can</c><00:02:59.790><c> provide</c>
+
+00:03:00.080 --> 00:03:00.090 align:start position:0%
+resource that your computer can provide
+ 
+
+00:03:00.090 --> 00:03:01.520 align:start position:0%
+resource that your computer can provide
+to<00:03:00.270><c> you</c><00:03:00.360><c> it's</c><00:03:00.480><c> used</c><00:03:00.630><c> for</c><00:03:00.690><c> everything</c><00:03:00.810><c> and</c>
+
+00:03:01.520 --> 00:03:01.530 align:start position:0%
+to you it's used for everything and
+ 
+
+00:03:01.530 --> 00:03:02.750 align:start position:0%
+to you it's used for everything and
+being<00:03:01.770><c> able</c><00:03:01.890><c> to</c><00:03:02.040><c> have</c><00:03:02.190><c> more</c><00:03:02.370><c> control</c><00:03:02.640><c> over</c>
+
+00:03:02.750 --> 00:03:02.760 align:start position:0%
+being able to have more control over
+ 
+
+00:03:02.760 --> 00:03:07.610 align:start position:0%
+being able to have more control over
+that<00:03:03.060><c> memory</c><00:03:03.450><c> is</c><00:03:03.690><c> vital</c><00:03:04.260><c> all</c><00:03:04.860><c> right</c><00:03:05.040><c> anyway</c><00:03:06.620><c> to</c>
+
+00:03:07.610 --> 00:03:07.620 align:start position:0%
+that memory is vital all right anyway to
+ 
+
+00:03:07.620 --> 00:03:12.140 align:start position:0%
+that memory is vital all right anyway to
+reiterate<00:03:08.370><c> a</c><00:03:08.990><c> pointer</c><00:03:09.990><c> is</c><00:03:10.230><c> just</c><00:03:11.100><c> an</c><00:03:11.310><c> address</c>
+
+00:03:12.140 --> 00:03:12.150 align:start position:0%
+reiterate a pointer is just an address
+ 
+
+00:03:12.150 --> 00:03:14.510 align:start position:0%
+reiterate a pointer is just an address
+it<00:03:12.240><c> is</c><00:03:12.480><c> an</c><00:03:12.690><c> integer</c><00:03:13.080><c> which</c><00:03:13.710><c> holds</c><00:03:14.100><c> a</c><00:03:14.280><c> memory</c>
+
+00:03:14.510 --> 00:03:14.520 align:start position:0%
+it is an integer which holds a memory
+ 
+
+00:03:14.520 --> 00:03:16.699 align:start position:0%
+it is an integer which holds a memory
+address<00:03:14.760><c> that</c><00:03:15.450><c> is</c><00:03:15.630><c> all</c><00:03:15.870><c> that</c><00:03:16.050><c> it</c><00:03:16.140><c> is</c><00:03:16.290><c> forget</c>
+
+00:03:16.699 --> 00:03:16.709 align:start position:0%
+address that is all that it is forget
+ 
+
+00:03:16.709 --> 00:03:19.070 align:start position:0%
+address that is all that it is forget
+types<00:03:17.130><c> right</c><00:03:17.550><c> types</c><00:03:18.120><c> have</c><00:03:18.390><c> nothing</c><00:03:18.870><c> to</c><00:03:18.989><c> do</c>
+
+00:03:19.070 --> 00:03:19.080 align:start position:0%
+types right types have nothing to do
+ 
+
+00:03:19.080 --> 00:03:20.780 align:start position:0%
+types right types have nothing to do
+with<00:03:19.200><c> any</c><00:03:19.380><c> of</c><00:03:19.470><c> that</c><00:03:19.560><c> types</c><00:03:20.160><c> are</c><00:03:20.459><c> just</c><00:03:20.640><c> some</c>
+
+00:03:20.780 --> 00:03:20.790 align:start position:0%
+with any of that types are just some
+ 
+
+00:03:20.790 --> 00:03:22.520 align:start position:0%
+with any of that types are just some
+kind<00:03:21.000><c> of</c><00:03:21.060><c> fiction</c><00:03:21.570><c> that</c><00:03:21.930><c> we've</c><00:03:22.080><c> created</c><00:03:22.350><c> to</c>
+
+00:03:22.520 --> 00:03:22.530 align:start position:0%
+kind of fiction that we've created to
+ 
+
+00:03:22.530 --> 00:03:24.560 align:start position:0%
+kind of fiction that we've created to
+make<00:03:22.739><c> our</c><00:03:22.920><c> lives</c><00:03:23.130><c> easier</c><00:03:23.700><c> it</c><00:03:24.120><c> doesn't</c><00:03:24.420><c> matter</c>
+
+00:03:24.560 --> 00:03:24.570 align:start position:0%
+make our lives easier it doesn't matter
+ 
+
+00:03:24.570 --> 00:03:26.360 align:start position:0%
+make our lives easier it doesn't matter
+if<00:03:24.720><c> you</c><00:03:24.810><c> have</c><00:03:24.959><c> an</c><00:03:25.050><c> int</c><00:03:25.260><c> pointer</c><00:03:25.500><c> or</c><00:03:26.010><c> maybe</c><00:03:26.250><c> you</c>
+
+00:03:26.360 --> 00:03:26.370 align:start position:0%
+if you have an int pointer or maybe you
+ 
+
+00:03:26.370 --> 00:03:27.680 align:start position:0%
+if you have an int pointer or maybe you
+have<00:03:26.489><c> an</c><00:03:26.580><c> entity</c><00:03:26.910><c> class</c><00:03:27.209><c> and</c><00:03:27.420><c> you</c><00:03:27.480><c> have</c><00:03:27.600><c> an</c>
+
+00:03:27.680 --> 00:03:27.690 align:start position:0%
+have an entity class and you have an
+ 
+
+00:03:27.690 --> 00:03:30.220 align:start position:0%
+have an entity class and you have an
+entity<00:03:27.959><c> pointer</c><00:03:28.530><c> it</c><00:03:28.830><c> doesn't</c><00:03:29.310><c> matter</c><00:03:29.610><c> types</c>
+
+00:03:30.220 --> 00:03:30.230 align:start position:0%
+entity pointer it doesn't matter types
+ 
+
+00:03:30.230 --> 00:03:33.050 align:start position:0%
+entity pointer it doesn't matter types
+types<00:03:31.230><c> are</c><00:03:31.410><c> completely</c><00:03:31.920><c> meaningless</c><00:03:32.070><c> right</c><00:03:32.820><c> a</c>
+
+00:03:33.050 --> 00:03:33.060 align:start position:0%
+types are completely meaningless right a
+ 
+
+00:03:33.060 --> 00:03:36.740 align:start position:0%
+types are completely meaningless right a
+pointer<00:03:33.810><c> for</c><00:03:34.440><c> all</c><00:03:34.770><c> types</c><00:03:35.250><c> is</c><00:03:35.880><c> just</c><00:03:36.360><c> that</c>
+
+00:03:36.740 --> 00:03:36.750 align:start position:0%
+pointer for all types is just that
+ 
+
+00:03:36.750 --> 00:03:38.540 align:start position:0%
+pointer for all types is just that
+integer<00:03:37.170><c> that</c><00:03:37.620><c> holds</c><00:03:38.010><c> a</c><00:03:38.130><c> memory</c><00:03:38.489><c> address</c>
+
+00:03:38.540 --> 00:03:38.550 align:start position:0%
+integer that holds a memory address
+ 
+
+00:03:38.550 --> 00:03:40.970 align:start position:0%
+integer that holds a memory address
+that's<00:03:38.970><c> all</c><00:03:39.300><c> that</c><00:03:39.510><c> it</c><00:03:39.600><c> is</c><00:03:39.720><c> let's</c><00:03:40.380><c> jump</c><00:03:40.650><c> in</c><00:03:40.860><c> and</c>
+
+00:03:40.970 --> 00:03:40.980 align:start position:0%
+that's all that it is let's jump in and
+ 
+
+00:03:40.980 --> 00:03:43.100 align:start position:0%
+that's all that it is let's jump in and
+take<00:03:41.370><c> a</c><00:03:41.459><c> look</c><00:03:41.489><c> at</c><00:03:41.670><c> some</c><00:03:41.760><c> examples</c><00:03:41.850><c> ok</c><00:03:42.810><c> so</c><00:03:42.870><c> here</c>
+
+00:03:43.100 --> 00:03:43.110 align:start position:0%
+take a look at some examples ok so here
+ 
+
+00:03:43.110 --> 00:03:44.300 align:start position:0%
+take a look at some examples ok so here
+in<00:03:43.200><c> visual</c><00:03:43.440><c> studio</c><00:03:43.470><c> about</c><00:03:43.830><c> an</c><00:03:43.950><c> extremely</c>
+
+00:03:44.300 --> 00:03:44.310 align:start position:0%
+in visual studio about an extremely
+ 
+
+00:03:44.310 --> 00:03:46.310 align:start position:0%
+in visual studio about an extremely
+simple<00:03:44.459><c> project</c><00:03:44.970><c> it's</c><00:03:45.180><c> just</c><00:03:45.390><c> one</c><00:03:45.690><c> source</c><00:03:46.050><c> file</c>
+
+00:03:46.310 --> 00:03:46.320 align:start position:0%
+simple project it's just one source file
+ 
+
+00:03:46.320 --> 00:03:47.930 align:start position:0%
+simple project it's just one source file
+everything<00:03:46.920><c> that</c><00:03:47.130><c> you</c><00:03:47.190><c> see</c><00:03:47.340><c> on</c><00:03:47.430><c> the</c><00:03:47.489><c> screen</c><00:03:47.550><c> is</c>
+
+00:03:47.930 --> 00:03:47.940 align:start position:0%
+everything that you see on the screen is
+ 
+
+00:03:47.940 --> 00:03:50.090 align:start position:0%
+everything that you see on the screen is
+the<00:03:48.480><c> complete</c><00:03:48.900><c> code</c><00:03:49.140><c> that</c><00:03:49.650><c> I've</c><00:03:49.769><c> got</c><00:03:49.920><c> written</c>
+
+00:03:50.090 --> 00:03:50.100 align:start position:0%
+the complete code that I've got written
+ 
+
+00:03:50.100 --> 00:03:52.190 align:start position:0%
+the complete code that I've got written
+so<00:03:50.580><c> let's</c><00:03:50.730><c> go</c><00:03:50.850><c> ahead</c><00:03:51.090><c> and</c><00:03:51.269><c> create</c><00:03:51.480><c> a</c><00:03:51.690><c> point</c><00:03:51.989><c> and</c>
+
+00:03:52.190 --> 00:03:52.200 align:start position:0%
+so let's go ahead and create a point and
+ 
+
+00:03:52.200 --> 00:03:53.750 align:start position:0%
+so let's go ahead and create a point and
+we're<00:03:52.290><c> going</c><00:03:52.410><c> to</c><00:03:52.440><c> create</c><00:03:52.620><c> the</c><00:03:53.010><c> purest</c><00:03:53.550><c> of</c>
+
+00:03:53.750 --> 00:03:53.760 align:start position:0%
+we're going to create the purest of
+ 
+
+00:03:53.760 --> 00:03:55.130 align:start position:0%
+we're going to create the purest of
+pointers<00:03:54.239><c> because</c><00:03:54.720><c> it's</c><00:03:54.810><c> going</c><00:03:54.900><c> to</c><00:03:55.050><c> be</c>
+
+00:03:55.130 --> 00:03:55.140 align:start position:0%
+pointers because it's going to be
+ 
+
+00:03:55.140 --> 00:03:57.680 align:start position:0%
+pointers because it's going to be
+something<00:03:55.590><c> called</c><00:03:55.680><c> a</c><00:03:55.830><c> void</c><00:03:56.070><c> pointer</c><00:03:56.690><c> void</c>
+
+00:03:57.680 --> 00:03:57.690 align:start position:0%
+something called a void pointer void
+ 
+
+00:03:57.690 --> 00:03:59.270 align:start position:0%
+something called a void pointer void
+basically<00:03:58.410><c> means</c><00:03:58.590><c> that</c><00:03:58.709><c> it's</c><00:03:58.890><c> completely</c>
+
+00:03:59.270 --> 00:03:59.280 align:start position:0%
+basically means that it's completely
+ 
+
+00:03:59.280 --> 00:04:01.370 align:start position:0%
+basically means that it's completely
+typos<00:03:59.760><c> remember</c><00:04:00.150><c> remember</c><00:04:00.630><c> I</c><00:04:00.900><c> said</c><00:04:01.170><c> that</c><00:04:01.200><c> a</c>
+
+00:04:01.370 --> 00:04:01.380 align:start position:0%
+typos remember remember I said that a
+ 
+
+00:04:01.380 --> 00:04:03.860 align:start position:0%
+typos remember remember I said that a
+pointer<00:04:01.950><c> is</c><00:04:02.160><c> just</c><00:04:02.580><c> an</c><00:04:02.700><c> address</c><00:04:03.060><c> it's</c><00:04:03.540><c> just</c><00:04:03.780><c> an</c>
+
+00:04:03.860 --> 00:04:03.870 align:start position:0%
+pointer is just an address it's just an
+ 
+
+00:04:03.870 --> 00:04:06.199 align:start position:0%
+pointer is just an address it's just an
+integer<00:04:04.200><c> which</c><00:04:04.560><c> holds</c><00:04:04.920><c> an</c><00:04:05.040><c> address</c><00:04:05.790><c> in</c><00:04:06.090><c> memory</c>
+
+00:04:06.199 --> 00:04:06.209 align:start position:0%
+integer which holds an address in memory
+ 
+
+00:04:06.209 --> 00:04:08.090 align:start position:0%
+integer which holds an address in memory
+so<00:04:06.720><c> it</c><00:04:06.780><c> doesn't</c><00:04:06.989><c> need</c><00:04:07.170><c> a</c><00:04:07.200><c> time</c><00:04:07.530><c> if</c><00:04:07.739><c> we</c><00:04:07.890><c> give</c><00:04:08.070><c> a</c>
+
+00:04:08.090 --> 00:04:08.100 align:start position:0%
+so it doesn't need a time if we give a
+ 
+
+00:04:08.100 --> 00:04:09.620 align:start position:0%
+so it doesn't need a time if we give a
+pointer<00:04:08.459><c> a</c><00:04:08.489><c> type</c><00:04:08.760><c> we're</c><00:04:09.060><c> just</c><00:04:09.239><c> saying</c><00:04:09.450><c> that</c>
+
+00:04:09.620 --> 00:04:09.630 align:start position:0%
+pointer a type we're just saying that
+ 
+
+00:04:09.630 --> 00:04:12.770 align:start position:0%
+pointer a type we're just saying that
+the<00:04:09.930><c> data</c><00:04:10.230><c> at</c><00:04:10.560><c> that</c><00:04:10.920><c> address</c><00:04:11.190><c> is</c><00:04:11.580><c> presumed</c><00:04:12.570><c> to</c>
+
+00:04:12.770 --> 00:04:12.780 align:start position:0%
+the data at that address is presumed to
+ 
+
+00:04:12.780 --> 00:04:14.810 align:start position:0%
+the data at that address is presumed to
+be<00:04:13.019><c> the</c><00:04:13.170><c> type</c><00:04:13.380><c> that</c><00:04:13.590><c> we</c><00:04:13.680><c> give</c><00:04:13.950><c> it</c><00:04:14.070><c> right</c><00:04:14.519><c> it</c>
+
+00:04:14.810 --> 00:04:14.820 align:start position:0%
+be the type that we give it right it
+ 
+
+00:04:14.820 --> 00:04:16.490 align:start position:0%
+be the type that we give it right it
+doesn't<00:04:15.390><c> mean</c><00:04:15.959><c> anything</c>
+
+00:04:16.490 --> 00:04:16.500 align:start position:0%
+doesn't mean anything
+ 
+
+00:04:16.500 --> 00:04:18.320 align:start position:0%
+doesn't mean anything
+apart<00:04:16.919><c> from</c><00:04:17.040><c> that</c><00:04:17.130><c> it's</c><00:04:17.820><c> just</c><00:04:18.030><c> something</c><00:04:18.180><c> that</c>
+
+00:04:18.320 --> 00:04:18.330 align:start position:0%
+apart from that it's just something that
+ 
+
+00:04:18.330 --> 00:04:20.450 align:start position:0%
+apart from that it's just something that
+we<00:04:18.600><c> can</c><00:04:18.630><c> write</c><00:04:18.989><c> to</c><00:04:19.500><c> make</c><00:04:19.650><c> our</c><00:04:19.799><c> lives</c><00:04:20.010><c> easier</c>
+
+00:04:20.450 --> 00:04:20.460 align:start position:0%
+we can write to make our lives easier
+ 
+
+00:04:20.460 --> 00:04:21.900 align:start position:0%
+we can write to make our lives easier
+syntactically<00:04:21.270><c> like</c><00:04:21.510><c> in</c>
+
+00:04:21.900 --> 00:04:21.910 align:start position:0%
+syntactically like in
+ 
+
+00:04:21.910 --> 00:04:23.490 align:start position:0%
+syntactically like in
+actual<00:04:22.270><c> source</c><00:04:22.600><c> code</c><00:04:22.690><c> to</c><00:04:22.900><c> make</c><00:04:23.140><c> our</c><00:04:23.290><c> lives</c>
+
+00:04:23.490 --> 00:04:23.500 align:start position:0%
+actual source code to make our lives
+ 
+
+00:04:23.500 --> 00:04:25.650 align:start position:0%
+actual source code to make our lives
+easier<00:04:23.740><c> we</c><00:04:24.460><c> can</c><00:04:24.610><c> use</c><00:04:24.760><c> types</c><00:04:25.060><c> with</c><00:04:25.300><c> pointers</c>
+
+00:04:25.650 --> 00:04:25.660 align:start position:0%
+easier we can use types with pointers
+ 
+
+00:04:25.660 --> 00:04:27.420 align:start position:0%
+easier we can use types with pointers
+but<00:04:25.840><c> again</c><00:04:26.050><c> a</c><00:04:26.080><c> type</c><00:04:26.380><c> does</c><00:04:26.590><c> not</c><00:04:26.740><c> change</c><00:04:27.070><c> what</c><00:04:27.400><c> a</c>
+
+00:04:27.420 --> 00:04:27.430 align:start position:0%
+but again a type does not change what a
+ 
+
+00:04:27.430 --> 00:04:28.950 align:start position:0%
+but again a type does not change what a
+pointer<00:04:27.760><c> is</c><00:04:27.880><c> a</c><00:04:27.910><c> pointer</c><00:04:28.210><c> is</c><00:04:28.330><c> just</c><00:04:28.660><c> a</c><00:04:28.810><c> memory</c>
+
+00:04:28.950 --> 00:04:28.960 align:start position:0%
+pointer is a pointer is just a memory
+ 
+
+00:04:28.960 --> 00:04:31.530 align:start position:0%
+pointer is a pointer is just a memory
+address<00:04:29.170><c> it's</c><00:04:29.800><c> just</c><00:04:30.220><c> an</c><00:04:30.460><c> integer</c><00:04:30.760><c> so</c><00:04:31.240><c> a</c><00:04:31.270><c> void</c>
+
+00:04:31.530 --> 00:04:31.540 align:start position:0%
+address it's just an integer so a void
+ 
+
+00:04:31.540 --> 00:04:33.900 align:start position:0%
+address it's just an integer so a void
+pointer<00:04:31.570><c> means</c><00:04:32.170><c> that</c><00:04:32.380><c> we</c><00:04:32.560><c> do</c><00:04:33.070><c> not</c><00:04:33.100><c> care</c><00:04:33.580><c> right</c>
+
+00:04:33.900 --> 00:04:33.910 align:start position:0%
+pointer means that we do not care right
+ 
+
+00:04:33.910 --> 00:04:36.060 align:start position:0%
+pointer means that we do not care right
+now<00:04:33.970><c> in</c><00:04:34.330><c> our</c><00:04:34.390><c> source</c><00:04:34.660><c> code</c><00:04:34.750><c> what</c><00:04:35.320><c> type</c><00:04:35.680><c> this</c>
+
+00:04:36.060 --> 00:04:36.070 align:start position:0%
+now in our source code what type this
+ 
+
+00:04:36.070 --> 00:04:38.640 align:start position:0%
+now in our source code what type this
+actual<00:04:36.550><c> data</c><00:04:36.820><c> is</c><00:04:37.060><c> because</c><00:04:37.480><c> we</c><00:04:38.050><c> just</c><00:04:38.230><c> want</c><00:04:38.530><c> to</c>
+
+00:04:38.640 --> 00:04:38.650 align:start position:0%
+actual data is because we just want to
+ 
+
+00:04:38.650 --> 00:04:40.590 align:start position:0%
+actual data is because we just want to
+really<00:04:39.040><c> hold</c><00:04:39.250><c> an</c><00:04:39.370><c> address</c><00:04:39.670><c> let's</c><00:04:40.360><c> go</c><00:04:40.480><c> ahead</c>
+
+00:04:40.590 --> 00:04:40.600 align:start position:0%
+really hold an address let's go ahead
+ 
+
+00:04:40.600 --> 00:04:42.600 align:start position:0%
+really hold an address let's go ahead
+I'll<00:04:40.840><c> call</c><00:04:41.080><c> it</c><00:04:41.200><c> PTR</c><00:04:41.650><c> or</c><00:04:41.860><c> pointer</c><00:04:42.220><c> for</c><00:04:42.370><c> short</c>
+
+00:04:42.600 --> 00:04:42.610 align:start position:0%
+I'll call it PTR or pointer for short
+ 
+
+00:04:42.610 --> 00:04:45.120 align:start position:0%
+I'll call it PTR or pointer for short
+and<00:04:42.760><c> I'll</c><00:04:43.120><c> set</c><00:04:43.330><c> it</c><00:04:43.360><c> equal</c><00:04:43.510><c> to</c><00:04:43.720><c> 0</c><00:04:44.140><c> so</c><00:04:44.590><c> what</c><00:04:44.740><c> is</c><00:04:44.830><c> 0</c>
+
+00:04:45.120 --> 00:04:45.130 align:start position:0%
+and I'll set it equal to 0 so what is 0
+ 
+
+00:04:45.130 --> 00:04:46.620 align:start position:0%
+and I'll set it equal to 0 so what is 0
+we've<00:04:45.370><c> given</c><00:04:45.580><c> this</c><00:04:45.760><c> pointer</c><00:04:46.210><c> and</c><00:04:46.390><c> memory</c>
+
+00:04:46.620 --> 00:04:46.630 align:start position:0%
+we've given this pointer and memory
+ 
+
+00:04:46.630 --> 00:04:48.840 align:start position:0%
+we've given this pointer and memory
+address<00:04:46.900><c> of</c><00:04:46.930><c> a</c><00:04:47.080><c> 0</c><00:04:47.380><c> what</c><00:04:47.920><c> does</c><00:04:48.040><c> that</c><00:04:48.250><c> mean</c><00:04:48.520><c> well</c>
+
+00:04:48.840 --> 00:04:48.850 align:start position:0%
+address of a 0 what does that mean well
+ 
+
+00:04:48.850 --> 00:04:51.480 align:start position:0%
+address of a 0 what does that mean well
+0<00:04:49.270><c> isn't</c><00:04:49.690><c> actually</c><00:04:50.140><c> a</c><00:04:50.170><c> valid</c><00:04:50.620><c> memory</c><00:04:51.190><c> address</c>
+
+00:04:51.480 --> 00:04:51.490 align:start position:0%
+0 isn't actually a valid memory address
+ 
+
+00:04:51.490 --> 00:04:53.310 align:start position:0%
+0 isn't actually a valid memory address
+memory<00:04:51.820><c> addresses</c><00:04:52.150><c> do</c><00:04:52.330><c> not</c><00:04:52.510><c> go</c><00:04:52.750><c> all</c><00:04:53.170><c> the</c><00:04:53.200><c> way</c>
+
+00:04:53.310 --> 00:04:53.320 align:start position:0%
+memory addresses do not go all the way
+ 
+
+00:04:53.320 --> 00:04:55.800 align:start position:0%
+memory addresses do not go all the way
+down<00:04:53.650><c> to</c><00:04:53.920><c> 0</c><00:04:54.130><c> because</c><00:04:54.460><c> 0</c><00:04:54.490><c> is</c><00:04:54.760><c> invalid</c><00:04:55.480><c> and</c><00:04:55.630><c> what</c>
+
+00:04:55.800 --> 00:04:55.810 align:start position:0%
+down to 0 because 0 is invalid and what
+ 
+
+00:04:55.810 --> 00:04:57.870 align:start position:0%
+down to 0 because 0 is invalid and what
+that<00:04:55.990><c> means</c><00:04:56.230><c> is</c><00:04:56.410><c> that</c><00:04:56.440><c> this</c><00:04:56.740><c> pointer</c><00:04:57.220><c> is</c><00:04:57.400><c> not</c>
+
+00:04:57.870 --> 00:04:57.880 align:start position:0%
+that means is that this pointer is not
+ 
+
+00:04:57.880 --> 00:04:59.790 align:start position:0%
+that means is that this pointer is not
+valid<00:04:58.390><c> being</c><00:04:58.690><c> not</c><00:04:58.870><c> valid</c><00:04:59.260><c> is</c><00:04:59.350><c> a</c><00:04:59.380><c> perfectly</c>
+
+00:04:59.790 --> 00:04:59.800 align:start position:0%
+valid being not valid is a perfectly
+ 
+
+00:04:59.800 --> 00:05:01.530 align:start position:0%
+valid being not valid is a perfectly
+acceptable<00:04:59.890><c> state</c><00:05:00.400><c> for</c><00:05:00.610><c> a</c><00:05:00.670><c> pointer</c><00:05:01.060><c> but</c><00:05:01.450><c> all</c>
+
+00:05:01.530 --> 00:05:01.540 align:start position:0%
+acceptable state for a pointer but all
+ 
+
+00:05:01.540 --> 00:05:03.840 align:start position:0%
+acceptable state for a pointer but all
+I'm<00:05:01.660><c> saying</c><00:05:01.840><c> here</c><00:05:02.170><c> is</c><00:05:02.200><c> that</c><00:05:02.440><c> 0</c><00:05:02.710><c> is</c><00:05:03.010><c> not</c><00:05:03.310><c> a</c><00:05:03.340><c> valid</c>
+
+00:05:03.840 --> 00:05:03.850 align:start position:0%
+I'm saying here is that 0 is not a valid
+ 
+
+00:05:03.850 --> 00:05:05.940 align:start position:0%
+I'm saying here is that 0 is not a valid
+memory<00:05:04.660><c> address</c><00:05:04.870><c> we</c><00:05:05.020><c> can't</c><00:05:05.230><c> read</c><00:05:05.470><c> from</c><00:05:05.710><c> or</c>
+
+00:05:05.940 --> 00:05:05.950 align:start position:0%
+memory address we can't read from or
+ 
+
+00:05:05.950 --> 00:05:07.530 align:start position:0%
+memory address we can't read from or
+write<00:05:06.190><c> to</c><00:05:06.430><c> a</c><00:05:06.460><c> memory</c><00:05:06.790><c> address</c><00:05:06.850><c> of</c><00:05:07.060><c> C</c><00:05:07.180><c> or</c><00:05:07.300><c> if</c><00:05:07.420><c> we</c>
+
+00:05:07.530 --> 00:05:07.540 align:start position:0%
+write to a memory address of C or if we
+ 
+
+00:05:07.540 --> 00:05:08.970 align:start position:0%
+write to a memory address of C or if we
+try<00:05:07.720><c> and</c><00:05:07.750><c> do</c><00:05:07.900><c> that</c><00:05:08.080><c> our</c><00:05:08.230><c> program</c><00:05:08.620><c> will</c><00:05:08.770><c> crash</c>
+
+00:05:08.970 --> 00:05:08.980 align:start position:0%
+try and do that our program will crash
+ 
+
+00:05:08.980 --> 00:05:11.070 align:start position:0%
+try and do that our program will crash
+so<00:05:09.490><c> 0</c><00:05:09.700><c> means</c><00:05:09.970><c> null</c><00:05:10.240><c> and</c><00:05:10.420><c> we</c><00:05:10.510><c> can</c><00:05:10.630><c> actually</c><00:05:10.720><c> also</c>
+
+00:05:11.070 --> 00:05:11.080 align:start position:0%
+so 0 means null and we can actually also
+ 
+
+00:05:11.080 --> 00:05:12.810 align:start position:0%
+so 0 means null and we can actually also
+write<00:05:11.290><c> it</c><00:05:11.440><c> like</c><00:05:11.470><c> this</c><00:05:11.620><c> which</c><00:05:12.550><c> is</c><00:05:12.580><c> actually</c>
+
+00:05:12.810 --> 00:05:12.820 align:start position:0%
+write it like this which is actually
+ 
+
+00:05:12.820 --> 00:05:14.490 align:start position:0%
+write it like this which is actually
+just<00:05:13.000><c> a</c><00:05:13.240><c> hash</c><00:05:13.450><c> define</c><00:05:13.690><c> if</c><00:05:14.050><c> you</c><00:05:14.140><c> look</c><00:05:14.350><c> up</c><00:05:14.470><c> what</c>
+
+00:05:14.490 --> 00:05:14.500 align:start position:0%
+just a hash define if you look up what
+ 
+
+00:05:14.500 --> 00:05:16.110 align:start position:0%
+just a hash define if you look up what
+bad<00:05:14.890><c> null</c><00:05:15.100><c> actually</c><00:05:15.490><c> as</c><00:05:15.610><c> you</c><00:05:15.730><c> can</c><00:05:15.850><c> see</c><00:05:16.000><c> it's</c>
+
+00:05:16.110 --> 00:05:16.120 align:start position:0%
+bad null actually as you can see it's
+ 
+
+00:05:16.120 --> 00:05:18.780 align:start position:0%
+bad null actually as you can see it's
+just<00:05:16.180><c> a</c><00:05:16.360><c> hash</c><00:05:16.540><c> to</c><00:05:16.720><c> find</c><00:05:16.960><c> for</c><00:05:17.620><c> 0</c><00:05:18.010><c> so</c><00:05:18.610><c> it's</c><00:05:18.730><c> the</c>
+
+00:05:18.780 --> 00:05:18.790 align:start position:0%
+just a hash to find for 0 so it's the
+ 
+
+00:05:18.790 --> 00:05:20.670 align:start position:0%
+just a hash to find for 0 so it's the
+same<00:05:19.000><c> as</c><00:05:19.060><c> if</c><00:05:19.300><c> we</c><00:05:19.390><c> write</c><00:05:19.540><c> 0</c><00:05:19.780><c> all</c><00:05:20.200><c> we</c><00:05:20.440><c> can</c><00:05:20.590><c> use</c>
+
+00:05:20.670 --> 00:05:20.680 align:start position:0%
+same as if we write 0 all we can use
+ 
+
+00:05:20.680 --> 00:05:22.140 align:start position:0%
+same as if we write 0 all we can use
+this<00:05:20.800><c> a</c><00:05:20.920><c> puff-puff</c><00:05:21.100><c> keyword</c><00:05:21.580><c> called</c><00:05:21.880><c> null</c>
+
+00:05:22.140 --> 00:05:22.150 align:start position:0%
+this a puff-puff keyword called null
+ 
+
+00:05:22.150 --> 00:05:23.760 align:start position:0%
+this a puff-puff keyword called null
+pointer<00:05:22.600><c> this</c><00:05:22.780><c> was</c><00:05:22.930><c> introduced</c><00:05:23.350><c> in</c><00:05:23.530><c> the</c><00:05:23.620><c> Sabre</c>
+
+00:05:23.760 --> 00:05:23.770 align:start position:0%
+pointer this was introduced in the Sabre
+ 
+
+00:05:23.770 --> 00:05:25.890 align:start position:0%
+pointer this was introduced in the Sabre
+plus<00:05:24.010><c> 11</c><00:05:24.370><c> so</c><00:05:24.730><c> awesome</c><00:05:25.150><c> we've</c><00:05:25.330><c> made</c><00:05:25.510><c> our</c><00:05:25.660><c> first</c>
+
+00:05:25.890 --> 00:05:25.900 align:start position:0%
+plus 11 so awesome we've made our first
+ 
+
+00:05:25.900 --> 00:05:28.320 align:start position:0%
+plus 11 so awesome we've made our first
+pointer<00:05:26.410><c> it</c><00:05:26.590><c> is</c><00:05:26.710><c> completely</c><00:05:27.100><c> typeless</c><00:05:27.430><c> and</c><00:05:27.880><c> it</c>
+
+00:05:28.320 --> 00:05:28.330 align:start position:0%
+pointer it is completely typeless and it
+ 
+
+00:05:28.330 --> 00:05:30.690 align:start position:0%
+pointer it is completely typeless and it
+has<00:05:28.600><c> the</c><00:05:28.810><c> memory</c><00:05:29.080><c> address</c><00:05:29.320><c> of</c><00:05:29.530><c> 0</c><00:05:29.980><c> completely</c>
+
+00:05:30.690 --> 00:05:30.700 align:start position:0%
+has the memory address of 0 completely
+ 
+
+00:05:30.700 --> 00:05:32.670 align:start position:0%
+has the memory address of 0 completely
+useless<00:05:30.850><c> but</c><00:05:31.330><c> it's</c><00:05:31.570><c> a</c><00:05:32.080><c> pointer</c><00:05:32.410><c> and</c><00:05:32.560><c> it's</c>
+
+00:05:32.670 --> 00:05:32.680 align:start position:0%
+useless but it's a pointer and it's
+ 
+
+00:05:32.680 --> 00:05:33.840 align:start position:0%
+useless but it's a pointer and it's
+probably<00:05:32.830><c> the</c><00:05:32.980><c> simplest</c><00:05:33.220><c> point</c><00:05:33.520><c> you</c><00:05:33.670><c> could</c>
+
+00:05:33.840 --> 00:05:33.850 align:start position:0%
+probably the simplest point you could
+ 
+
+00:05:33.850 --> 00:05:35.370 align:start position:0%
+probably the simplest point you could
+write<00:05:34.000><c> let's</c><00:05:34.390><c> do</c><00:05:34.480><c> something</c><00:05:34.780><c> a</c><00:05:34.840><c> little</c><00:05:35.230><c> bit</c>
+
+00:05:35.370 --> 00:05:35.380 align:start position:0%
+write let's do something a little bit
+ 
+
+00:05:35.380 --> 00:05:37.200 align:start position:0%
+write let's do something a little bit
+more<00:05:35.560><c> useful</c><00:05:35.740><c> let's</c><00:05:36.220><c> create</c><00:05:36.460><c> an</c><00:05:36.670><c> integer</c><00:05:36.970><c> so</c>
+
+00:05:37.200 --> 00:05:37.210 align:start position:0%
+more useful let's create an integer so
+ 
+
+00:05:37.210 --> 00:05:38.730 align:start position:0%
+more useful let's create an integer so
+I'm<00:05:37.270><c> going</c><00:05:37.390><c> to</c><00:05:37.450><c> create</c><00:05:37.570><c> a</c><00:05:37.690><c> variable</c><00:05:38.080><c> I'm</c><00:05:38.380><c> going</c>
+
+00:05:38.730 --> 00:05:38.740 align:start position:0%
+I'm going to create a variable I'm going
+ 
+
+00:05:38.740 --> 00:05:39.990 align:start position:0%
+I'm going to create a variable I'm going
+to<00:05:38.980><c> call</c><00:05:39.130><c> it</c><00:05:39.220><c> bar</c><00:05:39.460><c> and</c><00:05:39.610><c> I'm</c><00:05:39.669><c> gonna</c><00:05:39.760><c> set</c><00:05:39.970><c> it</c>
+
+00:05:39.990 --> 00:05:40.000 align:start position:0%
+to call it bar and I'm gonna set it
+ 
+
+00:05:40.000 --> 00:05:41.610 align:start position:0%
+to call it bar and I'm gonna set it
+equal<00:05:40.180><c> to</c><00:05:40.360><c> a</c><00:05:40.450><c> it's</c><00:05:40.810><c> going</c><00:05:40.960><c> to</c><00:05:41.050><c> be</c><00:05:41.140><c> an</c><00:05:41.320><c> integer</c>
+
+00:05:41.610 --> 00:05:41.620 align:start position:0%
+equal to a it's going to be an integer
+ 
+
+00:05:41.620 --> 00:05:43.890 align:start position:0%
+equal to a it's going to be an integer
+now<00:05:42.130><c> this</c><00:05:42.340><c> is</c><00:05:42.460><c> just</c><00:05:42.640><c> a</c><00:05:42.730><c> normal</c><00:05:42.910><c> integer</c><00:05:43.540><c> but</c><00:05:43.780><c> of</c>
+
+00:05:43.890 --> 00:05:43.900 align:start position:0%
+now this is just a normal integer but of
+ 
+
+00:05:43.900 --> 00:05:45.659 align:start position:0%
+now this is just a normal integer but of
+course<00:05:44.110><c> every</c><00:05:44.500><c> variable</c><00:05:44.890><c> we</c><00:05:45.010><c> create</c><00:05:45.310><c> has</c><00:05:45.640><c> a</c>
+
+00:05:45.659 --> 00:05:45.669 align:start position:0%
+course every variable we create has a
+ 
+
+00:05:45.669 --> 00:05:47.190 align:start position:0%
+course every variable we create has a
+memory<00:05:46.150><c> address</c><00:05:46.210><c> because</c><00:05:46.690><c> we</c><00:05:46.780><c> need</c><00:05:46.990><c> a</c><00:05:47.020><c> place</c>
+
+00:05:47.190 --> 00:05:47.200 align:start position:0%
+memory address because we need a place
+ 
+
+00:05:47.200 --> 00:05:49.530 align:start position:0%
+memory address because we need a place
+to<00:05:47.230><c> store</c><00:05:47.710><c> that</c><00:05:47.980><c> variable</c><00:05:48.490><c> so</c><00:05:48.790><c> what</c><00:05:49.180><c> if</c><00:05:49.300><c> I</c><00:05:49.390><c> want</c>
+
+00:05:49.530 --> 00:05:49.540 align:start position:0%
+to store that variable so what if I want
+ 
+
+00:05:49.540 --> 00:05:51.360 align:start position:0%
+to store that variable so what if I want
+to<00:05:49.600><c> find</c><00:05:49.870><c> out</c><00:05:50.110><c> what</c><00:05:50.530><c> the</c><00:05:50.710><c> memory</c><00:05:50.919><c> address</c><00:05:51.340><c> of</c>
+
+00:05:51.360 --> 00:05:51.370 align:start position:0%
+to find out what the memory address of
+ 
+
+00:05:51.370 --> 00:05:53.790 align:start position:0%
+to find out what the memory address of
+that<00:05:51.610><c> variable</c><00:05:51.970><c> is</c><00:05:52.480><c> so</c><00:05:52.720><c> where</c><00:05:53.260><c> are</c><00:05:53.470><c> you</c><00:05:53.680><c> in</c>
+
+00:05:53.790 --> 00:05:53.800 align:start position:0%
+that variable is so where are you in
+ 
+
+00:05:53.800 --> 00:05:55.800 align:start position:0%
+that variable is so where are you in
+memory<00:05:54.130><c> I</c><00:05:54.370><c> can</c><00:05:54.640><c> do</c><00:05:54.760><c> that</c><00:05:54.940><c> by</c><00:05:55.150><c> using</c><00:05:55.210><c> the</c>
+
+00:05:55.800 --> 00:05:55.810 align:start position:0%
+memory I can do that by using the
+ 
+
+00:05:55.810 --> 00:05:57.930 align:start position:0%
+memory I can do that by using the
+ampersand<00:05:56.530><c> operator</c><00:05:56.800><c> so</c><00:05:57.430><c> if</c><00:05:57.520><c> I</c><00:05:57.610><c> use</c><00:05:57.790><c> an</c>
+
+00:05:57.930 --> 00:05:57.940 align:start position:0%
+ampersand operator so if I use an
+ 
+
+00:05:57.940 --> 00:05:59.760 align:start position:0%
+ampersand operator so if I use an
+ampersand<00:05:58.419><c> in</c><00:05:58.720><c> front</c><00:05:59.050><c> of</c><00:05:59.169><c> an</c><00:05:59.260><c> existing</c>
+
+00:05:59.760 --> 00:05:59.770 align:start position:0%
+ampersand in front of an existing
+ 
+
+00:05:59.770 --> 00:06:01.950 align:start position:0%
+ampersand in front of an existing
+variable<00:05:59.980><c> like</c><00:06:00.669><c> this</c><00:06:00.700><c> we're</c><00:06:01.630><c> essentially</c>
+
+00:06:01.950 --> 00:06:01.960 align:start position:0%
+variable like this we're essentially
+ 
+
+00:06:01.960 --> 00:06:04.200 align:start position:0%
+variable like this we're essentially
+asking<00:06:02.590><c> this</c><00:06:02.770><c> variable</c><00:06:03.280><c> hey</c><00:06:03.490><c> what</c><00:06:04.030><c> is</c><00:06:04.180><c> your</c>
+
+00:06:04.200 --> 00:06:04.210 align:start position:0%
+asking this variable hey what is your
+ 
+
+00:06:04.210 --> 00:06:05.970 align:start position:0%
+asking this variable hey what is your
+memory<00:06:04.720><c> address</c><00:06:05.020><c> and</c><00:06:05.230><c> then</c><00:06:05.470><c> of</c><00:06:05.560><c> course</c><00:06:05.620><c> we're</c>
+
+00:06:05.970 --> 00:06:05.980 align:start position:0%
+memory address and then of course we're
+ 
+
+00:06:05.980 --> 00:06:08.010 align:start position:0%
+memory address and then of course we're
+taking<00:06:06.220><c> the</c><00:06:06.640><c> memory</c><00:06:07.000><c> address</c><00:06:07.300><c> of</c><00:06:07.450><c> that</c>
+
+00:06:08.010 --> 00:06:08.020 align:start position:0%
+taking the memory address of that
+ 
+
+00:06:08.020 --> 00:06:09.990 align:start position:0%
+taking the memory address of that
+variable<00:06:08.230><c> and</c><00:06:08.830><c> in</c><00:06:09.130><c> this</c><00:06:09.220><c> case</c><00:06:09.460><c> assigning</c><00:06:09.910><c> it</c>
+
+00:06:09.990 --> 00:06:10.000 align:start position:0%
+variable and in this case assigning it
+ 
+
+00:06:10.000 --> 00:06:12.030 align:start position:0%
+variable and in this case assigning it
+to<00:06:10.030><c> a</c><00:06:10.150><c> new</c><00:06:10.419><c> variable</c><00:06:10.810><c> called</c><00:06:11.230><c> pointer</c><00:06:11.800><c> and</c>
+
+00:06:12.030 --> 00:06:12.040 align:start position:0%
+to a new variable called pointer and
+ 
+
+00:06:12.040 --> 00:06:14.070 align:start position:0%
+to a new variable called pointer and
+that's<00:06:12.340><c> it</c><00:06:12.520><c> we've</c><00:06:12.760><c> now</c><00:06:13.030><c> got</c><00:06:13.540><c> the</c><00:06:13.570><c> memory</c>
+
+00:06:14.070 --> 00:06:14.080 align:start position:0%
+that's it we've now got the memory
+ 
+
+00:06:14.080 --> 00:06:15.780 align:start position:0%
+that's it we've now got the memory
+address<00:06:14.350><c> of</c><00:06:14.530><c> our</c><00:06:14.800><c> variable</c><00:06:15.340><c> and</c><00:06:15.460><c> we're</c>
+
+00:06:15.780 --> 00:06:15.790 align:start position:0%
+address of our variable and we're
+ 
+
+00:06:15.790 --> 00:06:17.490 align:start position:0%
+address of our variable and we're
+storing<00:06:15.970><c> it</c><00:06:16.210><c> in</c><00:06:16.330><c> another</c><00:06:16.600><c> variable</c><00:06:17.080><c> which</c><00:06:17.260><c> is</c>
+
+00:06:17.490 --> 00:06:17.500 align:start position:0%
+storing it in another variable which is
+ 
+
+00:06:17.500 --> 00:06:18.810 align:start position:0%
+storing it in another variable which is
+a<00:06:17.530><c> pointer</c><00:06:17.590><c> I'm</c><00:06:18.100><c> going</c><00:06:18.340><c> to</c><00:06:18.430><c> put</c><00:06:18.520><c> a</c><00:06:18.550><c> breakpoint</c>
+
+00:06:18.810 --> 00:06:18.820 align:start position:0%
+a pointer I'm going to put a breakpoint
+ 
+
+00:06:18.820 --> 00:06:21.180 align:start position:0%
+a pointer I'm going to put a breakpoint
+on<00:06:19.180><c> this</c><00:06:19.390><c> line</c><00:06:19.570><c> of</c><00:06:19.660><c> code</c><00:06:19.870><c> and</c><00:06:20.110><c> hit</c><00:06:20.290><c> f5</c><00:06:20.680><c> to</c><00:06:20.740><c> run</c>
+
+00:06:21.180 --> 00:06:21.190 align:start position:0%
+on this line of code and hit f5 to run
+ 
+
+00:06:21.190 --> 00:06:23.370 align:start position:0%
+on this line of code and hit f5 to run
+and<00:06:21.460><c> debug</c><00:06:21.610><c> my</c><00:06:22.090><c> application</c><00:06:22.600><c> so</c><00:06:22.780><c> right</c><00:06:23.080><c> now</c><00:06:23.230><c> if</c>
+
+00:06:23.370 --> 00:06:23.380 align:start position:0%
+and debug my application so right now if
+ 
+
+00:06:23.380 --> 00:06:24.690 align:start position:0%
+and debug my application so right now if
+I<00:06:23.470><c> take</c><00:06:23.650><c> a</c><00:06:23.710><c> look</c><00:06:23.890><c> at</c><00:06:24.010><c> what</c><00:06:24.160><c> we've</c><00:06:24.310><c> got</c><00:06:24.490><c> we've</c>
+
+00:06:24.690 --> 00:06:24.700 align:start position:0%
+I take a look at what we've got we've
+ 
+
+00:06:24.700 --> 00:06:26.310 align:start position:0%
+I take a look at what we've got we've
+got<00:06:24.820><c> a</c><00:06:24.850><c> variable</c><00:06:25.240><c> you</c><00:06:25.330><c> can</c><00:06:25.480><c> see</c><00:06:25.690><c> by</c><00:06:25.900><c> helping</c><00:06:26.230><c> my</c>
+
+00:06:26.310 --> 00:06:26.320 align:start position:0%
+got a variable you can see by helping my
+ 
+
+00:06:26.320 --> 00:06:28.170 align:start position:0%
+got a variable you can see by helping my
+mouse<00:06:26.470><c> over</c><00:06:26.830><c> it</c><00:06:26.860><c> it</c><00:06:27.130><c> has</c><00:06:27.550><c> the</c><00:06:27.700><c> value</c><00:06:27.970><c> of</c>
+
+00:06:28.170 --> 00:06:28.180 align:start position:0%
+mouse over it it has the value of
+ 
+
+00:06:28.180 --> 00:06:30.660 align:start position:0%
+mouse over it it has the value of
+and<00:06:28.540><c> if</c><00:06:28.630><c> I</c><00:06:28.720><c> hover</c><00:06:28.900><c> my</c><00:06:29.170><c> mouse</c><00:06:29.200><c> over</c><00:06:29.590><c> pointer</c><00:06:30.160><c> it</c>
+
+00:06:30.660 --> 00:06:30.670 align:start position:0%
+and if I hover my mouse over pointer it
+ 
+
+00:06:30.670 --> 00:06:33.360 align:start position:0%
+and if I hover my mouse over pointer it
+has<00:06:31.000><c> a</c><00:06:31.390><c> slightly</c><00:06:32.020><c> different</c><00:06:32.140><c> value</c><00:06:32.470><c> which</c><00:06:33.220><c> is</c>
+
+00:06:33.360 --> 00:06:33.370 align:start position:0%
+has a slightly different value which is
+ 
+
+00:06:33.370 --> 00:06:35.160 align:start position:0%
+has a slightly different value which is
+presented<00:06:33.640><c> to</c><00:06:33.880><c> us</c><00:06:33.910><c> in</c><00:06:34.210><c> hexadecimal</c><00:06:34.510><c> format</c>
+
+00:06:35.160 --> 00:06:35.170 align:start position:0%
+presented to us in hexadecimal format
+ 
+
+00:06:35.170 --> 00:06:37.230 align:start position:0%
+presented to us in hexadecimal format
+but<00:06:35.500><c> it</c><00:06:35.740><c> is</c><00:06:35.770><c> as</c><00:06:36.160><c> you</c><00:06:36.250><c> can</c><00:06:36.310><c> see</c><00:06:36.460><c> it's</c><00:06:36.820><c> still</c><00:06:37.000><c> just</c>
+
+00:06:37.230 --> 00:06:37.240 align:start position:0%
+but it is as you can see it's still just
+ 
+
+00:06:37.240 --> 00:06:39.030 align:start position:0%
+but it is as you can see it's still just
+a<00:06:37.420><c> number</c><00:06:37.750><c> it's</c><00:06:37.930><c> an</c><00:06:38.050><c> integer</c><00:06:38.260><c> so</c><00:06:38.740><c> what</c><00:06:38.920><c> that</c>
+
+00:06:39.030 --> 00:06:39.040 align:start position:0%
+a number it's an integer so what that
+ 
+
+00:06:39.040 --> 00:06:41.040 align:start position:0%
+a number it's an integer so what that
+point<00:06:39.340><c> of</c><00:06:39.490><c> variable</c><00:06:39.820><c> is</c><00:06:39.910><c> holding</c><00:06:40.270><c> now</c><00:06:40.390><c> is</c><00:06:40.630><c> the</c>
+
+00:06:41.040 --> 00:06:41.050 align:start position:0%
+point of variable is holding now is the
+ 
+
+00:06:41.050 --> 00:06:43.470 align:start position:0%
+point of variable is holding now is the
+memory<00:06:41.350><c> address</c><00:06:41.620><c> of</c><00:06:41.650><c> that</c><00:06:42.250><c> van</c><00:06:42.670><c> variable</c><00:06:43.300><c> and</c>
+
+00:06:43.470 --> 00:06:43.480 align:start position:0%
+memory address of that van variable and
+ 
+
+00:06:43.480 --> 00:06:45.240 align:start position:0%
+memory address of that van variable and
+that's<00:06:43.780><c> all</c><00:06:43.990><c> it</c><00:06:44.110><c> is</c><00:06:44.170><c> that</c><00:06:44.620><c> number</c><00:06:45.070><c> that</c><00:06:45.190><c> you</c>
+
+00:06:45.240 --> 00:06:45.250 align:start position:0%
+that's all it is that number that you
+ 
+
+00:06:45.250 --> 00:06:48.810 align:start position:0%
+that's all it is that number that you
+see<00:06:45.550><c> there</c><00:06:45.820><c> a</c><00:06:46.030><c> zero</c><00:06:46.510><c> fb6</c><00:06:47.320><c> for</c><00:06:47.680><c> that</c><00:06:48.160><c> is</c><00:06:48.400><c> where</c>
+
+00:06:48.810 --> 00:06:48.820 align:start position:0%
+see there a zero fb6 for that is where
+ 
+
+00:06:48.820 --> 00:06:51.210 align:start position:0%
+see there a zero fb6 for that is where
+in<00:06:49.030><c> memory</c><00:06:49.480><c> we</c><00:06:49.840><c> are</c><00:06:49.990><c> storing</c><00:06:50.470><c> our</c><00:06:50.620><c> integer</c>
+
+00:06:51.210 --> 00:06:51.220 align:start position:0%
+in memory we are storing our integer
+ 
+
+00:06:51.220 --> 00:06:53.520 align:start position:0%
+in memory we are storing our integer
+variable<00:06:51.640><c> and</c><00:06:51.730><c> in</c><00:06:52.000><c> fact</c><00:06:52.210><c> what</c><00:06:52.360><c> I</c><00:06:52.390><c> can</c><00:06:52.600><c> do</c><00:06:52.810><c> is</c><00:06:53.110><c> I</c>
+
+00:06:53.520 --> 00:06:53.530 align:start position:0%
+variable and in fact what I can do is I
+ 
+
+00:06:53.530 --> 00:06:55.770 align:start position:0%
+variable and in fact what I can do is I
+can<00:06:53.590><c> grab</c><00:06:53.920><c> this</c><00:06:54.130><c> I</c><00:06:54.370><c> can</c><00:06:54.580><c> copy</c><00:06:54.880><c> it</c><00:06:55.150><c> I</c><00:06:55.360><c> can</c><00:06:55.630><c> hit</c>
+
+00:06:55.770 --> 00:06:55.780 align:start position:0%
+can grab this I can copy it I can hit
+ 
+
+00:06:55.780 --> 00:07:00.120 align:start position:0%
+can grab this I can copy it I can hit
+debug<00:06:56.290><c> Windows</c><00:06:57.300><c> memory</c><00:06:58.300><c> memory</c><00:06:59.110><c> 1</c><00:06:59.500><c> so</c><00:06:59.980><c> what</c>
+
+00:07:00.120 --> 00:07:00.130 align:start position:0%
+debug Windows memory memory 1 so what
+ 
+
+00:07:00.130 --> 00:07:02.100 align:start position:0%
+debug Windows memory memory 1 so what
+this<00:07:00.280><c> view</c><00:07:00.550><c> is</c><00:07:00.640><c> showing</c><00:07:00.970><c> now</c><00:07:01.120><c> is</c><00:07:01.390><c> all</c><00:07:01.810><c> of</c><00:07:02.020><c> the</c>
+
+00:07:02.100 --> 00:07:02.110 align:start position:0%
+this view is showing now is all of the
+ 
+
+00:07:02.110 --> 00:07:03.960 align:start position:0%
+this view is showing now is all of the
+memory<00:07:02.140><c> inside</c><00:07:02.740><c> our</c><00:07:02.890><c> application</c><00:07:02.920><c> I'm</c><00:07:03.610><c> going</c>
+
+00:07:03.960 --> 00:07:03.970 align:start position:0%
+memory inside our application I'm going
+ 
+
+00:07:03.970 --> 00:07:06.030 align:start position:0%
+memory inside our application I'm going
+to<00:07:04.090><c> paste</c><00:07:04.420><c> in</c><00:07:04.780><c> that</c><00:07:04.990><c> value</c><00:07:05.680><c> I'm</c><00:07:05.740><c> just</c><00:07:05.890><c> going</c><00:07:06.010><c> to</c>
+
+00:07:06.030 --> 00:07:06.040 align:start position:0%
+to paste in that value I'm just going to
+ 
+
+00:07:06.040 --> 00:07:07.380 align:start position:0%
+to paste in that value I'm just going to
+get<00:07:06.160><c> rid</c><00:07:06.280><c> of</c><00:07:06.340><c> that</c><00:07:06.490><c> pointer</c><00:07:06.910><c> at</c><00:07:07.000><c> the</c><00:07:07.120><c> beginning</c>
+
+00:07:07.380 --> 00:07:07.390 align:start position:0%
+get rid of that pointer at the beginning
+ 
+
+00:07:07.390 --> 00:07:10.650 align:start position:0%
+get rid of that pointer at the beginning
+there<00:07:07.660><c> and</c><00:07:08.670><c> then</c><00:07:09.670><c> I'm</c><00:07:09.760><c> gonna</c><00:07:09.850><c> hit</c><00:07:10.060><c> enter</c><00:07:10.300><c> and</c>
+
+00:07:10.650 --> 00:07:10.660 align:start position:0%
+there and then I'm gonna hit enter and
+ 
+
+00:07:10.660 --> 00:07:12.420 align:start position:0%
+there and then I'm gonna hit enter and
+check<00:07:11.620><c> this</c><00:07:11.890><c> out</c>
+
+00:07:12.420 --> 00:07:12.430 align:start position:0%
+check this out
+ 
+
+00:07:12.430 --> 00:07:16.080 align:start position:0%
+check this out
+we<00:07:12.550><c> are</c><00:07:12.700><c> taken</c><00:07:13.120><c> to</c><00:07:13.150><c> this</c><00:07:14.020><c> memory</c><00:07:14.440><c> address</c><00:07:15.090><c> we</c>
+
+00:07:16.080 --> 00:07:16.090 align:start position:0%
+we are taken to this memory address we
+ 
+
+00:07:16.090 --> 00:07:17.970 align:start position:0%
+we are taken to this memory address we
+know<00:07:16.210><c> an</c><00:07:16.360><c> integer</c><00:07:16.570><c> is</c><00:07:16.780><c> 4</c><00:07:16.810><c> bytes</c><00:07:17.230><c> of</c><00:07:17.410><c> data</c><00:07:17.470><c> and</c>
+
+00:07:17.970 --> 00:07:17.980 align:start position:0%
+know an integer is 4 bytes of data and
+ 
+
+00:07:17.980 --> 00:07:19.920 align:start position:0%
+know an integer is 4 bytes of data and
+look<00:07:18.190><c> at</c><00:07:18.310><c> that</c><00:07:18.460><c> it</c><00:07:18.880><c> has</c><00:07:19.090><c> the</c><00:07:19.270><c> value</c><00:07:19.510><c> 8</c><00:07:19.690><c> we're</c>
+
+00:07:19.920 --> 00:07:19.930 align:start position:0%
+look at that it has the value 8 we're
+ 
+
+00:07:19.930 --> 00:07:21.480 align:start position:0%
+look at that it has the value 8 we're
+looking<00:07:20.230><c> at</c><00:07:20.380><c> our</c><00:07:20.500><c> computer's</c><00:07:20.980><c> memory</c><00:07:21.100><c> right</c>
+
+00:07:21.480 --> 00:07:21.490 align:start position:0%
+looking at our computer's memory right
+ 
+
+00:07:21.490 --> 00:07:24.150 align:start position:0%
+looking at our computer's memory right
+now<00:07:21.520><c> and</c><00:07:21.970><c> we</c><00:07:22.390><c> can</c><00:07:22.540><c> see</c><00:07:22.780><c> that</c><00:07:23.350><c> add</c><00:07:23.560><c> that</c><00:07:23.590><c> memory</c>
+
+00:07:24.150 --> 00:07:24.160 align:start position:0%
+now and we can see that add that memory
+ 
+
+00:07:24.160 --> 00:07:26.970 align:start position:0%
+now and we can see that add that memory
+address<00:07:24.220><c> we</c><00:07:24.730><c> have</c><00:07:24.970><c> the</c><00:07:25.270><c> value</c><00:07:25.600><c> 8</c><00:07:25.810><c> because</c><00:07:26.440><c> we</c>
+
+00:07:26.970 --> 00:07:26.980 align:start position:0%
+address we have the value 8 because we
+ 
+
+00:07:26.980 --> 00:07:28.650 align:start position:0%
+address we have the value 8 because we
+created<00:07:27.400><c> that</c><00:07:27.490><c> variable</c><00:07:27.970><c> and</c><00:07:28.180><c> we</c><00:07:28.270><c> set</c><00:07:28.540><c> its</c>
+
+00:07:28.650 --> 00:07:28.660 align:start position:0%
+created that variable and we set its
+ 
+
+00:07:28.660 --> 00:07:31.410 align:start position:0%
+created that variable and we set its
+value<00:07:28.720><c> to</c><00:07:28.990><c> 8</c><00:07:29.230><c> all</c><00:07:29.800><c> right</c><00:07:30.010><c> fantastic</c><00:07:30.400><c> so</c><00:07:31.030><c> that's</c>
+
+00:07:31.410 --> 00:07:31.420 align:start position:0%
+value to 8 all right fantastic so that's
+ 
+
+00:07:31.420 --> 00:07:34.650 align:start position:0%
+value to 8 all right fantastic so that's
+really<00:07:31.990><c> I</c><00:07:32.290><c> mean</c><00:07:32.530><c> on</c><00:07:33.280><c> a</c><00:07:33.460><c> basic</c><00:07:33.760><c> level</c><00:07:33.790><c> that's</c>
+
+00:07:34.650 --> 00:07:34.660 align:start position:0%
+really I mean on a basic level that's
+ 
+
+00:07:34.660 --> 00:07:36.180 align:start position:0%
+really I mean on a basic level that's
+all<00:07:34.840><c> there</c><00:07:34.990><c> is</c><00:07:35.020><c> to</c><00:07:35.320><c> it</c><00:07:35.500><c> everything</c><00:07:35.980><c> else</c>
+
+00:07:36.180 --> 00:07:36.190 align:start position:0%
+all there is to it everything else
+ 
+
+00:07:36.190 --> 00:07:38.160 align:start position:0%
+all there is to it everything else
+builds<00:07:36.820><c> from</c><00:07:37.150><c> this</c><00:07:37.420><c> if</c><00:07:37.600><c> you</c><00:07:37.690><c> know</c><00:07:37.780><c> this</c><00:07:37.990><c> much</c>
+
+00:07:38.160 --> 00:07:38.170 align:start position:0%
+builds from this if you know this much
+ 
+
+00:07:38.170 --> 00:07:39.210 align:start position:0%
+builds from this if you know this much
+and<00:07:38.410><c> you're</c><00:07:38.560><c> following</c><00:07:38.770><c> me</c><00:07:39.040><c> in</c><00:07:39.100><c> your</c>
+
+00:07:39.210 --> 00:07:39.220 align:start position:0%
+and you're following me in your
+ 
+
+00:07:39.220 --> 00:07:41.430 align:start position:0%
+and you're following me in your
+understanding<00:07:39.370><c> that's</c><00:07:40.330><c> there's</c><00:07:40.960><c> no</c><00:07:41.050><c> magic</c>
+
+00:07:41.430 --> 00:07:41.440 align:start position:0%
+understanding that's there's no magic
+ 
+
+00:07:41.440 --> 00:07:43.110 align:start position:0%
+understanding that's there's no magic
+behind<00:07:41.590><c> it</c><00:07:41.890><c> that's</c><00:07:42.130><c> how</c><00:07:42.370><c> points</c><00:07:42.730><c> were</c><00:07:42.940><c> a</c>
+
+00:07:43.110 --> 00:07:43.120 align:start position:0%
+behind it that's how points were a
+ 
+
+00:07:43.120 --> 00:07:45.750 align:start position:0%
+behind it that's how points were a
+pointer<00:07:43.540><c> is</c><00:07:43.720><c> a</c><00:07:44.050><c> variable</c><00:07:44.620><c> which</c><00:07:45.130><c> holds</c><00:07:45.580><c> an</c>
+
+00:07:45.750 --> 00:07:45.760 align:start position:0%
+pointer is a variable which holds an
+ 
+
+00:07:45.760 --> 00:07:48.570 align:start position:0%
+pointer is a variable which holds an
+address<00:07:46.630><c> an</c><00:07:46.870><c> integer</c><00:07:47.470><c> a</c><00:07:47.770><c> pointer</c><00:07:48.130><c> is</c><00:07:48.220><c> like</c><00:07:48.340><c> any</c>
+
+00:07:48.570 --> 00:07:48.580 align:start position:0%
+address an integer a pointer is like any
+ 
+
+00:07:48.580 --> 00:07:50.010 align:start position:0%
+address an integer a pointer is like any
+other<00:07:48.670><c> variable</c><00:07:49.030><c> this</c><00:07:49.390><c> is</c><00:07:49.450><c> with</c><00:07:49.690><c> instead</c><00:07:49.900><c> of</c>
+
+00:07:50.010 --> 00:07:50.020 align:start position:0%
+other variable this is with instead of
+ 
+
+00:07:50.020 --> 00:07:51.690 align:start position:0%
+other variable this is with instead of
+holding<00:07:50.350><c> your</c><00:07:50.410><c> values</c><00:07:50.830><c> such</c><00:07:51.040><c> as</c><00:07:51.070><c> a</c><00:07:51.370><c> it's</c>
+
+00:07:51.690 --> 00:07:51.700 align:start position:0%
+holding your values such as a it's
+ 
+
+00:07:51.700 --> 00:07:53.580 align:start position:0%
+holding your values such as a it's
+holding<00:07:52.270><c> a</c><00:07:52.330><c> memory</c><00:07:52.600><c> address</c><00:07:52.660><c> which</c><00:07:52.870><c> a</c><00:07:53.290><c> memory</c>
+
+00:07:53.580 --> 00:07:53.590 align:start position:0%
+holding a memory address which a memory
+ 
+
+00:07:53.590 --> 00:07:54.840 align:start position:0%
+holding a memory address which a memory
+address<00:07:53.650><c> is</c><00:07:53.860><c> also</c><00:07:54.100><c> value</c><00:07:54.430><c> it's</c><00:07:54.580><c> also</c><00:07:54.700><c> an</c>
+
+00:07:54.840 --> 00:07:54.850 align:start position:0%
+address is also value it's also an
+ 
+
+00:07:54.850 --> 00:07:57.660 align:start position:0%
+address is also value it's also an
+integer<00:07:55.060><c> now</c><00:07:55.540><c> how</c><00:07:55.810><c> big</c><00:07:56.110><c> that</c><00:07:56.530><c> integer</c><00:07:56.980><c> is</c><00:07:57.280><c> how</c>
+
+00:07:57.660 --> 00:07:57.670 align:start position:0%
+integer now how big that integer is how
+ 
+
+00:07:57.670 --> 00:07:59.820 align:start position:0%
+integer now how big that integer is how
+big<00:07:57.910><c> that</c><00:07:58.090><c> pointer</c><00:07:58.540><c> is</c><00:07:58.780><c> it</c><00:07:59.230><c> depends</c><00:07:59.590><c> on</c><00:07:59.620><c> a</c><00:07:59.680><c> lot</c>
+
+00:07:59.820 --> 00:07:59.830 align:start position:0%
+big that pointer is it depends on a lot
+ 
+
+00:07:59.830 --> 00:08:01.110 align:start position:0%
+big that pointer is it depends on a lot
+of<00:07:59.860><c> things</c><00:08:00.070><c> it</c><00:08:00.190><c> could</c><00:08:00.280><c> be</c><00:08:00.400><c> a</c><00:08:00.430><c> 32-bit</c><00:08:01.030><c> integer</c>
+
+00:08:01.110 --> 00:08:01.120 align:start position:0%
+of things it could be a 32-bit integer
+ 
+
+00:08:01.120 --> 00:08:03.330 align:start position:0%
+of things it could be a 32-bit integer
+it<00:08:01.810><c> could</c><00:08:01.990><c> be</c><00:08:02.080><c> a</c><00:08:02.110><c> 64-bit</c><00:08:02.740><c> it</c><00:08:02.860><c> could</c><00:08:03.220><c> be</c><00:08:03.310><c> a</c>
+
+00:08:03.330 --> 00:08:03.340 align:start position:0%
+it could be a 64-bit it could be a
+ 
+
+00:08:03.340 --> 00:08:05.700 align:start position:0%
+it could be a 64-bit it could be a
+16-bit<00:08:03.910><c> integer</c><00:08:04.270><c> doesn't</c><00:08:05.020><c> matter</c><00:08:05.200><c> right</c><00:08:05.500><c> the</c>
+
+00:08:05.700 --> 00:08:05.710 align:start position:0%
+16-bit integer doesn't matter right the
+ 
+
+00:08:05.710 --> 00:08:07.530 align:start position:0%
+16-bit integer doesn't matter right the
+point<00:08:05.950><c> is</c><00:08:06.070><c> it</c><00:08:06.310><c> is</c><00:08:06.430><c> an</c><00:08:06.550><c> integer</c><00:08:06.970><c> and</c><00:08:07.150><c> that</c><00:08:07.420><c> is</c>
+
+00:08:07.530 --> 00:08:07.540 align:start position:0%
+point is it is an integer and that is
+ 
+
+00:08:07.540 --> 00:08:09.600 align:start position:0%
+point is it is an integer and that is
+all<00:08:07.750><c> it's</c><00:08:07.900><c> ever</c><00:08:08.080><c> going</c><00:08:08.230><c> to</c><00:08:08.410><c> be</c><00:08:08.560><c> if</c><00:08:08.950><c> I</c><00:08:09.220><c> go</c><00:08:09.430><c> back</c>
+
+00:08:09.600 --> 00:08:09.610 align:start position:0%
+all it's ever going to be if I go back
+ 
+
+00:08:09.610 --> 00:08:11.910 align:start position:0%
+all it's ever going to be if I go back
+to<00:08:09.790><c> my</c><00:08:09.820><c> code</c><00:08:10.150><c> here</c><00:08:10.180><c> and</c><00:08:10.690><c> I</c><00:08:11.050><c> change</c><00:08:11.380><c> this</c><00:08:11.560><c> to</c><00:08:11.800><c> be</c>
+
+00:08:11.910 --> 00:08:11.920 align:start position:0%
+to my code here and I change this to be
+ 
+
+00:08:11.920 --> 00:08:14.310 align:start position:0%
+to my code here and I change this to be
+an<00:08:12.040><c> int</c><00:08:12.310><c> pointer</c><00:08:12.400><c> I'm</c><00:08:13.060><c> not</c><00:08:13.480><c> actually</c><00:08:13.660><c> changing</c>
+
+00:08:14.310 --> 00:08:14.320 align:start position:0%
+an int pointer I'm not actually changing
+ 
+
+00:08:14.320 --> 00:08:15.930 align:start position:0%
+an int pointer I'm not actually changing
+anything<00:08:14.410><c> if</c><00:08:14.830><c> I</c><00:08:14.920><c> run</c><00:08:15.190><c> my</c><00:08:15.220><c> application</c><00:08:15.490><c> again</c>
+
+00:08:15.930 --> 00:08:15.940 align:start position:0%
+anything if I run my application again
+ 
+
+00:08:15.940 --> 00:08:17.880 align:start position:0%
+anything if I run my application again
+you'll<00:08:16.660><c> see</c><00:08:16.870><c> it's</c><00:08:17.050><c> not</c><00:08:17.170><c> going</c><00:08:17.440><c> to</c><00:08:17.530><c> be</c><00:08:17.650><c> any</c>
+
+00:08:17.880 --> 00:08:17.890 align:start position:0%
+you'll see it's not going to be any
+ 
+
+00:08:17.890 --> 00:08:21.000 align:start position:0%
+you'll see it's not going to be any
+different<00:08:18.460><c> if</c><00:08:18.610><c> I</c><00:08:18.820><c> go</c><00:08:19.060><c> ahead</c><00:08:19.210><c> and</c><00:08:19.600><c> I</c><00:08:20.290><c> copy</c><00:08:20.650><c> that</c>
+
+00:08:21.000 --> 00:08:21.010 align:start position:0%
+different if I go ahead and I copy that
+ 
+
+00:08:21.010 --> 00:08:24.000 align:start position:0%
+different if I go ahead and I copy that
+value<00:08:21.460><c> I'll</c><00:08:22.450><c> copy</c><00:08:22.750><c> the</c><00:08:22.930><c> value</c><00:08:23.290><c> I'll</c><00:08:23.530><c> paste</c>
+
+00:08:24.000 --> 00:08:24.010 align:start position:0%
+value I'll copy the value I'll paste
+ 
+
+00:08:24.010 --> 00:08:26.330 align:start position:0%
+value I'll copy the value I'll paste
+into<00:08:24.250><c> my</c><00:08:24.370><c> memory</c><00:08:24.760><c> of</c><00:08:24.790><c> you</c><00:08:24.970><c> and</c><00:08:25.090><c> I'll</c><00:08:25.150><c> hit</c><00:08:25.420><c> enter</c>
+
+00:08:26.330 --> 00:08:26.340 align:start position:0%
+into my memory of you and I'll hit enter
+ 
+
+00:08:26.340 --> 00:08:29.520 align:start position:0%
+into my memory of you and I'll hit enter
+you<00:08:27.340><c> can</c><00:08:27.370><c> see</c><00:08:27.490><c> it's</c><00:08:28.030><c> still</c><00:08:28.300><c> set</c><00:08:28.660><c> to</c><00:08:28.690><c> a</c><00:08:28.810><c> I</c><00:08:29.200><c> could</c>
+
+00:08:29.520 --> 00:08:29.530 align:start position:0%
+you can see it's still set to a I could
+ 
+
+00:08:29.530 --> 00:08:31.140 align:start position:0%
+you can see it's still set to a I could
+go<00:08:29.620><c> back</c><00:08:29.800><c> here</c><00:08:30.160><c> I</c><00:08:30.310><c> could</c><00:08:30.580><c> make</c><00:08:30.760><c> this</c><00:08:30.940><c> a</c>
+
+00:08:31.140 --> 00:08:31.150 align:start position:0%
+go back here I could make this a
+ 
+
+00:08:31.150 --> 00:08:33.330 align:start position:0%
+go back here I could make this a
+completely<00:08:31.690><c> different</c><00:08:31.930><c> type</c><00:08:32.290><c> such</c><00:08:33.040><c> as</c><00:08:33.190><c> a</c>
+
+00:08:33.330 --> 00:08:33.340 align:start position:0%
+completely different type such as a
+ 
+
+00:08:33.340 --> 00:08:34.590 align:start position:0%
+completely different type such as a
+double<00:08:33.700><c> of</c><00:08:33.820><c> course</c><00:08:34.030><c> it's</c><00:08:34.150><c> going</c><00:08:34.360><c> to</c><00:08:34.450><c> give</c><00:08:34.570><c> me</c>
+
+00:08:34.590 --> 00:08:34.600 align:start position:0%
+double of course it's going to give me
+ 
+
+00:08:34.600 --> 00:08:36.180 align:start position:0%
+double of course it's going to give me
+an<00:08:34.750><c> error</c><00:08:34.960><c> this</c><00:08:35.170><c> time</c><00:08:35.230><c> because</c><00:08:35.680><c> the</c><00:08:35.800><c> compiled</c>
+
+00:08:36.180 --> 00:08:36.190 align:start position:0%
+an error this time because the compiled
+ 
+
+00:08:36.190 --> 00:08:38.700 align:start position:0%
+an error this time because the compiled
+is<00:08:36.280><c> going</c><00:08:36.520><c> to</c><00:08:36.640><c> warn</c><00:08:37.360><c> against</c><00:08:37.659><c> that</c><00:08:37.840><c> I</c><00:08:38.110><c> can</c><00:08:38.530><c> just</c>
+
+00:08:38.700 --> 00:08:38.710 align:start position:0%
+is going to warn against that I can just
+ 
+
+00:08:38.710 --> 00:08:40.860 align:start position:0%
+is going to warn against that I can just
+cast<00:08:38.950><c> it</c><00:08:39.190><c> to</c><00:08:39.250><c> a</c><00:08:39.370><c> Dumbledore</c><00:08:39.909><c> doesn't</c><00:08:40.419><c> matter</c><00:08:40.599><c> I</c>
+
+00:08:40.860 --> 00:08:40.870 align:start position:0%
+cast it to a Dumbledore doesn't matter I
+ 
+
+00:08:40.870 --> 00:08:42.719 align:start position:0%
+cast it to a Dumbledore doesn't matter I
+can<00:08:40.960><c> I'm</c><00:08:41.320><c> gonna</c><00:08:41.409><c> run</c><00:08:41.620><c> my</c><00:08:41.650><c> code</c><00:08:41.919><c> again</c><00:08:42.460><c> I'm</c>
+
+00:08:42.719 --> 00:08:42.729 align:start position:0%
+can I'm gonna run my code again I'm
+ 
+
+00:08:42.729 --> 00:08:44.730 align:start position:0%
+can I'm gonna run my code again I'm
+going<00:08:43.030><c> to</c><00:08:43.180><c> look</c><00:08:43.360><c> at</c><00:08:43.510><c> the</c><00:08:43.630><c> value</c><00:08:44.050><c> I'm</c><00:08:44.260><c> going</c><00:08:44.620><c> to</c>
+
+00:08:44.730 --> 00:08:44.740 align:start position:0%
+going to look at the value I'm going to
+ 
+
+00:08:44.740 --> 00:08:46.980 align:start position:0%
+going to look at the value I'm going to
+copy<00:08:45.040><c> the</c><00:08:45.310><c> value</c><00:08:45.340><c> I'm</c><00:08:45.880><c> going</c><00:08:46.390><c> to</c><00:08:46.480><c> paste</c><00:08:46.720><c> it</c>
+
+00:08:46.980 --> 00:08:46.990 align:start position:0%
+copy the value I'm going to paste it
+ 
+
+00:08:46.990 --> 00:08:48.360 align:start position:0%
+copy the value I'm going to paste it
+over<00:08:47.110><c> here</c><00:08:47.470><c> and</c><00:08:47.620><c> get</c><00:08:47.710><c> rid</c><00:08:47.860><c> of</c><00:08:47.920><c> all</c><00:08:48.070><c> this</c><00:08:48.190><c> other</c>
+
+00:08:48.360 --> 00:08:48.370 align:start position:0%
+over here and get rid of all this other
+ 
+
+00:08:48.370 --> 00:08:50.550 align:start position:0%
+over here and get rid of all this other
+junk<00:08:48.670><c> at</c><00:08:48.850><c> the</c><00:08:48.970><c> end</c><00:08:49.090><c> hit</c><00:08:49.690><c> enter</c><00:08:50.050><c> and</c><00:08:50.230><c> look</c><00:08:50.440><c> at</c>
+
+00:08:50.550 --> 00:08:50.560 align:start position:0%
+junk at the end hit enter and look at
+ 
+
+00:08:50.560 --> 00:08:52.290 align:start position:0%
+junk at the end hit enter and look at
+that<00:08:50.680><c> it</c><00:08:51.070><c> takes</c><00:08:51.220><c> me</c><00:08:51.400><c> to</c><00:08:51.430><c> that</c><00:08:51.730><c> place</c><00:08:51.880><c> in</c><00:08:52.000><c> memory</c>
+
+00:08:52.290 --> 00:08:52.300 align:start position:0%
+that it takes me to that place in memory
+ 
+
+00:08:52.300 --> 00:08:54.420 align:start position:0%
+that it takes me to that place in memory
+where<00:08:52.660><c> I'm</c><00:08:52.780><c> storing</c><00:08:52.960><c> my</c><00:08:53.200><c> daughter</c><00:08:53.440><c> and</c><00:08:53.770><c> there</c>
+
+00:08:54.420 --> 00:08:54.430 align:start position:0%
+where I'm storing my daughter and there
+ 
+
+00:08:54.430 --> 00:08:56.370 align:start position:0%
+where I'm storing my daughter and there
+are<00:08:54.520><c> four</c><00:08:54.730><c> bytes</c><00:08:54.940><c> there</c><00:08:55.240><c> that</c><00:08:55.780><c> have</c><00:08:55.960><c> the</c><00:08:56.080><c> value</c>
+
+00:08:56.370 --> 00:08:56.380 align:start position:0%
+are four bytes there that have the value
+ 
+
+00:08:56.380 --> 00:08:59.370 align:start position:0%
+are four bytes there that have the value
+eight<00:08:56.620><c> types</c><00:08:57.280><c> do</c><00:08:58.000><c> not</c><00:08:58.030><c> matter</c><00:08:58.450><c> it</c><00:08:58.960><c> types</c><00:08:59.230><c> it</c>
+
+00:08:59.370 --> 00:08:59.380 align:start position:0%
+eight types do not matter it types it
+ 
+
+00:08:59.380 --> 00:09:01.800 align:start position:0%
+eight types do not matter it types it
+useful<00:08:59.800><c> for</c><00:08:59.970><c> manipulation</c><00:09:00.970><c> of</c><00:09:01.300><c> that</c><00:09:01.420><c> memory</c>
+
+00:09:01.800 --> 00:09:01.810 align:start position:0%
+useful for manipulation of that memory
+ 
+
+00:09:01.810 --> 00:09:03.630 align:start position:0%
+useful for manipulation of that memory
+so<00:09:02.290><c> if</c><00:09:02.380><c> I</c><00:09:02.440><c> want</c><00:09:02.620><c> to</c><00:09:02.680><c> read</c><00:09:02.860><c> and</c><00:09:03.040><c> write</c><00:09:03.220><c> to</c><00:09:03.250><c> that</c>
+
+00:09:03.630 --> 00:09:03.640 align:start position:0%
+so if I want to read and write to that
+ 
+
+00:09:03.640 --> 00:09:06.120 align:start position:0%
+so if I want to read and write to that
+memory<00:09:03.940><c> types</c><00:09:04.450><c> can</c><00:09:04.690><c> help</c><00:09:04.900><c> me</c><00:09:05.050><c> out</c><00:09:05.080><c> because</c><00:09:05.710><c> the</c>
+
+00:09:06.120 --> 00:09:06.130 align:start position:0%
+memory types can help me out because the
+ 
+
+00:09:06.130 --> 00:09:07.560 align:start position:0%
+memory types can help me out because the
+compiler<00:09:06.430><c> will</c><00:09:06.730><c> know</c><00:09:06.820><c> for</c><00:09:07.030><c> example</c><00:09:07.120><c> that</c><00:09:07.390><c> an</c>
+
+00:09:07.560 --> 00:09:07.570 align:start position:0%
+compiler will know for example that an
+ 
+
+00:09:07.570 --> 00:09:09.540 align:start position:0%
+compiler will know for example that an
+integer<00:09:07.840><c> is</c><00:09:08.020><c> supposed</c><00:09:08.290><c> to</c><00:09:08.380><c> be</c><00:09:08.470><c> four</c><00:09:08.740><c> bytes</c><00:09:09.010><c> so</c>
+
+00:09:09.540 --> 00:09:09.550 align:start position:0%
+integer is supposed to be four bytes so
+ 
+
+00:09:09.550 --> 00:09:11.790 align:start position:0%
+integer is supposed to be four bytes so
+when<00:09:09.700><c> I</c><00:09:09.730><c> try</c><00:09:10.030><c> and</c><00:09:10.060><c> set</c><00:09:10.330><c> a</c><00:09:10.360><c> value</c><00:09:10.450><c> there</c><00:09:11.050><c> it</c><00:09:11.590><c> will</c>
+
+00:09:11.790 --> 00:09:11.800 align:start position:0%
+when I try and set a value there it will
+ 
+
+00:09:11.800 --> 00:09:13.680 align:start position:0%
+when I try and set a value there it will
+set<00:09:12.010><c> four</c><00:09:12.190><c> bytes</c><00:09:12.400><c> of</c><00:09:12.550><c> memory</c><00:09:12.610><c> but</c><00:09:13.300><c> ultimately</c>
+
+00:09:13.680 --> 00:09:13.690 align:start position:0%
+set four bytes of memory but ultimately
+ 
+
+00:09:13.690 --> 00:09:16.290 align:start position:0%
+set four bytes of memory but ultimately
+types<00:09:14.170><c> are</c><00:09:14.470><c> completely</c><00:09:14.920><c> meaningless</c><00:09:15.220><c> and</c><00:09:15.760><c> in</c>
+
+00:09:16.290 --> 00:09:16.300 align:start position:0%
+types are completely meaningless and in
+ 
+
+00:09:16.300 --> 00:09:17.370 align:start position:0%
+types are completely meaningless and in
+future<00:09:16.510><c> videos</c><00:09:16.840><c> we're</c><00:09:16.930><c> going</c><00:09:17.050><c> to</c><00:09:17.110><c> take</c><00:09:17.200><c> a</c><00:09:17.230><c> look</c>
+
+00:09:17.370 --> 00:09:17.380 align:start position:0%
+future videos we're going to take a look
+ 
+
+00:09:17.380 --> 00:09:19.850 align:start position:0%
+future videos we're going to take a look
+at<00:09:17.440><c> that</c><00:09:17.590><c> even</c><00:09:17.860><c> more</c><00:09:18.370><c> deeply</c><00:09:19.060><c> but</c><00:09:19.240><c> for</c><00:09:19.450><c> now</c>
+
+00:09:19.850 --> 00:09:19.860 align:start position:0%
+at that even more deeply but for now
+ 
+
+00:09:19.860 --> 00:09:22.380 align:start position:0%
+at that even more deeply but for now
+just<00:09:20.860><c> don't</c><00:09:20.980><c> worry</c><00:09:21.130><c> about</c><00:09:21.280><c> bugs</c><00:09:21.490><c> all</c><00:09:21.820><c> right</c><00:09:22.030><c> so</c>
+
+00:09:22.380 --> 00:09:22.390 align:start position:0%
+just don't worry about bugs all right so
+ 
+
+00:09:22.390 --> 00:09:25.050 align:start position:0%
+just don't worry about bugs all right so
+let's<00:09:22.720><c> go</c><00:09:22.840><c> back</c><00:09:22.870><c> to</c><00:09:23.050><c> having</c><00:09:23.830><c> our</c><00:09:24.010><c> void</c><00:09:24.520><c> pointer</c>
+
+00:09:25.050 --> 00:09:25.060 align:start position:0%
+let's go back to having our void pointer
+ 
+
+00:09:25.060 --> 00:09:26.730 align:start position:0%
+let's go back to having our void pointer
+right<00:09:25.480><c> why</c><00:09:25.750><c> wouldn't</c><00:09:26.170><c> you</c><00:09:26.230><c> always</c><00:09:26.530><c> use</c><00:09:26.710><c> the</c>
+
+00:09:26.730 --> 00:09:26.740 align:start position:0%
+right why wouldn't you always use the
+ 
+
+00:09:26.740 --> 00:09:28.290 align:start position:0%
+right why wouldn't you always use the
+void<00:09:26.980><c> pointer</c><00:09:27.310><c> well</c><00:09:27.430><c> suppose</c><00:09:27.730><c> that</c><00:09:27.940><c> I</c><00:09:28.000><c> wanted</c>
+
+00:09:28.290 --> 00:09:28.300 align:start position:0%
+void pointer well suppose that I wanted
+ 
+
+00:09:28.300 --> 00:09:29.820 align:start position:0%
+void pointer well suppose that I wanted
+to<00:09:28.390><c> get</c><00:09:28.570><c> access</c><00:09:28.780><c> to</c><00:09:29.020><c> my</c><00:09:29.260><c> data</c><00:09:29.290><c> I've</c><00:09:29.650><c> got</c><00:09:29.800><c> a</c>
+
+00:09:29.820 --> 00:09:29.830 align:start position:0%
+to get access to my data I've got a
+ 
+
+00:09:29.830 --> 00:09:31.950 align:start position:0%
+to get access to my data I've got a
+pointer<00:09:30.250><c> which</c><00:09:30.670><c> is</c><00:09:30.790><c> pointing</c><00:09:31.150><c> to</c><00:09:31.420><c> that</c><00:09:31.660><c> data</c>
+
+00:09:31.950 --> 00:09:31.960 align:start position:0%
+pointer which is pointing to that data
+ 
+
+00:09:31.960 --> 00:09:34.830 align:start position:0%
+pointer which is pointing to that data
+however<00:09:32.590><c> now</c><00:09:32.890><c> I</c><00:09:32.920><c> want</c><00:09:33.370><c> to</c><00:09:33.460><c> actually</c><00:09:33.640><c> write</c><00:09:34.390><c> to</c>
+
+00:09:34.830 --> 00:09:34.840 align:start position:0%
+however now I want to actually write to
+ 
+
+00:09:34.840 --> 00:09:37.620 align:start position:0%
+however now I want to actually write to
+or<00:09:35.080><c> read</c><00:09:35.470><c> from</c><00:09:35.500><c> that</c><00:09:36.340><c> data</c><00:09:36.730><c> so</c><00:09:37.090><c> that</c><00:09:37.210><c> variable</c>
+
+00:09:37.620 --> 00:09:37.630 align:start position:0%
+or read from that data so that variable
+ 
+
+00:09:37.630 --> 00:09:39.270 align:start position:0%
+or read from that data so that variable
+is<00:09:37.720><c> holding</c><00:09:38.020><c> the</c><00:09:38.110><c> value</c><00:09:38.320><c> eight</c><00:09:38.530><c> I</c><00:09:38.800><c> want</c><00:09:39.190><c> to</c>
+
+00:09:39.270 --> 00:09:39.280 align:start position:0%
+is holding the value eight I want to
+ 
+
+00:09:39.280 --> 00:09:41.130 align:start position:0%
+is holding the value eight I want to
+change<00:09:39.550><c> that</c><00:09:39.850><c> how</c><00:09:40.120><c> do</c><00:09:40.180><c> I</c><00:09:40.300><c> change</c><00:09:40.660><c> that</c><00:09:40.900><c> how</c><00:09:41.080><c> do</c>
+
+00:09:41.130 --> 00:09:41.140 align:start position:0%
+change that how do I change that how do
+ 
+
+00:09:41.140 --> 00:09:43.320 align:start position:0%
+change that how do I change that how do
+I<00:09:41.200><c> I've</c><00:09:41.800><c> got</c><00:09:42.070><c> I</c><00:09:42.190><c> know</c><00:09:42.280><c> where</c><00:09:42.580><c> the</c><00:09:42.670><c> data</c><00:09:42.790><c> is</c><00:09:43.120><c> but</c>
+
+00:09:43.320 --> 00:09:43.330 align:start position:0%
+I I've got I know where the data is but
+ 
+
+00:09:43.330 --> 00:09:45.180 align:start position:0%
+I I've got I know where the data is but
+how<00:09:43.480><c> do</c><00:09:43.540><c> I</c><00:09:43.630><c> get</c><00:09:43.690><c> access</c><00:09:44.260><c> to</c><00:09:44.290><c> it</c><00:09:44.650><c> that's</c><00:09:44.980><c> where</c>
+
+00:09:45.180 --> 00:09:45.190 align:start position:0%
+how do I get access to it that's where
+ 
+
+00:09:45.190 --> 00:09:47.040 align:start position:0%
+how do I get access to it that's where
+the<00:09:45.310><c> referencing</c><00:09:45.850><c> comes</c><00:09:46.030><c> in</c><00:09:46.210><c> so</c><00:09:46.420><c> we've</c><00:09:46.870><c> gone</c>
+
+00:09:47.040 --> 00:09:47.050 align:start position:0%
+the referencing comes in so we've gone
+ 
+
+00:09:47.050 --> 00:09:50.790 align:start position:0%
+the referencing comes in so we've gone
+from<00:09:47.110><c> a</c><00:09:47.620><c> var</c><00:09:48.070><c> to</c><00:09:48.670><c> a</c><00:09:48.880><c> pointer</c><00:09:49.570><c> to</c><00:09:49.600><c> var</c><00:09:50.080><c> but</c><00:09:50.650><c> how</c>
+
+00:09:50.790 --> 00:09:50.800 align:start position:0%
+from a var to a pointer to var but how
+ 
+
+00:09:50.800 --> 00:09:53.010 align:start position:0%
+from a var to a pointer to var but how
+do<00:09:50.860><c> I</c><00:09:50.980><c> come</c><00:09:51.280><c> back</c><00:09:51.310><c> to</c><00:09:51.730><c> that</c><00:09:51.850><c> bar</c><00:09:52.060><c> well</c><00:09:52.660><c> you</c><00:09:52.870><c> can</c>
+
+00:09:53.010 --> 00:09:53.020 align:start position:0%
+do I come back to that bar well you can
+ 
+
+00:09:53.020 --> 00:09:55.140 align:start position:0%
+do I come back to that bar well you can
+do<00:09:53.110><c> that</c><00:09:53.260><c> by</c><00:09:53.470><c> sticking</c><00:09:53.740><c> an</c><00:09:53.980><c> asterisk</c><00:09:54.550><c> at</c><00:09:54.820><c> the</c>
+
+00:09:55.140 --> 00:09:55.150 align:start position:0%
+do that by sticking an asterisk at the
+ 
+
+00:09:55.150 --> 00:09:57.450 align:start position:0%
+do that by sticking an asterisk at the
+front<00:09:55.450><c> of</c><00:09:55.660><c> your</c><00:09:56.230><c> pointer</c><00:09:56.740><c> so</c><00:09:57.100><c> in</c><00:09:57.160><c> other</c><00:09:57.280><c> words</c>
+
+00:09:57.450 --> 00:09:57.460 align:start position:0%
+front of your pointer so in other words
+ 
+
+00:09:57.460 --> 00:09:59.210 align:start position:0%
+front of your pointer so in other words
+if<00:09:57.550><c> I</c><00:09:57.640><c> write</c><00:09:57.850><c> this</c><00:09:58.180><c> I'm</c><00:09:58.630><c> actually</c>
+
+00:09:59.210 --> 00:09:59.220 align:start position:0%
+if I write this I'm actually
+ 
+
+00:09:59.220 --> 00:10:01.140 align:start position:0%
+if I write this I'm actually
+dereferencing<00:10:00.220><c> that</c><00:10:00.370><c> pointer</c><00:10:00.790><c> which</c><00:10:00.940><c> means</c>
+
+00:10:01.140 --> 00:10:01.150 align:start position:0%
+dereferencing that pointer which means
+ 
+
+00:10:01.150 --> 00:10:03.990 align:start position:0%
+dereferencing that pointer which means
+that<00:10:01.330><c> I'm</c><00:10:01.480><c> now</c><00:10:02.070><c> accessing</c><00:10:03.070><c> the</c><00:10:03.370><c> data</c><00:10:03.610><c> I</c><00:10:03.850><c> can</c>
+
+00:10:03.990 --> 00:10:04.000 align:start position:0%
+that I'm now accessing the data I can
+ 
+
+00:10:04.000 --> 00:10:06.750 align:start position:0%
+that I'm now accessing the data I can
+either<00:10:04.180><c> read</c><00:10:04.630><c> from</c><00:10:04.930><c> or</c><00:10:05.170><c> write</c><00:10:05.530><c> to</c><00:10:05.860><c> that</c><00:10:06.100><c> data</c>
+
+00:10:06.750 --> 00:10:06.760 align:start position:0%
+either read from or write to that data
+ 
+
+00:10:06.760 --> 00:10:09.000 align:start position:0%
+either read from or write to that data
+so<00:10:07.240><c> I</c><00:10:07.270><c> could</c><00:10:07.600><c> for</c><00:10:07.780><c> example</c><00:10:07.840><c> write</c><00:10:08.470><c> the</c><00:10:08.710><c> value</c>
+
+00:10:09.000 --> 00:10:09.010 align:start position:0%
+so I could for example write the value
+ 
+
+00:10:09.010 --> 00:10:11.400 align:start position:0%
+so I could for example write the value
+10<00:10:09.370><c> in</c><00:10:09.610><c> here</c><00:10:09.910><c> however</c><00:10:10.420><c> if</c><00:10:10.750><c> I</c><00:10:10.840><c> try</c><00:10:11.080><c> and</c><00:10:11.140><c> do</c><00:10:11.290><c> that</c>
+
+00:10:11.400 --> 00:10:11.410 align:start position:0%
+10 in here however if I try and do that
+ 
+
+00:10:11.410 --> 00:10:12.600 align:start position:0%
+10 in here however if I try and do that
+you'll<00:10:11.620><c> see</c><00:10:11.710><c> that</c><00:10:11.830><c> I'm</c><00:10:12.010><c> actually</c><00:10:12.190><c> getting</c><00:10:12.520><c> an</c>
+
+00:10:12.600 --> 00:10:12.610 align:start position:0%
+you'll see that I'm actually getting an
+ 
+
+00:10:12.610 --> 00:10:14.940 align:start position:0%
+you'll see that I'm actually getting an
+error<00:10:12.790><c> why</c><00:10:13.360><c> because</c><00:10:13.900><c> we've</c><00:10:14.140><c> said</c><00:10:14.470><c> that</c><00:10:14.650><c> point</c>
+
+00:10:14.940 --> 00:10:14.950 align:start position:0%
+error why because we've said that point
+ 
+
+00:10:14.950 --> 00:10:17.370 align:start position:0%
+error why because we've said that point
+this<00:10:15.160><c> pointer</c><00:10:15.610><c> is</c><00:10:15.790><c> a</c><00:10:15.820><c> void</c><00:10:16.270><c> pointer</c><00:10:16.570><c> which</c>
+
+00:10:17.370 --> 00:10:17.380 align:start position:0%
+this pointer is a void pointer which
+ 
+
+00:10:17.380 --> 00:10:19.230 align:start position:0%
+this pointer is a void pointer which
+means<00:10:17.620><c> that</c><00:10:17.890><c> I</c><00:10:18.040><c> mean</c><00:10:18.370><c> how</c><00:10:18.520><c> how</c><00:10:18.760><c> does</c><00:10:18.820><c> computer</c>
+
+00:10:19.230 --> 00:10:19.240 align:start position:0%
+means that I mean how how does computer
+ 
+
+00:10:19.240 --> 00:10:20.430 align:start position:0%
+means that I mean how how does computer
+possibly<00:10:19.600><c> going</c><00:10:19.780><c> to</c><00:10:19.870><c> write</c><00:10:19.960><c> the</c><00:10:20.080><c> value</c><00:10:20.290><c> 10</c>
+
+00:10:20.430 --> 00:10:20.440 align:start position:0%
+possibly going to write the value 10
+ 
+
+00:10:20.440 --> 00:10:21.810 align:start position:0%
+possibly going to write the value 10
+into<00:10:20.650><c> a</c><00:10:20.680><c> void</c><00:10:20.890><c> point</c><00:10:21.190><c> it</c><00:10:21.310><c> doesn't</c><00:10:21.550><c> know</c><00:10:21.640><c> what</c>
+
+00:10:21.810 --> 00:10:21.820 align:start position:0%
+into a void point it doesn't know what
+ 
+
+00:10:21.820 --> 00:10:23.880 align:start position:0%
+into a void point it doesn't know what
+it<00:10:21.910><c> is</c><00:10:22.030><c> is</c><00:10:22.300><c> that</c><00:10:22.540><c> 10</c><00:10:22.780><c> a</c><00:10:22.990><c> short</c><00:10:23.290><c> which</c><00:10:23.530><c> is</c><00:10:23.650><c> a</c><00:10:23.680><c> 2</c>
+
+00:10:23.880 --> 00:10:23.890 align:start position:0%
+it is is that 10 a short which is a 2
+ 
+
+00:10:23.890 --> 00:10:25.890 align:start position:0%
+it is is that 10 a short which is a 2
+byte<00:10:24.070><c> integer</c><00:10:24.460><c> is</c><00:10:24.610><c> it</c><00:10:24.790><c> an</c><00:10:24.940><c> int</c><00:10:25.210><c> which</c><00:10:25.480><c> is</c><00:10:25.630><c> a</c><00:10:25.660><c> 4</c>
+
+00:10:25.890 --> 00:10:25.900 align:start position:0%
+byte integer is it an int which is a 4
+ 
+
+00:10:25.900 --> 00:10:27.690 align:start position:0%
+byte integer is it an int which is a 4
+byte<00:10:26.050><c> integer</c><00:10:26.440><c> is</c><00:10:26.620><c> it</c><00:10:26.950><c> a</c><00:10:27.010><c> long</c><00:10:27.190><c> long</c><00:10:27.400><c> which</c><00:10:27.670><c> is</c>
+
+00:10:27.690 --> 00:10:27.700 align:start position:0%
+byte integer is it a long long which is
+ 
+
+00:10:27.700 --> 00:10:30.420 align:start position:0%
+byte integer is it a long long which is
+an<00:10:28.089><c> 8</c><00:10:28.360><c> byte</c><00:10:28.600><c> integer</c><00:10:29.110><c> we</c><00:10:29.770><c> don't</c><00:10:29.950><c> know</c><00:10:30.100><c> how</c><00:10:30.339><c> many</c>
+
+00:10:30.420 --> 00:10:30.430 align:start position:0%
+an 8 byte integer we don't know how many
+ 
+
+00:10:30.430 --> 00:10:32.670 align:start position:0%
+an 8 byte integer we don't know how many
+how<00:10:30.880><c> many</c><00:10:30.910><c> bytes</c><00:10:31.330><c> of</c><00:10:31.540><c> data</c><00:10:31.600><c> should</c><00:10:32.080><c> this</c><00:10:32.230><c> right</c>
+
+00:10:32.670 --> 00:10:32.680 align:start position:0%
+how many bytes of data should this right
+ 
+
+00:10:32.680 --> 00:10:34.800 align:start position:0%
+how many bytes of data should this right
+right<00:10:33.100><c> we've</c><00:10:33.310><c> just</c><00:10:33.490><c> said</c><00:10:33.670><c> it's</c><00:10:33.820><c> 10</c><00:10:34.089><c> but</c><00:10:34.360><c> 10</c>
+
+00:10:34.800 --> 00:10:34.810 align:start position:0%
+right we've just said it's 10 but 10
+ 
+
+00:10:34.810 --> 00:10:35.940 align:start position:0%
+right we've just said it's 10 but 10
+could<00:10:34.960><c> mean</c><00:10:35.110><c> anything</c><00:10:35.350><c> really</c>
+
+00:10:35.940 --> 00:10:35.950 align:start position:0%
+could mean anything really
+ 
+
+00:10:35.950 --> 00:10:37.290 align:start position:0%
+could mean anything really
+that's<00:10:36.130><c> what</c><00:10:36.339><c> types</c><00:10:36.520><c> come</c><00:10:36.760><c> in</c><00:10:36.880><c> we</c><00:10:37.060><c> need</c><00:10:37.180><c> to</c>
+
+00:10:37.290 --> 00:10:37.300 align:start position:0%
+that's what types come in we need to
+ 
+
+00:10:37.300 --> 00:10:38.579 align:start position:0%
+that's what types come in we need to
+tell<00:10:37.450><c> the</c><00:10:37.570><c> compiler</c><00:10:37.780><c> actually</c><00:10:38.080><c> know</c><00:10:38.320><c> this</c><00:10:38.500><c> is</c>
+
+00:10:38.579 --> 00:10:38.589 align:start position:0%
+tell the compiler actually know this is
+ 
+
+00:10:38.589 --> 00:10:40.770 align:start position:0%
+tell the compiler actually know this is
+an<00:10:38.710><c> integer</c><00:10:39.070><c> so</c><00:10:39.490><c> I</c><00:10:39.910><c> expect</c><00:10:40.270><c> you</c><00:10:40.330><c> to</c><00:10:40.390><c> write</c><00:10:40.450><c> 4</c>
+
+00:10:40.770 --> 00:10:40.780 align:start position:0%
+an integer so I expect you to write 4
+ 
+
+00:10:40.780 --> 00:10:42.390 align:start position:0%
+an integer so I expect you to write 4
+bytes<00:10:40.990><c> in</c><00:10:41.170><c> please</c><00:10:41.380><c> let's</c><00:10:41.830><c> just</c><00:10:41.890><c> go</c><00:10:42.040><c> ahead</c><00:10:42.160><c> and</c>
+
+00:10:42.390 --> 00:10:42.400 align:start position:0%
+bytes in please let's just go ahead and
+ 
+
+00:10:42.400 --> 00:10:44.340 align:start position:0%
+bytes in please let's just go ahead and
+change<00:10:42.610><c> this</c><00:10:42.790><c> to</c><00:10:42.850><c> int</c><00:10:43.300><c> and</c><00:10:43.510><c> now</c><00:10:43.600><c> of</c><00:10:44.290><c> course</c>
+
+00:10:44.340 --> 00:10:44.350 align:start position:0%
+change this to int and now of course
+ 
+
+00:10:44.350 --> 00:10:46.050 align:start position:0%
+change this to int and now of course
+we've<00:10:44.950><c> told</c><00:10:45.190><c> the</c><00:10:45.310><c> compiler</c><00:10:45.640><c> this</c><00:10:45.820><c> is</c><00:10:45.970><c> an</c>
+
+00:10:46.050 --> 00:10:46.060 align:start position:0%
+we've told the compiler this is an
+ 
+
+00:10:46.060 --> 00:10:46.590 align:start position:0%
+we've told the compiler this is an
+integer
+
+00:10:46.590 --> 00:10:46.600 align:start position:0%
+integer
+ 
+
+00:10:46.600 --> 00:10:48.390 align:start position:0%
+integer
+we've<00:10:46.870><c> told</c><00:10:47.140><c> the</c><00:10:47.260><c> compiler</c><00:10:47.620><c> the</c><00:10:48.040><c> compiler</c>
+
+00:10:48.390 --> 00:10:48.400 align:start position:0%
+we've told the compiler the compiler
+ 
+
+00:10:48.400 --> 00:10:49.250 align:start position:0%
+we've told the compiler the compiler
+hasn't<00:10:48.640><c> been</c><00:10:48.760><c> like</c><00:10:48.850><c> yeah</c>
+
+00:10:49.250 --> 00:10:49.260 align:start position:0%
+hasn't been like yeah
+ 
+
+00:10:49.260 --> 00:10:51.950 align:start position:0%
+hasn't been like yeah
+this<00:10:49.650><c> is</c><00:10:49.800><c> correct</c><00:10:50.180><c> we've</c><00:10:51.180><c> told</c><00:10:51.450><c> the</c><00:10:51.540><c> compiler</c>
+
+00:10:51.950 --> 00:10:51.960 align:start position:0%
+this is correct we've told the compiler
+ 
+
+00:10:51.960 --> 00:10:53.660 align:start position:0%
+this is correct we've told the compiler
+if<00:10:52.110><c> we</c><00:10:52.170><c> make</c><00:10:52.320><c> mistake</c><00:10:52.710><c> if</c><00:10:52.950><c> we</c><00:10:53.040><c> say</c><00:10:53.430><c> this</c><00:10:53.550><c> is</c>
+
+00:10:53.660 --> 00:10:53.670 align:start position:0%
+if we make mistake if we say this is
+ 
+
+00:10:53.670 --> 00:10:55.820 align:start position:0%
+if we make mistake if we say this is
+actually<00:10:53.790><c> a</c><00:10:53.970><c> double</c><00:10:54.150><c> we</c><00:10:54.900><c> could</c><00:10:55.050><c> be</c><00:10:55.110><c> trouble</c><00:10:55.470><c> if</c>
+
+00:10:55.820 --> 00:10:55.830 align:start position:0%
+actually a double we could be trouble if
+ 
+
+00:10:55.830 --> 00:10:58.970 align:start position:0%
+actually a double we could be trouble if
+I<00:10:56.040><c> then</c><00:10:56.220><c> output</c><00:10:56.820><c> the</c><00:10:57.120><c> value</c><00:10:57.270><c> of</c><00:10:57.750><c> var</c><00:10:58.110><c> which</c><00:10:58.770><c> as</c>
+
+00:10:58.970 --> 00:10:58.980 align:start position:0%
+I then output the value of var which as
+ 
+
+00:10:58.980 --> 00:11:01.310 align:start position:0%
+I then output the value of var which as
+you<00:10:59.220><c> can</c><00:10:59.400><c> note</c><00:10:59.580><c> is</c><00:10:59.880><c> my</c><00:11:00.120><c> original</c><00:11:00.840><c> variable</c>
+
+00:11:01.310 --> 00:11:01.320 align:start position:0%
+you can note is my original variable
+ 
+
+00:11:01.320 --> 00:11:03.650 align:start position:0%
+you can note is my original variable
+you'll<00:11:02.040><c> see</c><00:11:02.310><c> that</c><00:11:02.520><c> the</c><00:11:02.640><c> value</c><00:11:02.940><c> that</c><00:11:02.970><c> I</c><00:11:03.120><c> get</c><00:11:03.210><c> is</c>
+
+00:11:03.650 --> 00:11:03.660 align:start position:0%
+you'll see that the value that I get is
+ 
+
+00:11:03.660 --> 00:11:06.530 align:start position:0%
+you'll see that the value that I get is
+10<00:11:04.410><c> okay</c><00:11:05.100><c> so</c><00:11:05.160><c> we've</c><00:11:05.430><c> successfully</c><00:11:05.670><c> changed</c><00:11:06.390><c> it</c>
+
+00:11:06.530 --> 00:11:06.540 align:start position:0%
+10 okay so we've successfully changed it
+ 
+
+00:11:06.540 --> 00:11:09.320 align:start position:0%
+10 okay so we've successfully changed it
+from<00:11:06.930><c> 8</c><00:11:07.200><c> to</c><00:11:07.530><c> 10</c><00:11:07.770><c> and</c><00:11:08.010><c> if</c><00:11:08.610><c> we</c><00:11:08.730><c> go</c><00:11:08.880><c> ahead</c><00:11:08.910><c> and</c><00:11:09.180><c> we</c>
+
+00:11:09.320 --> 00:11:09.330 align:start position:0%
+from 8 to 10 and if we go ahead and we
+ 
+
+00:11:09.330 --> 00:11:11.540 align:start position:0%
+from 8 to 10 and if we go ahead and we
+set<00:11:09.540><c> another</c><00:11:09.750><c> breakpoint</c><00:11:10.080><c> over</c><00:11:10.650><c> here</c><00:11:10.890><c> and</c><00:11:11.100><c> run</c>
+
+00:11:11.540 --> 00:11:11.550 align:start position:0%
+set another breakpoint over here and run
+ 
+
+00:11:11.550 --> 00:11:13.160 align:start position:0%
+set another breakpoint over here and run
+our<00:11:11.670><c> program</c><00:11:12.120><c> I'm</c><00:11:12.540><c> going</c><00:11:12.600><c> to</c><00:11:12.720><c> come</c><00:11:12.870><c> down</c><00:11:12.900><c> here</c>
+
+00:11:13.160 --> 00:11:13.170 align:start position:0%
+our program I'm going to come down here
+ 
+
+00:11:13.170 --> 00:11:14.390 align:start position:0%
+our program I'm going to come down here
+and<00:11:13.290><c> to</c><00:11:13.380><c> watch</c><00:11:13.590><c> and</c><00:11:13.800><c> actually</c><00:11:14.040><c> put</c><00:11:14.220><c> in</c><00:11:14.310><c> that</c>
+
+00:11:14.390 --> 00:11:14.400 align:start position:0%
+and to watch and actually put in that
+ 
+
+00:11:14.400 --> 00:11:15.800 align:start position:0%
+and to watch and actually put in that
+points<00:11:14.790><c> up</c><00:11:14.910><c> and</c><00:11:15.030><c> then</c><00:11:15.420><c> I'm</c><00:11:15.510><c> just</c><00:11:15.540><c> going</c><00:11:15.750><c> to</c>
+
+00:11:15.800 --> 00:11:15.810 align:start position:0%
+points up and then I'm just going to
+ 
+
+00:11:15.810 --> 00:11:17.450 align:start position:0%
+points up and then I'm just going to
+drag<00:11:16.020><c> the</c><00:11:16.200><c> value</c><00:11:16.530><c> all</c><00:11:16.680><c> the</c><00:11:16.770><c> way</c><00:11:16.860><c> up</c><00:11:16.980><c> here</c><00:11:17.220><c> so</c>
+
+00:11:17.450 --> 00:11:17.460 align:start position:0%
+drag the value all the way up here so
+ 
+
+00:11:17.460 --> 00:11:18.680 align:start position:0%
+drag the value all the way up here so
+that<00:11:17.580><c> we</c><00:11:17.640><c> go</c><00:11:17.790><c> to</c><00:11:17.850><c> that</c><00:11:18.000><c> spot</c><00:11:18.240><c> of</c><00:11:18.360><c> memory</c><00:11:18.570><c> you'll</c>
+
+00:11:18.680 --> 00:11:18.690 align:start position:0%
+that we go to that spot of memory you'll
+ 
+
+00:11:18.690 --> 00:11:20.300 align:start position:0%
+that we go to that spot of memory you'll
+see<00:11:18.810><c> that</c><00:11:18.930><c> at</c><00:11:19.080><c> that</c><00:11:19.290><c> memory</c><00:11:19.620><c> we're</c><00:11:19.800><c> storing</c><00:11:20.010><c> 8</c>
+
+00:11:20.300 --> 00:11:20.310 align:start position:0%
+see that at that memory we're storing 8
+ 
+
+00:11:20.310 --> 00:11:23.720 align:start position:0%
+see that at that memory we're storing 8
+if<00:11:20.820><c> i</c><00:11:21.060><c> hit</c><00:11:21.270><c> f10</c><00:11:21.810><c> to</c><00:11:22.110><c> advance</c><00:11:22.650><c> my</c><00:11:22.890><c> program</c><00:11:23.310><c> 1</c>
+
+00:11:23.720 --> 00:11:23.730 align:start position:0%
+if i hit f10 to advance my program 1
+ 
+
+00:11:23.730 --> 00:11:26.480 align:start position:0%
+if i hit f10 to advance my program 1
+line<00:11:23.970><c> you'll</c><00:11:24.870><c> see</c><00:11:25.080><c> that</c><00:11:25.200><c> now</c><00:11:25.410><c> is</c><00:11:25.620><c> changed</c><00:11:26.010><c> to</c><00:11:26.190><c> 0</c>
+
+00:11:26.480 --> 00:11:26.490 align:start position:0%
+line you'll see that now is changed to 0
+ 
+
+00:11:26.490 --> 00:11:29.630 align:start position:0%
+line you'll see that now is changed to 0
+a<00:11:26.730><c> a</c><00:11:27.060><c> of</c><00:11:27.360><c> course</c><00:11:27.630><c> is</c><00:11:27.780><c> hexadecimal</c><00:11:28.440><c> for</c><00:11:28.680><c> 10</c><00:11:29.130><c> so</c>
+
+00:11:29.630 --> 00:11:29.640 align:start position:0%
+a a of course is hexadecimal for 10 so
+ 
+
+00:11:29.640 --> 00:11:30.950 align:start position:0%
+a a of course is hexadecimal for 10 so
+you<00:11:29.730><c> can</c><00:11:29.850><c> see</c><00:11:29.970><c> that</c><00:11:30.120><c> by</c><00:11:30.240><c> dereferencing</c><00:11:30.900><c> a</c>
+
+00:11:30.950 --> 00:11:30.960 align:start position:0%
+you can see that by dereferencing a
+ 
+
+00:11:30.960 --> 00:11:32.450 align:start position:0%
+you can see that by dereferencing a
+pointer<00:11:31.320><c> and</c><00:11:31.410><c> writing</c><00:11:31.740><c> to</c><00:11:31.860><c> it</c><00:11:31.980><c> I'm</c><00:11:32.100><c> basically</c>
+
+00:11:32.450 --> 00:11:32.460 align:start position:0%
+pointer and writing to it I'm basically
+ 
+
+00:11:32.460 --> 00:11:34.190 align:start position:0%
+pointer and writing to it I'm basically
+accessing<00:11:33.120><c> that</c><00:11:33.360><c> data</c><00:11:33.420><c> in</c><00:11:33.780><c> this</c><00:11:33.840><c> case</c><00:11:33.930><c> I'm</c>
+
+00:11:34.190 --> 00:11:34.200 align:start position:0%
+accessing that data in this case I'm
+ 
+
+00:11:34.200 --> 00:11:36.380 align:start position:0%
+accessing that data in this case I'm
+writing<00:11:34.770><c> to</c><00:11:35.190><c> the</c><00:11:35.370><c> data</c><00:11:35.550><c> at</c><00:11:35.790><c> that</c><00:11:35.820><c> memory</c>
+
+00:11:36.380 --> 00:11:36.390 align:start position:0%
+writing to the data at that memory
+ 
+
+00:11:36.390 --> 00:11:38.840 align:start position:0%
+writing to the data at that memory
+address<00:11:36.480><c> all</c><00:11:36.990><c> right</c><00:11:37.230><c> cool</c><00:11:37.620><c> so</c><00:11:38.010><c> you</c><00:11:38.460><c> should</c><00:11:38.640><c> now</c>
+
+00:11:38.840 --> 00:11:38.850 align:start position:0%
+address all right cool so you should now
+ 
+
+00:11:38.850 --> 00:11:41.060 align:start position:0%
+address all right cool so you should now
+know<00:11:38.880><c> how</c><00:11:39.270><c> pointers</c><00:11:39.690><c> work</c><00:11:39.870><c> that's</c><00:11:40.320><c> really</c><00:11:40.680><c> all</c>
+
+00:11:41.060 --> 00:11:41.070 align:start position:0%
+know how pointers work that's really all
+ 
+
+00:11:41.070 --> 00:11:43.250 align:start position:0%
+know how pointers work that's really all
+there<00:11:41.250><c> is</c><00:11:41.310><c> to</c><00:11:41.430><c> them</c><00:11:41.790><c> a</c><00:11:41.940><c> pointer</c><00:11:42.570><c> just</c><00:11:42.750><c> points</c>
+
+00:11:43.250 --> 00:11:43.260 align:start position:0%
+there is to them a pointer just points
+ 
+
+00:11:43.260 --> 00:11:45.020 align:start position:0%
+there is to them a pointer just points
+to<00:11:43.320><c> a</c><00:11:43.440><c> location</c><00:11:43.860><c> in</c><00:11:43.950><c> memory</c><00:11:44.040><c> some</c><00:11:44.580><c> people</c><00:11:44.820><c> say</c>
+
+00:11:45.020 --> 00:11:45.030 align:start position:0%
+to a location in memory some people say
+ 
+
+00:11:45.030 --> 00:11:46.370 align:start position:0%
+to a location in memory some people say
+that<00:11:45.060><c> it</c><00:11:45.300><c> points</c><00:11:45.540><c> to</c><00:11:45.660><c> a</c><00:11:45.690><c> block</c><00:11:45.750><c> of</c><00:11:46.200><c> memory</c>
+
+00:11:46.370 --> 00:11:46.380 align:start position:0%
+that it points to a block of memory
+ 
+
+00:11:46.380 --> 00:11:47.900 align:start position:0%
+that it points to a block of memory
+although<00:11:46.830><c> this</c><00:11:46.950><c> isn't</c><00:11:47.280><c> really</c><00:11:47.640><c> accurate</c>
+
+00:11:47.900 --> 00:11:47.910 align:start position:0%
+although this isn't really accurate
+ 
+
+00:11:47.910 --> 00:11:50.630 align:start position:0%
+although this isn't really accurate
+because<00:11:48.660><c> we</c><00:11:48.870><c> don't</c><00:11:49.140><c> know</c><00:11:49.200><c> how</c><00:11:49.410><c> big</c><00:11:49.830><c> that</c><00:11:50.130><c> block</c>
+
+00:11:50.630 --> 00:11:50.640 align:start position:0%
+because we don't know how big that block
+ 
+
+00:11:50.640 --> 00:11:52.040 align:start position:0%
+because we don't know how big that block
+of<00:11:50.760><c> memory</c><00:11:50.880><c> is</c><00:11:51.150><c> in</c><00:11:51.240><c> this</c><00:11:51.360><c> case</c><00:11:51.510><c> it's</c><00:11:51.750><c> four</c>
+
+00:11:52.040 --> 00:11:52.050 align:start position:0%
+of memory is in this case it's four
+ 
+
+00:11:52.050 --> 00:11:53.390 align:start position:0%
+of memory is in this case it's four
+bytes<00:11:52.230><c> short</c><00:11:52.710><c> because</c><00:11:52.860><c> we've</c><00:11:53.010><c> credit</c><00:11:53.310><c> an</c>
+
+00:11:53.390 --> 00:11:53.400 align:start position:0%
+bytes short because we've credit an
+ 
+
+00:11:53.400 --> 00:11:55.880 align:start position:0%
+bytes short because we've credit an
+integer<00:11:53.670><c> and</c><00:11:53.970><c> an</c><00:11:54.780><c> integer</c><00:11:55.020><c> is</c><00:11:55.230><c> 4</c><00:11:55.260><c> bytes</c><00:11:55.680><c> of</c>
+
+00:11:55.880 --> 00:11:55.890 align:start position:0%
+integer and an integer is 4 bytes of
+ 
+
+00:11:55.890 --> 00:11:58.160 align:start position:0%
+integer and an integer is 4 bytes of
+memory<00:11:55.950><c> so</c><00:11:56.460><c> we</c><00:11:56.610><c> do</c><00:11:56.820><c> have</c><00:11:57.390><c> a</c><00:11:57.450><c> pointer</c><00:11:57.870><c> that</c><00:11:58.050><c> is</c>
+
+00:11:58.160 --> 00:11:58.170 align:start position:0%
+memory so we do have a pointer that is
+ 
+
+00:11:58.170 --> 00:11:59.870 align:start position:0%
+memory so we do have a pointer that is
+pointing<00:11:58.500><c> to</c><00:11:58.650><c> essentially</c><00:11:59.310><c> a</c><00:11:59.340><c> blocker</c><00:11:59.550><c> for</c>
+
+00:11:59.870 --> 00:11:59.880 align:start position:0%
+pointing to essentially a blocker for
+ 
+
+00:11:59.880 --> 00:12:01.640 align:start position:0%
+pointing to essentially a blocker for
+bias<00:12:00.120><c> however</c><00:12:00.600><c> there's</c><00:12:01.140><c> nothing</c><00:12:01.290><c> in</c><00:12:01.560><c> the</c>
+
+00:12:01.640 --> 00:12:01.650 align:start position:0%
+bias however there's nothing in the
+ 
+
+00:12:01.650 --> 00:12:03.710 align:start position:0%
+bias however there's nothing in the
+actual<00:12:01.890><c> pointer</c><00:12:02.280><c> which</c><00:12:02.880><c> says</c><00:12:03.120><c> how</c><00:12:03.450><c> big</c><00:12:03.630><c> the</c>
+
+00:12:03.710 --> 00:12:03.720 align:start position:0%
+actual pointer which says how big the
+ 
+
+00:12:03.720 --> 00:12:05.480 align:start position:0%
+actual pointer which says how big the
+memory<00:12:03.990><c> is</c><00:12:04.170><c> when</c><00:12:04.620><c> we</c><00:12:04.710><c> create</c><00:12:04.950><c> arrays</c><00:12:05.190><c> and</c><00:12:05.400><c> all</c>
+
+00:12:05.480 --> 00:12:05.490 align:start position:0%
+memory is when we create arrays and all
+ 
+
+00:12:05.490 --> 00:12:07.190 align:start position:0%
+memory is when we create arrays and all
+that<00:12:05.670><c> it</c><00:12:05.880><c> does</c><00:12:06.060><c> kind</c><00:12:06.450><c> of</c><00:12:06.570><c> keep</c><00:12:06.750><c> track</c><00:12:06.780><c> of</c><00:12:07.110><c> the</c>
+
+00:12:07.190 --> 00:12:07.200 align:start position:0%
+that it does kind of keep track of the
+ 
+
+00:12:07.200 --> 00:12:08.360 align:start position:0%
+that it does kind of keep track of the
+size<00:12:07.380><c> I'm</c><00:12:07.560><c> not</c><00:12:07.680><c> going</c><00:12:07.800><c> to</c><00:12:07.860><c> talk</c><00:12:07.950><c> about</c><00:12:08.190><c> that</c>
+
+00:12:08.360 --> 00:12:08.370 align:start position:0%
+size I'm not going to talk about that
+ 
+
+00:12:08.370 --> 00:12:10.250 align:start position:0%
+size I'm not going to talk about that
+but<00:12:08.790><c> simply</c><00:12:09.000><c> put</c><00:12:09.300><c> we</c><00:12:09.420><c> don't</c><00:12:09.570><c> know</c><00:12:09.630><c> how</c><00:12:09.780><c> big</c><00:12:10.080><c> the</c>
+
+00:12:10.250 --> 00:12:10.260 align:start position:0%
+but simply put we don't know how big the
+ 
+
+00:12:10.260 --> 00:12:11.600 align:start position:0%
+but simply put we don't know how big the
+pointer<00:12:10.650><c> is</c><00:12:10.770><c> we</c><00:12:10.890><c> don't</c><00:12:10.950><c> know</c><00:12:11.070><c> how</c><00:12:11.190><c> much</c><00:12:11.310><c> data</c>
+
+00:12:11.600 --> 00:12:11.610 align:start position:0%
+pointer is we don't know how much data
+ 
+
+00:12:11.610 --> 00:12:13.280 align:start position:0%
+pointer is we don't know how much data
+it's<00:12:12.000><c> holding</c><00:12:12.450><c> because</c><00:12:12.690><c> it's</c><00:12:12.900><c> not</c><00:12:13.020><c> holding</c>
+
+00:12:13.280 --> 00:12:13.290 align:start position:0%
+it's holding because it's not holding
+ 
+
+00:12:13.290 --> 00:12:16.040 align:start position:0%
+it's holding because it's not holding
+data<00:12:13.680><c> right</c><00:12:14.040><c> a</c><00:12:14.250><c> pointer</c><00:12:14.910><c> is</c><00:12:15.330><c> just</c><00:12:15.720><c> an</c><00:12:15.810><c> integer</c>
+
+00:12:16.040 --> 00:12:16.050 align:start position:0%
+data right a pointer is just an integer
+ 
+
+00:12:16.050 --> 00:12:20.420 align:start position:0%
+data right a pointer is just an integer
+which<00:12:16.830><c> is</c><00:12:17.070><c> a</c><00:12:17.340><c> memory</c><00:12:17.700><c> address</c><00:12:18.710><c> that's</c><00:12:19.710><c> it</c><00:12:19.920><c> now</c>
+
+00:12:20.420 --> 00:12:20.430 align:start position:0%
+which is a memory address that's it now
+ 
+
+00:12:20.430 --> 00:12:22.520 align:start position:0%
+which is a memory address that's it now
+so<00:12:20.640><c> far</c><00:12:20.850><c> we've</c><00:12:21.090><c> been</c><00:12:21.120><c> directly</c><00:12:21.750><c> creating</c><00:12:22.290><c> data</c>
+
+00:12:22.520 --> 00:12:22.530 align:start position:0%
+so far we've been directly creating data
+ 
+
+00:12:22.530 --> 00:12:24.440 align:start position:0%
+so far we've been directly creating data
+on<00:12:22.770><c> the</c><00:12:22.920><c> stack</c><00:12:23.220><c> if</c><00:12:23.460><c> I</c><00:12:23.580><c> create</c><00:12:23.850><c> a</c><00:12:23.880><c> variable</c><00:12:24.180><c> like</c>
+
+00:12:24.440 --> 00:12:24.450 align:start position:0%
+on the stack if I create a variable like
+ 
+
+00:12:24.450 --> 00:12:26.450 align:start position:0%
+on the stack if I create a variable like
+this<00:12:24.480><c> we're</c><00:12:24.900><c> creating</c><00:12:25.260><c> it</c><00:12:25.380><c> in</c><00:12:25.560><c> the</c><00:12:26.070><c> stack</c>
+
+00:12:26.450 --> 00:12:26.460 align:start position:0%
+this we're creating it in the stack
+ 
+
+00:12:26.460 --> 00:12:28.280 align:start position:0%
+this we're creating it in the stack
+portion<00:12:26.970><c> of</c><00:12:27.090><c> our</c><00:12:27.180><c> memory</c><00:12:27.540><c> I'm</c><00:12:28.050><c> going</c><00:12:28.170><c> to</c><00:12:28.230><c> be</c>
+
+00:12:28.280 --> 00:12:28.290 align:start position:0%
+portion of our memory I'm going to be
+ 
+
+00:12:28.290 --> 00:12:29.750 align:start position:0%
+portion of our memory I'm going to be
+talking<00:12:28.440><c> about</c><00:12:28.590><c> the</c><00:12:28.800><c> stack</c><00:12:29.040><c> and</c><00:12:29.280><c> the</c><00:12:29.370><c> Cape</c><00:12:29.580><c> and</c>
+
+00:12:29.750 --> 00:12:29.760 align:start position:0%
+talking about the stack and the Cape and
+ 
+
+00:12:29.760 --> 00:12:31.490 align:start position:0%
+talking about the stack and the Cape and
+all<00:12:29.880><c> that</c><00:12:30.090><c> in</c><00:12:30.270><c> a</c><00:12:30.360><c> later</c><00:12:30.600><c> video</c><00:12:30.870><c> there</c><00:12:31.290><c> might</c><00:12:31.470><c> be</c>
+
+00:12:31.490 --> 00:12:31.500 align:start position:0%
+all that in a later video there might be
+ 
+
+00:12:31.500 --> 00:12:32.780 align:start position:0%
+all that in a later video there might be
+like<00:12:31.740><c> an</c><00:12:31.860><c> annotation</c><00:12:32.190><c> or</c><00:12:32.370><c> something</c><00:12:32.640><c> on</c><00:12:32.730><c> the</c>
+
+00:12:32.780 --> 00:12:32.790 align:start position:0%
+like an annotation or something on the
+ 
+
+00:12:32.790 --> 00:12:33.950 align:start position:0%
+like an annotation or something on the
+screen<00:12:32.940><c> if</c><00:12:33.150><c> I've</c><00:12:33.270><c> already</c><00:12:33.510><c> made</c><00:12:33.660><c> that</c><00:12:33.690><c> video</c>
+
+00:12:33.950 --> 00:12:33.960 align:start position:0%
+screen if I've already made that video
+ 
+
+00:12:33.960 --> 00:12:35.840 align:start position:0%
+screen if I've already made that video
+so<00:12:34.320><c> go</c><00:12:34.440><c> ahead</c><00:12:34.560><c> and</c><00:12:34.770><c> check</c><00:12:34.890><c> that</c><00:12:34.920><c> out</c><00:12:35.070><c> if</c><00:12:35.610><c> you</c>
+
+00:12:35.840 --> 00:12:35.850 align:start position:0%
+so go ahead and check that out if you
+ 
+
+00:12:35.850 --> 00:12:37.670 align:start position:0%
+so go ahead and check that out if you
+want<00:12:36.030><c> more</c><00:12:36.150><c> details</c><00:12:36.480><c> but</c><00:12:36.810><c> what</c><00:12:36.960><c> I</c><00:12:36.990><c> could</c><00:12:37.260><c> do</c><00:12:37.440><c> is</c>
+
+00:12:37.670 --> 00:12:37.680 align:start position:0%
+want more details but what I could do is
+ 
+
+00:12:37.680 --> 00:12:39.620 align:start position:0%
+want more details but what I could do is
+create<00:12:37.950><c> a</c><00:12:38.130><c> variable</c><00:12:38.250><c> on</c><00:12:38.790><c> the</c><00:12:38.970><c> heap</c><00:12:39.270><c> or</c><00:12:39.510><c> in</c>
+
+00:12:39.620 --> 00:12:39.630 align:start position:0%
+create a variable on the heap or in
+ 
+
+00:12:39.630 --> 00:12:41.780 align:start position:0%
+create a variable on the heap or in
+other<00:12:39.720><c> words</c><00:12:39.930><c> I</c><00:12:40.080><c> could</c><00:12:40.140><c> ask</c><00:12:40.530><c> our</c><00:12:41.070><c> computer</c><00:12:41.550><c> hey</c>
+
+00:12:41.780 --> 00:12:41.790 align:start position:0%
+other words I could ask our computer hey
+ 
+
+00:12:41.790 --> 00:12:44.120 align:start position:0%
+other words I could ask our computer hey
+I<00:12:42.060><c> want</c><00:12:42.510><c> you</c><00:12:42.600><c> to</c><00:12:42.750><c> allocate</c><00:12:43.200><c> some</c><00:12:43.410><c> memory</c><00:12:43.470><c> for</c>
+
+00:12:44.120 --> 00:12:44.130 align:start position:0%
+I want you to allocate some memory for
+ 
+
+00:12:44.130 --> 00:12:46.430 align:start position:0%
+I want you to allocate some memory for
+me<00:12:44.280><c> and</c><00:12:44.460><c> I</c><00:12:44.850><c> want</c><00:12:45.090><c> it</c><00:12:45.150><c> to</c><00:12:45.270><c> be</c><00:12:45.420><c> a</c><00:12:45.450><c> certain</c><00:12:45.810><c> size</c><00:12:45.840><c> so</c>
+
+00:12:46.430 --> 00:12:46.440 align:start position:0%
+me and I want it to be a certain size so
+ 
+
+00:12:46.440 --> 00:12:49.040 align:start position:0%
+me and I want it to be a certain size so
+what<00:12:46.740><c> I</c><00:12:46.770><c> could</c><00:12:47.040><c> do</c><00:12:47.190><c> for</c><00:12:47.400><c> now</c><00:12:47.520><c> is</c><00:12:47.820><c> use</c><00:12:48.450><c> a</c><00:12:48.690><c> char</c>
+
+00:12:49.040 --> 00:12:49.050 align:start position:0%
+what I could do for now is use a char
+ 
+
+00:12:49.050 --> 00:12:51.650 align:start position:0%
+what I could do for now is use a char
+star<00:12:49.230><c> now</c><00:12:49.530><c> we</c><00:12:49.680><c> know</c><00:12:49.950><c> we</c><00:12:50.400><c> know</c><00:12:50.640><c> that</c><00:12:50.670><c> a</c><00:12:50.880><c> char</c><00:12:51.270><c> is</c>
+
+00:12:51.650 --> 00:12:51.660 align:start position:0%
+star now we know we know that a char is
+ 
+
+00:12:51.660 --> 00:12:54.320 align:start position:0%
+star now we know we know that a char is
+one<00:12:52.170><c> byte</c><00:12:52.410><c> right</c><00:12:52.950><c> so</c><00:12:53.490><c> when</c><00:12:53.640><c> I</c><00:12:53.670><c> ask</c><00:12:53.940><c> something</c>
+
+00:12:54.320 --> 00:12:54.330 align:start position:0%
+one byte right so when I ask something
+ 
+
+00:12:54.330 --> 00:12:56.120 align:start position:0%
+one byte right so when I ask something
+like<00:12:54.630><c> this</c><00:12:54.840><c> like</c><00:12:55.170><c> I'll</c><00:12:55.440><c> call</c><00:12:55.620><c> it</c><00:12:55.710><c> a</c><00:12:55.800><c> buffer</c>
+
+00:12:56.120 --> 00:12:56.130 align:start position:0%
+like this like I'll call it a buffer
+ 
+
+00:12:56.130 --> 00:12:58.370 align:start position:0%
+like this like I'll call it a buffer
+I'll<00:12:56.310><c> set</c><00:12:56.520><c> it</c><00:12:56.550><c> equal</c><00:12:56.700><c> to</c><00:12:56.880><c> a</c><00:12:57.000><c> new</c><00:12:57.090><c> char</c><00:12:57.600><c> of</c><00:12:58.020><c> size</c>
+
+00:12:58.370 --> 00:12:58.380 align:start position:0%
+I'll set it equal to a new char of size
+ 
+
+00:12:58.380 --> 00:13:00.500 align:start position:0%
+I'll set it equal to a new char of size
+eight<00:12:58.770><c> what</c><00:12:59.370><c> I'm</c><00:12:59.490><c> really</c><00:12:59.640><c> asking</c><00:12:59.880><c> for</c><00:13:00.180><c> is</c>
+
+00:13:00.500 --> 00:13:00.510 align:start position:0%
+eight what I'm really asking for is
+ 
+
+00:13:00.510 --> 00:13:02.320 align:start position:0%
+eight what I'm really asking for is
+eight<00:13:00.780><c> bytes</c><00:13:01.140><c> of</c><00:13:01.350><c> memory</c>
+
+00:13:02.320 --> 00:13:02.330 align:start position:0%
+eight bytes of memory
+ 
+
+00:13:02.330 --> 00:13:04.960 align:start position:0%
+eight bytes of memory
+this<00:13:02.600><c> has</c><00:13:03.080><c> allocated</c><00:13:03.770><c> 8</c><00:13:03.950><c> bytes</c><00:13:04.250><c> of</c><00:13:04.430><c> memory</c><00:13:04.490><c> for</c>
+
+00:13:04.960 --> 00:13:04.970 align:start position:0%
+this has allocated 8 bytes of memory for
+ 
+
+00:13:04.970 --> 00:13:07.600 align:start position:0%
+this has allocated 8 bytes of memory for
+us<00:13:05.030><c> and</c><00:13:05.360><c> is</c><00:13:05.540><c> returning</c><00:13:06.020><c> a</c><00:13:06.380><c> pointer</c><00:13:06.710><c> to</c><00:13:07.160><c> the</c>
+
+00:13:07.600 --> 00:13:07.610 align:start position:0%
+us and is returning a pointer to the
+ 
+
+00:13:07.610 --> 00:13:09.880 align:start position:0%
+us and is returning a pointer to the
+beginning<00:13:08.180><c> of</c><00:13:08.300><c> that</c><00:13:08.390><c> block</c><00:13:09.020><c> of</c><00:13:09.230><c> memory</c><00:13:09.500><c> I</c>
+
+00:13:09.880 --> 00:13:09.890 align:start position:0%
+beginning of that block of memory I
+ 
+
+00:13:09.890 --> 00:13:11.800 align:start position:0%
+beginning of that block of memory I
+could<00:13:10.160><c> then</c><00:13:10.310><c> use</c><00:13:10.490><c> a</c><00:13:10.520><c> function</c><00:13:11.000><c> called</c><00:13:11.240><c> mem</c><00:13:11.510><c> set</c>
+
+00:13:11.800 --> 00:13:11.810 align:start position:0%
+could then use a function called mem set
+ 
+
+00:13:11.810 --> 00:13:13.540 align:start position:0%
+could then use a function called mem set
+which<00:13:12.200><c> basically</c><00:13:12.500><c> fills</c><00:13:12.920><c> a</c><00:13:13.070><c> block</c><00:13:13.250><c> of</c><00:13:13.370><c> memory</c>
+
+00:13:13.540 --> 00:13:13.550 align:start position:0%
+which basically fills a block of memory
+ 
+
+00:13:13.550 --> 00:13:16.090 align:start position:0%
+which basically fills a block of memory
+with<00:13:14.060><c> data</c><00:13:14.510><c> that</c><00:13:14.630><c> we</c><00:13:14.810><c> specify</c><00:13:15.290><c> it</c><00:13:15.590><c> takes</c><00:13:15.860><c> in</c><00:13:16.010><c> a</c>
+
+00:13:16.090 --> 00:13:16.100 align:start position:0%
+with data that we specify it takes in a
+ 
+
+00:13:16.100 --> 00:13:18.220 align:start position:0%
+with data that we specify it takes in a
+pointer<00:13:16.610><c> which</c><00:13:16.850><c> is</c><00:13:17.030><c> going</c><00:13:17.480><c> to</c><00:13:17.600><c> be</c><00:13:17.690><c> the</c><00:13:17.840><c> pointer</c>
+
+00:13:18.220 --> 00:13:18.230 align:start position:0%
+pointer which is going to be the pointer
+ 
+
+00:13:18.230 --> 00:13:19.690 align:start position:0%
+pointer which is going to be the pointer
+to<00:13:18.440><c> the</c><00:13:18.470><c> beginning</c><00:13:18.950><c> of</c><00:13:19.100><c> the</c><00:13:19.220><c> block</c><00:13:19.400><c> of</c><00:13:19.430><c> memory</c>
+
+00:13:19.690 --> 00:13:19.700 align:start position:0%
+to the beginning of the block of memory
+ 
+
+00:13:19.700 --> 00:13:21.760 align:start position:0%
+to the beginning of the block of memory
+it's<00:13:20.420><c> going</c><00:13:20.600><c> to</c><00:13:20.690><c> take</c><00:13:20.840><c> in</c><00:13:20.960><c> a</c><00:13:21.020><c> value</c><00:13:21.380><c> such</c><00:13:21.650><c> as</c>
+
+00:13:21.760 --> 00:13:21.770 align:start position:0%
+it's going to take in a value such as
+ 
+
+00:13:21.770 --> 00:13:23.410 align:start position:0%
+it's going to take in a value such as
+zero<00:13:22.070><c> and</c><00:13:22.340><c> then</c><00:13:22.820><c> it's</c><00:13:22.970><c> going</c><00:13:23.120><c> to</c><00:13:23.180><c> take</c><00:13:23.300><c> an</c>
+
+00:13:23.410 --> 00:13:23.420 align:start position:0%
+zero and then it's going to take an
+ 
+
+00:13:23.420 --> 00:13:25.750 align:start position:0%
+zero and then it's going to take an
+aside<00:13:23.690><c> so</c><00:13:23.900><c> how</c><00:13:24.080><c> many</c><00:13:24.260><c> bytes</c><00:13:24.590><c> should</c><00:13:24.920><c> fill</c><00:13:25.280><c> in</c>
+
+00:13:25.750 --> 00:13:25.760 align:start position:0%
+aside so how many bytes should fill in
+ 
+
+00:13:25.760 --> 00:13:27.250 align:start position:0%
+aside so how many bytes should fill in
+this<00:13:25.970><c> case</c><00:13:26.150><c> we</c><00:13:26.360><c> know</c><00:13:26.510><c> that</c><00:13:26.540><c> we</c><00:13:26.900><c> have</c><00:13:27.050><c> eight</c>
+
+00:13:27.250 --> 00:13:27.260 align:start position:0%
+this case we know that we have eight
+ 
+
+00:13:27.260 --> 00:13:29.890 align:start position:0%
+this case we know that we have eight
+bytes<00:13:27.650><c> let's</c><00:13:28.430><c> run</c><00:13:28.640><c> this</c><00:13:28.730><c> program</c><00:13:28.790><c> I'm</c><00:13:29.720><c> going</c>
+
+00:13:29.890 --> 00:13:29.900 align:start position:0%
+bytes let's run this program I'm going
+ 
+
+00:13:29.900 --> 00:13:31.270 align:start position:0%
+bytes let's run this program I'm going
+to<00:13:30.020><c> take</c><00:13:30.230><c> this</c><00:13:30.410><c> now</c><00:13:30.650><c> you'll</c><00:13:30.830><c> see</c><00:13:31.010><c> that</c><00:13:31.040><c> this</c>
+
+00:13:31.270 --> 00:13:31.280 align:start position:0%
+to take this now you'll see that this
+ 
+
+00:13:31.280 --> 00:13:33.370 align:start position:0%
+to take this now you'll see that this
+has<00:13:31.460><c> the</c><00:13:31.580><c> memory</c><00:13:31.730><c> address</c><00:13:32.180><c> over</c><00:13:32.930><c> here</c><00:13:33.170><c> now</c><00:13:33.320><c> you</c>
+
+00:13:33.370 --> 00:13:33.380 align:start position:0%
+has the memory address over here now you
+ 
+
+00:13:33.380 --> 00:13:34.840 align:start position:0%
+has the memory address over here now you
+already<00:13:33.560><c> know</c><00:13:33.770><c> how</c><00:13:33.950><c> memory</c><00:13:34.160><c> does</c><00:13:34.310><c> work</c><00:13:34.610><c> and</c>
+
+00:13:34.840 --> 00:13:34.850 align:start position:0%
+already know how memory does work and
+ 
+
+00:13:34.850 --> 00:13:35.950 align:start position:0%
+already know how memory does work and
+all<00:13:34.910><c> that</c><00:13:34.940><c> so</c><00:13:35.270><c> I'm</c><00:13:35.330><c> just</c><00:13:35.360><c> going</c><00:13:35.570><c> to</c><00:13:35.600><c> type</c><00:13:35.810><c> the</c>
+
+00:13:35.950 --> 00:13:35.960 align:start position:0%
+all that so I'm just going to type the
+ 
+
+00:13:35.960 --> 00:13:38.020 align:start position:0%
+all that so I'm just going to type the
+actual<00:13:36.170><c> variable</c><00:13:36.920><c> name</c><00:13:37.070><c> buffer</c><00:13:37.460><c> up</c><00:13:37.670><c> here</c><00:13:37.910><c> and</c>
+
+00:13:38.020 --> 00:13:38.030 align:start position:0%
+actual variable name buffer up here and
+ 
+
+00:13:38.030 --> 00:13:39.610 align:start position:0%
+actual variable name buffer up here and
+hit<00:13:38.120><c> enter</c><00:13:38.420><c> and</c><00:13:38.630><c> you'll</c><00:13:38.870><c> see</c><00:13:39.110><c> that</c><00:13:39.320><c> look</c><00:13:39.500><c> at</c>
+
+00:13:39.610 --> 00:13:39.620 align:start position:0%
+hit enter and you'll see that look at
+ 
+
+00:13:39.620 --> 00:13:41.290 align:start position:0%
+hit enter and you'll see that look at
+this<00:13:39.770><c> we've</c><00:13:40.010><c> got</c><00:13:40.160><c> eight</c><00:13:40.340><c> bytes</c><00:13:40.610><c> of</c><00:13:40.760><c> memory</c><00:13:40.820><c> in</c>
+
+00:13:41.290 --> 00:13:41.300 align:start position:0%
+this we've got eight bytes of memory in
+ 
+
+00:13:41.300 --> 00:13:43.150 align:start position:0%
+this we've got eight bytes of memory in
+a<00:13:41.360><c> row</c><00:13:41.540><c> of</c><00:13:41.660><c> course</c><00:13:41.900><c> that</c><00:13:42.170><c> are</c><00:13:42.260><c> all</c><00:13:42.410><c> set</c><00:13:42.680><c> to</c><00:13:42.860><c> zero</c>
+
+00:13:43.150 --> 00:13:43.160 align:start position:0%
+a row of course that are all set to zero
+ 
+
+00:13:43.160 --> 00:13:44.350 align:start position:0%
+a row of course that are all set to zero
+because<00:13:43.520><c> that's</c><00:13:43.640><c> what</c><00:13:43.850><c> we've</c><00:13:43.970><c> done</c><00:13:44.000><c> with</c><00:13:44.270><c> our</c>
+
+00:13:44.350 --> 00:13:44.360 align:start position:0%
+because that's what we've done with our
+ 
+
+00:13:44.360 --> 00:13:46.330 align:start position:0%
+because that's what we've done with our
+memset<00:13:44.930><c> in</c><00:13:45.230><c> this</c><00:13:45.380><c> case</c><00:13:45.590><c> because</c><00:13:45.830><c> we</c><00:13:46.070><c> use</c><00:13:46.220><c> the</c>
+
+00:13:46.330 --> 00:13:46.340 align:start position:0%
+memset in this case because we use the
+ 
+
+00:13:46.340 --> 00:13:47.770 align:start position:0%
+memset in this case because we use the
+new<00:13:46.490><c> keyword</c><00:13:46.670><c> and</c><00:13:47.060><c> this</c><00:13:47.210><c> data</c><00:13:47.510><c> is</c><00:13:47.600><c> actually</c>
+
+00:13:47.770 --> 00:13:47.780 align:start position:0%
+new keyword and this data is actually
+ 
+
+00:13:47.780 --> 00:13:49.930 align:start position:0%
+new keyword and this data is actually
+heap<00:13:48.080><c> allocated</c><00:13:48.500><c> we</c><00:13:48.740><c> should</c><00:13:48.950><c> also</c><00:13:49.100><c> delete</c><00:13:49.730><c> the</c>
+
+00:13:49.930 --> 00:13:49.940 align:start position:0%
+heap allocated we should also delete the
+ 
+
+00:13:49.940 --> 00:13:51.400 align:start position:0%
+heap allocated we should also delete the
+data<00:13:50.120><c> when</c><00:13:50.330><c> we're</c><00:13:50.480><c> done</c><00:13:50.630><c> with</c><00:13:50.810><c> it</c><00:13:50.930><c> and</c><00:13:51.050><c> we</c><00:13:51.380><c> can</c>
+
+00:13:51.400 --> 00:13:51.410 align:start position:0%
+data when we're done with it and we can
+ 
+
+00:13:51.410 --> 00:13:53.170 align:start position:0%
+data when we're done with it and we can
+do<00:13:51.650><c> that</c><00:13:51.770><c> just</c><00:13:51.830><c> by</c><00:13:52.160><c> typing</c><00:13:52.340><c> and</c><00:13:52.670><c> delete</c><00:13:53.000><c> we</c>
+
+00:13:53.170 --> 00:13:53.180 align:start position:0%
+do that just by typing and delete we
+ 
+
+00:13:53.180 --> 00:13:55.030 align:start position:0%
+do that just by typing and delete we
+know<00:13:53.270><c> it's</c><00:13:53.420><c> an</c><00:13:53.510><c> array</c><00:13:53.840><c> we</c><00:13:54.140><c> use</c><00:13:54.350><c> the</c><00:13:54.590><c> array</c>
+
+00:13:55.030 --> 00:13:55.040 align:start position:0%
+know it's an array we use the array
+ 
+
+00:13:55.040 --> 00:13:56.980 align:start position:0%
+know it's an array we use the array
+operator<00:13:55.550><c> to</c><00:13:55.760><c> allocator</c><00:13:56.240><c> so</c><00:13:56.450><c> we</c><00:13:56.570><c> should</c><00:13:56.810><c> use</c>
+
+00:13:56.980 --> 00:13:56.990 align:start position:0%
+operator to allocator so we should use
+ 
+
+00:13:56.990 --> 00:13:58.690 align:start position:0%
+operator to allocator so we should use
+the<00:13:57.320><c> delete</c><00:13:57.740><c> keyword</c><00:13:57.980><c> with</c><00:13:58.370><c> the</c><00:13:58.520><c> array</c>
+
+00:13:58.690 --> 00:13:58.700 align:start position:0%
+the delete keyword with the array
+ 
+
+00:13:58.700 --> 00:14:01.450 align:start position:0%
+the delete keyword with the array
+operator<00:13:59.060><c> and</c><00:13:59.330><c> then</c><00:13:59.960><c> delete</c><00:14:00.530><c> that</c><00:14:00.860><c> buffer</c><00:14:01.280><c> if</c>
+
+00:14:01.450 --> 00:14:01.460 align:start position:0%
+operator and then delete that buffer if
+ 
+
+00:14:01.460 --> 00:14:03.430 align:start position:0%
+operator and then delete that buffer if
+we<00:14:01.610><c> were</c><00:14:01.760><c> being</c><00:14:02.000><c> super</c><00:14:02.510><c> nice</c><00:14:02.660><c> however</c><00:14:03.110><c> a</c>
+
+00:14:03.430 --> 00:14:03.440 align:start position:0%
+we were being super nice however a
+ 
+
+00:14:03.440 --> 00:14:05.350 align:start position:0%
+we were being super nice however a
+program<00:14:03.950><c> does</c><00:14:04.070><c> finish</c><00:14:04.340><c> yet</c><00:14:04.520><c> anyway</c><00:14:05.090><c> the</c><00:14:05.210><c> point</c>
+
+00:14:05.350 --> 00:14:05.360 align:start position:0%
+program does finish yet anyway the point
+ 
+
+00:14:05.360 --> 00:14:07.000 align:start position:0%
+program does finish yet anyway the point
+of<00:14:05.480><c> this</c><00:14:05.600><c> example</c><00:14:05.900><c> was</c><00:14:06.230><c> just</c><00:14:06.500><c> again</c><00:14:06.830><c> to</c>
+
+00:14:07.000 --> 00:14:07.010 align:start position:0%
+of this example was just again to
+ 
+
+00:14:07.010 --> 00:14:09.010 align:start position:0%
+of this example was just again to
+reiterate<00:14:07.280><c> that</c><00:14:07.520><c> this</c><00:14:08.090><c> is</c><00:14:08.240><c> a</c><00:14:08.270><c> pointer</c><00:14:08.750><c> we've</c>
+
+00:14:09.010 --> 00:14:09.020 align:start position:0%
+reiterate that this is a pointer we've
+ 
+
+00:14:09.020 --> 00:14:10.840 align:start position:0%
+reiterate that this is a pointer we've
+said<00:14:09.230><c> here</c><00:14:09.470><c> that</c><00:14:09.650><c> we</c><00:14:09.710><c> want</c><00:14:09.890><c> to</c><00:14:09.920><c> allocate</c><00:14:10.100><c> 8</c>
+
+00:14:10.840 --> 00:14:10.850 align:start position:0%
+said here that we want to allocate 8
+ 
+
+00:14:10.850 --> 00:14:13.450 align:start position:0%
+said here that we want to allocate 8
+chars<00:14:11.480><c> of</c><00:14:11.690><c> chars</c><00:14:11.900><c> one</c><00:14:12.230><c> byte</c><00:14:12.530><c> so</c><00:14:12.950><c> thus</c><00:14:13.220><c> we've</c>
+
+00:14:13.450 --> 00:14:13.460 align:start position:0%
+chars of chars one byte so thus we've
+ 
+
+00:14:13.460 --> 00:14:15.820 align:start position:0%
+chars of chars one byte so thus we've
+allocated<00:14:13.670><c> 8</c><00:14:14.150><c> bytes</c><00:14:14.600><c> and</c><00:14:14.870><c> we're</c><00:14:15.380><c> storing</c><00:14:15.650><c> a</c>
+
+00:14:15.820 --> 00:14:15.830 align:start position:0%
+allocated 8 bytes and we're storing a
+ 
+
+00:14:15.830 --> 00:14:17.770 align:start position:0%
+allocated 8 bytes and we're storing a
+pointer<00:14:16.220><c> to</c><00:14:16.250><c> the</c><00:14:16.520><c> beginning</c><00:14:16.670><c> of</c><00:14:17.240><c> that</c><00:14:17.480><c> data</c>
+
+00:14:17.770 --> 00:14:17.780 align:start position:0%
+pointer to the beginning of that data
+ 
+
+00:14:17.780 --> 00:14:19.120 align:start position:0%
+pointer to the beginning of that data
+one<00:14:18.140><c> more</c><00:14:18.260><c> thing</c><00:14:18.380><c> that</c><00:14:18.410><c> I</c><00:14:18.530><c> want</c><00:14:18.680><c> to</c><00:14:18.740><c> mention</c><00:14:19.010><c> is</c>
+
+00:14:19.120 --> 00:14:19.130 align:start position:0%
+one more thing that I want to mention is
+ 
+
+00:14:19.130 --> 00:14:21.040 align:start position:0%
+one more thing that I want to mention is
+the<00:14:19.310><c> pointers</c><00:14:19.760><c> themselves</c><00:14:20.360><c> are</c><00:14:20.570><c> just</c>
+
+00:14:21.040 --> 00:14:21.050 align:start position:0%
+the pointers themselves are just
+ 
+
+00:14:21.050 --> 00:14:23.560 align:start position:0%
+the pointers themselves are just
+variables<00:14:21.740><c> and</c><00:14:22.070><c> those</c><00:14:22.700><c> pointers</c><00:14:23.300><c> those</c>
+
+00:14:23.560 --> 00:14:23.570 align:start position:0%
+variables and those pointers those
+ 
+
+00:14:23.570 --> 00:14:25.240 align:start position:0%
+variables and those pointers those
+variables<00:14:24.050><c> are</c><00:14:24.230><c> also</c><00:14:24.500><c> stored</c><00:14:24.950><c> in</c><00:14:25.070><c> memory</c>
+
+00:14:25.240 --> 00:14:25.250 align:start position:0%
+variables are also stored in memory
+ 
+
+00:14:25.250 --> 00:14:27.190 align:start position:0%
+variables are also stored in memory
+that's<00:14:25.970><c> where</c><00:14:26.270><c> we</c><00:14:26.420><c> can</c><00:14:26.570><c> get</c><00:14:26.720><c> things</c><00:14:26.960><c> like</c>
+
+00:14:27.190 --> 00:14:27.200 align:start position:0%
+that's where we can get things like
+ 
+
+00:14:27.200 --> 00:14:28.870 align:start position:0%
+that's where we can get things like
+double<00:14:27.740><c> pointers</c><00:14:28.070><c> or</c><00:14:28.220><c> triple</c><00:14:28.490><c> pointers</c><00:14:28.760><c> are</c>
+
+00:14:28.870 --> 00:14:28.880 align:start position:0%
+double pointers or triple pointers are
+ 
+
+00:14:28.880 --> 00:14:30.940 align:start position:0%
+double pointers or triple pointers are
+basically<00:14:29.120><c> pointers</c><00:14:29.510><c> to</c><00:14:29.750><c> pointers</c><00:14:29.800><c> how</c><00:14:30.800><c> does</c>
+
+00:14:30.940 --> 00:14:30.950 align:start position:0%
+basically pointers to pointers how does
+ 
+
+00:14:30.950 --> 00:14:32.800 align:start position:0%
+basically pointers to pointers how does
+all<00:14:30.980><c> that</c><00:14:31.070><c> work</c><00:14:31.250><c> right</c><00:14:31.640><c> well</c><00:14:32.180><c> you</c><00:14:32.540><c> just</c><00:14:32.570><c> go</c>
+
+00:14:32.800 --> 00:14:32.810 align:start position:0%
+all that work right well you just go
+ 
+
+00:14:32.810 --> 00:14:34.120 align:start position:0%
+all that work right well you just go
+down<00:14:32.960><c> a</c><00:14:33.020><c> level</c><00:14:33.380><c> and</c><00:14:33.530><c> you're</c><00:14:33.710><c> basically</c><00:14:34.070><c> just</c>
+
+00:14:34.120 --> 00:14:34.130 align:start position:0%
+down a level and you're basically just
+ 
+
+00:14:34.130 --> 00:14:36.430 align:start position:0%
+down a level and you're basically just
+saying<00:14:34.490><c> I</c><00:14:34.760><c> now</c><00:14:35.210><c> have</c><00:14:35.420><c> a</c><00:14:35.450><c> pointer</c><00:14:35.960><c> which</c><00:14:36.410><c> points</c>
+
+00:14:36.430 --> 00:14:36.440 align:start position:0%
+saying I now have a pointer which points
+ 
+
+00:14:36.440 --> 00:14:38.770 align:start position:0%
+saying I now have a pointer which points
+to<00:14:36.890><c> my</c><00:14:37.010><c> pointer</c><00:14:37.520><c> so</c><00:14:37.850><c> I</c><00:14:37.880><c> now</c><00:14:38.090><c> have</c><00:14:38.120><c> a</c><00:14:38.390><c> variable</c>
+
+00:14:38.770 --> 00:14:38.780 align:start position:0%
+to my pointer so I now have a variable
+ 
+
+00:14:38.780 --> 00:14:40.180 align:start position:0%
+to my pointer so I now have a variable
+which<00:14:39.020><c> is</c><00:14:39.140><c> storing</c><00:14:39.350><c> the</c><00:14:39.470><c> memory</c><00:14:39.890><c> address</c>
+
+00:14:40.180 --> 00:14:40.190 align:start position:0%
+which is storing the memory address
+ 
+
+00:14:40.190 --> 00:14:42.160 align:start position:0%
+which is storing the memory address
+that's<00:14:40.670><c> pointing</c><00:14:41.180><c> to</c><00:14:41.300><c> another</c><00:14:41.600><c> variable</c>
+
+00:14:42.160 --> 00:14:42.170 align:start position:0%
+that's pointing to another variable
+ 
+
+00:14:42.170 --> 00:14:44.980 align:start position:0%
+that's pointing to another variable
+which<00:14:42.320><c> is</c><00:14:42.530><c> storing</c><00:14:42.740><c> a</c><00:14:42.890><c> memory</c><00:14:43.190><c> address</c><00:14:43.990><c> simple</c>
+
+00:14:44.980 --> 00:14:44.990 align:start position:0%
+which is storing a memory address simple
+ 
+
+00:14:44.990 --> 00:14:47.170 align:start position:0%
+which is storing a memory address simple
+right<00:14:45.380><c> so</c><00:14:45.830><c> in</c><00:14:45.950><c> this</c><00:14:46.010><c> example</c><00:14:46.190><c> with</c><00:14:46.700><c> my</c><00:14:46.820><c> buffer</c>
+
+00:14:47.170 --> 00:14:47.180 align:start position:0%
+right so in this example with my buffer
+ 
+
+00:14:47.180 --> 00:14:49.240 align:start position:0%
+right so in this example with my buffer
+I<00:14:47.330><c> could</c><00:14:47.870><c> create</c><00:14:48.110><c> a</c><00:14:48.290><c> double</c><00:14:48.710><c> pointer</c><00:14:49.100><c> right</c>
+
+00:14:49.240 --> 00:14:49.250 align:start position:0%
+I could create a double pointer right
+ 
+
+00:14:49.250 --> 00:14:50.530 align:start position:0%
+I could create a double pointer right
+this<00:14:49.460><c> means</c><00:14:49.640><c> it's</c><00:14:49.820><c> a</c><00:14:49.880><c> pointer</c><00:14:50.240><c> to</c><00:14:50.270><c> a</c><00:14:50.420><c> pointer</c>
+
+00:14:50.530 --> 00:14:50.540 align:start position:0%
+this means it's a pointer to a pointer
+ 
+
+00:14:50.540 --> 00:14:53.290 align:start position:0%
+this means it's a pointer to a pointer
+I'm<00:14:51.260><c> going</c><00:14:51.680><c> to</c><00:14:51.740><c> call</c><00:14:51.890><c> it</c><00:14:52.010><c> PTR</c><00:14:52.460><c> and</c><00:14:52.730><c> I'm</c><00:14:53.150><c> going</c>
+
+00:14:53.290 --> 00:14:53.300 align:start position:0%
+I'm going to call it PTR and I'm going
+ 
+
+00:14:53.300 --> 00:14:55.330 align:start position:0%
+I'm going to call it PTR and I'm going
+to<00:14:53.330><c> set</c><00:14:53.540><c> it</c><00:14:53.630><c> equal</c><00:14:53.750><c> to</c><00:14:54.020><c> the</c><00:14:54.200><c> memory</c><00:14:54.800><c> address</c><00:14:55.130><c> of</c>
+
+00:14:55.330 --> 00:14:55.340 align:start position:0%
+to set it equal to the memory address of
+ 
+
+00:14:55.340 --> 00:14:58.810 align:start position:0%
+to set it equal to the memory address of
+buffer<00:14:55.970><c> so</c><00:14:56.720><c> now</c><00:14:57.410><c> this</c><00:14:58.190><c> is</c><00:14:58.400><c> where</c><00:14:58.610><c> it</c><00:14:58.700><c> gets</c>
+
+00:14:58.810 --> 00:14:58.820 align:start position:0%
+buffer so now this is where it gets
+ 
+
+00:14:58.820 --> 00:14:59.380 align:start position:0%
+buffer so now this is where it gets
+interesting
+
+00:14:59.380 --> 00:14:59.390 align:start position:0%
+interesting
+ 
+
+00:14:59.390 --> 00:15:00.280 align:start position:0%
+interesting
+I'm<00:14:59.510><c> just</c><00:14:59.660><c> going</c><00:14:59.780><c> to</c><00:14:59.840><c> move</c><00:14:59.930><c> this</c><00:15:00.050><c> breakpoint</c>
+
+00:15:00.280 --> 00:15:00.290 align:start position:0%
+I'm just going to move this breakpoint
+ 
+
+00:15:00.290 --> 00:15:01.870 align:start position:0%
+I'm just going to move this breakpoint
+up<00:15:00.650><c> here</c><00:15:01.100><c> because</c><00:15:01.310><c> I</c><00:15:01.490><c> don't</c><00:15:01.550><c> want</c><00:15:01.640><c> to</c><00:15:01.790><c> be</c>
+
+00:15:01.870 --> 00:15:01.880 align:start position:0%
+up here because I don't want to be
+ 
+
+00:15:01.880 --> 00:15:03.580 align:start position:0%
+up here because I don't want to be
+deleting<00:15:02.240><c> the</c><00:15:02.330><c> data</c><00:15:02.510><c> just</c><00:15:02.660><c> yet</c><00:15:02.870><c> let's</c><00:15:03.080><c> take</c><00:15:03.500><c> a</c>
+
+00:15:03.580 --> 00:15:03.590 align:start position:0%
+deleting the data just yet let's take a
+ 
+
+00:15:03.590 --> 00:15:05.320 align:start position:0%
+deleting the data just yet let's take a
+look<00:15:03.710><c> at</c><00:15:03.800><c> this</c><00:15:03.860><c> slowly</c><00:15:04.160><c> this</c><00:15:04.670><c> is</c><00:15:04.730><c> the</c><00:15:04.880><c> value</c><00:15:05.180><c> of</c>
+
+00:15:05.320 --> 00:15:05.330 align:start position:0%
+look at this slowly this is the value of
+ 
+
+00:15:05.330 --> 00:15:07.150 align:start position:0%
+look at this slowly this is the value of
+pointer<00:15:05.900><c> I'm</c><00:15:06.290><c> gonna</c><00:15:06.500><c> take</c><00:15:06.710><c> that</c><00:15:06.890><c> I'm</c><00:15:07.070><c> gonna</c>
+
+00:15:07.150 --> 00:15:07.160 align:start position:0%
+pointer I'm gonna take that I'm gonna
+ 
+
+00:15:07.160 --> 00:15:09.370 align:start position:0%
+pointer I'm gonna take that I'm gonna
+copy<00:15:07.460><c> it</c><00:15:07.580><c> in</c><00:15:07.730><c> here</c><00:15:07.940><c> right</c><00:15:08.180><c> now</c>
+
+00:15:09.370 --> 00:15:09.380 align:start position:0%
+copy it in here right now
+ 
+
+00:15:09.380 --> 00:15:11.790 align:start position:0%
+copy it in here right now
+you<00:15:09.740><c> can</c><00:15:09.890><c> see</c><00:15:10.070><c> that</c><00:15:10.280><c> over</c><00:15:10.550><c> here</c><00:15:10.760><c> we've</c><00:15:10.970><c> got</c><00:15:11.000><c> b8</c>
+
+00:15:11.790 --> 00:15:11.800 align:start position:0%
+you can see that over here we've got b8
+ 
+
+00:15:11.800 --> 00:15:13.550 align:start position:0%
+you can see that over here we've got b8
+f10<00:15:12.800><c> -</c><00:15:12.860><c> and</c>
+
+00:15:13.550 --> 00:15:13.560 align:start position:0%
+f10 - and
+ 
+
+00:15:13.560 --> 00:15:16.280 align:start position:0%
+f10 - and
+zero<00:15:14.009><c> four</c><00:15:14.699><c> bytes</c><00:15:14.910><c> I</c><00:15:15.120><c> know</c><00:15:15.209><c> that</c><00:15:15.720><c> this</c><00:15:15.810><c> pointer</c>
+
+00:15:16.280 --> 00:15:16.290 align:start position:0%
+zero four bytes I know that this pointer
+ 
+
+00:15:16.290 --> 00:15:18.319 align:start position:0%
+zero four bytes I know that this pointer
+is<00:15:16.499><c> going</c><00:15:16.740><c> to</c><00:15:16.860><c> be</c><00:15:16.980><c> four</c><00:15:17.279><c> bytes</c><00:15:17.519><c> of</c><00:15:17.819><c> memory</c>
+
+00:15:18.319 --> 00:15:18.329 align:start position:0%
+is going to be four bytes of memory
+ 
+
+00:15:18.329 --> 00:15:20.689 align:start position:0%
+is going to be four bytes of memory
+because<00:15:19.079><c> I'm</c><00:15:19.170><c> running</c><00:15:19.319><c> a</c><00:15:19.529><c> 32-bit</c><00:15:19.769><c> application</c>
+
+00:15:20.689 --> 00:15:20.699 align:start position:0%
+because I'm running a 32-bit application
+ 
+
+00:15:20.699 --> 00:15:22.970 align:start position:0%
+because I'm running a 32-bit application
+and<00:15:20.850><c> in</c><00:15:21.360><c> a</c><00:15:21.480><c> 32-bit</c><00:15:21.930><c> application</c><00:15:22.470><c> a</c><00:15:22.649><c> memory</c>
+
+00:15:22.970 --> 00:15:22.980 align:start position:0%
+and in a 32-bit application a memory
+ 
+
+00:15:22.980 --> 00:15:24.800 align:start position:0%
+and in a 32-bit application a memory
+address<00:15:23.040><c> is</c><00:15:23.430><c> 32</c><00:15:23.790><c> bits</c><00:15:24.120><c> more</c><00:15:24.540><c> on</c><00:15:24.629><c> that</c><00:15:24.749><c> in</c>
+
+00:15:24.800 --> 00:15:24.810 align:start position:0%
+address is 32 bits more on that in
+ 
+
+00:15:24.810 --> 00:15:25.730 align:start position:0%
+address is 32 bits more on that in
+another<00:15:25.079><c> video</c>
+
+00:15:25.730 --> 00:15:25.740 align:start position:0%
+another video
+ 
+
+00:15:25.740 --> 00:15:27.769 align:start position:0%
+another video
+now<00:15:26.160><c> because</c><00:15:26.370><c> the</c><00:15:26.670><c> endianness</c><00:15:27.300><c> of</c><00:15:27.540><c> this</c>
+
+00:15:27.769 --> 00:15:27.779 align:start position:0%
+now because the endianness of this
+ 
+
+00:15:27.779 --> 00:15:29.900 align:start position:0%
+now because the endianness of this
+computer<00:15:28.259><c> is</c><00:15:28.350><c> actually</c><00:15:28.529><c> in</c><00:15:28.889><c> reverse</c><00:15:29.249><c> order</c><00:15:29.610><c> so</c>
+
+00:15:29.900 --> 00:15:29.910 align:start position:0%
+computer is actually in reverse order so
+ 
+
+00:15:29.910 --> 00:15:31.429 align:start position:0%
+computer is actually in reverse order so
+if<00:15:29.999><c> I</c><00:15:30.059><c> paste</c><00:15:30.269><c> this</c><00:15:30.449><c> in</c><00:15:30.629><c> here</c><00:15:30.660><c> we</c><00:15:31.110><c> actually</c><00:15:31.259><c> have</c>
+
+00:15:31.429 --> 00:15:31.439 align:start position:0%
+if I paste this in here we actually have
+ 
+
+00:15:31.439 --> 00:15:34.489 align:start position:0%
+if I paste this in here we actually have
+to<00:15:31.589><c> rearrange</c><00:15:31.829><c> it</c><00:15:32.129><c> so</c><00:15:32.160><c> that</c><00:15:32.339><c> it</c><00:15:32.430><c> says</c><00:15:32.610><c> 0</c><00:15:32.970><c> 0</c><00:15:33.269><c> 0</c><00:15:34.019><c> to</c>
+
+00:15:34.489 --> 00:15:34.499 align:start position:0%
+to rearrange it so that it says 0 0 0 to
+ 
+
+00:15:34.499 --> 00:15:38.210 align:start position:0%
+to rearrange it so that it says 0 0 0 to
+f1<00:15:35.490><c> and</c><00:15:35.759><c> then</c><00:15:36.329><c> B</c><00:15:36.569><c> 8</c><00:15:36.839><c> at</c><00:15:37.139><c> the</c><00:15:37.230><c> end</c><00:15:37.559><c> like</c><00:15:37.920><c> that</c><00:15:37.949><c> if</c>
+
+00:15:38.210 --> 00:15:38.220 align:start position:0%
+f1 and then B 8 at the end like that if
+ 
+
+00:15:38.220 --> 00:15:41.179 align:start position:0%
+f1 and then B 8 at the end like that if
+I<00:15:38.339><c> hit</c><00:15:38.490><c> enter</c><00:15:39.230><c> look</c><00:15:40.230><c> at</c><00:15:40.319><c> that</c><00:15:40.470><c> I'm</c><00:15:40.680><c> taken</c><00:15:41.160><c> to</c>
+
+00:15:41.179 --> 00:15:41.189 align:start position:0%
+I hit enter look at that I'm taken to
+ 
+
+00:15:41.189 --> 00:15:43.790 align:start position:0%
+I hit enter look at that I'm taken to
+the<00:15:41.399><c> memory</c><00:15:41.790><c> which</c><00:15:41.999><c> stores</c><00:15:42.360><c> this</c><00:15:42.990><c> buffer</c><00:15:43.620><c> of</c>
+
+00:15:43.790 --> 00:15:43.800 align:start position:0%
+the memory which stores this buffer of
+ 
+
+00:15:43.800 --> 00:15:48.040 align:start position:0%
+the memory which stores this buffer of
+zeros<00:15:44.490><c> ok</c><00:15:45.529><c> that's</c><00:15:46.529><c> it</c><00:15:46.800><c> pointers</c><00:15:47.670><c> to</c><00:15:47.819><c> pointers</c>
+
+00:15:48.040 --> 00:15:48.050 align:start position:0%
+zeros ok that's it pointers to pointers
+ 
+
+00:15:48.050 --> 00:15:50.869 align:start position:0%
+zeros ok that's it pointers to pointers
+sorted<00:15:49.050><c> right</c><00:15:49.499><c> really</c><00:15:50.100><c> simple</c><00:15:50.430><c> stuff</c><00:15:50.639><c> so</c>
+
+00:15:50.869 --> 00:15:50.879 align:start position:0%
+sorted right really simple stuff so
+ 
+
+00:15:50.879 --> 00:15:52.670 align:start position:0%
+sorted right really simple stuff so
+that's<00:15:51.029><c> it</c><00:15:51.240><c> I</c><00:15:51.420><c> could</c><00:15:52.050><c> keep</c><00:15:52.199><c> talking</c><00:15:52.410><c> about</c>
+
+00:15:52.670 --> 00:15:52.680 align:start position:0%
+that's it I could keep talking about
+ 
+
+00:15:52.680 --> 00:15:54.530 align:start position:0%
+that's it I could keep talking about
+this<00:15:52.889><c> all</c><00:15:53.100><c> day</c><00:15:53.129><c> but</c><00:15:53.579><c> really</c><00:15:53.999><c> I'm</c><00:15:54.269><c> just</c><00:15:54.420><c> going</c>
+
+00:15:54.530 --> 00:15:54.540 align:start position:0%
+this all day but really I'm just going
+ 
+
+00:15:54.540 --> 00:15:56.540 align:start position:0%
+this all day but really I'm just going
+to<00:15:54.569><c> come</c><00:15:54.720><c> back</c><00:15:54.839><c> to</c><00:15:54.990><c> saying</c><00:15:55.170><c> the</c><00:15:55.410><c> pointers</c><00:15:55.800><c> are</c>
+
+00:15:56.540 --> 00:15:56.550 align:start position:0%
+to come back to saying the pointers are
+ 
+
+00:15:56.550 --> 00:15:58.730 align:start position:0%
+to come back to saying the pointers are
+just<00:15:56.819><c> integers</c><00:15:57.300><c> which</c><00:15:57.870><c> store</c><00:15:58.139><c> memory</c><00:15:58.470><c> address</c>
+
+00:15:58.730 --> 00:15:58.740 align:start position:0%
+just integers which store memory address
+ 
+
+00:15:58.740 --> 00:16:01.009 align:start position:0%
+just integers which store memory address
+that<00:15:59.220><c> is</c><00:15:59.339><c> although</c><00:15:59.579><c> they</c><00:15:59.790><c> are</c><00:15:59.970><c> get</c><00:16:00.420><c> that</c><00:16:00.629><c> into</c>
+
+00:16:01.009 --> 00:16:01.019 align:start position:0%
+that is although they are get that into
+ 
+
+00:16:01.019 --> 00:16:02.660 align:start position:0%
+that is although they are get that into
+your<00:16:01.199><c> head</c><00:16:01.259><c> I'm</c><00:16:01.889><c> going</c><00:16:02.040><c> to</c><00:16:02.129><c> be</c><00:16:02.189><c> making</c><00:16:02.339><c> a</c><00:16:02.490><c> lot</c>
+
+00:16:02.660 --> 00:16:02.670 align:start position:0%
+your head I'm going to be making a lot
+ 
+
+00:16:02.670 --> 00:16:04.400 align:start position:0%
+your head I'm going to be making a lot
+more<00:16:02.699><c> videos</c><00:16:02.879><c> on</c><00:16:03.420><c> this</c><00:16:03.569><c> topic</c><00:16:03.629><c> and</c><00:16:04.199><c> dealing</c>
+
+00:16:04.400 --> 00:16:04.410 align:start position:0%
+more videos on this topic and dealing
+ 
+
+00:16:04.410 --> 00:16:05.989 align:start position:0%
+more videos on this topic and dealing
+with<00:16:04.439><c> things</c><00:16:04.680><c> like</c><00:16:04.769><c> pointer</c><00:16:05.189><c> arithmetic</c><00:16:05.430><c> and</c>
+
+00:16:05.989 --> 00:16:05.999 align:start position:0%
+with things like pointer arithmetic and
+ 
+
+00:16:05.999 --> 00:16:08.059 align:start position:0%
+with things like pointer arithmetic and
+more<00:16:06.449><c> advanced</c><00:16:06.959><c> kind</c><00:16:07.139><c> of</c><00:16:07.259><c> pointer</c><00:16:07.559><c> operations</c>
+
+00:16:08.059 --> 00:16:08.069 align:start position:0%
+more advanced kind of pointer operations
+ 
+
+00:16:08.069 --> 00:16:09.439 align:start position:0%
+more advanced kind of pointer operations
+so<00:16:08.220><c> if</c><00:16:08.279><c> you're</c><00:16:08.399><c> new</c><00:16:08.490><c> to</c><00:16:08.610><c> this</c><00:16:08.670><c> channel</c><00:16:08.759><c> feel</c>
+
+00:16:09.439 --> 00:16:09.449 align:start position:0%
+so if you're new to this channel feel
+ 
+
+00:16:09.449 --> 00:16:11.569 align:start position:0%
+so if you're new to this channel feel
+free<00:16:09.480><c> to</c><00:16:09.689><c> subscribe</c><00:16:09.779><c> as</c><00:16:10.290><c> you</c><00:16:10.829><c> begin</c><00:16:11.129><c> to</c><00:16:11.309><c> use</c>
+
+00:16:11.569 --> 00:16:11.579 align:start position:0%
+free to subscribe as you begin to use
+ 
+
+00:16:11.579 --> 00:16:13.639 align:start position:0%
+free to subscribe as you begin to use
+pointers<00:16:12.120><c> and</c><00:16:12.329><c> as</c><00:16:12.449><c> we</c><00:16:12.689><c> begin</c><00:16:12.959><c> to</c><00:16:13.110><c> use</c><00:16:13.230><c> pointers</c>
+
+00:16:13.639 --> 00:16:13.649 align:start position:0%
+pointers and as we begin to use pointers
+ 
+
+00:16:13.649 --> 00:16:15.439 align:start position:0%
+pointers and as we begin to use pointers
+throughout<00:16:14.009><c> this</c><00:16:14.160><c> series</c><00:16:14.399><c> you'll</c><00:16:15.089><c> get</c><00:16:15.269><c> a</c><00:16:15.300><c> lot</c>
+
+00:16:15.439 --> 00:16:15.449 align:start position:0%
+throughout this series you'll get a lot
+ 
+
+00:16:15.449 --> 00:16:16.699 align:start position:0%
+throughout this series you'll get a lot
+more<00:16:15.629><c> examples</c><00:16:15.749><c> and</c><00:16:16.199><c> you'll</c><00:16:16.290><c> see</c><00:16:16.439><c> just</c><00:16:16.470><c> how</c>
+
+00:16:16.699 --> 00:16:16.709 align:start position:0%
+more examples and you'll see just how
+ 
+
+00:16:16.709 --> 00:16:18.350 align:start position:0%
+more examples and you'll see just how
+powerful<00:16:16.829><c> they</c><00:16:17.339><c> are</c><00:16:17.370><c> on</c><00:16:17.670><c> what</c><00:16:17.819><c> we</c><00:16:17.939><c> can</c><00:16:18.089><c> do</c><00:16:18.209><c> with</c>
+
+00:16:18.350 --> 00:16:18.360 align:start position:0%
+powerful they are on what we can do with
+ 
+
+00:16:18.360 --> 00:16:20.059 align:start position:0%
+powerful they are on what we can do with
+them<00:16:18.509><c> but</c><00:16:18.629><c> this</c><00:16:18.809><c> is</c><00:16:19.110><c> the</c><00:16:19.259><c> gist</c><00:16:19.529><c> of</c><00:16:19.769><c> how</c><00:16:19.920><c> they</c>
+
+00:16:20.059 --> 00:16:20.069 align:start position:0%
+them but this is the gist of how they
+ 
+
+00:16:20.069 --> 00:16:23.809 align:start position:0%
+them but this is the gist of how they
+work<00:16:20.339><c> don't</c><00:16:21.149><c> overthink</c><00:16:22.139><c> it</c><00:16:22.550><c> they're</c><00:16:23.550><c> really</c>
+
+00:16:23.809 --> 00:16:23.819 align:start position:0%
+work don't overthink it they're really
+ 
+
+00:16:23.819 --> 00:16:25.579 align:start position:0%
+work don't overthink it they're really
+simple<00:16:24.149><c> thanks</c><00:16:24.839><c> for</c><00:16:24.959><c> watching</c><00:16:25.259><c> I</c><00:16:25.319><c> hope</c><00:16:25.410><c> you</c>
+
+00:16:25.579 --> 00:16:25.589 align:start position:0%
+simple thanks for watching I hope you
+ 
+
+00:16:25.589 --> 00:16:27.049 align:start position:0%
+simple thanks for watching I hope you
+enjoyed<00:16:25.800><c> this</c><00:16:25.889><c> video</c><00:16:26.069><c> if</c><00:16:26.490><c> you</c><00:16:26.610><c> did</c><00:16:26.759><c> please</c><00:16:26.790><c> hit</c>
+
+00:16:27.049 --> 00:16:27.059 align:start position:0%
+enjoyed this video if you did please hit
+ 
+
+00:16:27.059 --> 00:16:28.579 align:start position:0%
+enjoyed this video if you did please hit
+that<00:16:27.240><c> like</c><00:16:27.600><c> button</c><00:16:27.629><c> you</c><00:16:28.050><c> can</c><00:16:28.170><c> also</c><00:16:28.290><c> follow</c><00:16:28.470><c> me</c>
+
+00:16:28.579 --> 00:16:28.589 align:start position:0%
+that like button you can also follow me
+ 
+
+00:16:28.589 --> 00:16:31.220 align:start position:0%
+that like button you can also follow me
+on<00:16:28.889><c> Twitter</c><00:16:29.250><c> and</c><00:16:29.490><c> Instagram</c><00:16:29.850><c> and</c><00:16:30.449><c> if</c><00:16:31.110><c> you</c>
+
+00:16:31.220 --> 00:16:31.230 align:start position:0%
+on Twitter and Instagram and if you
+ 
+
+00:16:31.230 --> 00:16:32.569 align:start position:0%
+on Twitter and Instagram and if you
+really<00:16:31.470><c> enjoyed</c><00:16:31.800><c> this</c><00:16:31.920><c> video</c><00:16:32.189><c> and</c><00:16:32.399><c> you</c><00:16:32.490><c> want</c>
+
+00:16:32.569 --> 00:16:32.579 align:start position:0%
+really enjoyed this video and you want
+ 
+
+00:16:32.579 --> 00:16:34.579 align:start position:0%
+really enjoyed this video and you want
+to<00:16:32.699><c> see</c><00:16:32.819><c> more</c><00:16:33.059><c> videos</c><00:16:33.449><c> like</c><00:16:33.540><c> this</c><00:16:34.019><c> you</c><00:16:34.290><c> can</c>
+
+00:16:34.579 --> 00:16:34.589 align:start position:0%
+to see more videos like this you can
+ 
+
+00:16:34.589 --> 00:16:36.350 align:start position:0%
+to see more videos like this you can
+support<00:16:34.920><c> me</c><00:16:35.040><c> on</c><00:16:35.129><c> patreon</c><00:16:35.550><c> back</c><00:16:35.730><c> home</c><00:16:35.879><c> for</c><00:16:36.089><c> that</c>
+
+00:16:36.350 --> 00:16:36.360 align:start position:0%
+support me on patreon back home for that
+ 
+
+00:16:36.360 --> 00:16:38.090 align:start position:0%
+support me on patreon back home for that
+to<00:16:36.660><c> show</c><00:16:36.689><c> no</c><00:16:36.930><c> next</c><00:16:37.649><c> time</c><00:16:37.769><c> we're</c><00:16:37.920><c> gonna</c><00:16:37.980><c> be</c>
+
+00:16:38.090 --> 00:16:38.100 align:start position:0%
+to show no next time we're gonna be
+ 
+
+00:16:38.100 --> 00:16:39.499 align:start position:0%
+to show no next time we're gonna be
+talking<00:16:38.370><c> about</c><00:16:38.399><c> references</c><00:16:39.059><c> and</c><00:16:39.300><c> I'll</c><00:16:39.360><c> see</c>
+
+00:16:39.499 --> 00:16:39.509 align:start position:0%
+talking about references and I'll see
+ 
+
+00:16:39.509 --> 00:16:42.260 align:start position:0%
+talking about references and I'll see
+you<00:16:39.569><c> guys</c><00:16:39.720><c> in</c><00:16:40.110><c> the</c><00:16:40.290><c> next</c><00:16:40.410><c> video</c><00:16:40.769><c> goodbye</c>
+
+00:16:42.260 --> 00:16:42.270 align:start position:0%
+you guys in the next video goodbye
+ 
+
+00:16:42.270 --> 00:16:50.350 align:start position:0%
+you guys in the next video goodbye
+[Music]
+
+00:16:50.350 --> 00:16:50.360 align:start position:0%
+ 
+ 
+
+00:16:50.360 --> 00:16:57.409 align:start position:0%
+ 
+[Music]
+

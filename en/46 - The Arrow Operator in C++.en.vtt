@@ -1,0 +1,1824 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:00.000 --> 00:00:01.850 align:start position:0%
+ 
+hey<00:00:00.210><c> what's</c><00:00:00.480><c> up</c><00:00:00.570><c> guys</c><00:00:00.719><c> my</c><00:00:01.140><c> name</c><00:00:01.170><c> is</c><00:00:01.350><c> a</c><00:00:01.500><c> Chan</c><00:00:01.740><c> and</c>
+
+00:00:01.850 --> 00:00:01.860 align:start position:0%
+hey what's up guys my name is a Chan and
+ 
+
+00:00:01.860 --> 00:00:03.050 align:start position:0%
+hey what's up guys my name is a Chan and
+welcome<00:00:02.129><c> back</c><00:00:02.159><c> to</c><00:00:02.399><c> my</c><00:00:02.490><c> safe</c><00:00:02.730><c> boss</c><00:00:02.879><c> class</c>
+
+00:00:03.050 --> 00:00:03.060 align:start position:0%
+welcome back to my safe boss class
+ 
+
+00:00:03.060 --> 00:00:04.820 align:start position:0%
+welcome back to my safe boss class
+series<00:00:03.510><c> today</c><00:00:03.990><c> we're</c><00:00:04.140><c> talking</c><00:00:04.380><c> all</c><00:00:04.589><c> about</c><00:00:04.710><c> the</c>
+
+00:00:04.820 --> 00:00:04.830 align:start position:0%
+series today we're talking all about the
+ 
+
+00:00:04.830 --> 00:00:07.309 align:start position:0%
+series today we're talking all about the
+arrow<00:00:05.100><c> operator</c><00:00:05.490><c> in</c><00:00:06.120><c> C++</c><00:00:06.839><c> we're</c><00:00:07.140><c> going</c><00:00:07.259><c> to</c>
+
+00:00:07.309 --> 00:00:07.319 align:start position:0%
+arrow operator in C++ we're going to
+ 
+
+00:00:07.319 --> 00:00:08.330 align:start position:0%
+arrow operator in C++ we're going to
+talk<00:00:07.470><c> about</c><00:00:07.560><c> what</c><00:00:07.799><c> the</c><00:00:07.919><c> arrow</c><00:00:08.069><c> operator</c>
+
+00:00:08.330 --> 00:00:08.340 align:start position:0%
+talk about what the arrow operator
+ 
+
+00:00:08.340 --> 00:00:10.549 align:start position:0%
+talk about what the arrow operator
+actually<00:00:08.790><c> does</c><00:00:09.269><c> for</c><00:00:09.540><c> both</c><00:00:09.719><c> struct</c><00:00:10.110><c> and</c><00:00:10.260><c> class</c>
+
+00:00:10.549 --> 00:00:10.559 align:start position:0%
+actually does for both struct and class
+ 
+
+00:00:10.559 --> 00:00:12.650 align:start position:0%
+actually does for both struct and class
+pointers<00:00:11.099><c> as</c><00:00:11.280><c> well</c><00:00:11.820><c> as</c><00:00:12.000><c> implement</c><00:00:12.420><c> our</c><00:00:12.570><c> own</c>
+
+00:00:12.650 --> 00:00:12.660 align:start position:0%
+pointers as well as implement our own
+ 
+
+00:00:12.660 --> 00:00:14.900 align:start position:0%
+pointers as well as implement our own
+arrow<00:00:13.320><c> operator</c><00:00:13.559><c> to</c><00:00:13.920><c> see</c><00:00:14.070><c> how</c><00:00:14.219><c> it</c><00:00:14.280><c> works</c><00:00:14.519><c> so</c>
+
+00:00:14.900 --> 00:00:14.910 align:start position:0%
+arrow operator to see how it works so
+ 
+
+00:00:14.910 --> 00:00:16.250 align:start position:0%
+arrow operator to see how it works so
+over<00:00:15.089><c> here</c><00:00:15.240><c> my</c><00:00:15.389><c> source</c><00:00:15.599><c> code</c><00:00:15.780><c> of</c><00:00:15.870><c> our</c><00:00:15.990><c> basic</c>
+
+00:00:16.250 --> 00:00:16.260 align:start position:0%
+over here my source code of our basic
+ 
+
+00:00:16.260 --> 00:00:18.140 align:start position:0%
+over here my source code of our basic
+entity<00:00:16.560><c> class</c><00:00:16.800><c> type</c><00:00:17.100><c> now</c><00:00:17.520><c> if</c><00:00:17.640><c> I</c><00:00:17.730><c> create</c><00:00:18.029><c> this</c>
+
+00:00:18.140 --> 00:00:18.150 align:start position:0%
+entity class type now if I create this
+ 
+
+00:00:18.150 --> 00:00:20.150 align:start position:0%
+entity class type now if I create this
+object<00:00:18.359><c> normally</c><00:00:18.900><c> as</c><00:00:19.170><c> I</c><00:00:19.350><c> probably</c><00:00:19.590><c> would</c><00:00:19.980><c> like</c>
+
+00:00:20.150 --> 00:00:20.160 align:start position:0%
+object normally as I probably would like
+ 
+
+00:00:20.160 --> 00:00:22.279 align:start position:0%
+object normally as I probably would like
+this<00:00:20.369><c> in</c><00:00:20.550><c> full</c><00:00:20.730><c> print</c><00:00:21.029><c> I</c><00:00:21.210><c> have</c><00:00:21.390><c> no</c><00:00:21.570><c> issues</c><00:00:21.960><c> but</c>
+
+00:00:22.279 --> 00:00:22.289 align:start position:0%
+this in full print I have no issues but
+ 
+
+00:00:22.289 --> 00:00:24.349 align:start position:0%
+this in full print I have no issues but
+if<00:00:22.500><c> this</c><00:00:22.680><c> entity</c><00:00:22.920><c> object</c><00:00:23.850><c> was</c><00:00:24.000><c> actually</c><00:00:24.330><c> a</c>
+
+00:00:24.349 --> 00:00:24.359 align:start position:0%
+if this entity object was actually a
+ 
+
+00:00:24.359 --> 00:00:26.990 align:start position:0%
+if this entity object was actually a
+pointer<00:00:24.900><c> so</c><00:00:25.500><c> either</c><00:00:25.710><c> it's</c><00:00:26.099><c> it</c><00:00:26.400><c> was</c><00:00:26.550><c> allocated</c>
+
+00:00:26.990 --> 00:00:27.000 align:start position:0%
+pointer so either it's it was allocated
+ 
+
+00:00:27.000 --> 00:00:28.429 align:start position:0%
+pointer so either it's it was allocated
+on<00:00:27.090><c> the</c><00:00:27.119><c> heap</c><00:00:27.240><c> or</c><00:00:27.599><c> maybe</c><00:00:27.869><c> I</c><00:00:27.990><c> just</c><00:00:28.230><c> had</c><00:00:28.410><c> a</c>
+
+00:00:28.429 --> 00:00:28.439 align:start position:0%
+on the heap or maybe I just had a
+ 
+
+00:00:28.439 --> 00:00:30.380 align:start position:0%
+on the heap or maybe I just had a
+pointer<00:00:28.830><c> to</c><00:00:28.949><c> it</c><00:00:29.070><c> for</c><00:00:29.189><c> some</c><00:00:29.340><c> reason</c><00:00:29.670><c> like</c><00:00:30.090><c> this</c>
+
+00:00:30.380 --> 00:00:30.390 align:start position:0%
+pointer to it for some reason like this
+ 
+
+00:00:30.390 --> 00:00:32.359 align:start position:0%
+pointer to it for some reason like this
+in<00:00:30.900><c> order</c><00:00:31.080><c> to</c><00:00:31.230><c> call</c><00:00:31.410><c> that</c><00:00:31.560><c> print</c><00:00:31.800><c> function</c><00:00:32.189><c> I</c>
+
+00:00:32.359 --> 00:00:32.369 align:start position:0%
+in order to call that print function I
+ 
+
+00:00:32.369 --> 00:00:34.670 align:start position:0%
+in order to call that print function I
+can't<00:00:32.669><c> actually</c><00:00:32.880><c> just</c><00:00:33.329><c> use</c><00:00:33.989><c> pointer</c><00:00:34.559><c> dot</c>
+
+00:00:34.670 --> 00:00:34.680 align:start position:0%
+can't actually just use pointer dot
+ 
+
+00:00:34.680 --> 00:00:37.190 align:start position:0%
+can't actually just use pointer dot
+print<00:00:35.010><c> like</c><00:00:35.399><c> that</c><00:00:35.430><c> because</c><00:00:36.149><c> this</c><00:00:36.390><c> is</c><00:00:36.660><c> just</c><00:00:37.050><c> a</c>
+
+00:00:37.190 --> 00:00:37.200 align:start position:0%
+print like that because this is just a
+ 
+
+00:00:37.200 --> 00:00:38.930 align:start position:0%
+print like that because this is just a
+pointer<00:00:37.710><c> it's</c><00:00:37.920><c> basically</c><00:00:38.219><c> just</c><00:00:38.340><c> a</c><00:00:38.489><c> numerical</c>
+
+00:00:38.930 --> 00:00:38.940 align:start position:0%
+pointer it's basically just a numerical
+ 
+
+00:00:38.940 --> 00:00:40.400 align:start position:0%
+pointer it's basically just a numerical
+value<00:00:39.000><c> I</c><00:00:39.210><c> can't</c><00:00:39.420><c> just</c><00:00:39.570><c> called</c><00:00:39.719><c> dot</c><00:00:39.870><c> print</c><00:00:40.230><c> on</c>
+
+00:00:40.400 --> 00:00:40.410 align:start position:0%
+value I can't just called dot print on
+ 
+
+00:00:40.410 --> 00:00:42.020 align:start position:0%
+value I can't just called dot print on
+it<00:00:40.620><c> what</c><00:00:40.890><c> I</c><00:00:40.920><c> have</c><00:00:41.129><c> to</c><00:00:41.280><c> actually</c><00:00:41.640><c> do</c><00:00:41.790><c> is</c>
+
+00:00:42.020 --> 00:00:42.030 align:start position:0%
+it what I have to actually do is
+ 
+
+00:00:42.030 --> 00:00:44.030 align:start position:0%
+it what I have to actually do is
+dereference<00:00:42.660><c> that</c><00:00:42.719><c> pointer</c><00:00:42.840><c> and</c><00:00:43.440><c> that</c><00:00:43.800><c> can</c><00:00:43.950><c> be</c>
+
+00:00:44.030 --> 00:00:44.040 align:start position:0%
+dereference that pointer and that can be
+ 
+
+00:00:44.040 --> 00:00:46.580 align:start position:0%
+dereference that pointer and that can be
+done<00:00:44.219><c> like</c><00:00:44.489><c> so</c><00:00:45.149><c> I</c><00:00:45.450><c> can</c><00:00:45.690><c> just</c><00:00:45.809><c> say</c><00:00:46.079><c> entity</c>
+
+00:00:46.580 --> 00:00:46.590 align:start position:0%
+done like so I can just say entity
+ 
+
+00:00:46.590 --> 00:00:48.799 align:start position:0%
+done like so I can just say entity
+reference<00:00:47.100><c> entity</c><00:00:47.820><c> for</c><00:00:48.000><c> example</c><00:00:48.059><c> and</c><00:00:48.660><c> then</c>
+
+00:00:48.799 --> 00:00:48.809 align:start position:0%
+reference entity for example and then
+ 
+
+00:00:48.809 --> 00:00:51.139 align:start position:0%
+reference entity for example and then
+use<00:00:49.289><c> the</c><00:00:49.559><c> asterisk</c><00:00:49.980><c> in</c><00:00:50.280><c> front</c><00:00:50.309><c> of</c><00:00:50.789><c> the</c><00:00:50.910><c> point</c>
+
+00:00:51.139 --> 00:00:51.149 align:start position:0%
+use the asterisk in front of the point
+ 
+
+00:00:51.149 --> 00:00:53.150 align:start position:0%
+use the asterisk in front of the point
+like<00:00:51.360><c> this</c><00:00:51.480><c> to</c><00:00:51.660><c> dereference</c><00:00:51.960><c> it</c><00:00:52.320><c> and</c><00:00:52.590><c> then</c>
+
+00:00:53.150 --> 00:00:53.160 align:start position:0%
+like this to dereference it and then
+ 
+
+00:00:53.160 --> 00:00:55.400 align:start position:0%
+like this to dereference it and then
+just<00:00:53.340><c> substitute</c><00:00:54.000><c> this</c><00:00:54.120><c> with</c><00:00:54.239><c> entity</c><00:00:54.629><c> and</c><00:00:54.809><c> my</c>
+
+00:00:55.400 --> 00:00:55.410 align:start position:0%
+just substitute this with entity and my
+ 
+
+00:00:55.410 --> 00:00:57.529 align:start position:0%
+just substitute this with entity and my
+card<00:00:55.649><c> works</c><00:00:55.920><c> now</c><00:00:56.370><c> to</c><00:00:56.430><c> avoid</c><00:00:56.730><c> this</c><00:00:56.940><c> extra</c><00:00:57.329><c> line</c>
+
+00:00:57.529 --> 00:00:57.539 align:start position:0%
+card works now to avoid this extra line
+ 
+
+00:00:57.539 --> 00:00:59.689 align:start position:0%
+card works now to avoid this extra line
+what<00:00:57.780><c> I</c><00:00:57.809><c> could</c><00:00:58.050><c> also</c><00:00:58.199><c> do</c><00:00:58.530><c> is</c><00:00:58.800><c> use</c><00:00:59.039><c> my</c><00:00:59.070><c> pointer</c>
+
+00:00:59.689 --> 00:00:59.699 align:start position:0%
+what I could also do is use my pointer
+ 
+
+00:00:59.699 --> 00:01:01.610 align:start position:0%
+what I could also do is use my pointer
+but<00:01:00.270><c> surrounded</c><00:01:00.510><c> with</c><00:01:00.809><c> parentheses</c><00:01:01.379><c> and</c>
+
+00:01:01.610 --> 00:01:01.620 align:start position:0%
+but surrounded with parentheses and
+ 
+
+00:01:01.620 --> 00:01:04.039 align:start position:0%
+but surrounded with parentheses and
+dereference<00:01:02.340><c> it</c><00:01:02.550><c> like</c><00:01:02.850><c> so</c><00:01:03.149><c> now</c><00:01:03.600><c> I</c><00:01:03.629><c> can't</c><00:01:03.870><c> just</c>
+
+00:01:04.039 --> 00:01:04.049 align:start position:0%
+dereference it like so now I can't just
+ 
+
+00:01:04.049 --> 00:01:05.780 align:start position:0%
+dereference it like so now I can't just
+write<00:01:04.199><c> code</c><00:01:04.439><c> like</c><00:01:04.470><c> this</c><00:01:04.920><c> because</c><00:01:05.339><c> of</c><00:01:05.460><c> operator</c>
+
+00:01:05.780 --> 00:01:05.790 align:start position:0%
+write code like this because of operator
+ 
+
+00:01:05.790 --> 00:01:07.460 align:start position:0%
+write code like this because of operator
+precedence<00:01:06.150><c> it'll</c><00:01:06.540><c> actually</c><00:01:06.720><c> try</c><00:01:07.140><c> and</c><00:01:07.170><c> go</c><00:01:07.409><c> to</c>
+
+00:01:07.460 --> 00:01:07.470 align:start position:0%
+precedence it'll actually try and go to
+ 
+
+00:01:07.470 --> 00:01:09.950 align:start position:0%
+precedence it'll actually try and go to
+the<00:01:08.340><c> object</c><00:01:08.760><c> or</c><00:01:08.880><c> print</c><00:01:09.150><c> and</c><00:01:09.330><c> then</c><00:01:09.420><c> dereference</c>
+
+00:01:09.950 --> 00:01:09.960 align:start position:0%
+the object or print and then dereference
+ 
+
+00:01:09.960 --> 00:01:12.350 align:start position:0%
+the object or print and then dereference
+the<00:01:10.110><c> result</c><00:01:10.439><c> of</c><00:01:10.590><c> print</c><00:01:11.159><c> that's</c><00:01:11.820><c> obviously</c><00:01:12.180><c> not</c>
+
+00:01:12.350 --> 00:01:12.360 align:start position:0%
+the result of print that's obviously not
+ 
+
+00:01:12.360 --> 00:01:13.910 align:start position:0%
+the result of print that's obviously not
+going<00:01:12.510><c> to</c><00:01:12.600><c> work</c><00:01:12.689><c> so</c><00:01:12.869><c> you</c><00:01:13.170><c> have</c><00:01:13.409><c> you</c><00:01:13.710><c> have</c><00:01:13.799><c> to</c>
+
+00:01:13.910 --> 00:01:13.920 align:start position:0%
+going to work so you have you have to
+ 
+
+00:01:13.920 --> 00:01:15.469 align:start position:0%
+going to work so you have you have to
+actually<00:01:14.130><c> do</c><00:01:14.340><c> the</c><00:01:14.460><c> dereferencing</c><00:01:15.000><c> first</c><00:01:15.270><c> and</c>
+
+00:01:15.469 --> 00:01:15.479 align:start position:0%
+actually do the dereferencing first and
+ 
+
+00:01:15.479 --> 00:01:17.990 align:start position:0%
+actually do the dereferencing first and
+then<00:01:15.900><c> call</c><00:01:16.170><c> dot</c><00:01:16.350><c> print</c><00:01:16.650><c> now</c><00:01:17.040><c> this</c><00:01:17.280><c> this</c><00:01:17.939><c> is</c>
+
+00:01:17.990 --> 00:01:18.000 align:start position:0%
+then call dot print now this this is
+ 
+
+00:01:18.000 --> 00:01:21.050 align:start position:0%
+then call dot print now this this is
+okay<00:01:18.450><c> and</c><00:01:18.780><c> it</c><00:01:19.229><c> works</c><00:01:19.500><c> fine</c><00:01:19.920><c> but</c><00:01:20.610><c> it</c><00:01:20.759><c> looks</c><00:01:20.970><c> a</c>
+
+00:01:21.050 --> 00:01:21.060 align:start position:0%
+okay and it works fine but it looks a
+ 
+
+00:01:21.060 --> 00:01:23.330 align:start position:0%
+okay and it works fine but it looks a
+little<00:01:21.150><c> bit</c><00:01:21.360><c> clunky</c><00:01:21.630><c> so</c><00:01:22.439><c> what</c><00:01:23.009><c> we</c><00:01:23.100><c> can</c><00:01:23.220><c> do</c>
+
+00:01:23.330 --> 00:01:23.340 align:start position:0%
+little bit clunky so what we can do
+ 
+
+00:01:23.340 --> 00:01:24.740 align:start position:0%
+little bit clunky so what we can do
+instead<00:01:23.490><c> is</c><00:01:23.700><c> just</c><00:01:24.060><c> use</c><00:01:24.210><c> the</c><00:01:24.240><c> arrow</c><00:01:24.479><c> operator</c>
+
+00:01:24.740 --> 00:01:24.750 align:start position:0%
+instead is just use the arrow operator
+ 
+
+00:01:24.750 --> 00:01:26.840 align:start position:0%
+instead is just use the arrow operator
+instead<00:01:25.680><c> of</c><00:01:25.770><c> dereferencing</c><00:01:26.070><c> the</c><00:01:26.400><c> pointer</c><00:01:26.490><c> and</c>
+
+00:01:26.840 --> 00:01:26.850 align:start position:0%
+instead of dereferencing the pointer and
+ 
+
+00:01:26.850 --> 00:01:29.060 align:start position:0%
+instead of dereferencing the pointer and
+then<00:01:27.090><c> calling</c><00:01:27.479><c> dot</c><00:01:27.659><c> print</c><00:01:27.960><c> we</c><00:01:28.530><c> can</c><00:01:28.560><c> substitute</c>
+
+00:01:29.060 --> 00:01:29.070 align:start position:0%
+then calling dot print we can substitute
+ 
+
+00:01:29.070 --> 00:01:31.460 align:start position:0%
+then calling dot print we can substitute
+all<00:01:29.400><c> of</c><00:01:29.549><c> that</c><00:01:29.729><c> with</c><00:01:30.030><c> just</c><00:01:30.240><c> an</c><00:01:30.420><c> arrow</c><00:01:30.659><c> to</c><00:01:31.170><c> print</c>
+
+00:01:31.460 --> 00:01:31.470 align:start position:0%
+all of that with just an arrow to print
+ 
+
+00:01:31.470 --> 00:01:32.960 align:start position:0%
+all of that with just an arrow to print
+like<00:01:31.650><c> this</c><00:01:31.860><c> and</c><00:01:32.130><c> what</c><00:01:32.310><c> this</c><00:01:32.430><c> actually</c><00:01:32.640><c> does</c><00:01:32.820><c> is</c>
+
+00:01:32.960 --> 00:01:32.970 align:start position:0%
+like this and what this actually does is
+ 
+
+00:01:32.970 --> 00:01:35.840 align:start position:0%
+like this and what this actually does is
+dereference<00:01:33.720><c> that</c><00:01:33.780><c> entity</c><00:01:34.200><c> pointer</c><00:01:35.130><c> into</c><00:01:35.610><c> it</c>
+
+00:01:35.840 --> 00:01:35.850 align:start position:0%
+dereference that entity pointer into it
+ 
+
+00:01:35.850 --> 00:01:37.490 align:start position:0%
+dereference that entity pointer into it
+just<00:01:36.000><c> an</c><00:01:36.090><c> all</c><00:01:36.210><c> entity</c><00:01:36.600><c> type</c><00:01:36.780><c> and</c><00:01:37.020><c> then</c><00:01:37.229><c> calls</c>
+
+00:01:37.490 --> 00:01:37.500 align:start position:0%
+just an all entity type and then calls
+ 
+
+00:01:37.500 --> 00:01:39.289 align:start position:0%
+just an all entity type and then calls
+print<00:01:38.100><c> so</c><00:01:38.430><c> that's</c><00:01:38.610><c> pretty</c><00:01:38.759><c> much</c><00:01:38.880><c> all</c><00:01:39.090><c> there</c><00:01:39.240><c> is</c>
+
+00:01:39.289 --> 00:01:39.299 align:start position:0%
+print so that's pretty much all there is
+ 
+
+00:01:39.299 --> 00:01:41.569 align:start position:0%
+print so that's pretty much all there is
+to<00:01:39.630><c> it</c><00:01:39.750><c> it's</c><00:01:39.900><c> just</c><00:01:39.930><c> a</c><00:01:40.170><c> shortcut</c><00:01:40.710><c> for</c><00:01:41.189><c> having</c><00:01:41.490><c> it</c>
+
+00:01:41.569 --> 00:01:41.579 align:start position:0%
+to it it's just a shortcut for having it
+ 
+
+00:01:41.579 --> 00:01:43.340 align:start position:0%
+to it it's just a shortcut for having it
+for<00:01:41.759><c> us</c><00:01:41.880><c> having</c><00:01:42.150><c> to</c><00:01:42.240><c> manually</c><00:01:42.630><c> dereference</c>
+
+00:01:43.340 --> 00:01:43.350 align:start position:0%
+for us having to manually dereference
+ 
+
+00:01:43.350 --> 00:01:44.270 align:start position:0%
+for us having to manually dereference
+events<00:01:43.649><c> around</c><00:01:43.829><c> everything</c><00:01:44.159><c> with</c>
+
+00:01:44.270 --> 00:01:44.280 align:start position:0%
+events around everything with
+ 
+
+00:01:44.280 --> 00:01:46.490 align:start position:0%
+events around everything with
+parentheses<00:01:44.820><c> and</c><00:01:44.970><c> then</c><00:01:45.030><c> call</c><00:01:45.360><c> our</c><00:01:46.200><c> function</c>
+
+00:01:46.490 --> 00:01:46.500 align:start position:0%
+parentheses and then call our function
+ 
+
+00:01:46.500 --> 00:01:48.710 align:start position:0%
+parentheses and then call our function
+or<00:01:46.829><c> our</c><00:01:46.950><c> variable</c><00:01:47.729><c> as</c><00:01:47.850><c> well</c><00:01:48.030><c> instead</c><00:01:48.570><c> of</c><00:01:48.659><c> doing</c>
+
+00:01:48.710 --> 00:01:48.720 align:start position:0%
+or our variable as well instead of doing
+ 
+
+00:01:48.720 --> 00:01:50.149 align:start position:0%
+or our variable as well instead of doing
+all<00:01:48.930><c> that</c><00:01:48.960><c> we</c><00:01:49.229><c> can</c><00:01:49.350><c> just</c><00:01:49.470><c> use</c><00:01:49.590><c> an</c><00:01:49.710><c> arrow</c><00:01:49.860><c> worst</c>
+
+00:01:50.149 --> 00:01:50.159 align:start position:0%
+all that we can just use an arrow worst
+ 
+
+00:01:50.159 --> 00:01:52.160 align:start position:0%
+all that we can just use an arrow worst
+variable<00:01:50.579><c> as</c><00:01:50.640><c> well</c><00:01:50.820><c> if</c><00:01:51.240><c> I</c><00:01:51.420><c> had</c><00:01:51.600><c> some</c><00:01:51.780><c> variables</c>
+
+00:01:52.160 --> 00:01:52.170 align:start position:0%
+variable as well if I had some variables
+ 
+
+00:01:52.170 --> 00:01:54.740 align:start position:0%
+variable as well if I had some variables
+over<00:01:52.350><c> here</c><00:01:52.560><c> I'll</c><00:01:52.770><c> just</c><00:01:52.829><c> make</c><00:01:53.210><c> public</c><00:01:54.210><c> int</c><00:01:54.420><c> X</c>
+
+00:01:54.740 --> 00:01:54.750 align:start position:0%
+over here I'll just make public int X
+ 
+
+00:01:54.750 --> 00:01:57.380 align:start position:0%
+over here I'll just make public int X
+for<00:01:55.049><c> example</c><00:01:55.140><c> I</c><00:01:55.740><c> could</c><00:01:56.369><c> also</c><00:01:56.490><c> just</c><00:01:56.640><c> you</c><00:01:57.299><c> know</c>
+
+00:01:57.380 --> 00:01:57.390 align:start position:0%
+for example I could also just you know
+ 
+
+00:01:57.390 --> 00:01:59.240 align:start position:0%
+for example I could also just you know
+access<00:01:57.810><c> X</c><00:01:58.049><c> through</c><00:01:58.320><c> the</c><00:01:58.409><c> arrow</c><00:01:58.560><c> like</c><00:01:58.829><c> this</c><00:01:58.860><c> and</c>
+
+00:01:59.240 --> 00:01:59.250 align:start position:0%
+access X through the arrow like this and
+ 
+
+00:01:59.250 --> 00:02:01.010 align:start position:0%
+access X through the arrow like this and
+then<00:01:59.729><c> set</c><00:01:59.939><c> it</c><00:02:00.030><c> equal</c><00:02:00.090><c> to</c><00:02:00.270><c> whatever</c><00:02:00.479><c> I</c><00:02:00.630><c> wanted</c>
+
+00:02:01.010 --> 00:02:01.020 align:start position:0%
+then set it equal to whatever I wanted
+ 
+
+00:02:01.020 --> 00:02:02.630 align:start position:0%
+then set it equal to whatever I wanted
+to<00:02:01.140><c> like</c><00:02:01.380><c> so</c><00:02:01.560><c> okay</c><00:02:02.100><c> cool</c><00:02:02.280><c> so</c><00:02:02.399><c> that's</c><00:02:02.520><c> pretty</c>
+
+00:02:02.630 --> 00:02:02.640 align:start position:0%
+to like so okay cool so that's pretty
+ 
+
+00:02:02.640 --> 00:02:04.130 align:start position:0%
+to like so okay cool so that's pretty
+much<00:02:02.700><c> the</c><00:02:02.939><c> default</c><00:02:03.030><c> use</c><00:02:03.509><c> case</c><00:02:03.719><c> for</c><00:02:03.750><c> the</c><00:02:03.990><c> arrow</c>
+
+00:02:04.130 --> 00:02:04.140 align:start position:0%
+much the default use case for the arrow
+ 
+
+00:02:04.140 --> 00:02:05.450 align:start position:0%
+much the default use case for the arrow
+operator<00:02:04.320><c> that's</c><00:02:04.649><c> probably</c><00:02:04.979><c> how</c><00:02:05.219><c> you're</c>
+
+00:02:05.450 --> 00:02:05.460 align:start position:0%
+operator that's probably how you're
+ 
+
+00:02:05.460 --> 00:02:08.419 align:start position:0%
+operator that's probably how you're
+using<00:02:05.700><c> it</c><00:02:06.000><c> 90%</c><00:02:06.840><c> of</c><00:02:06.899><c> the</c><00:02:06.990><c> time</c><00:02:07.200><c> however</c><00:02:07.439><c> as</c><00:02:07.920><c> an</c>
+
+00:02:08.419 --> 00:02:08.429 align:start position:0%
+using it 90% of the time however as an
+ 
+
+00:02:08.429 --> 00:02:10.460 align:start position:0%
+using it 90% of the time however as an
+operator<00:02:08.879><c> in</c><00:02:09.030><c> C++</c><00:02:09.629><c> it</c><00:02:09.810><c> is</c><00:02:09.959><c> actually</c><00:02:10.289><c> possible</c>
+
+00:02:10.460 --> 00:02:10.470 align:start position:0%
+operator in C++ it is actually possible
+ 
+
+00:02:10.470 --> 00:02:12.559 align:start position:0%
+operator in C++ it is actually possible
+to<00:02:10.770><c> overload</c><00:02:11.190><c> it</c><00:02:11.250><c> and</c>
+
+00:02:12.559 --> 00:02:12.569 align:start position:0%
+to overload it and
+ 
+
+00:02:12.569 --> 00:02:14.420 align:start position:0%
+to overload it and
+use<00:02:12.840><c> it</c><00:02:13.019><c> in</c><00:02:13.170><c> your</c><00:02:13.200><c> own</c><00:02:13.439><c> custom</c><00:02:13.799><c> classes</c><00:02:14.249><c> and</c>
+
+00:02:14.420 --> 00:02:14.430 align:start position:0%
+use it in your own custom classes and
+ 
+
+00:02:14.430 --> 00:02:15.559 align:start position:0%
+use it in your own custom classes and
+I'll<00:02:14.489><c> show</c><00:02:14.640><c> you</c><00:02:14.700><c> an</c><00:02:14.819><c> example</c><00:02:14.909><c> of</c><00:02:15.329><c> why</c><00:02:15.540><c> you</c>
+
+00:02:15.559 --> 00:02:15.569 align:start position:0%
+I'll show you an example of why you
+ 
+
+00:02:15.569 --> 00:02:17.390 align:start position:0%
+I'll show you an example of why you
+might<00:02:16.019><c> want</c><00:02:16.260><c> to</c><00:02:16.319><c> do</c><00:02:16.439><c> that</c><00:02:16.469><c> and</c><00:02:16.739><c> how</c><00:02:16.889><c> you</c><00:02:16.920><c> can</c><00:02:17.280><c> do</c>
+
+00:02:17.390 --> 00:02:17.400 align:start position:0%
+might want to do that and how you can do
+ 
+
+00:02:17.400 --> 00:02:19.160 align:start position:0%
+might want to do that and how you can do
+that<00:02:17.549><c> over</c><00:02:17.849><c> here</c><00:02:18.180><c> so</c><00:02:18.389><c> suppose</c><00:02:18.840><c> that</c><00:02:18.870><c> I</c><00:02:19.049><c> was</c>
+
+00:02:19.160 --> 00:02:19.170 align:start position:0%
+that over here so suppose that I was
+ 
+
+00:02:19.170 --> 00:02:20.780 align:start position:0%
+that over here so suppose that I was
+writing<00:02:19.379><c> some</c><00:02:19.620><c> kind</c><00:02:19.799><c> of</c><00:02:19.859><c> smart</c><00:02:20.219><c> pointer</c><00:02:20.579><c> class</c>
+
+00:02:20.780 --> 00:02:20.790 align:start position:0%
+writing some kind of smart pointer class
+ 
+
+00:02:20.790 --> 00:02:23.270 align:start position:0%
+writing some kind of smart pointer class
+like<00:02:21.120><c> subscribe</c><00:02:21.540><c> to</c><00:02:21.689><c> point</c><00:02:21.930><c> up</c><00:02:22.109><c> to</c><00:02:23.010><c> keep</c><00:02:23.189><c> it</c>
+
+00:02:23.270 --> 00:02:23.280 align:start position:0%
+like subscribe to point up to keep it
+ 
+
+00:02:23.280 --> 00:02:25.039 align:start position:0%
+like subscribe to point up to keep it
+simple<00:02:23.639><c> I'm</c><00:02:23.790><c> just</c><00:02:23.849><c> going</c><00:02:24.090><c> to</c><00:02:24.180><c> have</c><00:02:24.299><c> it</c><00:02:24.329><c> have</c><00:02:24.780><c> an</c>
+
+00:02:25.039 --> 00:02:25.049 align:start position:0%
+simple I'm just going to have it have an
+ 
+
+00:02:25.049 --> 00:02:27.530 align:start position:0%
+simple I'm just going to have it have an
+entity<00:02:25.560><c> pointer</c><00:02:26.129><c> when</c><00:02:26.790><c> I</c><00:02:26.819><c> construct</c><00:02:27.329><c> this</c>
+
+00:02:27.530 --> 00:02:27.540 align:start position:0%
+entity pointer when I construct this
+ 
+
+00:02:27.540 --> 00:02:28.489 align:start position:0%
+entity pointer when I construct this
+script<00:02:27.870><c> pointer</c>
+
+00:02:28.489 --> 00:02:28.499 align:start position:0%
+script pointer
+ 
+
+00:02:28.499 --> 00:02:30.619 align:start position:0%
+script pointer
+I'm<00:02:29.129><c> going</c><00:02:29.340><c> to</c><00:02:29.430><c> take</c><00:02:29.579><c> in</c><00:02:29.760><c> an</c><00:02:29.879><c> entity</c><00:02:30.359><c> as</c><00:02:30.569><c> a</c>
+
+00:02:30.619 --> 00:02:30.629 align:start position:0%
+I'm going to take in an entity as a
+ 
+
+00:02:30.629 --> 00:02:32.990 align:start position:0%
+I'm going to take in an entity as a
+parameter<00:02:31.260><c> here</c><00:02:31.290><c> and</c><00:02:31.739><c> then</c><00:02:31.950><c> assign</c><00:02:32.219><c> it</c><00:02:32.250><c> to</c><00:02:32.579><c> my</c>
+
+00:02:32.990 --> 00:02:33.000 align:start position:0%
+parameter here and then assign it to my
+ 
+
+00:02:33.000 --> 00:02:35.030 align:start position:0%
+parameter here and then assign it to my
+object<00:02:33.389><c> in</c><00:02:33.810><c> the</c><00:02:33.989><c> destructor</c><00:02:34.409><c> I'm</c><00:02:34.739><c> going</c><00:02:34.920><c> to</c>
+
+00:02:35.030 --> 00:02:35.040 align:start position:0%
+object in the destructor I'm going to
+ 
+
+00:02:35.040 --> 00:02:38.509 align:start position:0%
+object in the destructor I'm going to
+call<00:02:35.250><c> delete</c><00:02:35.760><c> entity</c><00:02:36.450><c> or</c><00:02:36.930><c> delete</c><00:02:37.319><c> M</c><00:02:37.739><c> ulchhhh</c>
+
+00:02:38.509 --> 00:02:38.519 align:start position:0%
+call delete entity or delete M ulchhhh
+ 
+
+00:02:38.519 --> 00:02:40.159 align:start position:0%
+call delete entity or delete M ulchhhh
+and<00:02:38.760><c> so</c><00:02:39.030><c> now</c><00:02:39.150><c> I've</c><00:02:39.299><c> got</c><00:02:39.450><c> a</c><00:02:39.480><c> basically</c><00:02:39.780><c> scope</c><00:02:40.049><c> to</c>
+
+00:02:40.159 --> 00:02:40.169 align:start position:0%
+and so now I've got a basically scope to
+ 
+
+00:02:40.169 --> 00:02:41.420 align:start position:0%
+and so now I've got a basically scope to
+point<00:02:40.349><c> a</c><00:02:40.469><c> class</c><00:02:40.680><c> that</c><00:02:40.889><c> will</c><00:02:40.980><c> automatically</c>
+
+00:02:41.420 --> 00:02:41.430 align:start position:0%
+point a class that will automatically
+ 
+
+00:02:41.430 --> 00:02:43.520 align:start position:0%
+point a class that will automatically
+delete<00:02:41.730><c> my</c><00:02:41.909><c> entity</c><00:02:42.120><c> when</c><00:02:42.599><c> it</c><00:02:43.079><c> goes</c><00:02:43.349><c> out</c><00:02:43.469><c> of</c>
+
+00:02:43.520 --> 00:02:43.530 align:start position:0%
+delete my entity when it goes out of
+ 
+
+00:02:43.530 --> 00:02:45.530 align:start position:0%
+delete my entity when it goes out of
+scope<00:02:43.739><c> so</c><00:02:44.099><c> I</c><00:02:44.129><c> can</c><00:02:44.400><c> use</c><00:02:44.730><c> it</c><00:02:44.760><c> like</c><00:02:44.969><c> source</c><00:02:45.359><c> code</c>
+
+00:02:45.530 --> 00:02:45.540 align:start position:0%
+scope so I can use it like source code
+ 
+
+00:02:45.540 --> 00:02:48.110 align:start position:0%
+scope so I can use it like source code
+pointer<00:02:45.989><c> entity</c><00:02:46.859><c> equals</c><00:02:47.219><c> new</c><00:02:47.430><c> entity</c><00:02:47.879><c> and</c>
+
+00:02:48.110 --> 00:02:48.120 align:start position:0%
+pointer entity equals new entity and
+ 
+
+00:02:48.120 --> 00:02:49.879 align:start position:0%
+pointer entity equals new entity and
+that<00:02:48.299><c> looks</c><00:02:48.419><c> pretty</c><00:02:48.599><c> good</c><00:02:48.719><c> now</c><00:02:49.139><c> I</c><00:02:49.469><c> want</c><00:02:49.799><c> to</c>
+
+00:02:49.879 --> 00:02:49.889 align:start position:0%
+that looks pretty good now I want to
+ 
+
+00:02:49.889 --> 00:02:52.309 align:start position:0%
+that looks pretty good now I want to
+actually<00:02:50.489><c> be</c><00:02:50.639><c> able</c><00:02:50.879><c> to</c><00:02:51.000><c> call</c><00:02:51.299><c> this</c><00:02:51.840><c> print</c>
+
+00:02:52.309 --> 00:02:52.319 align:start position:0%
+actually be able to call this print
+ 
+
+00:02:52.319 --> 00:02:54.439 align:start position:0%
+actually be able to call this print
+function<00:02:52.739><c> or</c><00:02:52.859><c> access</c><00:02:53.250><c> this</c><00:02:53.400><c> X</c><00:02:53.639><c> variable</c><00:02:54.090><c> so</c>
+
+00:02:54.439 --> 00:02:54.449 align:start position:0%
+function or access this X variable so
+ 
+
+00:02:54.449 --> 00:02:57.020 align:start position:0%
+function or access this X variable so
+how<00:02:54.540><c> do</c><00:02:54.599><c> I</c><00:02:54.659><c> do</c><00:02:54.780><c> that</c><00:02:54.870><c> well</c><00:02:55.109><c> right</c><00:02:55.439><c> now</c><00:02:55.650><c> I</c><00:02:56.030><c> can't</c>
+
+00:02:57.020 --> 00:02:57.030 align:start position:0%
+how do I do that well right now I can't
+ 
+
+00:02:57.030 --> 00:02:59.959 align:start position:0%
+how do I do that well right now I can't
+really<00:02:57.750><c> like</c><00:02:58.019><c> I</c><00:02:58.109><c> can</c><00:02:58.260><c> use</c><00:02:58.439><c> dots</c><00:02:59.189><c> but</c><00:02:59.549><c> then</c><00:02:59.760><c> like</c>
+
+00:02:59.959 --> 00:02:59.969 align:start position:0%
+really like I can use dots but then like
+ 
+
+00:02:59.969 --> 00:03:01.970 align:start position:0%
+really like I can use dots but then like
+I<00:03:00.090><c> could</c><00:03:00.329><c> make</c><00:03:00.480><c> either</c><00:03:00.659><c> this</c><00:03:00.810><c> public</c><00:03:01.290><c> or</c><00:03:01.500><c> maybe</c>
+
+00:03:01.970 --> 00:03:01.980 align:start position:0%
+I could make either this public or maybe
+ 
+
+00:03:01.980 --> 00:03:04.670 align:start position:0%
+I could make either this public or maybe
+I<00:03:02.159><c> could</c><00:03:02.370><c> just</c><00:03:02.609><c> have</c><00:03:03.329><c> something</c><00:03:03.959><c> that</c><00:03:04.230><c> returns</c>
+
+00:03:04.670 --> 00:03:04.680 align:start position:0%
+I could just have something that returns
+ 
+
+00:03:04.680 --> 00:03:06.830 align:start position:0%
+I could just have something that returns
+an<00:03:04.889><c> entity</c><00:03:05.250><c> pointer</c><00:03:05.639><c> like</c><00:03:05.790><c> yet</c><00:03:06.120><c> object</c><00:03:06.629><c> like</c>
+
+00:03:06.830 --> 00:03:06.840 align:start position:0%
+an entity pointer like yet object like
+ 
+
+00:03:06.840 --> 00:03:09.699 align:start position:0%
+an entity pointer like yet object like
+this<00:03:07.139><c> maybe</c><00:03:07.560><c> that</c><00:03:07.799><c> will</c><00:03:07.949><c> return</c><00:03:08.280><c> my</c><00:03:08.969><c> object</c>
+
+00:03:09.699 --> 00:03:09.709 align:start position:0%
+this maybe that will return my object
+ 
+
+00:03:09.709 --> 00:03:12.890 align:start position:0%
+this maybe that will return my object
+that<00:03:10.709><c> just</c><00:03:10.919><c> looks</c><00:03:11.129><c> way</c><00:03:11.370><c> too</c><00:03:11.430><c> messy</c><00:03:11.849><c> I</c><00:03:12.239><c> want</c><00:03:12.780><c> to</c>
+
+00:03:12.890 --> 00:03:12.900 align:start position:0%
+that just looks way too messy I want to
+ 
+
+00:03:12.900 --> 00:03:14.899 align:start position:0%
+that just looks way too messy I want to
+be<00:03:13.049><c> able</c><00:03:13.199><c> to</c><00:03:13.439><c> use</c><00:03:13.680><c> it</c><00:03:13.889><c> like</c><00:03:14.159><c> a</c><00:03:14.430><c> heap-allocated</c>
+
+00:03:14.899 --> 00:03:14.909 align:start position:0%
+be able to use it like a heap-allocated
+ 
+
+00:03:14.909 --> 00:03:17.420 align:start position:0%
+be able to use it like a heap-allocated
+entity<00:03:15.719><c> right</c><00:03:16.049><c> I</c><00:03:16.079><c> want</c><00:03:16.500><c> to</c><00:03:16.590><c> be</c><00:03:16.709><c> able</c><00:03:16.889><c> to</c><00:03:17.040><c> use</c><00:03:17.280><c> it</c>
+
+00:03:17.420 --> 00:03:17.430 align:start position:0%
+entity right I want to be able to use it
+ 
+
+00:03:17.430 --> 00:03:19.339 align:start position:0%
+entity right I want to be able to use it
+as<00:03:17.519><c> if</c><00:03:17.669><c> I'd</c><00:03:17.819><c> written</c><00:03:18.000><c> code</c><00:03:18.299><c> like</c><00:03:18.419><c> this</c><00:03:18.780><c> which</c>
+
+00:03:19.339 --> 00:03:19.349 align:start position:0%
+as if I'd written code like this which
+ 
+
+00:03:19.349 --> 00:03:21.319 align:start position:0%
+as if I'd written code like this which
+would<00:03:19.500><c> mean</c><00:03:19.769><c> that</c><00:03:20.009><c> I</c><00:03:20.069><c> could</c><00:03:20.159><c> just</c><00:03:20.609><c> write</c><00:03:20.849><c> well</c>
+
+00:03:21.319 --> 00:03:21.329 align:start position:0%
+would mean that I could just write well
+ 
+
+00:03:21.329 --> 00:03:23.539 align:start position:0%
+would mean that I could just write well
+that<00:03:21.840><c> and</c><00:03:22.079><c> it</c><00:03:22.169><c> would</c><00:03:22.290><c> work</c><00:03:22.409><c> fine</c><00:03:22.709><c> I</c><00:03:22.979><c> want</c><00:03:23.430><c> to</c><00:03:23.489><c> be</c>
+
+00:03:23.539 --> 00:03:23.549 align:start position:0%
+that and it would work fine I want to be
+ 
+
+00:03:23.549 --> 00:03:25.280 align:start position:0%
+that and it would work fine I want to be
+able<00:03:23.609><c> to</c><00:03:23.699><c> just</c><00:03:23.879><c> substitute</c><00:03:24.419><c> this</c><00:03:24.689><c> and</c><00:03:24.959><c> have</c><00:03:25.139><c> it</c>
+
+00:03:25.280 --> 00:03:25.290 align:start position:0%
+able to just substitute this and have it
+ 
+
+00:03:25.290 --> 00:03:27.800 align:start position:0%
+able to just substitute this and have it
+kind<00:03:25.620><c> of</c><00:03:25.769><c> be</c><00:03:25.979><c> used</c><00:03:26.280><c> the</c><00:03:26.639><c> same</c><00:03:26.669><c> way</c><00:03:26.879><c> well</c><00:03:27.659><c> that's</c>
+
+00:03:27.800 --> 00:03:27.810 align:start position:0%
+kind of be used the same way well that's
+ 
+
+00:03:27.810 --> 00:03:28.789 align:start position:0%
+kind of be used the same way well that's
+where<00:03:27.989><c> you</c><00:03:28.079><c> can</c><00:03:28.199><c> overload</c><00:03:28.500><c> the</c><00:03:28.560><c> arrow</c>
+
+00:03:28.789 --> 00:03:28.799 align:start position:0%
+where you can overload the arrow
+ 
+
+00:03:28.799 --> 00:03:30.770 align:start position:0%
+where you can overload the arrow
+operator<00:03:29.009><c> make</c><00:03:29.459><c> it</c><00:03:29.579><c> do</c><00:03:29.699><c> that</c><00:03:29.879><c> for</c><00:03:30.090><c> you</c><00:03:30.239><c> instead</c>
+
+00:03:30.770 --> 00:03:30.780 align:start position:0%
+operator make it do that for you instead
+ 
+
+00:03:30.780 --> 00:03:32.990 align:start position:0%
+operator make it do that for you instead
+of<00:03:30.870><c> get</c><00:03:31.079><c> object</c><00:03:31.500><c> I</c><00:03:31.709><c> can</c><00:03:31.769><c> write</c><00:03:32.099><c> entity</c><00:03:32.519><c> pointer</c>
+
+00:03:32.990 --> 00:03:33.000 align:start position:0%
+of get object I can write entity pointer
+ 
+
+00:03:33.000 --> 00:03:35.990 align:start position:0%
+of get object I can write entity pointer
+operator<00:03:33.840><c> hour</c><00:03:34.250><c> with</c><00:03:35.250><c> no</c><00:03:35.400><c> parameters</c><00:03:35.879><c> like</c>
+
+00:03:35.990 --> 00:03:36.000 align:start position:0%
+operator hour with no parameters like
+ 
+
+00:03:36.000 --> 00:03:39.589 align:start position:0%
+operator hour with no parameters like
+this<00:03:36.239><c> and</c><00:03:36.540><c> then</c><00:03:37.109><c> just</c><00:03:37.139><c> return</c><00:03:37.470><c> em</c><00:03:37.979><c> all</c><00:03:38.340><c> and</c><00:03:38.729><c> you</c>
+
+00:03:39.589 --> 00:03:39.599 align:start position:0%
+this and then just return em all and you
+ 
+
+00:03:39.599 --> 00:03:41.149 align:start position:0%
+this and then just return em all and you
+can<00:03:39.750><c> see</c><00:03:39.780><c> suddenly</c><00:03:40.199><c> this</c><00:03:40.409><c> compiles</c><00:03:40.859><c> and</c><00:03:40.979><c> will</c>
+
+00:03:41.149 --> 00:03:41.159 align:start position:0%
+can see suddenly this compiles and will
+ 
+
+00:03:41.159 --> 00:03:42.080 align:start position:0%
+can see suddenly this compiles and will
+run<00:03:41.340><c> just</c><00:03:41.639><c> fine</c>
+
+00:03:42.080 --> 00:03:42.090 align:start position:0%
+run just fine
+ 
+
+00:03:42.090 --> 00:03:43.939 align:start position:0%
+run just fine
+if<00:03:42.329><c> I</c><00:03:42.419><c> hit</c><00:03:42.540><c> f5</c><00:03:42.870><c> there</c><00:03:43.409><c> you</c><00:03:43.500><c> go</c><00:03:43.620><c> you</c><00:03:43.769><c> can</c><00:03:43.919><c> see</c>
+
+00:03:43.939 --> 00:03:43.949 align:start position:0%
+if I hit f5 there you go you can see
+ 
+
+00:03:43.949 --> 00:03:45.289 align:start position:0%
+if I hit f5 there you go you can see
+that<00:03:44.099><c> it's</c><00:03:44.310><c> calling</c><00:03:44.699><c> my</c><00:03:44.819><c> function</c><00:03:45.180><c> and</c>
+
+00:03:45.289 --> 00:03:45.299 align:start position:0%
+that it's calling my function and
+ 
+
+00:03:45.299 --> 00:03:47.119 align:start position:0%
+that it's calling my function and
+printing<00:03:45.569><c> hello</c><00:03:45.689><c> now</c><00:03:46.379><c> in</c><00:03:46.560><c> the</c><00:03:46.650><c> case</c><00:03:46.829><c> of</c><00:03:47.009><c> this</c>
+
+00:03:47.119 --> 00:03:47.129 align:start position:0%
+printing hello now in the case of this
+ 
+
+00:03:47.129 --> 00:03:49.460 align:start position:0%
+printing hello now in the case of this
+being<00:03:47.340><c> Const</c><00:03:47.819><c> you</c><00:03:48.689><c> could</c><00:03:48.900><c> also</c><00:03:49.019><c> provide</c><00:03:49.439><c> a</c>
+
+00:03:49.460 --> 00:03:49.470 align:start position:0%
+being Const you could also provide a
+ 
+
+00:03:49.470 --> 00:03:51.080 align:start position:0%
+being Const you could also provide a
+constellation<00:03:49.919><c> of</c><00:03:50.189><c> this</c><00:03:50.340><c> operator</c><00:03:50.729><c> so</c><00:03:51.000><c> I'll</c>
+
+00:03:51.080 --> 00:03:51.090 align:start position:0%
+constellation of this operator so I'll
+ 
+
+00:03:51.090 --> 00:03:52.849 align:start position:0%
+constellation of this operator so I'll
+copy<00:03:51.239><c> and</c><00:03:51.389><c> paste</c><00:03:51.659><c> this</c><00:03:51.870><c> have</c><00:03:52.470><c> a</c><00:03:52.500><c> return</c><00:03:52.829><c> a</c>
+
+00:03:52.849 --> 00:03:52.859 align:start position:0%
+copy and paste this have a return a
+ 
+
+00:03:52.859 --> 00:03:54.920 align:start position:0%
+copy and paste this have a return a
+Constanta<00:03:53.519><c> T</c><00:03:53.639><c> and</c><00:03:53.790><c> Mark</c><00:03:54.000><c> the</c><00:03:54.120><c> operators</c><00:03:54.569><c> Const</c>
+
+00:03:54.920 --> 00:03:54.930 align:start position:0%
+Constanta T and Mark the operators Const
+ 
+
+00:03:54.930 --> 00:03:56.390 align:start position:0%
+Constanta T and Mark the operators Const
+like<00:03:55.109><c> this</c><00:03:55.319><c> and</c><00:03:55.560><c> that</c><00:03:55.799><c> will</c><00:03:55.919><c> now</c><00:03:56.040><c> return</c><00:03:56.340><c> a</c>
+
+00:03:56.390 --> 00:03:56.400 align:start position:0%
+like this and that will now return a
+ 
+
+00:03:56.400 --> 00:03:58.610 align:start position:0%
+like this and that will now return a
+Const<00:03:56.879><c> version</c><00:03:57.269><c> of</c><00:03:57.419><c> this</c><00:03:57.599><c> and</c><00:03:57.870><c> of</c><00:03:58.199><c> course</c><00:03:58.229><c> I've</c>
+
+00:03:58.610 --> 00:03:58.620 align:start position:0%
+Const version of this and of course I've
+ 
+
+00:03:58.620 --> 00:04:00.020 align:start position:0%
+Const version of this and of course I've
+marked<00:03:58.799><c> this</c><00:03:59.009><c> function</c><00:03:59.370><c> as</c><00:03:59.459><c> constic</c><00:03:59.909><c> it</c>
+
+00:04:00.020 --> 00:04:00.030 align:start position:0%
+marked this function as constic it
+ 
+
+00:04:00.030 --> 00:04:01.909 align:start position:0%
+marked this function as constic it
+wasn't<00:04:00.329><c> constituency</c><00:04:01.079><c> I'm</c><00:04:01.199><c> not</c><00:04:01.379><c> able</c><00:04:01.590><c> to</c><00:04:01.709><c> call</c>
+
+00:04:01.909 --> 00:04:01.919 align:start position:0%
+wasn't constituency I'm not able to call
+ 
+
+00:04:01.919 --> 00:04:03.740 align:start position:0%
+wasn't constituency I'm not able to call
+that<00:04:02.099><c> function</c><00:04:02.310><c> so</c><00:04:02.699><c> the</c><00:04:02.790><c> function</c><00:04:02.819><c> has</c><00:04:03.419><c> to</c><00:04:03.599><c> be</c>
+
+00:04:03.740 --> 00:04:03.750 align:start position:0%
+that function so the function has to be
+ 
+
+00:04:03.750 --> 00:04:05.959 align:start position:0%
+that function so the function has to be
+marked<00:04:04.049><c> as</c><00:04:04.379><c> Const</c><00:04:04.949><c> over</c><00:04:05.250><c> here</c><00:04:05.430><c> as</c><00:04:05.519><c> well</c><00:04:05.699><c> and</c>
+
+00:04:05.959 --> 00:04:05.969 align:start position:0%
+marked as Const over here as well and
+ 
+
+00:04:05.969 --> 00:04:07.729 align:start position:0%
+marked as Const over here as well and
+everything<00:04:06.269><c> basically</c><00:04:06.569><c> works</c><00:04:07.019><c> as</c><00:04:07.229><c> if</c><00:04:07.560><c> this</c>
+
+00:04:07.729 --> 00:04:07.739 align:start position:0%
+everything basically works as if this
+ 
+
+00:04:07.739 --> 00:04:11.029 align:start position:0%
+everything basically works as if this
+was<00:04:08.099><c> just</c><00:04:08.430><c> a</c><00:04:09.120><c> Const</c><00:04:09.539><c> pointer</c><00:04:09.930><c> like</c><00:04:10.259><c> that</c><00:04:10.500><c> no</c>
+
+00:04:11.029 --> 00:04:11.039 align:start position:0%
+was just a Const pointer like that no
+ 
+
+00:04:11.039 --> 00:04:13.249 align:start position:0%
+was just a Const pointer like that no
+difference<00:04:11.459><c> but</c><00:04:11.879><c> now</c><00:04:12.060><c> of</c><00:04:12.209><c> course</c><00:04:12.299><c> since</c><00:04:13.019><c> it</c><00:04:13.169><c> is</c>
+
+00:04:13.249 --> 00:04:13.259 align:start position:0%
+difference but now of course since it is
+ 
+
+00:04:13.259 --> 00:04:15.529 align:start position:0%
+difference but now of course since it is
+a<00:04:13.289><c> scoped</c><00:04:13.620><c> pointer</c><00:04:14.069><c> I</c><00:04:14.189><c> voted</c><00:04:14.519><c> the</c><00:04:14.909><c> deletion</c><00:04:15.419><c> of</c>
+
+00:04:15.529 --> 00:04:15.539 align:start position:0%
+a scoped pointer I voted the deletion of
+ 
+
+00:04:15.539 --> 00:04:18.199 align:start position:0%
+a scoped pointer I voted the deletion of
+this<00:04:16.199><c> actual</c><00:04:16.530><c> object</c><00:04:17.039><c> pretty</c><00:04:17.579><c> cool</c><00:04:17.759><c> stuff</c><00:04:18.000><c> so</c>
+
+00:04:18.199 --> 00:04:18.209 align:start position:0%
+this actual object pretty cool stuff so
+ 
+
+00:04:18.209 --> 00:04:19.580 align:start position:0%
+this actual object pretty cool stuff so
+that's<00:04:18.539><c> how</c><00:04:18.659><c> you</c><00:04:18.719><c> can</c><00:04:18.900><c> overload</c><00:04:19.259><c> the</c><00:04:19.409><c> arrow</c>
+
+00:04:19.580 --> 00:04:19.590 align:start position:0%
+that's how you can overload the arrow
+ 
+
+00:04:19.590 --> 00:04:21.800 align:start position:0%
+that's how you can overload the arrow
+operator<00:04:19.799><c> to</c><00:04:20.219><c> function</c><00:04:20.669><c> in</c><00:04:20.849><c> your</c><00:04:21.000><c> own</c><00:04:21.150><c> classes</c>
+
+00:04:21.800 --> 00:04:21.810 align:start position:0%
+operator to function in your own classes
+ 
+
+00:04:21.810 --> 00:04:23.209 align:start position:0%
+operator to function in your own classes
+it's<00:04:21.959><c> very</c><00:04:22.109><c> powerful</c><00:04:22.560><c> it's</c><00:04:22.650><c> very</c><00:04:22.800><c> useful</c>
+
+00:04:23.209 --> 00:04:23.219 align:start position:0%
+it's very powerful it's very useful
+ 
+
+00:04:23.219 --> 00:04:24.890 align:start position:0%
+it's very powerful it's very useful
+because<00:04:23.400><c> you</c><00:04:23.639><c> can</c><00:04:23.760><c> see</c><00:04:23.909><c> that</c><00:04:24.090><c> you</c><00:04:24.150><c> can</c><00:04:24.300><c> start</c>
+
+00:04:24.890 --> 00:04:24.900 align:start position:0%
+because you can see that you can start
+ 
+
+00:04:24.900 --> 00:04:25.830 align:start position:0%
+because you can see that you can start
+to<00:04:24.990><c> kind</c><00:04:25.139><c> of</c><00:04:25.229><c> define</c><00:04:25.500><c> your</c>
+
+00:04:25.830 --> 00:04:25.840 align:start position:0%
+to kind of define your
+ 
+
+00:04:25.840 --> 00:04:27.210 align:start position:0%
+to kind of define your
+constructs<00:04:26.230><c> and</c><00:04:26.500><c> urine</c><00:04:26.680><c> types</c><00:04:26.919><c> in</c><00:04:27.130><c> the</c>
+
+00:04:27.210 --> 00:04:27.220 align:start position:0%
+constructs and urine types in the
+ 
+
+00:04:27.220 --> 00:04:29.340 align:start position:0%
+constructs and urine types in the
+language<00:04:27.610><c> and</c><00:04:27.760><c> automate</c><00:04:28.120><c> things</c><00:04:28.330><c> and</c><00:04:28.660><c> it</c>
+
+00:04:29.340 --> 00:04:29.350 align:start position:0%
+language and automate things and it
+ 
+
+00:04:29.350 --> 00:04:31.650 align:start position:0%
+language and automate things and it
+looks<00:04:29.710><c> like</c><00:04:29.830><c> normal</c><00:04:30.340><c> code</c><00:04:30.550><c> which</c><00:04:30.820><c> is</c><00:04:31.000><c> exactly</c>
+
+00:04:31.650 --> 00:04:31.660 align:start position:0%
+looks like normal code which is exactly
+ 
+
+00:04:31.660 --> 00:04:33.600 align:start position:0%
+looks like normal code which is exactly
+what<00:04:31.870><c> we</c><00:04:31.960><c> want</c><00:04:32.199><c> a</c><00:04:32.440><c> lot</c><00:04:32.980><c> of</c><00:04:33.040><c> people</c><00:04:33.220><c> will</c><00:04:33.340><c> argue</c>
+
+00:04:33.600 --> 00:04:33.610 align:start position:0%
+what we want a lot of people will argue
+ 
+
+00:04:33.610 --> 00:04:35.640 align:start position:0%
+what we want a lot of people will argue
+that<00:04:33.639><c> that's</c><00:04:33.910><c> a</c><00:04:33.970><c> bit</c><00:04:34.120><c> confusing</c><00:04:34.540><c> because</c><00:04:34.810><c> yeah</c>
+
+00:04:35.640 --> 00:04:35.650 align:start position:0%
+that that's a bit confusing because yeah
+ 
+
+00:04:35.650 --> 00:04:37.050 align:start position:0%
+that that's a bit confusing because yeah
+it<00:04:35.770><c> might</c><00:04:35.949><c> look</c><00:04:36.100><c> like</c><00:04:36.160><c> normal</c><00:04:36.430><c> code</c><00:04:36.729><c> but</c><00:04:36.940><c> it's</c>
+
+00:04:37.050 --> 00:04:37.060 align:start position:0%
+it might look like normal code but it's
+ 
+
+00:04:37.060 --> 00:04:39.300 align:start position:0%
+it might look like normal code but it's
+not<00:04:37.320><c> however</c><00:04:38.320><c> I</c><00:04:38.410><c> think</c><00:04:38.560><c> that</c><00:04:38.800><c> if</c><00:04:38.979><c> you</c><00:04:39.040><c> use</c><00:04:39.160><c> it</c>
+
+00:04:39.300 --> 00:04:39.310 align:start position:0%
+not however I think that if you use it
+ 
+
+00:04:39.310 --> 00:04:40.650 align:start position:0%
+not however I think that if you use it
+properly<00:04:39.460><c> and</c><00:04:39.820><c> if</c><00:04:39.910><c> you're</c><00:04:40.030><c> sensible</c><00:04:40.419><c> about</c><00:04:40.540><c> it</c>
+
+00:04:40.650 --> 00:04:40.660 align:start position:0%
+properly and if you're sensible about it
+ 
+
+00:04:40.660 --> 00:04:42.570 align:start position:0%
+properly and if you're sensible about it
+then<00:04:40.930><c> this</c><00:04:41.380><c> this</c><00:04:41.620><c> is</c><00:04:41.740><c> actually</c><00:04:42.010><c> really</c><00:04:42.130><c> useful</c>
+
+00:04:42.570 --> 00:04:42.580 align:start position:0%
+then this this is actually really useful
+ 
+
+00:04:42.580 --> 00:04:44.189 align:start position:0%
+then this this is actually really useful
+and<00:04:42.669><c> can</c><00:04:42.790><c> help</c><00:04:43.030><c> keep</c><00:04:43.270><c> your</c><00:04:43.419><c> code</c><00:04:43.630><c> really</c><00:04:43.960><c> clean</c>
+
+00:04:44.189 --> 00:04:44.199 align:start position:0%
+and can help keep your code really clean
+ 
+
+00:04:44.199 --> 00:04:45.300 align:start position:0%
+and can help keep your code really clean
+so<00:04:44.380><c> fun</c><00:04:44.530><c> I'm</c><00:04:44.650><c> going</c><00:04:44.770><c> to</c><00:04:44.830><c> show</c><00:04:44.949><c> you</c><00:04:44.979><c> one</c><00:04:45.280><c> more</c>
+
+00:04:45.300 --> 00:04:45.310 align:start position:0%
+so fun I'm going to show you one more
+ 
+
+00:04:45.310 --> 00:04:46.770 align:start position:0%
+so fun I'm going to show you one more
+way<00:04:45.460><c> how</c><00:04:45.790><c> we</c><00:04:45.850><c> can</c><00:04:46.030><c> actually</c><00:04:46.120><c> use</c><00:04:46.270><c> the</c><00:04:46.570><c> arrow</c>
+
+00:04:46.770 --> 00:04:46.780 align:start position:0%
+way how we can actually use the arrow
+ 
+
+00:04:46.780 --> 00:04:49.200 align:start position:0%
+way how we can actually use the arrow
+operator<00:04:47.020><c> to</c><00:04:47.800><c> get</c><00:04:47.949><c> the</c><00:04:48.040><c> offset</c><00:04:48.580><c> of</c><00:04:48.790><c> a</c><00:04:48.820><c> certain</c>
+
+00:04:49.200 --> 00:04:49.210 align:start position:0%
+operator to get the offset of a certain
+ 
+
+00:04:49.210 --> 00:04:51.120 align:start position:0%
+operator to get the offset of a certain
+member<00:04:49.449><c> variable</c><00:04:50.080><c> in</c><00:04:50.260><c> memory</c><00:04:50.710><c> so</c><00:04:50.889><c> this</c><00:04:51.010><c> is</c>
+
+00:04:51.120 --> 00:04:51.130 align:start position:0%
+member variable in memory so this is
+ 
+
+00:04:51.130 --> 00:04:52.710 align:start position:0%
+member variable in memory so this is
+kind<00:04:51.250><c> of</c><00:04:51.280><c> like</c><00:04:51.400><c> a</c><00:04:51.430><c> little</c><00:04:51.699><c> bonus</c><00:04:52.270><c> segment</c><00:04:52.479><c> I</c>
+
+00:04:52.710 --> 00:04:52.720 align:start position:0%
+kind of like a little bonus segment I
+ 
+
+00:04:52.720 --> 00:04:54.180 align:start position:0%
+kind of like a little bonus segment I
+guess<00:04:52.900><c> of</c><00:04:53.020><c> this</c><00:04:53.139><c> episode</c><00:04:53.530><c> but</c><00:04:53.680><c> it</c><00:04:53.770><c> has</c><00:04:53.919><c> to</c><00:04:54.040><c> do</c>
+
+00:04:54.180 --> 00:04:54.190 align:start position:0%
+guess of this episode but it has to do
+ 
+
+00:04:54.190 --> 00:04:55.980 align:start position:0%
+guess of this episode but it has to do
+with<00:04:54.280><c> the</c><00:04:54.400><c> arrow</c><00:04:54.550><c> operator</c><00:04:54.699><c> soil</c><00:04:55.210><c> I'll</c><00:04:55.690><c> put</c><00:04:55.900><c> it</c>
+
+00:04:55.980 --> 00:04:55.990 align:start position:0%
+with the arrow operator soil I'll put it
+ 
+
+00:04:55.990 --> 00:04:58.440 align:start position:0%
+with the arrow operator soil I'll put it
+in<00:04:56.080><c> let's</c><00:04:56.800><c> just</c><00:04:56.949><c> say</c><00:04:57.040><c> that</c><00:04:57.190><c> we</c><00:04:57.310><c> have</c><00:04:57.580><c> a</c><00:04:57.910><c> struct</c>
+
+00:04:58.440 --> 00:04:58.450 align:start position:0%
+in let's just say that we have a struct
+ 
+
+00:04:58.450 --> 00:05:02.580 align:start position:0%
+in let's just say that we have a struct
+here<00:04:58.690><c> maybe</c><00:04:59.310><c> called</c><00:05:00.310><c> vector</c><00:05:00.820><c> 3</c><00:05:01.500><c> and</c><00:05:02.500><c> we</c>
+
+00:05:02.580 --> 00:05:02.590 align:start position:0%
+here maybe called vector 3 and we
+ 
+
+00:05:02.590 --> 00:05:04.170 align:start position:0%
+here maybe called vector 3 and we
+basically<00:05:02.770><c> just</c><00:05:02.979><c> have</c><00:05:03.280><c> a</c><00:05:03.310><c> 3</c><00:05:03.580><c> in</c><00:05:03.729><c> front</c><00:05:03.760><c> of</c><00:05:04.030><c> back</c>
+
+00:05:04.170 --> 00:05:04.180 align:start position:0%
+basically just have a 3 in front of back
+ 
+
+00:05:04.180 --> 00:05:06.180 align:start position:0%
+basically just have a 3 in front of back
+to<00:05:04.330><c> float</c><00:05:04.510><c> X</c><00:05:04.660><c> Y</c><00:05:04.870><c> Z</c><00:05:04.930><c> like</c><00:05:05.260><c> this</c><00:05:05.470><c> now</c><00:05:05.860><c> suppose</c>
+
+00:05:06.180 --> 00:05:06.190 align:start position:0%
+to float X Y Z like this now suppose
+ 
+
+00:05:06.190 --> 00:05:08.219 align:start position:0%
+to float X Y Z like this now suppose
+that<00:05:06.220><c> I</c><00:05:06.430><c> actually</c><00:05:06.610><c> wanted</c><00:05:07.150><c> to</c><00:05:07.300><c> find</c><00:05:07.660><c> out</c><00:05:07.870><c> what</c>
+
+00:05:08.219 --> 00:05:08.229 align:start position:0%
+that I actually wanted to find out what
+ 
+
+00:05:08.229 --> 00:05:10.800 align:start position:0%
+that I actually wanted to find out what
+the<00:05:08.380><c> offset</c><00:05:08.979><c> of</c><00:05:09.160><c> this</c><00:05:09.700><c> Y</c><00:05:09.970><c> variable</c><00:05:10.510><c> was</c><00:05:10.660><c> in</c>
+
+00:05:10.800 --> 00:05:10.810 align:start position:0%
+the offset of this Y variable was in
+ 
+
+00:05:10.810 --> 00:05:12.510 align:start position:0%
+the offset of this Y variable was in
+memory<00:05:11.139><c> so</c><00:05:11.350><c> we</c><00:05:11.500><c> know</c><00:05:11.650><c> that</c><00:05:11.860><c> this</c><00:05:11.950><c> struct</c><00:05:12.310><c> is</c>
+
+00:05:12.510 --> 00:05:12.520 align:start position:0%
+memory so we know that this struct is
+ 
+
+00:05:12.520 --> 00:05:14.430 align:start position:0%
+memory so we know that this struct is
+structured<00:05:13.210><c> out</c><00:05:13.450><c> of</c><00:05:13.570><c> floats</c><00:05:13.900><c> of</c><00:05:14.080><c> course</c><00:05:14.320><c> so</c>
+
+00:05:14.430 --> 00:05:14.440 align:start position:0%
+structured out of floats of course so
+ 
+
+00:05:14.440 --> 00:05:16.950 align:start position:0%
+structured out of floats of course so
+it's<00:05:14.590><c> got</c><00:05:14.710><c> float</c><00:05:14.979><c> X</c><00:05:15.160><c> Y</c><00:05:15.550><c> and</c><00:05:15.850><c> said</c><00:05:16.180><c> each</c><00:05:16.630><c> float</c>
+
+00:05:16.950 --> 00:05:16.960 align:start position:0%
+it's got float X Y and said each float
+ 
+
+00:05:16.960 --> 00:05:19.290 align:start position:0%
+it's got float X Y and said each float
+is<00:05:17.080><c> 4</c><00:05:17.260><c> bytes</c><00:05:17.470><c> so</c><00:05:18.070><c> the</c><00:05:18.400><c> offset</c><00:05:18.729><c> of</c><00:05:18.820><c> X</c><00:05:18.970><c> is</c><00:05:19.120><c> going</c>
+
+00:05:19.290 --> 00:05:19.300 align:start position:0%
+is 4 bytes so the offset of X is going
+ 
+
+00:05:19.300 --> 00:05:20.790 align:start position:0%
+is 4 bytes so the offset of X is going
+to<00:05:19.389><c> be</c><00:05:19.479><c> 0</c><00:05:19.780><c> it's</c><00:05:19.990><c> the</c><00:05:20.110><c> first</c><00:05:20.380><c> thing</c><00:05:20.620><c> in</c><00:05:20.740><c> the</c>
+
+00:05:20.790 --> 00:05:20.800 align:start position:0%
+to be 0 it's the first thing in the
+ 
+
+00:05:20.800 --> 00:05:23.219 align:start position:0%
+to be 0 it's the first thing in the
+struct<00:05:21.130><c> Y</c><00:05:21.610><c> is</c><00:05:21.669><c> going</c><00:05:21.880><c> to</c><00:05:22.000><c> be</c><00:05:22.120><c> 4</c><00:05:22.450><c> because</c><00:05:22.810><c> it's</c><00:05:22.960><c> 4</c>
+
+00:05:23.219 --> 00:05:23.229 align:start position:0%
+struct Y is going to be 4 because it's 4
+ 
+
+00:05:23.229 --> 00:05:24.960 align:start position:0%
+struct Y is going to be 4 because it's 4
+bytes<00:05:23.440><c> into</c><00:05:23.740><c> the</c><00:05:23.949><c> struct</c><00:05:24.250><c> and</c><00:05:24.490><c> then</c><00:05:24.699><c> finally</c>
+
+00:05:24.960 --> 00:05:24.970 align:start position:0%
+bytes into the struct and then finally
+ 
+
+00:05:24.970 --> 00:05:27.480 align:start position:0%
+bytes into the struct and then finally
+set<00:05:25.150><c> is</c><00:05:25.240><c> going</c><00:05:25.419><c> to</c><00:05:25.510><c> be</c><00:05:25.600><c> 8</c><00:05:25.780><c> bytes</c><00:05:26.050><c> but</c><00:05:26.800><c> what</c>
+
+00:05:27.480 --> 00:05:27.490 align:start position:0%
+set is going to be 8 bytes but what
+ 
+
+00:05:27.490 --> 00:05:29.779 align:start position:0%
+set is going to be 8 bytes but what
+happens<00:05:27.760><c> if</c><00:05:27.850><c> I</c><00:05:27.970><c> suddenly</c><00:05:28.300><c> move</c><00:05:28.720><c> this</c><00:05:29.020><c> around</c>
+
+00:05:29.779 --> 00:05:29.789 align:start position:0%
+happens if I suddenly move this around
+ 
+
+00:05:29.789 --> 00:05:33.180 align:start position:0%
+happens if I suddenly move this around
+then<00:05:30.789><c> well</c><00:05:31.539><c> the</c><00:05:32.229><c> class</c><00:05:32.560><c> is</c><00:05:32.740><c> gonna</c><00:05:32.889><c> work</c><00:05:33.039><c> the</c>
+
+00:05:33.180 --> 00:05:33.190 align:start position:0%
+then well the class is gonna work the
+ 
+
+00:05:33.190 --> 00:05:35.820 align:start position:0%
+then well the class is gonna work the
+same<00:05:33.370><c> way</c><00:05:33.550><c> but</c><00:05:34.300><c> they're</c><00:05:35.139><c> going</c><00:05:35.320><c> it's</c><00:05:35.560><c> going</c><00:05:35.740><c> to</c>
+
+00:05:35.820 --> 00:05:35.830 align:start position:0%
+same way but they're going it's going to
+ 
+
+00:05:35.830 --> 00:05:37.409 align:start position:0%
+same way but they're going it's going to
+have<00:05:35.919><c> a</c><00:05:35.950><c> different</c><00:05:36.190><c> layout</c><00:05:36.310><c> in</c><00:05:36.580><c> memory</c><00:05:36.910><c> so</c>
+
+00:05:37.409 --> 00:05:37.419 align:start position:0%
+have a different layout in memory so
+ 
+
+00:05:37.419 --> 00:05:39.150 align:start position:0%
+have a different layout in memory so
+maybe<00:05:37.600><c> I</c><00:05:37.690><c> want</c><00:05:37.990><c> to</c><00:05:38.050><c> write</c><00:05:38.320><c> something</c><00:05:38.650><c> for</c>
+
+00:05:39.150 --> 00:05:39.160 align:start position:0%
+maybe I want to write something for
+ 
+
+00:05:39.160 --> 00:05:41.430 align:start position:0%
+maybe I want to write something for
+myself<00:05:39.580><c> that</c><00:05:39.789><c> actually</c><00:05:40.120><c> tells</c><00:05:40.570><c> me</c><00:05:40.750><c> the</c><00:05:40.900><c> offset</c>
+
+00:05:41.430 --> 00:05:41.440 align:start position:0%
+myself that actually tells me the offset
+ 
+
+00:05:41.440 --> 00:05:43.920 align:start position:0%
+myself that actually tells me the offset
+of<00:05:41.650><c> each</c><00:05:42.430><c> of</c><00:05:42.610><c> these</c><00:05:42.760><c> members</c><00:05:43.240><c> and</c><00:05:43.570><c> I</c><00:05:43.660><c> can</c><00:05:43.810><c> do</c>
+
+00:05:43.920 --> 00:05:43.930 align:start position:0%
+of each of these members and I can do
+ 
+
+00:05:43.930 --> 00:05:45.150 align:start position:0%
+of each of these members and I can do
+something<00:05:44.289><c> like</c><00:05:44.410><c> that</c><00:05:44.560><c> using</c><00:05:44.889><c> the</c><00:05:44.979><c> arrow</c>
+
+00:05:45.150 --> 00:05:45.160 align:start position:0%
+something like that using the arrow
+ 
+
+00:05:45.160 --> 00:05:47.219 align:start position:0%
+something like that using the arrow
+operator<00:05:45.370><c> so</c><00:05:46.000><c> what</c><00:05:46.150><c> I</c><00:05:46.180><c> want</c><00:05:46.450><c> to</c><00:05:46.539><c> do</c><00:05:46.660><c> is</c><00:05:46.780><c> kind</c><00:05:47.050><c> of</c>
+
+00:05:47.219 --> 00:05:47.229 align:start position:0%
+operator so what I want to do is kind of
+ 
+
+00:05:47.229 --> 00:05:50.879 align:start position:0%
+operator so what I want to do is kind of
+access<00:05:48.220><c> these</c><00:05:48.669><c> variables</c><00:05:49.389><c> but</c><00:05:50.320><c> instead</c><00:05:50.740><c> of</c>
+
+00:05:50.879 --> 00:05:50.889 align:start position:0%
+access these variables but instead of
+ 
+
+00:05:50.889 --> 00:05:52.740 align:start position:0%
+access these variables but instead of
+from<00:05:51.070><c> a</c><00:05:51.160><c> valid</c><00:05:51.520><c> memory</c><00:05:51.820><c> address</c><00:05:52.090><c> just</c><00:05:52.330><c> from</c><00:05:52.479><c> 0</c>
+
+00:05:52.740 --> 00:05:52.750 align:start position:0%
+from a valid memory address just from 0
+ 
+
+00:05:52.750 --> 00:05:54.420 align:start position:0%
+from a valid memory address just from 0
+so<00:05:53.229><c> this</c><00:05:53.650><c> is</c><00:05:53.740><c> kind</c><00:05:53.889><c> of</c><00:05:53.919><c> hard</c><00:05:54.010><c> to</c><00:05:54.099><c> explain</c><00:05:54.220><c> but</c>
+
+00:05:54.420 --> 00:05:54.430 align:start position:0%
+so this is kind of hard to explain but
+ 
+
+00:05:54.430 --> 00:05:55.920 align:start position:0%
+so this is kind of hard to explain but
+if<00:05:54.639><c> I'll</c><00:05:54.880><c> but</c><00:05:55.240><c> I'll</c><00:05:55.330><c> show</c><00:05:55.479><c> you</c><00:05:55.539><c> what</c><00:05:55.690><c> I</c><00:05:55.720><c> mean</c>
+
+00:05:55.920 --> 00:05:55.930 align:start position:0%
+if I'll but I'll show you what I mean
+ 
+
+00:05:55.930 --> 00:05:58.080 align:start position:0%
+if I'll but I'll show you what I mean
+I'm<00:05:56.110><c> literally</c><00:05:56.410><c> going</c><00:05:56.620><c> to</c><00:05:56.710><c> write</c><00:05:56.830><c> 0</c><00:05:57.250><c> and</c><00:05:57.490><c> then</c>
+
+00:05:58.080 --> 00:05:58.090 align:start position:0%
+I'm literally going to write 0 and then
+ 
+
+00:05:58.090 --> 00:06:01.620 align:start position:0%
+I'm literally going to write 0 and then
+cost<00:05:58.360><c> this</c><00:05:58.599><c> into</c><00:05:58.990><c> a</c><00:05:59.020><c> vector</c><00:05:59.470><c> 3</c><00:05:59.800><c> pointer</c><00:06:00.630><c> like</c>
+
+00:06:01.620 --> 00:06:01.630 align:start position:0%
+cost this into a vector 3 pointer like
+ 
+
+00:06:01.630 --> 00:06:06.330 align:start position:0%
+cost this into a vector 3 pointer like
+so<00:06:01.930><c> and</c><00:06:03.240><c> then</c><00:06:04.240><c> use</c><00:06:04.630><c> the</c><00:06:04.780><c> arrow</c><00:06:04.990><c> to</c><00:06:05.680><c> access</c><00:06:05.830><c> X</c>
+
+00:06:06.330 --> 00:06:06.340 align:start position:0%
+so and then use the arrow to access X
+ 
+
+00:06:06.340 --> 00:06:08.310 align:start position:0%
+so and then use the arrow to access X
+and<00:06:06.700><c> this</c><00:06:06.940><c> is</c><00:06:07.090><c> going</c><00:06:07.270><c> to</c><00:06:07.450><c> give</c><00:06:07.599><c> me</c><00:06:07.780><c> this</c><00:06:08.169><c> is</c>
+
+00:06:08.310 --> 00:06:08.320 align:start position:0%
+and this is going to give me this is
+ 
+
+00:06:08.320 --> 00:06:09.600 align:start position:0%
+and this is going to give me this is
+going<00:06:08.470><c> to</c><00:06:08.560><c> try</c><00:06:08.770><c> and</c><00:06:08.919><c> give</c><00:06:09.039><c> me</c><00:06:09.160><c> some</c><00:06:09.340><c> kind</c><00:06:09.460><c> of</c>
+
+00:06:09.600 --> 00:06:09.610 align:start position:0%
+going to try and give me some kind of
+ 
+
+00:06:09.610 --> 00:06:11.250 align:start position:0%
+going to try and give me some kind of
+piece<00:06:09.789><c> of</c><00:06:09.940><c> invalid</c><00:06:10.240><c> memory</c><00:06:10.389><c> but</c><00:06:11.020><c> what</c><00:06:11.169><c> I'm</c>
+
+00:06:11.250 --> 00:06:11.260 align:start position:0%
+piece of invalid memory but what I'm
+ 
+
+00:06:11.260 --> 00:06:13.350 align:start position:0%
+piece of invalid memory but what I'm
+going<00:06:11.470><c> to</c><00:06:11.590><c> do</c><00:06:11.800><c> is</c><00:06:12.039><c> actually</c><00:06:12.250><c> take</c><00:06:12.669><c> the</c><00:06:13.030><c> memory</c>
+
+00:06:13.350 --> 00:06:13.360 align:start position:0%
+going to do is actually take the memory
+ 
+
+00:06:13.360 --> 00:06:15.600 align:start position:0%
+going to do is actually take the memory
+address<00:06:13.660><c> of</c><00:06:13.840><c> that</c><00:06:13.930><c> X</c><00:06:14.470><c> so</c><00:06:15.070><c> now</c><00:06:15.250><c> what</c><00:06:15.460><c> I'm</c><00:06:15.580><c> doing</c>
+
+00:06:15.600 --> 00:06:15.610 align:start position:0%
+address of that X so now what I'm doing
+ 
+
+00:06:15.610 --> 00:06:18.420 align:start position:0%
+address of that X so now what I'm doing
+is<00:06:16.110><c> basically</c><00:06:17.110><c> getting</c><00:06:17.380><c> the</c><00:06:17.560><c> offset</c><00:06:18.039><c> of</c><00:06:18.220><c> that</c>
+
+00:06:18.420 --> 00:06:18.430 align:start position:0%
+is basically getting the offset of that
+ 
+
+00:06:18.430 --> 00:06:19.950 align:start position:0%
+is basically getting the offset of that
+X<00:06:18.580><c> because</c><00:06:18.789><c> I'm</c><00:06:18.910><c> starting</c><00:06:19.210><c> at</c><00:06:19.300><c> 0</c><00:06:19.570><c> this</c><00:06:19.810><c> could</c>
+
+00:06:19.950 --> 00:06:19.960 align:start position:0%
+X because I'm starting at 0 this could
+ 
+
+00:06:19.960 --> 00:06:21.450 align:start position:0%
+X because I'm starting at 0 this could
+also<00:06:20.080><c> be</c><00:06:20.200><c> written</c><00:06:20.470><c> as</c><00:06:20.680><c> null</c><00:06:20.889><c> pointed</c><00:06:21.310><c> by</c><00:06:21.400><c> the</c>
+
+00:06:21.450 --> 00:06:21.460 align:start position:0%
+also be written as null pointed by the
+ 
+
+00:06:21.460 --> 00:06:23.460 align:start position:0%
+also be written as null pointed by the
+way<00:06:21.639><c> and</c><00:06:21.880><c> if</c><00:06:22.270><c> I</c><00:06:22.360><c> finally</c><00:06:22.750><c> take</c><00:06:22.990><c> that</c><00:06:23.020><c> and</c><00:06:23.380><c> just</c>
+
+00:06:23.460 --> 00:06:23.470 align:start position:0%
+way and if I finally take that and just
+ 
+
+00:06:23.470 --> 00:06:25.920 align:start position:0%
+way and if I finally take that and just
+cost<00:06:23.710><c> it</c><00:06:23.919><c> to</c><00:06:24.039><c> a</c><00:06:24.070><c> regular</c><00:06:24.400><c> integer</c><00:06:25.150><c> and</c><00:06:25.389><c> write</c>
+
+00:06:25.920 --> 00:06:25.930 align:start position:0%
+cost it to a regular integer and write
+ 
+
+00:06:25.930 --> 00:06:32.460 align:start position:0%
+cost it to a regular integer and write
+offset<00:06:26.349><c> over</c><00:06:26.380><c> here</c><00:06:26.800><c> I'll</c><00:06:27.039><c> print</c><00:06:27.849><c> that</c>
+
+00:06:32.460 --> 00:06:32.470 align:start position:0%
+ 
+ 
+
+00:06:32.470 --> 00:06:36.279 align:start position:0%
+ 
+and<00:06:33.470><c> I'll</c><00:06:34.430><c> hit</c><00:06:34.580><c> up</c><00:06:34.699><c> five</c><00:06:34.970><c> you</c><00:06:35.419><c> can</c><00:06:35.569><c> see</c><00:06:35.750><c> it</c>
+
+00:06:36.279 --> 00:06:36.289 align:start position:0%
+and I'll hit up five you can see it
+ 
+
+00:06:36.289 --> 00:06:38.529 align:start position:0%
+and I'll hit up five you can see it
+gives<00:06:36.470><c> me</c><00:06:36.620><c> zero</c><00:06:36.889><c> so</c><00:06:37.639><c> what</c><00:06:37.759><c> I'll</c><00:06:37.879><c> do</c><00:06:38.000><c> next</c><00:06:38.180><c> is</c>
+
+00:06:38.529 --> 00:06:38.539 align:start position:0%
+gives me zero so what I'll do next is
+ 
+
+00:06:38.539 --> 00:06:40.510 align:start position:0%
+gives me zero so what I'll do next is
+I'll<00:06:38.659><c> change</c><00:06:38.900><c> this</c><00:06:39.050><c> to</c><00:06:39.229><c> be</c><00:06:39.349><c> Y</c><00:06:39.530><c> and</c><00:06:39.830><c> check</c><00:06:40.400><c> out</c>
+
+00:06:40.510 --> 00:06:40.520 align:start position:0%
+I'll change this to be Y and check out
+ 
+
+00:06:40.520 --> 00:06:42.399 align:start position:0%
+I'll change this to be Y and check out
+what<00:06:40.669><c> that</c><00:06:40.789><c> looks</c><00:06:40.970><c> like</c><00:06:41.030><c> for</c><00:06:41.569><c> that</c><00:06:42.110><c> seems</c>
+
+00:06:42.399 --> 00:06:42.409 align:start position:0%
+what that looks like for that seems
+ 
+
+00:06:42.409 --> 00:06:44.020 align:start position:0%
+what that looks like for that seems
+right<00:06:42.620><c> and</c><00:06:42.889><c> then</c><00:06:43.220><c> I'll</c><00:06:43.310><c> change</c><00:06:43.430><c> it</c><00:06:43.580><c> to</c><00:06:43.610><c> Zed</c><00:06:43.849><c> and</c>
+
+00:06:44.020 --> 00:06:44.030 align:start position:0%
+right and then I'll change it to Zed and
+ 
+
+00:06:44.030 --> 00:06:45.520 align:start position:0%
+right and then I'll change it to Zed and
+of<00:06:44.090><c> course</c><00:06:44.240><c> the</c><00:06:44.360><c> value</c><00:06:44.629><c> should</c><00:06:44.690><c> be</c><00:06:44.870><c> eight</c><00:06:45.229><c> and</c>
+
+00:06:45.520 --> 00:06:45.530 align:start position:0%
+of course the value should be eight and
+ 
+
+00:06:45.530 --> 00:06:47.439 align:start position:0%
+of course the value should be eight and
+you<00:06:45.889><c> can</c><00:06:46.009><c> see</c><00:06:46.159><c> that</c><00:06:46.340><c> it</c><00:06:46.430><c> is</c><00:06:46.460><c> so</c><00:06:47.120><c> what</c><00:06:47.300><c> we've</c>
+
+00:06:47.439 --> 00:06:47.449 align:start position:0%
+you can see that it is so what we've
+ 
+
+00:06:47.449 --> 00:06:48.550 align:start position:0%
+you can see that it is so what we've
+done<00:06:47.599><c> here</c><00:06:47.659><c> is</c><00:06:47.900><c> we've</c><00:06:48.050><c> used</c><00:06:48.080><c> the</c><00:06:48.379><c> arrow</c>
+
+00:06:48.550 --> 00:06:48.560 align:start position:0%
+done here is we've used the arrow
+ 
+
+00:06:48.560 --> 00:06:51.040 align:start position:0%
+done here is we've used the arrow
+operator<00:06:48.860><c> to</c><00:06:49.639><c> basically</c><00:06:50.060><c> get</c><00:06:50.240><c> the</c><00:06:50.389><c> offset</c><00:06:50.900><c> of</c>
+
+00:06:51.040 --> 00:06:51.050 align:start position:0%
+operator to basically get the offset of
+ 
+
+00:06:51.050 --> 00:06:52.689 align:start position:0%
+operator to basically get the offset of
+a<00:06:51.139><c> certain</c><00:06:51.440><c> value</c><00:06:51.620><c> in</c><00:06:52.039><c> memory</c>
+
+00:06:52.689 --> 00:06:52.699 align:start position:0%
+a certain value in memory
+ 
+
+00:06:52.699 --> 00:06:54.279 align:start position:0%
+a certain value in memory
+pretty<00:06:52.940><c> cool</c><00:06:53.090><c> stuff</c><00:06:53.210><c> and</c><00:06:53.599><c> this</c><00:06:53.840><c> is</c><00:06:53.960><c> actually</c>
+
+00:06:54.279 --> 00:06:54.289 align:start position:0%
+pretty cool stuff and this is actually
+ 
+
+00:06:54.289 --> 00:06:55.899 align:start position:0%
+pretty cool stuff and this is actually
+very<00:06:54.530><c> useful</c><00:06:54.770><c> for</c><00:06:55.099><c> when</c><00:06:55.129><c> you're</c><00:06:55.310><c> serializing</c>
+
+00:06:55.899 --> 00:06:55.909 align:start position:0%
+very useful for when you're serializing
+ 
+
+00:06:55.909 --> 00:06:57.610 align:start position:0%
+very useful for when you're serializing
+data<00:06:56.150><c> into</c><00:06:56.419><c> like</c><00:06:56.539><c> a</c><00:06:56.569><c> stream</c><00:06:56.870><c> of</c><00:06:56.990><c> bytes</c><00:06:57.199><c> and</c><00:06:57.560><c> you</c>
+
+00:06:57.610 --> 00:06:57.620 align:start position:0%
+data into like a stream of bytes and you
+ 
+
+00:06:57.620 --> 00:06:59.200 align:start position:0%
+data into like a stream of bytes and you
+want<00:06:57.830><c> to</c><00:06:57.889><c> figure</c><00:06:58.099><c> out</c><00:06:58.220><c> offsets</c><00:06:58.729><c> of</c><00:06:58.879><c> certain</c>
+
+00:06:59.200 --> 00:06:59.210 align:start position:0%
+want to figure out offsets of certain
+ 
+
+00:06:59.210 --> 00:07:01.270 align:start position:0%
+want to figure out offsets of certain
+things<00:06:59.569><c> and</c><00:06:59.900><c> we'll</c><00:07:00.470><c> kind</c><00:07:00.650><c> of</c><00:07:00.710><c> get</c><00:07:00.860><c> into</c><00:07:01.039><c> this</c>
+
+00:07:01.270 --> 00:07:01.280 align:start position:0%
+things and we'll kind of get into this
+ 
+
+00:07:01.280 --> 00:07:03.249 align:start position:0%
+things and we'll kind of get into this
+kind<00:07:01.580><c> of</c><00:07:01.669><c> exciting</c><00:07:02.449><c> code</c><00:07:02.629><c> when</c><00:07:02.870><c> we</c><00:07:02.990><c> start</c>
+
+00:07:03.249 --> 00:07:03.259 align:start position:0%
+kind of exciting code when we start
+ 
+
+00:07:03.259 --> 00:07:04.899 align:start position:0%
+kind of exciting code when we start
+doing<00:07:03.440><c> the</c><00:07:03.770><c> graphics</c><00:07:04.069><c> programming</c><00:07:04.430><c> series</c>
+
+00:07:04.899 --> 00:07:04.909 align:start position:0%
+doing the graphics programming series
+ 
+
+00:07:04.909 --> 00:07:06.430 align:start position:0%
+doing the graphics programming series
+and<00:07:05.120><c> the</c><00:07:05.180><c> game</c><00:07:05.360><c> engine</c><00:07:05.569><c> series</c><00:07:05.990><c> and</c><00:07:06.110><c> all</c><00:07:06.199><c> that</c>
+
+00:07:06.430 --> 00:07:06.440 align:start position:0%
+and the game engine series and all that
+ 
+
+00:07:06.440 --> 00:07:07.869 align:start position:0%
+and the game engine series and all that
+because<00:07:06.889><c> we'll</c><00:07:07.219><c> be</c><00:07:07.340><c> kind</c><00:07:07.490><c> of</c><00:07:07.580><c> dealing</c><00:07:07.849><c> with</c>
+
+00:07:07.869 --> 00:07:07.879 align:start position:0%
+because we'll be kind of dealing with
+ 
+
+00:07:07.879 --> 00:07:10.089 align:start position:0%
+because we'll be kind of dealing with
+streams<00:07:08.270><c> of</c><00:07:08.479><c> bytes</c><00:07:08.629><c> all</c><00:07:09.020><c> the</c><00:07:09.139><c> time</c><00:07:09.349><c> anyway</c><00:07:10.009><c> I</c>
+
+00:07:10.089 --> 00:07:10.099 align:start position:0%
+streams of bytes all the time anyway I
+ 
+
+00:07:10.099 --> 00:07:11.379 align:start position:0%
+streams of bytes all the time anyway I
+hope<00:07:10.159><c> you</c><00:07:10.280><c> guys</c><00:07:10.400><c> enjoyed</c><00:07:10.639><c> this</c><00:07:10.699><c> episode</c><00:07:10.879><c> if</c>
+
+00:07:11.379 --> 00:07:11.389 align:start position:0%
+hope you guys enjoyed this episode if
+ 
+
+00:07:11.389 --> 00:07:13.119 align:start position:0%
+hope you guys enjoyed this episode if
+you<00:07:11.629><c> did</c><00:07:11.810><c> and</c><00:07:11.960><c> you</c><00:07:11.990><c> hit</c><00:07:12.319><c> the</c><00:07:12.409><c> like</c><00:07:12.560><c> button</c><00:07:12.830><c> let</c>
+
+00:07:13.119 --> 00:07:13.129 align:start position:0%
+you did and you hit the like button let
+ 
+
+00:07:13.129 --> 00:07:14.709 align:start position:0%
+you did and you hit the like button let
+me<00:07:13.219><c> know</c><00:07:13.310><c> that</c><00:07:13.340><c> you</c><00:07:13.550><c> enjoyed</c><00:07:13.849><c> it</c><00:07:14.000><c> leave</c><00:07:14.539><c> any</c>
+
+00:07:14.709 --> 00:07:14.719 align:start position:0%
+me know that you enjoyed it leave any
+ 
+
+00:07:14.719 --> 00:07:16.240 align:start position:0%
+me know that you enjoyed it leave any
+comments<00:07:15.139><c> or</c><00:07:15.229><c> feedback</c><00:07:15.469><c> you</c><00:07:15.800><c> might</c><00:07:15.919><c> have</c><00:07:16.129><c> in</c>
+
+00:07:16.240 --> 00:07:16.250 align:start position:0%
+comments or feedback you might have in
+ 
+
+00:07:16.250 --> 00:07:17.439 align:start position:0%
+comments or feedback you might have in
+the<00:07:16.280><c> comment</c><00:07:16.610><c> section</c><00:07:16.909><c> below</c><00:07:16.940><c> and</c><00:07:17.240><c> if</c><00:07:17.360><c> you</c>
+
+00:07:17.439 --> 00:07:17.449 align:start position:0%
+the comment section below and if you
+ 
+
+00:07:17.449 --> 00:07:19.420 align:start position:0%
+the comment section below and if you
+really<00:07:17.780><c> enjoyed</c><00:07:18.050><c> this</c><00:07:18.229><c> series</c><00:07:18.560><c> in</c><00:07:18.800><c> this</c><00:07:18.919><c> video</c>
+
+00:07:19.420 --> 00:07:19.430 align:start position:0%
+really enjoyed this series in this video
+ 
+
+00:07:19.430 --> 00:07:20.950 align:start position:0%
+really enjoyed this series in this video
+then<00:07:19.669><c> you</c><00:07:19.729><c> can</c><00:07:19.759><c> support</c><00:07:20.150><c> me</c><00:07:20.300><c> on</c><00:07:20.330><c> patreon</c><00:07:20.780><c> by</c>
+
+00:07:20.950 --> 00:07:20.960 align:start position:0%
+then you can support me on patreon by
+ 
+
+00:07:20.960 --> 00:07:22.240 align:start position:0%
+then you can support me on patreon by
+going<00:07:21.169><c> to</c><00:07:21.259><c> patreon</c><00:07:21.560><c> icon</c><00:07:21.770><c> for</c><00:07:21.949><c> search</c><00:07:22.099><c> the</c>
+
+00:07:22.240 --> 00:07:22.250 align:start position:0%
+going to patreon icon for search the
+ 
+
+00:07:22.250 --> 00:07:24.129 align:start position:0%
+going to patreon icon for search the
+Cherno<00:07:22.460><c> you'll</c><00:07:23.000><c> get</c><00:07:23.150><c> videos</c><00:07:23.449><c> early</c><00:07:23.840><c> you'll</c><00:07:24.020><c> be</c>
+
+00:07:24.129 --> 00:07:24.139 align:start position:0%
+Cherno you'll get videos early you'll be
+ 
+
+00:07:24.139 --> 00:07:26.379 align:start position:0%
+Cherno you'll get videos early you'll be
+able<00:07:24.229><c> to</c><00:07:24.500><c> be</c><00:07:24.949><c> in</c><00:07:25.069><c> a</c><00:07:25.129><c> private</c><00:07:25.340><c> discord</c><00:07:25.969><c> channel</c>
+
+00:07:26.379 --> 00:07:26.389 align:start position:0%
+able to be in a private discord channel
+ 
+
+00:07:26.389 --> 00:07:27.820 align:start position:0%
+able to be in a private discord channel
+where<00:07:26.539><c> we</c><00:07:26.569><c> talk</c><00:07:26.659><c> about</c><00:07:26.840><c> what</c><00:07:27.169><c> goes</c><00:07:27.349><c> into</c><00:07:27.590><c> these</c>
+
+00:07:27.820 --> 00:07:27.830 align:start position:0%
+where we talk about what goes into these
+ 
+
+00:07:27.830 --> 00:07:29.439 align:start position:0%
+where we talk about what goes into these
+videos<00:07:28.069><c> and</c><00:07:28.460><c> all</c><00:07:28.520><c> that</c><00:07:28.550><c> fun</c><00:07:28.909><c> stuff</c><00:07:28.940><c> and</c><00:07:29.360><c> of</c>
+
+00:07:29.439 --> 00:07:29.449 align:start position:0%
+videos and all that fun stuff and of
+ 
+
+00:07:29.449 --> 00:07:30.339 align:start position:0%
+videos and all that fun stuff and of
+course<00:07:29.599><c> they're</c><00:07:29.750><c> helping</c><00:07:29.960><c> to</c><00:07:30.020><c> support</c><00:07:30.139><c> the</c>
+
+00:07:30.339 --> 00:07:30.349 align:start position:0%
+course they're helping to support the
+ 
+
+00:07:30.349 --> 00:07:31.959 align:start position:0%
+course they're helping to support the
+series<00:07:30.680><c> and</c><00:07:30.860><c> making</c><00:07:31.069><c> sure</c><00:07:31.219><c> that</c><00:07:31.370><c> we</c><00:07:31.460><c> make</c><00:07:31.639><c> more</c>
+
+00:07:31.959 --> 00:07:31.969 align:start position:0%
+series and making sure that we make more
+ 
+
+00:07:31.969 --> 00:07:34.420 align:start position:0%
+series and making sure that we make more
+of<00:07:32.030><c> these</c><00:07:32.150><c> episodes</c><00:07:32.629><c> I</c><00:07:33.050><c> will</c><00:07:33.500><c> see</c><00:07:33.800><c> you</c><00:07:33.889><c> guys</c><00:07:34.039><c> in</c>
+
+00:07:34.420 --> 00:07:34.430 align:start position:0%
+of these episodes I will see you guys in
+ 
+
+00:07:34.430 --> 00:07:34.930 align:start position:0%
+of these episodes I will see you guys in
+the<00:07:34.550><c> next</c><00:07:34.669><c> one</c>
+
+00:07:34.930 --> 00:07:34.940 align:start position:0%
+the next one
+ 
+
+00:07:34.940 --> 00:07:36.730 align:start position:0%
+the next one
+good<00:07:35.150><c> bye</c>
+
+00:07:36.730 --> 00:07:36.740 align:start position:0%
+good bye
+ 
+
+00:07:36.740 --> 00:07:48.710 align:start position:0%
+good bye
+[Music]
+
+00:07:48.710 --> 00:07:48.720 align:start position:0%
+ 
+ 
+
+00:07:48.720 --> 00:07:51.919 align:start position:0%
+ 
+[Music]
+

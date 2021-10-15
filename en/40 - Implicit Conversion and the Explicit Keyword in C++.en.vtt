@@ -1,0 +1,1784 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:00.000 --> 00:00:01.850 align:start position:0%
+ 
+hey<00:00:00.240><c> what's</c><00:00:00.630><c> up</c><00:00:00.750><c> guys</c><00:00:00.930><c> my</c><00:00:01.350><c> name</c><00:00:01.380><c> is</c><00:00:01.589><c> the</c>
+
+00:00:01.850 --> 00:00:01.860 align:start position:0%
+hey what's up guys my name is the
+ 
+
+00:00:01.860 --> 00:00:03.800 align:start position:0%
+hey what's up guys my name is the
+cheddar<00:00:02.159><c> waving</c><00:00:02.669><c> my</c><00:00:02.820><c> arms</c><00:00:02.850><c> around</c><00:00:03.179><c> welcome</c>
+
+00:00:03.800 --> 00:00:03.810 align:start position:0%
+cheddar waving my arms around welcome
+ 
+
+00:00:03.810 --> 00:00:05.990 align:start position:0%
+cheddar waving my arms around welcome
+back<00:00:04.049><c> to</c><00:00:04.319><c> my</c><00:00:04.440><c> say</c><00:00:04.710><c> plus</c><00:00:04.890><c> plus</c><00:00:05.130><c> series</c><00:00:05.460><c> today</c>
+
+00:00:05.990 --> 00:00:06.000 align:start position:0%
+back to my say plus plus series today
+ 
+
+00:00:06.000 --> 00:00:08.089 align:start position:0%
+back to my say plus plus series today
+we're<00:00:06.180><c> going</c><00:00:06.270><c> to</c><00:00:06.359><c> talk</c><00:00:06.540><c> all</c><00:00:06.810><c> about</c><00:00:07.099><c> implicit</c>
+
+00:00:08.089 --> 00:00:08.099 align:start position:0%
+we're going to talk all about implicit
+ 
+
+00:00:08.099 --> 00:00:10.640 align:start position:0%
+we're going to talk all about implicit
+construction<00:00:08.910><c> C++</c><00:00:09.510><c> implicit</c><00:00:09.840><c> conversions</c><00:00:10.469><c> as</c>
+
+00:00:10.640 --> 00:00:10.650 align:start position:0%
+construction C++ implicit conversions as
+ 
+
+00:00:10.650 --> 00:00:12.560 align:start position:0%
+construction C++ implicit conversions as
+well<00:00:11.160><c> as</c><00:00:11.309><c> what</c><00:00:11.490><c> the</c><00:00:11.610><c> explicit</c><00:00:12.000><c> keyword</c>
+
+00:00:12.560 --> 00:00:12.570 align:start position:0%
+well as what the explicit keyword
+ 
+
+00:00:12.570 --> 00:00:15.499 align:start position:0%
+well as what the explicit keyword
+actually<00:00:13.170><c> means</c><00:00:13.469><c> so</c><00:00:13.860><c> implicit</c><00:00:14.730><c> conversion</c>
+
+00:00:15.499 --> 00:00:15.509 align:start position:0%
+actually means so implicit conversion
+ 
+
+00:00:15.509 --> 00:00:16.550 align:start position:0%
+actually means so implicit conversion
+plus<00:00:15.660><c> it</c><00:00:15.750><c> concern</c><00:00:15.990><c> what</c><00:00:16.199><c> am</c><00:00:16.260><c> I</c><00:00:16.320><c> talking</c><00:00:16.529><c> about</c>
+
+00:00:16.550 --> 00:00:16.560 align:start position:0%
+plus it concern what am I talking about
+ 
+
+00:00:16.560 --> 00:00:18.830 align:start position:0%
+plus it concern what am I talking about
+implicit<00:00:17.520><c> means</c><00:00:17.940><c> kind</c><00:00:18.270><c> of</c><00:00:18.359><c> without</c><00:00:18.510><c> you</c>
+
+00:00:18.830 --> 00:00:18.840 align:start position:0%
+implicit means kind of without you
+ 
+
+00:00:18.840 --> 00:00:20.810 align:start position:0%
+implicit means kind of without you
+explicitly<00:00:19.439><c> telling</c><00:00:19.710><c> it</c><00:00:19.859><c> what</c><00:00:20.010><c> to</c><00:00:20.189><c> do</c><00:00:20.400><c> so</c><00:00:20.699><c> it</c>
+
+00:00:20.810 --> 00:00:20.820 align:start position:0%
+explicitly telling it what to do so it
+ 
+
+00:00:20.820 --> 00:00:22.939 align:start position:0%
+explicitly telling it what to do so it
+kind<00:00:21.000><c> of</c><00:00:21.090><c> automatic</c><00:00:21.990><c> that's</c><00:00:22.170><c> what</c><00:00:22.350><c> that</c><00:00:22.529><c> work</c>
+
+00:00:22.939 --> 00:00:22.949 align:start position:0%
+kind of automatic that's what that work
+ 
+
+00:00:22.949 --> 00:00:24.800 align:start position:0%
+kind of automatic that's what that work
+kind<00:00:23.310><c> of</c><00:00:23.340><c> means</c><00:00:23.580><c> in</c><00:00:23.730><c> this</c><00:00:23.820><c> context</c><00:00:24.390><c> and</c><00:00:24.539><c> what's</c>
+
+00:00:24.800 --> 00:00:24.810 align:start position:0%
+kind of means in this context and what's
+ 
+
+00:00:24.810 --> 00:00:26.029 align:start position:0%
+kind of means in this context and what's
+the<00:00:24.930><c> bus</c><00:00:25.080><c> bus</c><00:00:25.260><c> is</c><00:00:25.380><c> actually</c><00:00:25.619><c> allowed</c><00:00:25.800><c> to</c><00:00:25.920><c> do</c>
+
+00:00:26.029 --> 00:00:26.039 align:start position:0%
+the bus bus is actually allowed to do
+ 
+
+00:00:26.039 --> 00:00:27.470 align:start position:0%
+the bus bus is actually allowed to do
+what<00:00:26.220><c> the</c><00:00:26.279><c> compiler</c><00:00:26.550><c> is</c><00:00:26.760><c> allowed</c><00:00:26.939><c> to</c><00:00:26.970><c> do</c><00:00:27.210><c> is</c>
+
+00:00:27.470 --> 00:00:27.480 align:start position:0%
+what the compiler is allowed to do is
+ 
+
+00:00:27.480 --> 00:00:30.200 align:start position:0%
+what the compiler is allowed to do is
+perform<00:00:28.109><c> one</c><00:00:28.410><c> implicit</c><00:00:29.039><c> conversion</c><00:00:29.609><c> on</c><00:00:29.939><c> your</c>
+
+00:00:30.200 --> 00:00:30.210 align:start position:0%
+perform one implicit conversion on your
+ 
+
+00:00:30.210 --> 00:00:32.060 align:start position:0%
+perform one implicit conversion on your
+code<00:00:30.750><c> because</c><00:00:31.080><c> if</c><00:00:31.289><c> I</c><00:00:31.410><c> kind</c><00:00:31.650><c> of</c><00:00:31.740><c> start</c><00:00:31.920><c> using</c>
+
+00:00:32.060 --> 00:00:32.070 align:start position:0%
+code because if I kind of start using
+ 
+
+00:00:32.070 --> 00:00:34.430 align:start position:0%
+code because if I kind of start using
+one<00:00:32.489><c> data</c><00:00:32.820><c> type</c><00:00:32.969><c> as</c><00:00:33.360><c> another</c><00:00:33.840><c> and</c><00:00:34.290><c> a</c>
+
+00:00:34.430 --> 00:00:34.440 align:start position:0%
+one data type as another and a
+ 
+
+00:00:34.440 --> 00:00:36.590 align:start position:0%
+one data type as another and a
+conversion<00:00:34.980><c> between</c><00:00:35.190><c> the</c><00:00:35.460><c> two</c><00:00:35.579><c> exists</c><00:00:36.059><c> C++</c>
+
+00:00:36.590 --> 00:00:36.600 align:start position:0%
+conversion between the two exists C++
+ 
+
+00:00:36.600 --> 00:00:38.000 align:start position:0%
+conversion between the two exists C++
+will<00:00:36.750><c> actually</c><00:00:37.050><c> implicitly</c><00:00:37.469><c> perform</c><00:00:37.890><c> that</c>
+
+00:00:38.000 --> 00:00:38.010 align:start position:0%
+will actually implicitly perform that
+ 
+
+00:00:38.010 --> 00:00:40.280 align:start position:0%
+will actually implicitly perform that
+conversion<00:00:38.399><c> without</c><00:00:38.969><c> you</c><00:00:39.239><c> having</c><00:00:39.420><c> to</c><00:00:39.540><c> cast</c><00:00:39.989><c> it</c>
+
+00:00:40.280 --> 00:00:40.290 align:start position:0%
+conversion without you having to cast it
+ 
+
+00:00:40.290 --> 00:00:41.000 align:start position:0%
+conversion without you having to cast it
+or<00:00:40.410><c> anything</c><00:00:40.590><c> like</c><00:00:40.739><c> that</c>
+
+00:00:41.000 --> 00:00:41.010 align:start position:0%
+or anything like that
+ 
+
+00:00:41.010 --> 00:00:42.830 align:start position:0%
+or anything like that
+whoever<00:00:41.219><c> video</c><00:00:41.460><c> and</c><00:00:41.579><c> casting</c><00:00:42.059><c> very</c><00:00:42.540><c> soon</c>
+
+00:00:42.830 --> 00:00:42.840 align:start position:0%
+whoever video and casting very soon
+ 
+
+00:00:42.840 --> 00:00:44.450 align:start position:0%
+whoever video and casting very soon
+casting<00:00:43.230><c> is</c><00:00:43.320><c> what</c><00:00:43.469><c> we</c><00:00:43.559><c> do</c><00:00:43.710><c> to</c><00:00:43.739><c> kind</c><00:00:44.010><c> of</c><00:00:44.040><c> convert</c>
+
+00:00:44.450 --> 00:00:44.460 align:start position:0%
+casting is what we do to kind of convert
+ 
+
+00:00:44.460 --> 00:00:46.700 align:start position:0%
+casting is what we do to kind of convert
+from<00:00:45.120><c> one</c><00:00:45.180><c> data</c><00:00:45.510><c> type</c><00:00:45.570><c> to</c><00:00:45.960><c> another</c><00:00:46.170><c> so</c><00:00:46.469><c> this</c><00:00:46.590><c> is</c>
+
+00:00:46.700 --> 00:00:46.710 align:start position:0%
+from one data type to another so this is
+ 
+
+00:00:46.710 --> 00:00:48.619 align:start position:0%
+from one data type to another so this is
+best<00:00:46.920><c> shown</c><00:00:47.129><c> with</c><00:00:47.430><c> an</c><00:00:47.520><c> example</c><00:00:47.969><c> so</c><00:00:48.270><c> let's</c><00:00:48.480><c> take</c>
+
+00:00:48.619 --> 00:00:48.629 align:start position:0%
+best shown with an example so let's take
+ 
+
+00:00:48.629 --> 00:00:50.360 align:start position:0%
+best shown with an example so let's take
+a<00:00:48.690><c> look</c><00:00:48.809><c> I'm</c><00:00:49.050><c> going</c><00:00:49.379><c> to</c><00:00:49.469><c> write</c><00:00:49.649><c> a</c><00:00:49.680><c> class</c><00:00:49.980><c> here</c>
+
+00:00:50.360 --> 00:00:50.370 align:start position:0%
+a look I'm going to write a class here
+ 
+
+00:00:50.370 --> 00:00:52.700 align:start position:0%
+a look I'm going to write a class here
+it's<00:00:51.000><c> going</c><00:00:51.210><c> to</c><00:00:51.329><c> be</c><00:00:51.420><c> called</c><00:00:51.600><c> entity</c><00:00:52.020><c> it's</c>
+
+00:00:52.700 --> 00:00:52.710 align:start position:0%
+it's going to be called entity it's
+ 
+
+00:00:52.710 --> 00:00:56.720 align:start position:0%
+it's going to be called entity it's
+going<00:00:53.010><c> to</c><00:00:53.129><c> have</c><00:00:53.309><c> a</c><00:00:53.610><c> private</c><00:00:54.149><c> string</c><00:00:54.809><c> name</c><00:00:55.730><c> you</c>
+
+00:00:56.720 --> 00:00:56.730 align:start position:0%
+going to have a private string name you
+ 
+
+00:00:56.730 --> 00:00:57.830 align:start position:0%
+going to have a private string name you
+guys<00:00:56.910><c> know</c><00:00:57.059><c> the</c><00:00:57.210><c> drill</c><00:00:57.360><c> I've</c><00:00:57.600><c> done</c><00:00:57.750><c> this</c>
+
+00:00:57.830 --> 00:00:57.840 align:start position:0%
+guys know the drill I've done this
+ 
+
+00:00:57.840 --> 00:01:00.410 align:start position:0%
+guys know the drill I've done this
+before<00:00:57.899><c> I'm</c><00:00:58.890><c> also</c><00:00:58.980><c> going</c><00:00:59.280><c> to</c><00:00:59.399><c> add</c><00:00:59.609><c> an</c><00:00:59.910><c> age</c><00:01:00.390><c> to</c>
+
+00:01:00.410 --> 00:01:00.420 align:start position:0%
+before I'm also going to add an age to
+ 
+
+00:01:00.420 --> 00:01:02.930 align:start position:0%
+before I'm also going to add an age to
+this<00:01:00.899><c> will</c><00:01:01.680><c> create</c><00:01:01.859><c> an</c><00:01:01.980><c> NC</c><00:01:02.280><c> constructor</c><00:01:02.789><c> which</c>
+
+00:01:02.930 --> 00:01:02.940 align:start position:0%
+this will create an NC constructor which
+ 
+
+00:01:02.940 --> 00:01:05.960 align:start position:0%
+this will create an NC constructor which
+takes<00:01:02.969><c> in</c><00:01:03.480><c> a</c><00:01:03.719><c> name</c><00:01:04.199><c> I</c><00:01:04.470><c> write</c><00:01:04.650><c> Const</c><00:01:05.100><c> St</c><00:01:05.460><c> string</c>
+
+00:01:05.960 --> 00:01:05.970 align:start position:0%
+takes in a name I write Const St string
+ 
+
+00:01:05.970 --> 00:01:09.770 align:start position:0%
+takes in a name I write Const St string
+reference<00:01:06.720><c> name</c><00:01:07.220><c> Palestine</c><00:01:08.220><c> name</c><00:01:09.000><c> to</c><00:01:09.510><c> name</c>
+
+00:01:09.770 --> 00:01:09.780 align:start position:0%
+reference name Palestine name to name
+ 
+
+00:01:09.780 --> 00:01:11.539 align:start position:0%
+reference name Palestine name to name
+here<00:01:10.229><c> also</c><00:01:10.950><c> create</c><00:01:11.189><c> another</c><00:01:11.369><c> constructor</c>
+
+00:01:11.539 --> 00:01:11.549 align:start position:0%
+here also create another constructor
+ 
+
+00:01:11.549 --> 00:01:15.679 align:start position:0%
+here also create another constructor
+which<00:01:12.540><c> takes</c><00:01:12.570><c> in</c><00:01:13.140><c> an</c><00:01:13.470><c> age</c><00:01:14.090><c> I'll</c><00:01:15.090><c> sign</c><00:01:15.450><c> name</c>
+
+00:01:15.679 --> 00:01:15.689 align:start position:0%
+which takes in an age I'll sign name
+ 
+
+00:01:15.689 --> 00:01:20.960 align:start position:0%
+which takes in an age I'll sign name
+here<00:01:15.960><c> to</c><00:01:16.110><c> be</c><00:01:16.290><c> unknown</c><00:01:16.860><c> an</c><00:01:17.640><c> age</c><00:01:19.159><c> to</c><00:01:20.159><c> be</c><00:01:20.310><c> age</c><00:01:20.549><c> I</c>
+
+00:01:20.960 --> 00:01:20.970 align:start position:0%
+here to be unknown an age to be age I
+ 
+
+00:01:20.970 --> 00:01:23.510 align:start position:0%
+here to be unknown an age to be age I
+should<00:01:21.390><c> definitely</c><00:01:22.020><c> also</c><00:01:22.350><c> assign</c><00:01:22.650><c> age</c><00:01:23.159><c> over</c>
+
+00:01:23.510 --> 00:01:23.520 align:start position:0%
+should definitely also assign age over
+ 
+
+00:01:23.520 --> 00:01:26.179 align:start position:0%
+should definitely also assign age over
+here<00:01:23.820><c> we'll</c><00:01:24.689><c> set</c><00:01:24.869><c> age</c><00:01:25.110><c> to</c><00:01:25.409><c> be</c><00:01:25.560><c> negative</c><00:01:25.979><c> one</c>
+
+00:01:26.179 --> 00:01:26.189 align:start position:0%
+here we'll set age to be negative one
+ 
+
+00:01:26.189 --> 00:01:28.730 align:start position:0%
+here we'll set age to be negative one
+meaning<00:01:26.640><c> that</c><00:01:26.759><c> it's</c><00:01:27.600><c> invalid</c><00:01:27.960><c> basically</c><00:01:28.530><c> no</c>
+
+00:01:28.730 --> 00:01:28.740 align:start position:0%
+meaning that it's invalid basically no
+ 
+
+00:01:28.740 --> 00:01:30.980 align:start position:0%
+meaning that it's invalid basically no
+age<00:01:28.920><c> was</c><00:01:29.130><c> supplied</c><00:01:29.520><c> okay</c><00:01:30.119><c> nice</c><00:01:30.479><c> so</c><00:01:30.720><c> we</c><00:01:30.840><c> have</c>
+
+00:01:30.980 --> 00:01:30.990 align:start position:0%
+age was supplied okay nice so we have
+ 
+
+00:01:30.990 --> 00:01:32.960 align:start position:0%
+age was supplied okay nice so we have
+two<00:01:31.110><c> constructors</c><00:01:31.650><c> here</c><00:01:31.890><c> which</c><00:01:32.460><c> are</c><00:01:32.759><c> pretty</c>
+
+00:01:32.960 --> 00:01:32.970 align:start position:0%
+two constructors here which are pretty
+ 
+
+00:01:32.970 --> 00:01:33.590 align:start position:0%
+two constructors here which are pretty
+simple
+
+00:01:33.590 --> 00:01:33.600 align:start position:0%
+simple
+ 
+
+00:01:33.600 --> 00:01:34.940 align:start position:0%
+simple
+so<00:01:33.840><c> the</c><00:01:34.200><c> normal</c><00:01:34.470><c> way</c><00:01:34.590><c> that</c><00:01:34.770><c> you</c><00:01:34.829><c> would</c>
+
+00:01:34.940 --> 00:01:34.950 align:start position:0%
+so the normal way that you would
+ 
+
+00:01:34.950 --> 00:01:36.289 align:start position:0%
+so the normal way that you would
+probably<00:01:35.040><c> create</c><00:01:35.369><c> these</c><00:01:35.549><c> objects</c><00:01:36.000><c> is</c><00:01:36.150><c> by</c>
+
+00:01:36.289 --> 00:01:36.299 align:start position:0%
+probably create these objects is by
+ 
+
+00:01:36.299 --> 00:01:39.080 align:start position:0%
+probably create these objects is by
+writing<00:01:36.509><c> something</c><00:01:36.869><c> like</c><00:01:37.020><c> entity</c><00:01:37.860><c> a</c><00:01:38.159><c> can</c>
+
+00:01:39.080 --> 00:01:39.090 align:start position:0%
+writing something like entity a can
+ 
+
+00:01:39.090 --> 00:01:41.600 align:start position:0%
+writing something like entity a can
+maybe<00:01:39.360><c> give</c><00:01:39.570><c> you</c><00:01:39.659><c> a</c><00:01:39.750><c> name</c><00:01:39.930><c> like</c><00:01:40.170><c> sugar</c><00:01:40.470><c> and</c><00:01:40.799><c> GB</c>
+
+00:01:41.600 --> 00:01:41.610 align:start position:0%
+maybe give you a name like sugar and GB
+ 
+
+00:01:41.610 --> 00:01:43.850 align:start position:0%
+maybe give you a name like sugar and GB
+maybe<00:01:42.000><c> giving</c><00:01:42.270><c> this</c><00:01:42.390><c> one</c><00:01:42.540><c> in</c><00:01:42.630><c> agents</c><00:01:43.079><c> 222</c>
+
+00:01:43.850 --> 00:01:43.860 align:start position:0%
+maybe giving this one in agents 222
+ 
+
+00:01:43.860 --> 00:01:45.139 align:start position:0%
+maybe giving this one in agents 222
+that's<00:01:44.070><c> actually</c><00:01:44.340><c> how</c><00:01:44.490><c> old</c><00:01:44.670><c> I</c><00:01:44.759><c> am</c><00:01:44.790><c> for</c><00:01:45.060><c> those</c>
+
+00:01:45.139 --> 00:01:45.149 align:start position:0%
+that's actually how old I am for those
+ 
+
+00:01:45.149 --> 00:01:46.190 align:start position:0%
+that's actually how old I am for those
+of<00:01:45.270><c> you</c><00:01:45.329><c> wondering</c><00:01:45.479><c> because</c><00:01:45.810><c> I</c><00:01:45.990><c> get</c><00:01:46.170><c> that</c>
+
+00:01:46.190 --> 00:01:46.200 align:start position:0%
+of you wondering because I get that
+ 
+
+00:01:46.200 --> 00:01:47.780 align:start position:0%
+of you wondering because I get that
+question<00:01:46.350><c> a</c><00:01:46.680><c> lot</c><00:01:46.710><c> for</c><00:01:46.979><c> some</c><00:01:47.189><c> reason</c><00:01:47.549><c> and</c><00:01:47.700><c> you</c>
+
+00:01:47.780 --> 00:01:47.790 align:start position:0%
+question a lot for some reason and you
+ 
+
+00:01:47.790 --> 00:01:49.429 align:start position:0%
+question a lot for some reason and you
+would<00:01:48.329><c> kind</c><00:01:48.540><c> of</c><00:01:48.570><c> go</c><00:01:48.720><c> about</c><00:01:48.810><c> your</c><00:01:49.020><c> day</c><00:01:49.170><c> and</c><00:01:49.200><c> not</c>
+
+00:01:49.429 --> 00:01:49.439 align:start position:0%
+would kind of go about your day and not
+ 
+
+00:01:49.439 --> 00:01:51.230 align:start position:0%
+would kind of go about your day and not
+think<00:01:49.680><c> twice</c><00:01:49.799><c> and</c><00:01:49.920><c> this</c><00:01:50.250><c> looks</c><00:01:50.490><c> pretty</c><00:01:50.970><c> simple</c>
+
+00:01:51.230 --> 00:01:51.240 align:start position:0%
+think twice and this looks pretty simple
+ 
+
+00:01:51.240 --> 00:01:53.030 align:start position:0%
+think twice and this looks pretty simple
+maybe<00:01:51.689><c> if</c><00:01:51.869><c> you</c><00:01:51.990><c> want</c><00:01:52.140><c> to</c><00:01:52.200><c> use</c><00:01:52.409><c> equals</c><00:01:52.890><c> you</c>
+
+00:01:53.030 --> 00:01:53.040 align:start position:0%
+maybe if you want to use equals you
+ 
+
+00:01:53.040 --> 00:01:56.330 align:start position:0%
+maybe if you want to use equals you
+would<00:01:53.189><c> write</c><00:01:53.369><c> your</c><00:01:53.490><c> code</c><00:01:53.700><c> like</c><00:01:53.939><c> this</c><00:01:55.100><c> and</c><00:01:56.100><c> it</c>
+
+00:01:56.330 --> 00:01:56.340 align:start position:0%
+would write your code like this and it
+ 
+
+00:01:56.340 --> 00:01:57.830 align:start position:0%
+would write your code like this and it
+kind<00:01:56.490><c> of</c><00:01:56.520><c> looks</c><00:01:56.700><c> normal</c><00:01:57.000><c> this</c><00:01:57.090><c> is</c><00:01:57.270><c> how</c><00:01:57.689><c> most</c>
+
+00:01:57.830 --> 00:01:57.840 align:start position:0%
+kind of looks normal this is how most
+ 
+
+00:01:57.840 --> 00:01:59.990 align:start position:0%
+kind of looks normal this is how most
+people<00:01:57.990><c> use</c><00:01:58.560><c> objects</c><00:01:59.399><c> and</c><00:01:59.549><c> how</c><00:01:59.670><c> much</c><00:01:59.850><c> people</c>
+
+00:01:59.990 --> 00:02:00.000 align:start position:0%
+people use objects and how much people
+ 
+
+00:02:00.000 --> 00:02:02.840 align:start position:0%
+people use objects and how much people
+instantiate<00:02:00.509><c> objects</c><00:02:00.869><c> but</c><00:02:01.770><c> what</c><00:02:02.369><c> you</c><00:02:02.490><c> can</c><00:02:02.640><c> do</c>
+
+00:02:02.840 --> 00:02:02.850 align:start position:0%
+instantiate objects but what you can do
+ 
+
+00:02:02.850 --> 00:02:05.120 align:start position:0%
+instantiate objects but what you can do
+which<00:02:03.180><c> a</c><00:02:03.329><c> lot</c><00:02:03.479><c> of</c><00:02:03.509><c> people</c><00:02:03.719><c> don't</c><00:02:03.810><c> know</c><00:02:04.049><c> is</c><00:02:04.380><c> just</c>
+
+00:02:05.120 --> 00:02:05.130 align:start position:0%
+which a lot of people don't know is just
+ 
+
+00:02:05.130 --> 00:02:07.940 align:start position:0%
+which a lot of people don't know is just
+basically<00:02:05.880><c> say</c><00:02:06.299><c> that</c><00:02:06.600><c> n</c><00:02:06.780><c> CA</c><00:02:07.049><c> is</c><00:02:07.469><c> equal</c><00:02:07.710><c> to</c>
+
+00:02:07.940 --> 00:02:07.950 align:start position:0%
+basically say that n CA is equal to
+ 
+
+00:02:07.950 --> 00:02:10.940 align:start position:0%
+basically say that n CA is equal to
+Turner<00:02:08.819><c> or</c><00:02:09.360><c> NTP</c><00:02:10.200><c> is</c>
+
+00:02:10.940 --> 00:02:10.950 align:start position:0%
+Turner or NTP is
+ 
+
+00:02:10.950 --> 00:02:14.150 align:start position:0%
+Turner or NTP is
+equal<00:02:11.099><c> to</c><00:02:11.540><c> 22</c><00:02:12.540><c> now</c><00:02:13.230><c> this</c><00:02:13.410><c> is</c><00:02:13.560><c> a</c><00:02:13.590><c> little</c><00:02:14.069><c> bit</c>
+
+00:02:14.150 --> 00:02:14.160 align:start position:0%
+equal to 22 now this is a little bit
+ 
+
+00:02:14.160 --> 00:02:15.949 align:start position:0%
+equal to 22 now this is a little bit
+weird<00:02:14.459><c> because</c><00:02:14.819><c> well</c><00:02:15.420><c> first</c><00:02:15.660><c> of</c><00:02:15.780><c> all</c><00:02:15.870><c> you</c>
+
+00:02:15.949 --> 00:02:15.959 align:start position:0%
+weird because well first of all you
+ 
+
+00:02:15.959 --> 00:02:17.270 align:start position:0%
+weird because well first of all you
+can't<00:02:16.170><c> do</c><00:02:16.319><c> this</c><00:02:16.470><c> in</c><00:02:16.620><c> other</c><00:02:16.709><c> languages</c><00:02:17.220><c> like</c>
+
+00:02:17.270 --> 00:02:17.280 align:start position:0%
+can't do this in other languages like
+ 
+
+00:02:17.280 --> 00:02:20.300 align:start position:0%
+can't do this in other languages like
+Java<00:02:17.849><c> or</c><00:02:17.970><c> C</c><00:02:18.180><c> sharp</c><00:02:18.209><c> but</c><00:02:18.690><c> second</c><00:02:19.050><c> of</c><00:02:19.110><c> all</c><00:02:19.310><c> entity</c>
+
+00:02:20.300 --> 00:02:20.310 align:start position:0%
+Java or C sharp but second of all entity
+ 
+
+00:02:20.310 --> 00:02:21.710 align:start position:0%
+Java or C sharp but second of all entity
+B<00:02:20.550><c> equals</c><00:02:20.940><c> 22</c>
+
+00:02:21.710 --> 00:02:21.720 align:start position:0%
+B equals 22
+ 
+
+00:02:21.720 --> 00:02:24.020 align:start position:0%
+B equals 22
+what<00:02:21.989><c> is</c><00:02:22.110><c> interesting</c><00:02:22.290><c> integer</c><00:02:22.980><c> I</c><00:02:23.099><c> mean</c><00:02:23.340><c> North</c>
+
+00:02:24.020 --> 00:02:24.030 align:start position:0%
+what is interesting integer I mean North
+ 
+
+00:02:24.030 --> 00:02:26.690 align:start position:0%
+what is interesting integer I mean North
+is<00:02:24.239><c> got</c><00:02:24.480><c> string</c><00:02:24.930><c> and</c><00:02:25.200><c> it's</c><00:02:25.349><c> got</c><00:02:25.470><c> a</c><00:02:25.500><c> name</c><00:02:25.800><c> but</c><00:02:26.640><c> I</c>
+
+00:02:26.690 --> 00:02:26.700 align:start position:0%
+is got string and it's got a name but I
+ 
+
+00:02:26.700 --> 00:02:29.449 align:start position:0%
+is got string and it's got a name but I
+can<00:02:26.940><c> assign</c><00:02:27.150><c> 22</c><00:02:27.780><c> what's</c><00:02:28.620><c> going</c><00:02:28.860><c> on</c><00:02:28.950><c> here</c><00:02:29.160><c> this</c>
+
+00:02:29.449 --> 00:02:29.459 align:start position:0%
+can assign 22 what's going on here this
+ 
+
+00:02:29.459 --> 00:02:31.220 align:start position:0%
+can assign 22 what's going on here this
+is<00:02:29.640><c> called</c><00:02:29.849><c> implicit</c><00:02:30.209><c> conversion</c><00:02:30.810><c> or</c><00:02:30.900><c> illicit</c>
+
+00:02:31.220 --> 00:02:31.230 align:start position:0%
+is called implicit conversion or illicit
+ 
+
+00:02:31.230 --> 00:02:33.170 align:start position:0%
+is called implicit conversion or illicit
+construction<00:02:31.830><c> it's</c><00:02:31.950><c> implicitly</c><00:02:32.489><c> converting</c>
+
+00:02:33.170 --> 00:02:33.180 align:start position:0%
+construction it's implicitly converting
+ 
+
+00:02:33.180 --> 00:02:35.360 align:start position:0%
+construction it's implicitly converting
+that<00:02:33.330><c> 22</c><00:02:33.930><c> into</c><00:02:34.140><c> an</c><00:02:34.230><c> axiom</c><00:02:34.709><c> constructing</c><00:02:35.280><c> an</c>
+
+00:02:35.360 --> 00:02:35.370 align:start position:0%
+that 22 into an axiom constructing an
+ 
+
+00:02:35.370 --> 00:02:37.130 align:start position:0%
+that 22 into an axiom constructing an
+entity<00:02:35.670><c> out</c><00:02:35.790><c> of</c><00:02:35.819><c> it</c><00:02:36.030><c> because</c><00:02:36.720><c> there's</c><00:02:37.080><c> a</c>
+
+00:02:37.130 --> 00:02:37.140 align:start position:0%
+entity out of it because there's a
+ 
+
+00:02:37.140 --> 00:02:39.289 align:start position:0%
+entity out of it because there's a
+constructor<00:02:37.709><c> fantasy</c><00:02:38.220><c> which</c><00:02:38.730><c> takes</c><00:02:39.000><c> in</c><00:02:39.150><c> an</c>
+
+00:02:39.289 --> 00:02:39.299 align:start position:0%
+constructor fantasy which takes in an
+ 
+
+00:02:39.299 --> 00:02:41.270 align:start position:0%
+constructor fantasy which takes in an
+integer<00:02:39.630><c> age</c><00:02:40.200><c> right</c><00:02:40.590><c> and</c><00:02:41.069><c> there's</c><00:02:41.220><c> a</c>
+
+00:02:41.270 --> 00:02:41.280 align:start position:0%
+integer age right and there's a
+ 
+
+00:02:41.280 --> 00:02:43.130 align:start position:0%
+integer age right and there's a
+constructor<00:02:41.849><c> fantasy</c><00:02:42.360><c> which</c><00:02:42.629><c> takes</c><00:02:42.900><c> in</c><00:02:43.049><c> a</c>
+
+00:02:43.130 --> 00:02:43.140 align:start position:0%
+constructor fantasy which takes in a
+ 
+
+00:02:43.140 --> 00:02:45.410 align:start position:0%
+constructor fantasy which takes in a
+name<00:02:43.319><c> check</c><00:02:43.739><c> another</c><00:02:44.610><c> example</c><00:02:45.180><c> where</c><00:02:45.360><c> you</c>
+
+00:02:45.410 --> 00:02:45.420 align:start position:0%
+name check another example where you
+ 
+
+00:02:45.420 --> 00:02:47.240 align:start position:0%
+name check another example where you
+might<00:02:45.599><c> say</c><00:02:45.810><c> this</c><00:02:45.989><c> is</c><00:02:46.049><c> maybe</c><00:02:46.440><c> you</c><00:02:46.650><c> have</c><00:02:46.860><c> a</c><00:02:46.890><c> print</c>
+
+00:02:47.240 --> 00:02:47.250 align:start position:0%
+might say this is maybe you have a print
+ 
+
+00:02:47.250 --> 00:02:49.880 align:start position:0%
+might say this is maybe you have a print
+st<00:02:47.790><c> function</c><00:02:48.299><c> which</c><00:02:48.660><c> takes</c><00:02:48.930><c> in</c><00:02:49.110><c> an</c><00:02:49.230><c> entity</c><00:02:49.650><c> and</c>
+
+00:02:49.880 --> 00:02:49.890 align:start position:0%
+st function which takes in an entity and
+ 
+
+00:02:49.890 --> 00:02:52.009 align:start position:0%
+st function which takes in an entity and
+then<00:02:50.190><c> maybe</c><00:02:50.519><c> does</c><00:02:50.790><c> some</c><00:02:51.000><c> cool</c><00:02:51.299><c> printing</c><00:02:51.780><c> stuff</c>
+
+00:02:52.009 --> 00:02:52.019 align:start position:0%
+then maybe does some cool printing stuff
+ 
+
+00:02:52.019 --> 00:02:54.920 align:start position:0%
+then maybe does some cool printing stuff
+what<00:02:52.680><c> you</c><00:02:52.709><c> can</c><00:02:52.950><c> actually</c><00:02:53.190><c> do</c><00:02:53.549><c> here</c><00:02:53.940><c> is</c><00:02:54.540><c> call</c>
+
+00:02:54.920 --> 00:02:54.930 align:start position:0%
+what you can actually do here is call
+ 
+
+00:02:54.930 --> 00:02:58.640 align:start position:0%
+what you can actually do here is call
+that<00:02:55.110><c> function</c><00:02:55.400><c> with</c><00:02:56.510><c> 22</c><00:02:57.510><c> right</c><00:02:58.110><c> and</c><00:02:58.410><c> that</c>
+
+00:02:58.640 --> 00:02:58.650 align:start position:0%
+that function with 22 right and that
+ 
+
+00:02:58.650 --> 00:03:00.259 align:start position:0%
+that function with 22 right and that
+looks<00:02:59.040><c> weird</c><00:02:59.190><c> because</c><00:02:59.489><c> we'll</c><00:02:59.910><c> hang</c><00:03:00.120><c> on</c><00:03:00.239><c> a</c>
+
+00:03:00.259 --> 00:03:00.269 align:start position:0%
+looks weird because we'll hang on a
+ 
+
+00:03:00.269 --> 00:03:00.680 align:start position:0%
+looks weird because we'll hang on a
+minute
+
+00:03:00.680 --> 00:03:00.690 align:start position:0%
+minute
+ 
+
+00:03:00.690 --> 00:03:02.479 align:start position:0%
+minute
+we<00:03:01.049><c> don't</c><00:03:01.230><c> have</c><00:03:01.380><c> an</c><00:03:01.470><c> overload</c><00:03:01.890><c> for</c><00:03:02.099><c> print</c><00:03:02.340><c> and</c>
+
+00:03:02.479 --> 00:03:02.489 align:start position:0%
+we don't have an overload for print and
+ 
+
+00:03:02.489 --> 00:03:05.420 align:start position:0%
+we don't have an overload for print and
+T<00:03:02.760><c> which</c><00:03:03.299><c> takes</c><00:03:03.599><c> in</c><00:03:03.840><c> an</c><00:03:04.019><c> integer</c><00:03:04.560><c> or</c><00:03:04.920><c> something</c>
+
+00:03:05.420 --> 00:03:05.430 align:start position:0%
+T which takes in an integer or something
+ 
+
+00:03:05.430 --> 00:03:07.100 align:start position:0%
+T which takes in an integer or something
+like<00:03:05.519><c> that</c><00:03:05.579><c> we've</c><00:03:06.269><c> just</c><00:03:06.450><c> got</c><00:03:06.660><c> one</c><00:03:06.780><c> that</c><00:03:06.959><c> takes</c>
+
+00:03:07.100 --> 00:03:07.110 align:start position:0%
+like that we've just got one that takes
+ 
+
+00:03:07.110 --> 00:03:09.650 align:start position:0%
+like that we've just got one that takes
+in<00:03:07.260><c> an</c><00:03:07.349><c> entity</c><00:03:07.709><c> but</c><00:03:07.890><c> remember</c><00:03:08.280><c> as</c><00:03:08.579><c> far</c><00:03:08.940><c> as</c><00:03:09.239><c> c++</c>
+
+00:03:09.650 --> 00:03:09.660 align:start position:0%
+in an entity but remember as far as c++
+ 
+
+00:03:09.660 --> 00:03:12.319 align:start position:0%
+in an entity but remember as far as c++
+is<00:03:09.780><c> concerned</c><00:03:10.170><c> 22</c><00:03:10.680><c> can</c><00:03:11.190><c> be</c><00:03:11.370><c> converted</c><00:03:11.760><c> into</c><00:03:12.060><c> an</c>
+
+00:03:12.319 --> 00:03:12.329 align:start position:0%
+is concerned 22 can be converted into an
+ 
+
+00:03:12.329 --> 00:03:14.270 align:start position:0%
+is concerned 22 can be converted into an
+entity<00:03:12.569><c> because</c><00:03:13.260><c> you</c><00:03:13.799><c> can</c><00:03:13.980><c> call</c><00:03:14.190><c> this</c>
+
+00:03:14.270 --> 00:03:14.280 align:start position:0%
+entity because you can call this
+ 
+
+00:03:14.280 --> 00:03:17.030 align:start position:0%
+entity because you can call this
+constructor<00:03:14.519><c> and</c><00:03:15.000><c> suddenly</c><00:03:15.299><c> from</c><00:03:15.750><c> 22</c><00:03:16.380><c> which</c>
+
+00:03:17.030 --> 00:03:17.040 align:start position:0%
+constructor and suddenly from 22 which
+ 
+
+00:03:17.040 --> 00:03:18.620 align:start position:0%
+constructor and suddenly from 22 which
+is<00:03:17.069><c> the</c><00:03:17.310><c> only</c><00:03:17.430><c> parameter</c><00:03:17.730><c> you've</c><00:03:18.239><c> made</c><00:03:18.510><c> an</c>
+
+00:03:18.620 --> 00:03:18.630 align:start position:0%
+is the only parameter you've made an
+ 
+
+00:03:18.630 --> 00:03:20.720 align:start position:0%
+is the only parameter you've made an
+entity<00:03:19.109><c> now</c><00:03:19.470><c> watch</c><00:03:19.709><c> what</c><00:03:19.889><c> happens</c><00:03:19.950><c> when</c><00:03:20.400><c> I</c><00:03:20.430><c> try</c>
+
+00:03:20.720 --> 00:03:20.730 align:start position:0%
+entity now watch what happens when I try
+ 
+
+00:03:20.730 --> 00:03:23.000 align:start position:0%
+entity now watch what happens when I try
+and<00:03:20.760><c> call</c><00:03:21.090><c> this</c><00:03:21.209><c> print</c><00:03:21.510><c> entity</c><00:03:21.930><c> function</c><00:03:22.350><c> with</c>
+
+00:03:23.000 --> 00:03:23.010 align:start position:0%
+and call this print entity function with
+ 
+
+00:03:23.010 --> 00:03:24.289 align:start position:0%
+and call this print entity function with
+Cherno<00:03:23.370><c> you</c><00:03:23.549><c> would</c><00:03:23.670><c> kind</c><00:03:23.880><c> of</c><00:03:23.940><c> assume</c><00:03:24.150><c> it</c><00:03:24.209><c> to</c>
+
+00:03:24.289 --> 00:03:24.299 align:start position:0%
+Cherno you would kind of assume it to
+ 
+
+00:03:24.299 --> 00:03:26.330 align:start position:0%
+Cherno you would kind of assume it to
+work<00:03:24.450><c> right</c><00:03:24.720><c> because</c><00:03:24.840><c> this</c><00:03:25.019><c> did</c><00:03:25.290><c> no</c><00:03:25.980><c> it</c>
+
+00:03:26.330 --> 00:03:26.340 align:start position:0%
+work right because this did no it
+ 
+
+00:03:26.340 --> 00:03:27.979 align:start position:0%
+work right because this did no it
+doesn't<00:03:26.700><c> work</c><00:03:26.850><c> and</c><00:03:27.090><c> the</c><00:03:27.299><c> reason</c><00:03:27.660><c> it</c><00:03:27.750><c> didn't</c>
+
+00:03:27.979 --> 00:03:27.989 align:start position:0%
+doesn't work and the reason it didn't
+ 
+
+00:03:27.989 --> 00:03:29.720 align:start position:0%
+doesn't work and the reason it didn't
+work<00:03:28.109><c> is</c><00:03:28.410><c> because</c><00:03:28.769><c> this</c><00:03:28.950><c> churner</c><00:03:29.310><c> string</c>
+
+00:03:29.720 --> 00:03:29.730 align:start position:0%
+work is because this churner string
+ 
+
+00:03:29.730 --> 00:03:32.750 align:start position:0%
+work is because this churner string
+isn't<00:03:30.150><c> actually</c><00:03:30.600><c> an</c><00:03:30.810><c> STD</c><00:03:31.380><c> string</c><00:03:31.889><c> it</c><00:03:32.190><c> is</c><00:03:32.519><c> a</c>
+
+00:03:32.750 --> 00:03:32.760 align:start position:0%
+isn't actually an STD string it is a
+ 
+
+00:03:32.760 --> 00:03:35.569 align:start position:0%
+isn't actually an STD string it is a
+char<00:03:33.450><c> array</c><00:03:33.900><c> it's</c><00:03:34.470><c> a</c><00:03:34.530><c> Const</c><00:03:34.920><c> our</c><00:03:35.160><c> array</c><00:03:35.400><c> of</c>
+
+00:03:35.569 --> 00:03:35.579 align:start position:0%
+char array it's a Const our array of
+ 
+
+00:03:35.579 --> 00:03:37.520 align:start position:0%
+char array it's a Const our array of
+seven<00:03:35.910><c> characters</c><00:03:36.389><c> we've</c><00:03:36.840><c> got</c><00:03:36.989><c> shown</c><00:03:37.230><c> on</c><00:03:37.350><c> and</c>
+
+00:03:37.520 --> 00:03:37.530 align:start position:0%
+seven characters we've got shown on and
+ 
+
+00:03:37.530 --> 00:03:39.319 align:start position:0%
+seven characters we've got shown on and
+then<00:03:37.650><c> an</c><00:03:37.769><c> old</c><00:03:37.950><c> termination</c><00:03:38.519><c> character</c><00:03:38.700><c> if</c><00:03:39.269><c> you</c>
+
+00:03:39.319 --> 00:03:39.329 align:start position:0%
+then an old termination character if you
+ 
+
+00:03:39.329 --> 00:03:41.360 align:start position:0%
+then an old termination character if you
+guys<00:03:39.420><c> don't</c><00:03:39.569><c> know</c><00:03:39.600><c> how</c><00:03:39.750><c> strings</c><00:03:40.079><c> work</c><00:03:40.220><c> link</c><00:03:41.220><c> up</c>
+
+00:03:41.360 --> 00:03:41.370 align:start position:0%
+guys don't know how strings work link up
+ 
+
+00:03:41.370 --> 00:03:43.009 align:start position:0%
+guys don't know how strings work link up
+their<00:03:41.609><c> link</c><00:03:42.450><c> in</c><00:03:42.540><c> the</c><00:03:42.600><c> description</c><00:03:42.930><c> below</c>
+
+00:03:43.009 --> 00:03:43.019 align:start position:0%
+their link in the description below
+ 
+
+00:03:43.019 --> 00:03:44.870 align:start position:0%
+their link in the description below
+thanks<00:03:43.620><c> everywhere</c><00:03:44.250><c> go</c><00:03:44.430><c> check</c><00:03:44.609><c> that</c><00:03:44.760><c> video</c>
+
+00:03:44.870 --> 00:03:44.880 align:start position:0%
+thanks everywhere go check that video
+ 
+
+00:03:44.880 --> 00:03:47.059 align:start position:0%
+thanks everywhere go check that video
+out<00:03:45.060><c> a</c><00:03:45.209><c> very</c><00:03:45.540><c> very</c><00:03:45.780><c> useful</c><00:03:45.870><c> stuff</c><00:03:46.290><c> so</c><00:03:46.590><c> in</c><00:03:46.920><c> order</c>
+
+00:03:47.059 --> 00:03:47.069 align:start position:0%
+out a very very useful stuff so in order
+ 
+
+00:03:47.069 --> 00:03:49.039 align:start position:0%
+out a very very useful stuff so in order
+for<00:03:47.190><c> this</c><00:03:47.370><c> to</c><00:03:47.430><c> work</c><00:03:47.790><c> C++</c><00:03:48.359><c> would</c><00:03:48.690><c> actually</c><00:03:48.900><c> have</c>
+
+00:03:49.039 --> 00:03:49.049 align:start position:0%
+for this to work C++ would actually have
+ 
+
+00:03:49.049 --> 00:03:52.069 align:start position:0%
+for this to work C++ would actually have
+to<00:03:49.139><c> do</c><00:03:49.260><c> two</c><00:03:49.700><c> conversions</c><00:03:50.700><c> one</c><00:03:51.299><c> from</c><00:03:51.569><c> a</c><00:03:51.660><c> Const</c>
+
+00:03:52.069 --> 00:03:52.079 align:start position:0%
+to do two conversions one from a Const
+ 
+
+00:03:52.079 --> 00:03:54.800 align:start position:0%
+to do two conversions one from a Const
+RA<00:03:52.560><c> into</c><00:03:53.130><c> a</c><00:03:53.340><c> string</c><00:03:53.790><c> and</c><00:03:54.030><c> then</c><00:03:54.239><c> one</c><00:03:54.480><c> from</c><00:03:54.690><c> a</c>
+
+00:03:54.800 --> 00:03:54.810 align:start position:0%
+RA into a string and then one from a
+ 
+
+00:03:54.810 --> 00:03:56.449 align:start position:0%
+RA into a string and then one from a
+string<00:03:55.170><c> to</c><00:03:55.410><c> an</c><00:03:55.530><c> entity</c><00:03:55.799><c> and</c><00:03:56.099><c> it's</c><00:03:56.220><c> only</c>
+
+00:03:56.449 --> 00:03:56.459 align:start position:0%
+string to an entity and it's only
+ 
+
+00:03:56.459 --> 00:03:59.420 align:start position:0%
+string to an entity and it's only
+allowed<00:03:57.000><c> to</c><00:03:57.120><c> do</c><00:03:57.299><c> one</c><00:03:57.660><c> implicit</c><00:03:58.260><c> conversion</c><00:03:58.889><c> so</c>
+
+00:03:59.420 --> 00:03:59.430 align:start position:0%
+allowed to do one implicit conversion so
+ 
+
+00:03:59.430 --> 00:04:00.860 align:start position:0%
+allowed to do one implicit conversion so
+for<00:03:59.639><c> this</c><00:03:59.760><c> to</c><00:03:59.910><c> work</c><00:04:00.030><c> we</c><00:04:00.090><c> would</c><00:04:00.420><c> have</c><00:04:00.599><c> to</c><00:04:00.720><c> either</c>
+
+00:04:00.860 --> 00:04:00.870 align:start position:0%
+for this to work we would have to either
+ 
+
+00:04:00.870 --> 00:04:04.250 align:start position:0%
+for this to work we would have to either
+wrap<00:04:01.230><c> this</c><00:04:01.470><c> inside</c><00:04:02.280><c> a</c><00:04:02.310><c> constructor</c><00:04:02.549><c> like</c><00:04:03.299><c> this</c>
+
+00:04:04.250 --> 00:04:04.260 align:start position:0%
+wrap this inside a constructor like this
+ 
+
+00:04:04.260 --> 00:04:06.500 align:start position:0%
+wrap this inside a constructor like this
+the<00:04:04.980><c> string</c><00:04:05.280><c> and</c><00:04:05.459><c> suddenly</c><00:04:05.760><c> this</c><00:04:06.000><c> works</c><00:04:06.299><c> fine</c>
+
+00:04:06.500 --> 00:04:06.510 align:start position:0%
+the string and suddenly this works fine
+ 
+
+00:04:06.510 --> 00:04:09.349 align:start position:0%
+the string and suddenly this works fine
+or<00:04:07.109><c> we</c><00:04:08.040><c> could</c><00:04:08.220><c> even</c><00:04:08.340><c> wrap</c><00:04:08.639><c> it</c><00:04:08.819><c> just</c><00:04:08.849><c> in</c><00:04:09.239><c> an</c>
+
+00:04:09.349 --> 00:04:09.359 align:start position:0%
+or we could even wrap it just in an
+ 
+
+00:04:09.359 --> 00:04:10.520 align:start position:0%
+or we could even wrap it just in an
+entity<00:04:09.599><c> and</c><00:04:09.930><c> that</c><00:04:10.079><c> would</c><00:04:10.200><c> work</c><00:04:10.319><c> as</c><00:04:10.500><c> well</c>
+
+00:04:10.520 --> 00:04:10.530 align:start position:0%
+entity and that would work as well
+ 
+
+00:04:10.530 --> 00:04:11.990 align:start position:0%
+entity and that would work as well
+because<00:04:10.980><c> in</c><00:04:11.250><c> this</c><00:04:11.400><c> case</c><00:04:11.639><c> it</c><00:04:11.849><c> would</c><00:04:11.940><c> be</c>
+
+00:04:11.990 --> 00:04:12.000 align:start position:0%
+because in this case it would be
+ 
+
+00:04:12.000 --> 00:04:14.030 align:start position:0%
+because in this case it would be
+implicitly<00:04:12.630><c> converting</c><00:04:13.200><c> this</c><00:04:13.380><c> string</c><00:04:13.739><c> into</c><00:04:14.010><c> a</c>
+
+00:04:14.030 --> 00:04:14.040 align:start position:0%
+implicitly converting this string into a
+ 
+
+00:04:14.040 --> 00:04:15.890 align:start position:0%
+implicitly converting this string into a
+string<00:04:14.519><c> into</c><00:04:14.760><c> an</c><00:04:14.910><c> STD</c><00:04:15.269><c> string</c><00:04:15.690><c> into</c><00:04:15.870><c> a</c>
+
+00:04:15.890 --> 00:04:15.900 align:start position:0%
+string into an STD string into a
+ 
+
+00:04:15.900 --> 00:04:18.020 align:start position:0%
+string into an STD string into a
+standard<00:04:16.260><c> string</c><00:04:16.530><c> and</c><00:04:16.739><c> then</c><00:04:17.280><c> that</c><00:04:17.579><c> will</c><00:04:17.910><c> be</c>
+
+00:04:18.020 --> 00:04:18.030 align:start position:0%
+standard string and then that will be
+ 
+
+00:04:18.030 --> 00:04:19.949 align:start position:0%
+standard string and then that will be
+pushed<00:04:18.299><c> into</c><00:04:18.450><c> the</c><00:04:18.599><c> HD</c><00:04:18.900><c> constructor</c><00:04:19.409><c> and</c>
+
+00:04:19.949 --> 00:04:19.959 align:start position:0%
+pushed into the HD constructor and
+ 
+
+00:04:19.959 --> 00:04:21.809 align:start position:0%
+pushed into the HD constructor and
+constructor<00:04:20.500><c> available</c><00:04:20.919><c> okay</c><00:04:21.190><c> cool</c><00:04:21.459><c> that's</c>
+
+00:04:21.809 --> 00:04:21.819 align:start position:0%
+constructor available okay cool that's
+ 
+
+00:04:21.819 --> 00:04:22.980 align:start position:0%
+constructor available okay cool that's
+impressive<00:04:22.030><c> construction</c><00:04:22.389><c> pretty</c><00:04:22.870><c> cool</c>
+
+00:04:22.980 --> 00:04:22.990 align:start position:0%
+impressive construction pretty cool
+ 
+
+00:04:22.990 --> 00:04:24.990 align:start position:0%
+impressive construction pretty cool
+stuff<00:04:23.229><c> can</c><00:04:23.860><c> help</c><00:04:24.100><c> simplify</c><00:04:24.370><c> your</c><00:04:24.610><c> code</c><00:04:24.669><c> a</c><00:04:24.880><c> lot</c>
+
+00:04:24.990 --> 00:04:25.000 align:start position:0%
+stuff can help simplify your code a lot
+ 
+
+00:04:25.000 --> 00:04:26.909 align:start position:0%
+stuff can help simplify your code a lot
+personally<00:04:25.569><c> I</c><00:04:25.780><c> try</c><00:04:25.900><c> to</c><00:04:26.020><c> avoid</c><00:04:26.110><c> it</c><00:04:26.380><c> as</c><00:04:26.530><c> much</c><00:04:26.770><c> as</c>
+
+00:04:26.909 --> 00:04:26.919 align:start position:0%
+personally I try to avoid it as much as
+ 
+
+00:04:26.919 --> 00:04:30.059 align:start position:0%
+personally I try to avoid it as much as
+possible<00:04:27.130><c> except</c><00:04:27.970><c> for</c><00:04:28.120><c> some</c><00:04:28.509><c> some</c><00:04:29.380><c> cases</c><00:04:29.889><c> when</c>
+
+00:04:30.059 --> 00:04:30.069 align:start position:0%
+possible except for some some cases when
+ 
+
+00:04:30.069 --> 00:04:32.189 align:start position:0%
+possible except for some some cases when
+you're<00:04:30.160><c> kind</c><00:04:30.340><c> of</c><00:04:30.490><c> assigning</c><00:04:31.000><c> it</c><00:04:31.270><c> can</c><00:04:31.569><c> get</c><00:04:31.840><c> it</c>
+
+00:04:32.189 --> 00:04:32.199 align:start position:0%
+you're kind of assigning it can get it
+ 
+
+00:04:32.199 --> 00:04:34.350 align:start position:0%
+you're kind of assigning it can get it
+can<00:04:32.530><c> kind</c><00:04:32.919><c> of</c><00:04:33.009><c> just</c><00:04:33.280><c> simply</c><00:04:33.610><c> oh</c><00:04:33.699><c> so</c><00:04:34.030><c> you're</c><00:04:34.300><c> not</c>
+
+00:04:34.350 --> 00:04:34.360 align:start position:0%
+can kind of just simply oh so you're not
+ 
+
+00:04:34.360 --> 00:04:36.360 align:start position:0%
+can kind of just simply oh so you're not
+wrapping<00:04:34.870><c> it</c><00:04:34.990><c> with</c><00:04:35.169><c> constructors</c><00:04:36.160><c> all</c><00:04:36.280><c> the</c>
+
+00:04:36.360 --> 00:04:36.370 align:start position:0%
+wrapping it with constructors all the
+ 
+
+00:04:36.370 --> 00:04:39.029 align:start position:0%
+wrapping it with constructors all the
+time<00:04:36.580><c> but</c><00:04:37.210><c> in</c><00:04:37.300><c> general</c><00:04:37.750><c> I</c><00:04:37.960><c> wouldn't</c><00:04:38.860><c> be</c>
+
+00:04:39.029 --> 00:04:39.039 align:start position:0%
+time but in general I wouldn't be
+ 
+
+00:04:39.039 --> 00:04:42.080 align:start position:0%
+time but in general I wouldn't be
+assigning<00:04:39.550><c> this</c><00:04:39.880><c> entity</c><00:04:40.210><c> b22</c><00:04:41.169><c> like</c><00:04:41.500><c> this</c><00:04:41.710><c> I</c>
+
+00:04:42.080 --> 00:04:42.090 align:start position:0%
+assigning this entity b22 like this I
+ 
+
+00:04:42.090 --> 00:04:44.189 align:start position:0%
+assigning this entity b22 like this I
+personally<00:04:43.090><c> would</c><00:04:43.389><c> write</c><00:04:43.599><c> code</c><00:04:43.840><c> like</c><00:04:44.050><c> this</c>
+
+00:04:44.189 --> 00:04:44.199 align:start position:0%
+personally would write code like this
+ 
+
+00:04:44.199 --> 00:04:46.260 align:start position:0%
+personally would write code like this
+instead<00:04:44.620><c> because</c><00:04:45.039><c> in</c><00:04:45.280><c> my</c><00:04:45.550><c> opinion</c><00:04:45.940><c> it</c><00:04:46.090><c> just</c>
+
+00:04:46.260 --> 00:04:46.270 align:start position:0%
+instead because in my opinion it just
+ 
+
+00:04:46.270 --> 00:04:47.850 align:start position:0%
+instead because in my opinion it just
+looks<00:04:46.449><c> a</c><00:04:46.569><c> bit</c><00:04:46.720><c> more</c><00:04:46.870><c> clear</c><00:04:47.169><c> now</c><00:04:47.560><c> let's</c><00:04:47.710><c> talk</c>
+
+00:04:47.850 --> 00:04:47.860 align:start position:0%
+looks a bit more clear now let's talk
+ 
+
+00:04:47.860 --> 00:04:49.379 align:start position:0%
+looks a bit more clear now let's talk
+about<00:04:47.919><c> what</c><00:04:48.280><c> the</c><00:04:48.400><c> explicit</c><00:04:48.729><c> keyword</c><00:04:49.270><c> is</c>
+
+00:04:49.379 --> 00:04:49.389 align:start position:0%
+about what the explicit keyword is
+ 
+
+00:04:49.389 --> 00:04:51.450 align:start position:0%
+about what the explicit keyword is
+because<00:04:49.690><c> it's</c><00:04:50.050><c> very</c><00:04:50.500><c> very</c><00:04:50.770><c> relevant</c><00:04:51.130><c> to</c><00:04:51.340><c> this</c>
+
+00:04:51.450 --> 00:04:51.460 align:start position:0%
+because it's very very relevant to this
+ 
+
+00:04:51.460 --> 00:04:54.150 align:start position:0%
+because it's very very relevant to this
+explicit<00:04:52.210><c> disables</c><00:04:52.990><c> the</c><00:04:53.169><c> simplistic</c><00:04:53.530><c> analogy</c>
+
+00:04:54.150 --> 00:04:54.160 align:start position:0%
+explicit disables the simplistic analogy
+ 
+
+00:04:54.160 --> 00:04:55.589 align:start position:0%
+explicit disables the simplistic analogy
+the<00:04:54.490><c> explicit</c><00:04:54.729><c> keyword</c><00:04:55.180><c> is</c><00:04:55.270><c> something</c><00:04:55.509><c> that</c>
+
+00:04:55.589 --> 00:04:55.599 align:start position:0%
+the explicit keyword is something that
+ 
+
+00:04:55.599 --> 00:04:57.390 align:start position:0%
+the explicit keyword is something that
+you<00:04:55.690><c> put</c><00:04:55.810><c> in</c><00:04:55.900><c> front</c><00:04:56.020><c> of</c><00:04:56.080><c> a</c><00:04:56.169><c> constructor</c><00:04:56.830><c> and</c><00:04:57.039><c> if</c>
+
+00:04:57.390 --> 00:04:57.400 align:start position:0%
+you put in front of a constructor and if
+ 
+
+00:04:57.400 --> 00:04:59.760 align:start position:0%
+you put in front of a constructor and if
+you<00:04:57.520><c> write</c><00:04:57.849><c> an</c><00:04:58.180><c> explicit</c><00:04:58.630><c> constructor</c><00:04:59.320><c> it</c>
+
+00:04:59.760 --> 00:04:59.770 align:start position:0%
+you write an explicit constructor it
+ 
+
+00:04:59.770 --> 00:05:02.400 align:start position:0%
+you write an explicit constructor it
+means<00:05:00.070><c> that</c><00:05:00.310><c> no</c><00:05:00.729><c> no</c><00:05:00.970><c> no</c><00:05:01.389><c> no</c><00:05:01.509><c> no</c><00:05:02.080><c> implicit</c>
+
+00:05:02.400 --> 00:05:02.410 align:start position:0%
+means that no no no no no implicit
+ 
+
+00:05:02.410 --> 00:05:04.680 align:start position:0%
+means that no no no no no implicit
+conversions<00:05:03.070><c> this</c><00:05:03.849><c> constructor</c><00:05:04.479><c> must</c>
+
+00:05:04.680 --> 00:05:04.690 align:start position:0%
+conversions this constructor must
+ 
+
+00:05:04.690 --> 00:05:06.659 align:start position:0%
+conversions this constructor must
+explicitly<00:05:05.169><c> be</c><00:05:05.560><c> called</c><00:05:05.860><c> if</c><00:05:06.070><c> you</c><00:05:06.430><c> want</c><00:05:06.580><c> to</c>
+
+00:05:06.659 --> 00:05:06.669 align:start position:0%
+explicitly be called if you want to
+ 
+
+00:05:06.669 --> 00:05:08.550 align:start position:0%
+explicitly be called if you want to
+construct<00:05:07.000><c> this</c><00:05:07.090><c> entity</c><00:05:07.389><c> object</c><00:05:07.810><c> with</c><00:05:08.050><c> an</c>
+
+00:05:08.550 --> 00:05:08.560 align:start position:0%
+construct this entity object with an
+ 
+
+00:05:08.560 --> 00:05:11.879 align:start position:0%
+construct this entity object with an
+integer<00:05:08.800><c> for</c><00:05:09.190><c> example</c><00:05:09.580><c> so</c><00:05:10.530><c> let's</c><00:05:11.530><c> go</c><00:05:11.680><c> back</c><00:05:11.710><c> to</c>
+
+00:05:11.879 --> 00:05:11.889 align:start position:0%
+integer for example so let's go back to
+ 
+
+00:05:11.889 --> 00:05:13.860 align:start position:0%
+integer for example so let's go back to
+having<00:05:12.340><c> this</c><00:05:12.460><c> implicit</c><00:05:12.789><c> conversion</c><00:05:13.330><c> here</c><00:05:13.539><c> if</c>
+
+00:05:13.860 --> 00:05:13.870 align:start position:0%
+having this implicit conversion here if
+ 
+
+00:05:13.870 --> 00:05:16.920 align:start position:0%
+having this implicit conversion here if
+I<00:05:14.139><c> go</c><00:05:14.289><c> up</c><00:05:14.409><c> here</c><00:05:14.680><c> and</c><00:05:14.949><c> I</c><00:05:15.400><c> change</c><00:05:15.789><c> this</c><00:05:16.300><c> int</c><00:05:16.630><c> age</c>
+
+00:05:16.920 --> 00:05:16.930 align:start position:0%
+I go up here and I change this int age
+ 
+
+00:05:16.930 --> 00:05:18.899 align:start position:0%
+I go up here and I change this int age
+constructor<00:05:17.530><c> to</c><00:05:17.650><c> be</c><00:05:17.800><c> explicit</c><00:05:18.310><c> by</c><00:05:18.520><c> sticking</c>
+
+00:05:18.899 --> 00:05:18.909 align:start position:0%
+constructor to be explicit by sticking
+ 
+
+00:05:18.909 --> 00:05:20.879 align:start position:0%
+constructor to be explicit by sticking
+explicit<00:05:19.389><c> out</c><00:05:19.509><c> the</c><00:05:19.630><c> front</c><00:05:19.900><c> you'll</c><00:05:20.530><c> see</c><00:05:20.620><c> that</c>
+
+00:05:20.879 --> 00:05:20.889 align:start position:0%
+explicit out the front you'll see that
+ 
+
+00:05:20.889 --> 00:05:23.730 align:start position:0%
+explicit out the front you'll see that
+these<00:05:21.310><c> birds</c><00:05:21.639><c> suddenly</c><00:05:22.180><c> fail</c><00:05:22.479><c> I</c><00:05:22.750><c> cannot</c><00:05:23.470><c> do</c>
+
+00:05:23.730 --> 00:05:23.740 align:start position:0%
+these birds suddenly fail I cannot do
+ 
+
+00:05:23.740 --> 00:05:26.010 align:start position:0%
+these birds suddenly fail I cannot do
+that<00:05:23.919><c> anymore</c><00:05:24.159><c> if</c><00:05:24.639><c> I</c><00:05:24.849><c> want</c><00:05:25.120><c> to</c><00:05:25.240><c> do</c><00:05:25.360><c> this</c><00:05:25.539><c> I</c><00:05:25.810><c> need</c>
+
+00:05:26.010 --> 00:05:26.020 align:start position:0%
+that anymore if I want to do this I need
+ 
+
+00:05:26.020 --> 00:05:28.320 align:start position:0%
+that anymore if I want to do this I need
+to<00:05:26.440><c> either</c><00:05:26.620><c> write</c><00:05:27.460><c> code</c><00:05:27.699><c> like</c><00:05:27.729><c> that</c>
+
+00:05:28.320 --> 00:05:28.330 align:start position:0%
+to either write code like that
+ 
+
+00:05:28.330 --> 00:05:30.450 align:start position:0%
+to either write code like that
+or<00:05:28.479><c> explicitly</c><00:05:29.080><c> cast</c><00:05:29.409><c> it</c><00:05:29.590><c> to</c><00:05:29.620><c> an</c><00:05:29.800><c> entity</c><00:05:29.949><c> by</c>
+
+00:05:30.450 --> 00:05:30.460 align:start position:0%
+or explicitly cast it to an entity by
+ 
+
+00:05:30.460 --> 00:05:32.279 align:start position:0%
+or explicitly cast it to an entity by
+doing<00:05:30.759><c> this</c><00:05:30.970><c> we'll</c><00:05:31.479><c> talk</c><00:05:31.599><c> about</c><00:05:31.810><c> passing</c><00:05:32.050><c> in</c>
+
+00:05:32.279 --> 00:05:32.289 align:start position:0%
+doing this we'll talk about passing in
+ 
+
+00:05:32.289 --> 00:05:33.540 align:start position:0%
+doing this we'll talk about passing in
+another<00:05:32.500><c> video</c><00:05:32.770><c> it'll</c><00:05:32.919><c> be</c><00:05:33.039><c> a</c><00:05:33.070><c> link</c><00:05:33.250><c> up</c><00:05:33.370><c> there</c>
+
+00:05:33.540 --> 00:05:33.550 align:start position:0%
+another video it'll be a link up there
+ 
+
+00:05:33.550 --> 00:05:35.249 align:start position:0%
+another video it'll be a link up there
+and<00:05:33.759><c> in</c><00:05:33.880><c> description</c><00:05:34.300><c> below</c><00:05:34.389><c> as</c><00:05:34.599><c> well</c><00:05:34.720><c> all</c><00:05:34.960><c> we</c>
+
+00:05:35.249 --> 00:05:35.259 align:start position:0%
+and in description below as well all we
+ 
+
+00:05:35.259 --> 00:05:36.779 align:start position:0%
+and in description below as well all we
+can<00:05:35.380><c> of</c><00:05:35.500><c> course</c><00:05:35.530><c> just</c><00:05:35.800><c> call</c><00:05:36.310><c> that</c><00:05:36.460><c> entity</c>
+
+00:05:36.779 --> 00:05:36.789 align:start position:0%
+can of course just call that entity
+ 
+
+00:05:36.789 --> 00:05:38.820 align:start position:0%
+can of course just call that entity
+constructor<00:05:37.389><c> like</c><00:05:37.509><c> this</c><00:05:37.690><c> as</c><00:05:37.840><c> well</c><00:05:37.990><c> okay</c><00:05:38.800><c> so</c>
+
+00:05:38.820 --> 00:05:38.830 align:start position:0%
+constructor like this as well okay so
+ 
+
+00:05:38.830 --> 00:05:41.219 align:start position:0%
+constructor like this as well okay so
+those<00:05:39.070><c> are</c><00:05:39.130><c> kind</c><00:05:39.430><c> of</c><00:05:39.490><c> our</c><00:05:39.639><c> options</c><00:05:39.880><c> but</c><00:05:40.509><c> we</c><00:05:40.900><c> can</c>
+
+00:05:41.219 --> 00:05:41.229 align:start position:0%
+those are kind of our options but we can
+ 
+
+00:05:41.229 --> 00:05:43.770 align:start position:0%
+those are kind of our options but we can
+no<00:05:41.469><c> longer</c><00:05:41.800><c> just</c><00:05:42.280><c> implicitly</c><00:05:42.909><c> call</c><00:05:43.360><c> code</c><00:05:43.599><c> like</c>
+
+00:05:43.770 --> 00:05:43.780 align:start position:0%
+no longer just implicitly call code like
+ 
+
+00:05:43.780 --> 00:05:44.939 align:start position:0%
+no longer just implicitly call code like
+this<00:05:43.930><c> and</c><00:05:44.110><c> expect</c><00:05:44.169><c> it</c><00:05:44.469><c> to</c><00:05:44.530><c> work</c><00:05:44.590><c> it's</c><00:05:44.919><c> not</c>
+
+00:05:44.939 --> 00:05:44.949 align:start position:0%
+this and expect it to work it's not
+ 
+
+00:05:44.949 --> 00:05:46.379 align:start position:0%
+this and expect it to work it's not
+going<00:05:45.159><c> to</c><00:05:45.219><c> happen</c><00:05:45.340><c> and</c><00:05:45.669><c> of</c><00:05:46.000><c> course</c><00:05:46.210><c> if</c><00:05:46.360><c> we</c>
+
+00:05:46.379 --> 00:05:46.389 align:start position:0%
+going to happen and of course if we
+ 
+
+00:05:46.389 --> 00:05:49.290 align:start position:0%
+going to happen and of course if we
+write<00:05:46.690><c> explicit</c><00:05:47.259><c> for</c><00:05:47.820><c> this</c><00:05:48.820><c> constructor</c>
+
+00:05:49.290 --> 00:05:49.300 align:start position:0%
+write explicit for this constructor
+ 
+
+00:05:49.300 --> 00:05:50.730 align:start position:0%
+write explicit for this constructor
+which<00:05:49.419><c> takes</c><00:05:49.449><c> in</c><00:05:49.750><c> string</c><00:05:50.080><c> then</c><00:05:50.289><c> of</c><00:05:50.469><c> course</c>
+
+00:05:50.730 --> 00:05:50.740 align:start position:0%
+which takes in string then of course
+ 
+
+00:05:50.740 --> 00:05:52.740 align:start position:0%
+which takes in string then of course
+this<00:05:51.190><c> is</c><00:05:51.340><c> going</c><00:05:51.580><c> to</c><00:05:51.669><c> fail</c><00:05:51.849><c> as</c><00:05:52.000><c> well</c><00:05:52.150><c> not</c><00:05:52.630><c> this</c>
+
+00:05:52.740 --> 00:05:52.750 align:start position:0%
+this is going to fail as well not this
+ 
+
+00:05:52.750 --> 00:05:54.779 align:start position:0%
+this is going to fail as well not this
+one<00:05:52.810><c> just</c><00:05:53.080><c> yet</c><00:05:53.320><c> because</c><00:05:53.710><c> we</c><00:05:53.919><c> are</c><00:05:53.949><c> still</c><00:05:54.099><c> of</c>
+
+00:05:54.779 --> 00:05:54.789 align:start position:0%
+one just yet because we are still of
+ 
+
+00:05:54.789 --> 00:05:56.459 align:start position:0%
+one just yet because we are still of
+course<00:05:55.180><c> actually</c><00:05:55.659><c> calling</c><00:05:56.110><c> the</c><00:05:56.199><c> entity</c>
+
+00:05:56.459 --> 00:05:56.469 align:start position:0%
+course actually calling the entity
+ 
+
+00:05:56.469 --> 00:05:58.469 align:start position:0%
+course actually calling the entity
+constructor<00:05:56.919><c> but</c><00:05:57.310><c> everything</c><00:05:57.669><c> else</c><00:05:57.820><c> that</c><00:05:58.360><c> is</c>
+
+00:05:58.469 --> 00:05:58.479 align:start position:0%
+constructor but everything else that is
+ 
+
+00:05:58.479 --> 00:06:00.629 align:start position:0%
+constructor but everything else that is
+implicit<00:05:58.719><c> like</c><00:05:59.110><c> this</c><00:05:59.289><c> one</c><00:05:59.469><c> fails</c><00:05:59.919><c> and</c><00:06:00.159><c> that</c><00:06:00.219><c> is</c>
+
+00:06:00.629 --> 00:06:00.639 align:start position:0%
+implicit like this one fails and that is
+ 
+
+00:06:00.639 --> 00:06:02.040 align:start position:0%
+implicit like this one fails and that is
+really<00:06:00.940><c> the</c><00:06:01.120><c> only</c><00:06:01.240><c> function</c><00:06:01.719><c> of</c><00:06:01.840><c> that</c>
+
+00:06:02.040 --> 00:06:02.050 align:start position:0%
+really the only function of that
+ 
+
+00:06:02.050 --> 00:06:03.870 align:start position:0%
+really the only function of that
+explicit<00:06:02.560><c> keyword</c><00:06:02.889><c> it's</c><00:06:03.099><c> for</c><00:06:03.370><c> when</c><00:06:03.460><c> you</c><00:06:03.639><c> want</c>
+
+00:06:03.870 --> 00:06:03.880 align:start position:0%
+explicit keyword it's for when you want
+ 
+
+00:06:03.880 --> 00:06:05.640 align:start position:0%
+explicit keyword it's for when you want
+your<00:06:04.120><c> constructors</c><00:06:04.719><c> to</c><00:06:04.870><c> be</c><00:06:05.020><c> explicitly</c>
+
+00:06:05.640 --> 00:06:05.650 align:start position:0%
+your constructors to be explicitly
+ 
+
+00:06:05.650 --> 00:06:07.469 align:start position:0%
+your constructors to be explicitly
+called<00:06:06.039><c> instead</c><00:06:06.639><c> of</c><00:06:06.729><c> allowing</c><00:06:06.940><c> the</c><00:06:07.180><c> sibyl's</c>
+
+00:06:07.469 --> 00:06:07.479 align:start position:0%
+called instead of allowing the sibyl's
+ 
+
+00:06:07.479 --> 00:06:09.839 align:start position:0%
+called instead of allowing the sibyl's
+compiler<00:06:07.990><c> to</c><00:06:08.289><c> implicitly</c><00:06:09.070><c> convert</c><00:06:09.580><c> any</c>
+
+00:06:09.839 --> 00:06:09.849 align:start position:0%
+compiler to implicitly convert any
+ 
+
+00:06:09.849 --> 00:06:12.089 align:start position:0%
+compiler to implicitly convert any
+integer<00:06:10.180><c> into</c><00:06:10.449><c> entity</c><00:06:10.840><c> by</c><00:06:11.080><c> just</c><00:06:11.349><c> basically</c>
+
+00:06:12.089 --> 00:06:12.099 align:start position:0%
+integer into entity by just basically
+ 
+
+00:06:12.099 --> 00:06:14.189 align:start position:0%
+integer into entity by just basically
+calling<00:06:12.340><c> this</c><00:06:12.610><c> constructor</c><00:06:13.210><c> every</c><00:06:13.840><c> time</c><00:06:14.020><c> you</c>
+
+00:06:14.189 --> 00:06:14.199 align:start position:0%
+calling this constructor every time you
+ 
+
+00:06:14.199 --> 00:06:15.839 align:start position:0%
+calling this constructor every time you
+try<00:06:14.440><c> and</c><00:06:14.560><c> do</c><00:06:14.770><c> that</c><00:06:14.949><c> okay</c><00:06:15.219><c> so</c><00:06:15.430><c> that's</c><00:06:15.699><c> what</c>
+
+00:06:15.839 --> 00:06:15.849 align:start position:0%
+try and do that okay so that's what
+ 
+
+00:06:15.849 --> 00:06:17.520 align:start position:0%
+try and do that okay so that's what
+implicit<00:06:16.210><c> is</c><00:06:16.419><c> that's</c><00:06:16.659><c> what</c><00:06:16.870><c> explicit</c><00:06:17.409><c> is</c>
+
+00:06:17.520 --> 00:06:17.530 align:start position:0%
+implicit is that's what explicit is
+ 
+
+00:06:17.530 --> 00:06:19.320 align:start position:0%
+implicit is that's what explicit is
+hopefully<00:06:17.979><c> this</c><00:06:18.159><c> plays</c><00:06:18.430><c> some</c><00:06:18.639><c> stuff</c><00:06:18.880><c> up</c><00:06:19.090><c> as</c>
+
+00:06:19.320 --> 00:06:19.330 align:start position:0%
+hopefully this plays some stuff up as
+ 
+
+00:06:19.330 --> 00:06:21.089 align:start position:0%
+hopefully this plays some stuff up as
+for<00:06:19.599><c> when</c><00:06:19.719><c> you</c><00:06:19.810><c> want</c><00:06:19.990><c> to</c><00:06:20.050><c> use</c><00:06:20.229><c> this</c><00:06:20.440><c> I</c><00:06:20.650><c> use</c>
+
+00:06:21.089 --> 00:06:21.099 align:start position:0%
+for when you want to use this I use
+ 
+
+00:06:21.099 --> 00:06:23.610 align:start position:0%
+for when you want to use this I use
+explicit<00:06:21.820><c> sometimes</c><00:06:22.539><c> for</c><00:06:22.960><c> things</c><00:06:23.169><c> like</c><00:06:23.380><c> math</c>
+
+00:06:23.610 --> 00:06:23.620 align:start position:0%
+explicit sometimes for things like math
+ 
+
+00:06:23.620 --> 00:06:25.890 align:start position:0%
+explicit sometimes for things like math
+libraries<00:06:24.250><c> if</c><00:06:24.460><c> I</c><00:06:24.610><c> really</c><00:06:25.210><c> don't</c><00:06:25.509><c> want</c><00:06:25.719><c> to</c><00:06:25.810><c> be</c>
+
+00:06:25.890 --> 00:06:25.900 align:start position:0%
+libraries if I really don't want to be
+ 
+
+00:06:25.900 --> 00:06:27.990 align:start position:0%
+libraries if I really don't want to be
+comparing<00:06:26.349><c> numbers</c><00:06:26.560><c> to</c><00:06:27.070><c> vectors</c>
+
+00:06:27.990 --> 00:06:28.000 align:start position:0%
+comparing numbers to vectors
+ 
+
+00:06:28.000 --> 00:06:29.850 align:start position:0%
+comparing numbers to vectors
+time<00:06:28.270><c> and</c><00:06:28.480><c> I</c><00:06:28.540><c> want</c><00:06:28.750><c> to</c><00:06:28.810><c> just</c><00:06:28.930><c> ensure</c><00:06:29.230><c> that</c><00:06:29.710><c> my</c>
+
+00:06:29.850 --> 00:06:29.860 align:start position:0%
+time and I want to just ensure that my
+ 
+
+00:06:29.860 --> 00:06:31.380 align:start position:0%
+time and I want to just ensure that my
+code<00:06:30.130><c> is</c><00:06:30.310><c> as</c><00:06:30.460><c> safe</c><00:06:30.670><c> as</c><00:06:30.880><c> possible</c>
+
+00:06:31.380 --> 00:06:31.390 align:start position:0%
+code is as safe as possible
+ 
+
+00:06:31.390 --> 00:06:32.970 align:start position:0%
+code is as safe as possible
+honestly<00:06:31.750><c> I</c><00:06:31.840><c> don't</c><00:06:31.930><c> find</c><00:06:32.230><c> myself</c><00:06:32.380><c> using</c><00:06:32.650><c> it</c>
+
+00:06:32.970 --> 00:06:32.980 align:start position:0%
+honestly I don't find myself using it
+ 
+
+00:06:32.980 --> 00:06:34.950 align:start position:0%
+honestly I don't find myself using it
+too<00:06:33.250><c> often</c><00:06:33.670><c> when</c><00:06:34.060><c> you're</c><00:06:34.150><c> writing</c><00:06:34.330><c> low-level</c>
+
+00:06:34.950 --> 00:06:34.960 align:start position:0%
+too often when you're writing low-level
+ 
+
+00:06:34.960 --> 00:06:37.380 align:start position:0%
+too often when you're writing low-level
+rappers<00:06:35.590><c> or</c><00:06:35.890><c> things</c><00:06:36.160><c> like</c><00:06:36.340><c> that</c><00:06:36.550><c> it</c><00:06:36.790><c> can</c><00:06:37.060><c> come</c>
+
+00:06:37.380 --> 00:06:37.390 align:start position:0%
+rappers or things like that it can come
+ 
+
+00:06:37.390 --> 00:06:38.850 align:start position:0%
+rappers or things like that it can come
+in<00:06:37.540><c> handy</c><00:06:37.720><c> and</c><00:06:38.050><c> can</c><00:06:38.350><c> prevent</c><00:06:38.680><c> you</c><00:06:38.830><c> from</c>
+
+00:06:38.850 --> 00:06:38.860 align:start position:0%
+in handy and can prevent you from
+ 
+
+00:06:38.860 --> 00:06:40.830 align:start position:0%
+in handy and can prevent you from
+accidentally<00:06:39.700><c> casting</c><00:06:40.150><c> things</c><00:06:40.330><c> and</c><00:06:40.540><c> causing</c>
+
+00:06:40.830 --> 00:06:40.840 align:start position:0%
+accidentally casting things and causing
+ 
+
+00:06:40.840 --> 00:06:43.050 align:start position:0%
+accidentally casting things and causing
+you<00:06:40.930><c> the</c><00:06:41.050><c> performance</c><00:06:41.500><c> issues</c><00:06:41.740><c> or</c><00:06:41.890><c> buzz</c><00:06:42.130><c> will</c>
+
+00:06:43.050 --> 00:06:43.060 align:start position:0%
+you the performance issues or buzz will
+ 
+
+00:06:43.060 --> 00:06:45.030 align:start position:0%
+you the performance issues or buzz will
+kind<00:06:43.270><c> of</c><00:06:43.330><c> maybe</c><00:06:43.870><c> talk</c><00:06:44.230><c> about</c><00:06:44.470><c> specific</c>
+
+00:06:45.030 --> 00:06:45.040 align:start position:0%
+kind of maybe talk about specific
+ 
+
+00:06:45.040 --> 00:06:46.650 align:start position:0%
+kind of maybe talk about specific
+examples<00:06:45.160><c> in</c><00:06:45.670><c> the</c><00:06:45.790><c> future</c><00:06:46.120><c> if</c><00:06:46.240><c> we</c><00:06:46.300><c> run</c><00:06:46.540><c> into</c>
+
+00:06:46.650 --> 00:06:46.660 align:start position:0%
+examples in the future if we run into
+ 
+
+00:06:46.660 --> 00:06:48.240 align:start position:0%
+examples in the future if we run into
+them<00:06:46.930><c> but</c><00:06:47.140><c> it's</c><00:06:47.620><c> one</c><00:06:47.740><c> of</c><00:06:47.830><c> those</c><00:06:47.920><c> things</c><00:06:48.160><c> that</c>
+
+00:06:48.240 --> 00:06:48.250 align:start position:0%
+them but it's one of those things that
+ 
+
+00:06:48.250 --> 00:06:49.110 align:start position:0%
+them but it's one of those things that
+you<00:06:48.400><c> probably</c><00:06:48.520><c> don't</c><00:06:48.760><c> need</c><00:06:48.820><c> to</c><00:06:48.910><c> worry</c><00:06:49.060><c> about</c>
+
+00:06:49.110 --> 00:06:49.120 align:start position:0%
+you probably don't need to worry about
+ 
+
+00:06:49.120 --> 00:06:51.150 align:start position:0%
+you probably don't need to worry about
+too<00:06:49.480><c> much</c><00:06:49.660><c> just</c><00:06:50.230><c> be</c><00:06:50.380><c> aware</c><00:06:50.560><c> of</c><00:06:50.620><c> this</c><00:06:50.770><c> keyword</c>
+
+00:06:51.150 --> 00:06:51.160 align:start position:0%
+too much just be aware of this keyword
+ 
+
+00:06:51.160 --> 00:06:52.980 align:start position:0%
+too much just be aware of this keyword
+and<00:06:51.190><c> what</c><00:06:51.550><c> it</c><00:06:51.640><c> can</c><00:06:51.730><c> do</c><00:06:51.850><c> for</c><00:06:51.880><c> you</c><00:06:52.120><c> and</c><00:06:52.360><c> the</c><00:06:52.750><c> big</c>
+
+00:06:52.980 --> 00:06:52.990 align:start position:0%
+and what it can do for you and the big
+ 
+
+00:06:52.990 --> 00:06:54.720 align:start position:0%
+and what it can do for you and the big
+the<00:06:53.530><c> big</c><00:06:53.560><c> take</c><00:06:53.950><c> away</c><00:06:54.130><c> I</c><00:06:54.160><c> think</c><00:06:54.370><c> from</c><00:06:54.640><c> this</c>
+
+00:06:54.720 --> 00:06:54.730 align:start position:0%
+the big take away I think from this
+ 
+
+00:06:54.730 --> 00:06:57.000 align:start position:0%
+the big take away I think from this
+video<00:06:55.030><c> is</c><00:06:55.510><c> just</c><00:06:55.720><c> be</c><00:06:56.170><c> aware</c><00:06:56.440><c> that</c><00:06:56.500><c> implicit</c>
+
+00:06:57.000 --> 00:06:57.010 align:start position:0%
+video is just be aware that implicit
+ 
+
+00:06:57.010 --> 00:06:59.040 align:start position:0%
+video is just be aware that implicit
+construction<00:06:57.610><c> exists</c><00:06:58.240><c> hope</c><00:06:58.600><c> you</c><00:06:58.690><c> guys</c><00:06:58.810><c> enjoy</c>
+
+00:06:59.040 --> 00:06:59.050 align:start position:0%
+construction exists hope you guys enjoy
+ 
+
+00:06:59.050 --> 00:07:00.630 align:start position:0%
+construction exists hope you guys enjoy
+this<00:06:59.170><c> video</c><00:06:59.320><c> if</c><00:06:59.530><c> you</c><00:06:59.740><c> did</c><00:06:59.860><c> you</c><00:07:00.040><c> hit</c><00:07:00.190><c> that</c><00:07:00.310><c> like</c>
+
+00:07:00.630 --> 00:07:00.640 align:start position:0%
+this video if you did you hit that like
+ 
+
+00:07:00.640 --> 00:07:02.220 align:start position:0%
+this video if you did you hit that like
+button<00:07:00.669><c> you</c><00:07:01.120><c> can</c><00:07:01.270><c> also</c><00:07:01.390><c> help</c><00:07:01.630><c> support</c><00:07:02.050><c> this</c>
+
+00:07:02.220 --> 00:07:02.230 align:start position:0%
+button you can also help support this
+ 
+
+00:07:02.230 --> 00:07:04.050 align:start position:0%
+button you can also help support this
+series<00:07:02.650><c> and</c><00:07:02.830><c> make</c><00:07:02.950><c> it</c><00:07:03.070><c> even</c><00:07:03.250><c> better</c><00:07:03.580><c> by</c><00:07:03.790><c> going</c>
+
+00:07:04.050 --> 00:07:04.060 align:start position:0%
+series and make it even better by going
+ 
+
+00:07:04.060 --> 00:07:06.180 align:start position:0%
+series and make it even better by going
+to<00:07:04.240><c> patreon</c><00:07:04.630><c> home</c><00:07:04.900><c> for</c><00:07:05.140><c> such</c><00:07:05.350><c> the</c><00:07:05.530><c> channel</c><00:07:05.890><c> but</c>
+
+00:07:06.180 --> 00:07:06.190 align:start position:0%
+to patreon home for such the channel but
+ 
+
+00:07:06.190 --> 00:07:07.530 align:start position:0%
+to patreon home for such the channel but
+they<00:07:06.280><c> don't</c><00:07:06.460><c> reduce</c><00:07:06.669><c> support</c><00:07:06.970><c> the</c><00:07:07.120><c> series</c><00:07:07.390><c> you</c>
+
+00:07:07.530 --> 00:07:07.540 align:start position:0%
+they don't reduce support the series you
+ 
+
+00:07:07.540 --> 00:07:09.090 align:start position:0%
+they don't reduce support the series you
+do<00:07:07.660><c> get</c><00:07:07.810><c> some</c><00:07:07.960><c> pretty</c><00:07:08.080><c> cool</c><00:07:08.290><c> rewards</c><00:07:08.770><c> such</c><00:07:08.919><c> as</c>
+
+00:07:09.090 --> 00:07:09.100 align:start position:0%
+do get some pretty cool rewards such as
+ 
+
+00:07:09.100 --> 00:07:10.560 align:start position:0%
+do get some pretty cool rewards such as
+being<00:07:09.310><c> able</c><00:07:09.430><c> to</c><00:07:09.610><c> see</c><00:07:09.760><c> these</c><00:07:09.910><c> exits</c><00:07:10.330><c> early</c>
+
+00:07:10.560 --> 00:07:10.570 align:start position:0%
+being able to see these exits early
+ 
+
+00:07:10.570 --> 00:07:12.090 align:start position:0%
+being able to see these exits early
+basically<00:07:11.169><c> as</c><00:07:11.230><c> soon</c><00:07:11.290><c> as</c><00:07:11.560><c> I'm</c><00:07:11.680><c> done</c><00:07:11.710><c> editing</c>
+
+00:07:12.090 --> 00:07:12.100 align:start position:0%
+basically as soon as I'm done editing
+ 
+
+00:07:12.100 --> 00:07:14.040 align:start position:0%
+basically as soon as I'm done editing
+them<00:07:12.520><c> as</c><00:07:12.700><c> well</c><00:07:13.300><c> as</c><00:07:13.419><c> contribute</c><00:07:13.870><c> to</c><00:07:13.960><c> the</c>
+
+00:07:14.040 --> 00:07:14.050 align:start position:0%
+them as well as contribute to the
+ 
+
+00:07:14.050 --> 00:07:15.600 align:start position:0%
+them as well as contribute to the
+discussion<00:07:14.530><c> of</c><00:07:14.650><c> what</c><00:07:14.890><c> goes</c><00:07:15.100><c> into</c><00:07:15.280><c> these</c>
+
+00:07:15.600 --> 00:07:15.610 align:start position:0%
+discussion of what goes into these
+ 
+
+00:07:15.610 --> 00:07:17.250 align:start position:0%
+discussion of what goes into these
+videos<00:07:15.820><c> in</c><00:07:16.270><c> the</c><00:07:16.390><c> future</c><00:07:16.810><c> if</c><00:07:17.020><c> there's</c>
+
+00:07:17.250 --> 00:07:17.260 align:start position:0%
+videos in the future if there's
+ 
+
+00:07:17.260 --> 00:07:18.300 align:start position:0%
+videos in the future if there's
+something<00:07:17.470><c> in</c><00:07:17.530><c> this</c><00:07:17.590><c> video</c><00:07:17.710><c> that</c><00:07:17.950><c> you</c><00:07:18.070><c> didn't</c>
+
+00:07:18.300 --> 00:07:18.310 align:start position:0%
+something in this video that you didn't
+ 
+
+00:07:18.310 --> 00:07:19.590 align:start position:0%
+something in this video that you didn't
+understand<00:07:18.760><c> you</c><00:07:18.910><c> can</c><00:07:19.030><c> leave</c><00:07:19.150><c> a</c><00:07:19.180><c> comment</c><00:07:19.419><c> below</c>
+
+00:07:19.590 --> 00:07:19.600 align:start position:0%
+understand you can leave a comment below
+ 
+
+00:07:19.600 --> 00:07:21.060 align:start position:0%
+understand you can leave a comment below
+and<00:07:19.780><c> I'll</c><00:07:19.990><c> try</c><00:07:20.140><c> and</c><00:07:20.169><c> reply</c><00:07:20.440><c> to</c><00:07:20.500><c> as</c><00:07:20.650><c> many</c><00:07:20.710><c> as</c><00:07:20.950><c> I</c>
+
+00:07:21.060 --> 00:07:21.070 align:start position:0%
+and I'll try and reply to as many as I
+ 
+
+00:07:21.070 --> 00:07:23.010 align:start position:0%
+and I'll try and reply to as many as I
+can<00:07:21.130><c> but</c><00:07:21.520><c> I</c><00:07:21.550><c> also</c><00:07:21.730><c> have</c><00:07:21.970><c> a</c><00:07:22.000><c> discourse</c><00:07:22.510><c> above</c>
+
+00:07:23.010 --> 00:07:23.020 align:start position:0%
+can but I also have a discourse above
+ 
+
+00:07:23.020 --> 00:07:25.020 align:start position:0%
+can but I also have a discourse above
+link<00:07:23.320><c> in</c><00:07:23.500><c> the</c><00:07:23.560><c> description</c><00:07:23.950><c> below</c><00:07:24.070><c> in</c><00:07:24.520><c> which</c>
+
+00:07:25.020 --> 00:07:25.030 align:start position:0%
+link in the description below in which
+ 
+
+00:07:25.030 --> 00:07:26.550 align:start position:0%
+link in the description below in which
+you<00:07:25.150><c> could</c><00:07:25.270><c> talk</c><00:07:25.390><c> about</c><00:07:25.419><c> this</c><00:07:26.080><c> kind</c><00:07:26.320><c> of</c><00:07:26.380><c> stuff</c>
+
+00:07:26.550 --> 00:07:26.560 align:start position:0%
+you could talk about this kind of stuff
+ 
+
+00:07:26.560 --> 00:07:28.620 align:start position:0%
+you could talk about this kind of stuff
+with<00:07:26.770><c> with</c><00:07:27.280><c> a</c><00:07:27.310><c> handful</c><00:07:27.760><c> of</c><00:07:27.820><c> people</c><00:07:28.060><c> I</c><00:07:28.419><c> think</c>
+
+00:07:28.620 --> 00:07:28.630 align:start position:0%
+with with a handful of people I think
+ 
+
+00:07:28.630 --> 00:07:30.390 align:start position:0%
+with with a handful of people I think
+there's<00:07:28.750><c> like</c><00:07:28.810><c> 200</c><00:07:29.230><c> people</c><00:07:29.290><c> in</c><00:07:29.590><c> the</c><00:07:29.650><c> 700</c><00:07:30.070><c> race</c>
+
+00:07:30.390 --> 00:07:30.400 align:start position:0%
+there's like 200 people in the 700 race
+ 
+
+00:07:30.400 --> 00:07:31.890 align:start position:0%
+there's like 200 people in the 700 race
+that's<00:07:30.640><c> pretty</c><00:07:30.820><c> cool</c><00:07:30.970><c> definitely</c><00:07:31.450><c> join</c><00:07:31.780><c> up</c>
+
+00:07:31.890 --> 00:07:31.900 align:start position:0%
+that's pretty cool definitely join up
+ 
+
+00:07:31.900 --> 00:07:34.110 align:start position:0%
+that's pretty cool definitely join up
+their<00:07:32.110><c> link</c><00:07:32.380><c> in</c><00:07:32.470><c> description</c><00:07:32.830><c> below</c><00:07:32.860><c> and</c><00:07:33.310><c> I'll</c>
+
+00:07:34.110 --> 00:07:34.120 align:start position:0%
+their link in description below and I'll
+ 
+
+00:07:34.120 --> 00:07:37.710 align:start position:0%
+their link in description below and I'll
+see<00:07:34.360><c> you</c><00:07:34.450><c> guys</c><00:07:34.510><c> in</c><00:07:34.810><c> the</c><00:07:34.870><c> next</c><00:07:34.960><c> video</c><00:07:35.320><c> goodbye</c>
+
+00:07:37.710 --> 00:07:37.720 align:start position:0%
+ 
+ 
+
+00:07:37.720 --> 00:07:45.210 align:start position:0%
+ 
+[Music]
+
+00:07:45.210 --> 00:07:45.220 align:start position:0%
+ 
+ 
+
+00:07:45.220 --> 00:07:52.259 align:start position:0%
+ 
+[Music]
+

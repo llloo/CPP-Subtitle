@@ -1,0 +1,4304 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:00.030 --> 00:00:01.760 align:start position:0%
+ 
+hey<00:00:00.210><c> little</c><00:00:00.450><c> guys</c><00:00:00.630><c> my</c><00:00:00.930><c> name</c><00:00:01.110><c> is</c><00:00:01.140><c> eterno</c><00:00:01.560><c> and</c>
+
+00:00:01.760 --> 00:00:01.770 align:start position:0%
+hey little guys my name is eterno and
+ 
+
+00:00:01.770 --> 00:00:03.200 align:start position:0%
+hey little guys my name is eterno and
+welcome<00:00:02.129><c> back</c><00:00:02.159><c> to</c><00:00:02.490><c> my</c><00:00:02.610><c> sleepless</c><00:00:03.000><c> blood</c>
+
+00:00:03.200 --> 00:00:03.210 align:start position:0%
+welcome back to my sleepless blood
+ 
+
+00:00:03.210 --> 00:00:05.150 align:start position:0%
+welcome back to my sleepless blood
+series<00:00:03.629><c> so</c><00:00:04.140><c> today</c><00:00:04.500><c> we're</c><00:00:04.620><c> going</c><00:00:04.710><c> to</c><00:00:04.799><c> learn</c><00:00:04.890><c> all</c>
+
+00:00:05.150 --> 00:00:05.160 align:start position:0%
+series so today we're going to learn all
+ 
+
+00:00:05.160 --> 00:00:06.499 align:start position:0%
+series so today we're going to learn all
+about<00:00:05.190><c> how</c><00:00:05.580><c> the</c><00:00:05.640><c> people</c><00:00:05.940><c> applause</c><00:00:06.120><c> compiler</c>
+
+00:00:06.499 --> 00:00:06.509 align:start position:0%
+about how the people applause compiler
+ 
+
+00:00:06.509 --> 00:00:08.540 align:start position:0%
+about how the people applause compiler
+works<00:00:06.810><c> so</c><00:00:07.319><c> let's</c><00:00:07.440><c> take</c><00:00:07.680><c> a</c><00:00:07.710><c> step</c><00:00:07.859><c> back</c><00:00:08.309><c> and</c>
+
+00:00:08.540 --> 00:00:08.550 align:start position:0%
+works so let's take a step back and
+ 
+
+00:00:08.550 --> 00:00:10.580 align:start position:0%
+works so let's take a step back and
+think<00:00:08.910><c> about</c><00:00:09.000><c> this</c><00:00:09.389><c> for</c><00:00:09.900><c> a</c><00:00:09.929><c> minute</c><00:00:10.080><c> what</c><00:00:10.469><c> is</c>
+
+00:00:10.580 --> 00:00:10.590 align:start position:0%
+think about this for a minute what is
+ 
+
+00:00:10.590 --> 00:00:12.230 align:start position:0%
+think about this for a minute what is
+the<00:00:10.710><c> big</c><00:00:10.889><c> picture</c><00:00:11.130><c> here</c><00:00:11.519><c> what</c><00:00:11.759><c> is</c><00:00:11.940><c> a</c><00:00:11.969><c> simple</c>
+
+00:00:12.230 --> 00:00:12.240 align:start position:0%
+the big picture here what is a simple
+ 
+
+00:00:12.240 --> 00:00:14.150 align:start position:0%
+the big picture here what is a simple
+source<00:00:12.509><c> compiler</c><00:00:12.809><c> actually</c><00:00:13.139><c> responsible</c><00:00:13.980><c> for</c>
+
+00:00:14.150 --> 00:00:14.160 align:start position:0%
+source compiler actually responsible for
+ 
+
+00:00:14.160 --> 00:00:17.029 align:start position:0%
+source compiler actually responsible for
+so<00:00:14.700><c> we</c><00:00:14.820><c> write</c><00:00:15.000><c> our</c><00:00:15.179><c> C++</c><00:00:15.690><c> code</c><00:00:15.960><c> as</c><00:00:16.199><c> text</c><00:00:16.859><c> if</c>
+
+00:00:17.029 --> 00:00:17.039 align:start position:0%
+so we write our C++ code as text if
+ 
+
+00:00:17.039 --> 00:00:19.400 align:start position:0%
+so we write our C++ code as text if
+that's<00:00:17.789><c> all</c><00:00:17.970><c> it</c><00:00:18.119><c> is</c><00:00:18.150><c> it's</c><00:00:18.539><c> just</c><00:00:18.660><c> a</c><00:00:18.930><c> text</c><00:00:19.170><c> file</c>
+
+00:00:19.400 --> 00:00:19.410 align:start position:0%
+that's all it is it's just a text file
+ 
+
+00:00:19.410 --> 00:00:21.769 align:start position:0%
+that's all it is it's just a text file
+and<00:00:19.710><c> then</c><00:00:20.189><c> we</c><00:00:20.340><c> need</c><00:00:20.490><c> some</c><00:00:20.820><c> way</c><00:00:21.000><c> to</c><00:00:21.029><c> transform</c>
+
+00:00:21.769 --> 00:00:21.779 align:start position:0%
+and then we need some way to transform
+ 
+
+00:00:21.779 --> 00:00:23.359 align:start position:0%
+and then we need some way to transform
+that<00:00:21.990><c> text</c><00:00:22.529><c> into</c><00:00:22.859><c> an</c><00:00:22.949><c> actual</c><00:00:23.250><c> application</c>
+
+00:00:23.359 --> 00:00:23.369 align:start position:0%
+that text into an actual application
+ 
+
+00:00:23.369 --> 00:00:25.820 align:start position:0%
+that text into an actual application
+that<00:00:23.939><c> our</c><00:00:24.060><c> computer</c><00:00:24.420><c> can</c><00:00:24.570><c> run</c><00:00:24.779><c> in</c><00:00:25.170><c> going</c><00:00:25.619><c> from</c>
+
+00:00:25.820 --> 00:00:25.830 align:start position:0%
+that our computer can run in going from
+ 
+
+00:00:25.830 --> 00:00:27.920 align:start position:0%
+that our computer can run in going from
+that<00:00:26.010><c> text</c><00:00:26.490><c> form</c><00:00:26.730><c> to</c><00:00:26.970><c> an</c><00:00:27.090><c> actual</c><00:00:27.420><c> executable</c>
+
+00:00:27.920 --> 00:00:27.930 align:start position:0%
+that text form to an actual executable
+ 
+
+00:00:27.930 --> 00:00:30.349 align:start position:0%
+that text form to an actual executable
+binary<00:00:28.289><c> we</c><00:00:28.949><c> basically</c><00:00:29.310><c> have</c><00:00:29.670><c> two</c><00:00:30.060><c> main</c>
+
+00:00:30.349 --> 00:00:30.359 align:start position:0%
+binary we basically have two main
+ 
+
+00:00:30.359 --> 00:00:32.359 align:start position:0%
+binary we basically have two main
+operations<00:00:31.109><c> that</c><00:00:31.320><c> need</c><00:00:31.470><c> to</c><00:00:31.590><c> happen</c><00:00:31.769><c> one</c><00:00:32.340><c> of</c>
+
+00:00:32.359 --> 00:00:32.369 align:start position:0%
+operations that need to happen one of
+ 
+
+00:00:32.369 --> 00:00:34.250 align:start position:0%
+operations that need to happen one of
+them<00:00:32.579><c> is</c><00:00:32.700><c> called</c><00:00:32.850><c> compiling</c><00:00:33.360><c> and</c><00:00:33.750><c> one</c><00:00:34.079><c> of</c><00:00:34.170><c> them</c>
+
+00:00:34.250 --> 00:00:34.260 align:start position:0%
+them is called compiling and one of them
+ 
+
+00:00:34.260 --> 00:00:36.049 align:start position:0%
+them is called compiling and one of them
+is<00:00:34.350><c> called</c><00:00:34.559><c> linking</c><00:00:35.070><c> in</c><00:00:35.250><c> this</c><00:00:35.579><c> video</c><00:00:35.850><c> we're</c>
+
+00:00:36.049 --> 00:00:36.059 align:start position:0%
+is called linking in this video we're
+ 
+
+00:00:36.059 --> 00:00:37.819 align:start position:0%
+is called linking in this video we're
+just<00:00:36.090><c> going</c><00:00:36.480><c> to</c><00:00:36.510><c> talk</c><00:00:36.690><c> about</c><00:00:36.840><c> compiling</c><00:00:37.410><c> I've</c>
+
+00:00:37.819 --> 00:00:37.829 align:start position:0%
+just going to talk about compiling I've
+ 
+
+00:00:37.829 --> 00:00:39.709 align:start position:0%
+just going to talk about compiling I've
+actually<00:00:38.040><c> made</c><00:00:38.309><c> another</c><00:00:38.550><c> video</c><00:00:38.790><c> specifically</c>
+
+00:00:39.709 --> 00:00:39.719 align:start position:0%
+actually made another video specifically
+ 
+
+00:00:39.719 --> 00:00:41.209 align:start position:0%
+actually made another video specifically
+covering<00:00:40.020><c> linking</c><00:00:40.590><c> so</c><00:00:40.800><c> you</c><00:00:40.890><c> might</c><00:00:41.040><c> want</c><00:00:41.190><c> to</c>
+
+00:00:41.209 --> 00:00:41.219 align:start position:0%
+covering linking so you might want to
+ 
+
+00:00:41.219 --> 00:00:42.979 align:start position:0%
+covering linking so you might want to
+check<00:00:41.370><c> that</c><00:00:41.550><c> out</c><00:00:41.700><c> as</c><00:00:41.820><c> well</c><00:00:42.000><c> the</c><00:00:42.210><c> link</c><00:00:42.570><c> will</c><00:00:42.870><c> be</c>
+
+00:00:42.979 --> 00:00:42.989 align:start position:0%
+check that out as well the link will be
+ 
+
+00:00:42.989 --> 00:00:44.450 align:start position:0%
+check that out as well the link will be
+in<00:00:43.020><c> the</c><00:00:43.230><c> description</c><00:00:43.649><c> below</c><00:00:43.739><c> so</c><00:00:44.100><c> with</c><00:00:44.370><c> that</c>
+
+00:00:44.450 --> 00:00:44.460 align:start position:0%
+in the description below so with that
+ 
+
+00:00:44.460 --> 00:00:46.250 align:start position:0%
+in the description below so with that
+being<00:00:44.640><c> said</c><00:00:44.940><c> the</c><00:00:45.239><c> only</c><00:00:45.450><c> thing</c><00:00:45.600><c> that</c><00:00:45.719><c> the</c><00:00:45.809><c> C++</c>
+
+00:00:46.250 --> 00:00:46.260 align:start position:0%
+being said the only thing that the C++
+ 
+
+00:00:46.260 --> 00:00:48.350 align:start position:0%
+being said the only thing that the C++
+compiler<00:00:46.590><c> actually</c><00:00:47.010><c> needs</c><00:00:47.219><c> to</c><00:00:47.370><c> do</c><00:00:47.550><c> is</c><00:00:47.820><c> to</c><00:00:48.210><c> take</c>
+
+00:00:48.350 --> 00:00:48.360 align:start position:0%
+compiler actually needs to do is to take
+ 
+
+00:00:48.360 --> 00:00:50.299 align:start position:0%
+compiler actually needs to do is to take
+our<00:00:48.539><c> text</c><00:00:48.960><c> files</c><00:00:49.200><c> and</c><00:00:49.530><c> convert</c><00:00:49.739><c> them</c><00:00:49.980><c> into</c><00:00:50.160><c> an</c>
+
+00:00:50.299 --> 00:00:50.309 align:start position:0%
+our text files and convert them into an
+ 
+
+00:00:50.309 --> 00:00:52.549 align:start position:0%
+our text files and convert them into an
+intermediate<00:00:50.640><c> format</c><00:00:51.390><c> called</c><00:00:51.930><c> an</c><00:00:52.110><c> object</c>
+
+00:00:52.549 --> 00:00:52.559 align:start position:0%
+intermediate format called an object
+ 
+
+00:00:52.559 --> 00:00:54.170 align:start position:0%
+intermediate format called an object
+file<00:00:52.770><c> those</c><00:00:53.250><c> object</c><00:00:53.640><c> files</c><00:00:53.820><c> can</c><00:00:54.000><c> then</c><00:00:54.090><c> be</c>
+
+00:00:54.170 --> 00:00:54.180 align:start position:0%
+file those object files can then be
+ 
+
+00:00:54.180 --> 00:00:55.369 align:start position:0%
+file those object files can then be
+passed<00:00:54.390><c> onto</c><00:00:54.629><c> the</c><00:00:54.780><c> linker</c><00:00:55.050><c> and</c><00:00:55.079><c> the</c><00:00:55.199><c> link</c>
+
+00:00:55.369 --> 00:00:55.379 align:start position:0%
+passed onto the linker and the link
+ 
+
+00:00:55.379 --> 00:00:57.170 align:start position:0%
+passed onto the linker and the link
+could<00:00:55.559><c> do</c><00:00:55.649><c> all</c><00:00:55.800><c> of</c><00:00:55.829><c> its</c><00:00:55.980><c> linking</c><00:00:56.579><c> things</c><00:00:56.820><c> but</c>
+
+00:00:57.170 --> 00:00:57.180 align:start position:0%
+could do all of its linking things but
+ 
+
+00:00:57.180 --> 00:00:58.250 align:start position:0%
+could do all of its linking things but
+anyway<00:00:57.420><c> we're</c><00:00:57.570><c> talking</c><00:00:57.600><c> about</c><00:00:57.870><c> compiling</c>
+
+00:00:58.250 --> 00:00:58.260 align:start position:0%
+anyway we're talking about compiling
+ 
+
+00:00:58.260 --> 00:01:00.020 align:start position:0%
+anyway we're talking about compiling
+here<00:00:58.559><c> the</c><00:00:58.920><c> compiler</c><00:00:59.309><c> actually</c><00:00:59.430><c> does</c><00:00:59.730><c> several</c>
+
+00:01:00.020 --> 00:01:00.030 align:start position:0%
+here the compiler actually does several
+ 
+
+00:01:00.030 --> 00:01:02.360 align:start position:0%
+here the compiler actually does several
+things<00:01:00.180><c> when</c><00:01:00.629><c> it</c><00:01:00.719><c> produces</c><00:01:01.230><c> these</c><00:01:01.410><c> object</c>
+
+00:01:02.360 --> 00:01:02.370 align:start position:0%
+things when it produces these object
+ 
+
+00:01:02.370 --> 00:01:04.280 align:start position:0%
+things when it produces these object
+files<00:01:02.670><c> firstly</c><00:01:03.449><c> it</c><00:01:03.570><c> needs</c><00:01:03.750><c> to</c><00:01:03.899><c> pre-process</c>
+
+00:01:04.280 --> 00:01:04.290 align:start position:0%
+files firstly it needs to pre-process
+ 
+
+00:01:04.290 --> 00:01:06.370 align:start position:0%
+files firstly it needs to pre-process
+our<00:01:04.830><c> code</c><00:01:05.280><c> which</c><00:01:05.610><c> means</c><00:01:05.790><c> that</c><00:01:06.030><c> any</c>
+
+00:01:06.370 --> 00:01:06.380 align:start position:0%
+our code which means that any
+ 
+
+00:01:06.380 --> 00:01:08.810 align:start position:0%
+our code which means that any
+preprocessor<00:01:07.380><c> statements</c><00:01:07.920><c> get</c><00:01:08.100><c> evaluated</c>
+
+00:01:08.810 --> 00:01:08.820 align:start position:0%
+preprocessor statements get evaluated
+ 
+
+00:01:08.820 --> 00:01:10.429 align:start position:0%
+preprocessor statements get evaluated
+then<00:01:09.000><c> and</c><00:01:09.270><c> there</c><00:01:09.510><c> once</c><00:01:09.960><c> I've</c><00:01:10.110><c> heard</c><00:01:10.320><c> is</c>
+
+00:01:10.429 --> 00:01:10.439 align:start position:0%
+then and there once I've heard is
+ 
+
+00:01:10.439 --> 00:01:12.350 align:start position:0%
+then and there once I've heard is
+include<00:01:10.770><c> processed</c><00:01:11.280><c> we</c><00:01:11.549><c> move</c><00:01:11.729><c> on</c><00:01:11.880><c> to</c><00:01:12.060><c> more</c><00:01:12.270><c> or</c>
+
+00:01:12.350 --> 00:01:12.360 align:start position:0%
+include processed we move on to more or
+ 
+
+00:01:12.360 --> 00:01:14.539 align:start position:0%
+include processed we move on to more or
+less<00:01:12.500><c> tokenizing</c><00:01:13.500><c> and</c><00:01:13.860><c> pausing</c><00:01:14.369><c> and</c>
+
+00:01:14.539 --> 00:01:14.549 align:start position:0%
+less tokenizing and pausing and
+ 
+
+00:01:14.549 --> 00:01:17.270 align:start position:0%
+less tokenizing and pausing and
+basically<00:01:14.880><c> sorting</c><00:01:15.390><c> out</c><00:01:15.570><c> this</c><00:01:15.750><c> english</c><00:01:16.380><c> c++</c>
+
+00:01:17.270 --> 00:01:17.280 align:start position:0%
+basically sorting out this english c++
+ 
+
+00:01:17.280 --> 00:01:19.880 align:start position:0%
+basically sorting out this english c++
+language<00:01:17.729><c> into</c><00:01:18.689><c> a</c><00:01:18.900><c> format</c><00:01:19.350><c> that</c><00:01:19.530><c> the</c><00:01:19.619><c> compiler</c>
+
+00:01:19.880 --> 00:01:19.890 align:start position:0%
+language into a format that the compiler
+ 
+
+00:01:19.890 --> 00:01:21.710 align:start position:0%
+language into a format that the compiler
+can<00:01:20.189><c> actually</c><00:01:20.549><c> understand</c><00:01:21.060><c> and</c><00:01:21.240><c> reason</c><00:01:21.450><c> with</c>
+
+00:01:21.710 --> 00:01:21.720 align:start position:0%
+can actually understand and reason with
+ 
+
+00:01:21.720 --> 00:01:23.149 align:start position:0%
+can actually understand and reason with
+this<00:01:22.020><c> basically</c><00:01:22.350><c> results</c><00:01:22.560><c> in</c><00:01:22.860><c> something</c>
+
+00:01:23.149 --> 00:01:23.159 align:start position:0%
+this basically results in something
+ 
+
+00:01:23.159 --> 00:01:24.830 align:start position:0%
+this basically results in something
+called<00:01:23.250><c> an</c><00:01:23.400><c> abstract</c><00:01:23.729><c> syntax</c><00:01:24.150><c> tree</c><00:01:24.630><c> being</c>
+
+00:01:24.830 --> 00:01:24.840 align:start position:0%
+called an abstract syntax tree being
+ 
+
+00:01:24.840 --> 00:01:25.880 align:start position:0%
+called an abstract syntax tree being
+created<00:01:25.290><c> which</c><00:01:25.409><c> is</c><00:01:25.439><c> basically</c><00:01:25.799><c> a</c>
+
+00:01:25.880 --> 00:01:25.890 align:start position:0%
+created which is basically a
+ 
+
+00:01:25.890 --> 00:01:28.460 align:start position:0%
+created which is basically a
+representation<00:01:26.369><c> of</c><00:01:26.820><c> our</c><00:01:26.939><c> code</c><00:01:27.270><c> but</c><00:01:27.960><c> as</c><00:01:28.170><c> an</c>
+
+00:01:28.460 --> 00:01:28.470 align:start position:0%
+representation of our code but as an
+ 
+
+00:01:28.470 --> 00:01:30.530 align:start position:0%
+representation of our code but as an
+abstract<00:01:28.920><c> syntax</c><00:01:29.100><c> tree</c><00:01:29.549><c> the</c><00:01:29.880><c> compilers</c><00:01:30.299><c> job</c>
+
+00:01:30.530 --> 00:01:30.540 align:start position:0%
+abstract syntax tree the compilers job
+ 
+
+00:01:30.540 --> 00:01:32.719 align:start position:0%
+abstract syntax tree the compilers job
+at<00:01:30.750><c> the</c><00:01:30.930><c> end</c><00:01:31.110><c> of</c><00:01:31.259><c> the</c><00:01:31.380><c> day</c><00:01:31.560><c> is</c><00:01:31.860><c> to</c><00:01:32.100><c> convert</c><00:01:32.460><c> all</c>
+
+00:01:32.719 --> 00:01:32.729 align:start position:0%
+at the end of the day is to convert all
+ 
+
+00:01:32.729 --> 00:01:36.609 align:start position:0%
+at the end of the day is to convert all
+of<00:01:32.759><c> our</c><00:01:33.090><c> code</c><00:01:33.479><c> into</c><00:01:34.439><c> either</c><00:01:34.670><c> constant</c><00:01:35.670><c> data</c><00:01:35.939><c> or</c>
+
+00:01:36.609 --> 00:01:36.619 align:start position:0%
+of our code into either constant data or
+ 
+
+00:01:36.619 --> 00:01:38.660 align:start position:0%
+of our code into either constant data or
+instructions<00:01:37.619><c> once</c><00:01:38.159><c> the</c><00:01:38.280><c> compiler</c><00:01:38.579><c> has</c>
+
+00:01:38.660 --> 00:01:38.670 align:start position:0%
+instructions once the compiler has
+ 
+
+00:01:38.670 --> 00:01:41.210 align:start position:0%
+instructions once the compiler has
+created<00:01:39.180><c> this</c><00:01:39.270><c> abstract</c><00:01:39.840><c> syntax</c><00:01:40.020><c> tree</c><00:01:40.590><c> it</c><00:01:40.890><c> can</c>
+
+00:01:41.210 --> 00:01:41.220 align:start position:0%
+created this abstract syntax tree it can
+ 
+
+00:01:41.220 --> 00:01:43.280 align:start position:0%
+created this abstract syntax tree it can
+begin<00:01:41.369><c> actually</c><00:01:41.909><c> generating</c><00:01:42.450><c> code</c><00:01:42.689><c> now</c><00:01:43.079><c> this</c>
+
+00:01:43.280 --> 00:01:43.290 align:start position:0%
+begin actually generating code now this
+ 
+
+00:01:43.290 --> 00:01:45.289 align:start position:0%
+begin actually generating code now this
+code<00:01:43.560><c> is</c><00:01:43.860><c> going</c><00:01:44.070><c> to</c><00:01:44.159><c> be</c><00:01:44.340><c> the</c><00:01:44.490><c> actual</c><00:01:44.700><c> machine</c>
+
+00:01:45.289 --> 00:01:45.299 align:start position:0%
+code is going to be the actual machine
+ 
+
+00:01:45.299 --> 00:01:48.200 align:start position:0%
+code is going to be the actual machine
+code<00:01:45.810><c> that</c><00:01:46.140><c> our</c><00:01:46.259><c> CPU</c><00:01:46.829><c> will</c><00:01:47.100><c> execute</c><00:01:47.490><c> we</c><00:01:47.939><c> also</c>
+
+00:01:48.200 --> 00:01:48.210 align:start position:0%
+code that our CPU will execute we also
+ 
+
+00:01:48.210 --> 00:01:50.030 align:start position:0%
+code that our CPU will execute we also
+wind<00:01:48.420><c> up</c><00:01:48.570><c> with</c><00:01:48.750><c> various</c><00:01:49.110><c> other</c><00:01:49.290><c> data</c><00:01:49.619><c> such</c><00:01:50.009><c> as</c>
+
+00:01:50.030 --> 00:01:50.040 align:start position:0%
+wind up with various other data such as
+ 
+
+00:01:50.040 --> 00:01:51.980 align:start position:0%
+wind up with various other data such as
+a<00:01:50.369><c> place</c><00:01:50.670><c> to</c><00:01:50.850><c> store</c><00:01:51.060><c> all</c><00:01:51.210><c> of</c><00:01:51.240><c> our</c><00:01:51.420><c> constant</c>
+
+00:01:51.980 --> 00:01:51.990 align:start position:0%
+a place to store all of our constant
+ 
+
+00:01:51.990 --> 00:01:53.960 align:start position:0%
+a place to store all of our constant
+variables<00:01:52.590><c> and</c><00:01:52.710><c> that's</c><00:01:53.070><c> essentially</c><00:01:53.549><c> all</c><00:01:53.850><c> the</c>
+
+00:01:53.960 --> 00:01:53.970 align:start position:0%
+variables and that's essentially all the
+ 
+
+00:01:53.970 --> 00:01:56.270 align:start position:0%
+variables and that's essentially all the
+compiler<00:01:54.360><c> does</c><00:01:54.630><c> it's</c><00:01:54.960><c> not</c><00:01:55.229><c> crazy</c><00:01:55.770><c> complicated</c>
+
+00:01:56.270 --> 00:01:56.280 align:start position:0%
+compiler does it's not crazy complicated
+ 
+
+00:01:56.280 --> 00:01:58.730 align:start position:0%
+compiler does it's not crazy complicated
+it<00:01:56.820><c> of</c><00:01:57.060><c> course</c><00:01:57.270><c> dogs</c><00:01:57.719><c> get</c><00:01:58.049><c> very</c><00:01:58.350><c> complicated</c>
+
+00:01:58.730 --> 00:01:58.740 align:start position:0%
+it of course dogs get very complicated
+ 
+
+00:01:58.740 --> 00:02:01.550 align:start position:0%
+it of course dogs get very complicated
+as<00:01:59.189><c> your</c><00:01:59.490><c> actual</c><00:01:59.909><c> code</c><00:02:00.240><c> complexity</c><00:02:00.750><c> grows</c><00:02:01.079><c> but</c>
+
+00:02:01.550 --> 00:02:01.560 align:start position:0%
+as your actual code complexity grows but
+ 
+
+00:02:01.560 --> 00:02:03.050 align:start position:0%
+as your actual code complexity grows but
+that<00:02:01.770><c> is</c><00:02:01.920><c> the</c><00:02:02.070><c> gist</c><00:02:02.280><c> of</c><00:02:02.460><c> it</c><00:02:02.610><c> that's</c><00:02:02.790><c> all</c><00:02:03.000><c> that</c>
+
+00:02:03.050 --> 00:02:03.060 align:start position:0%
+that is the gist of it that's all that
+ 
+
+00:02:03.060 --> 00:02:04.819 align:start position:0%
+that is the gist of it that's all that
+it<00:02:03.420><c> does</c><00:02:03.600><c> we're</c><00:02:03.990><c> going</c><00:02:04.110><c> to</c><00:02:04.200><c> go</c><00:02:04.259><c> ahead</c><00:02:04.350><c> and</c><00:02:04.619><c> jump</c>
+
+00:02:04.819 --> 00:02:04.829 align:start position:0%
+it does we're going to go ahead and jump
+ 
+
+00:02:04.829 --> 00:02:06.380 align:start position:0%
+it does we're going to go ahead and jump
+into<00:02:05.040><c> this</c><00:02:05.280><c> and</c><00:02:05.340><c> take</c><00:02:05.729><c> a</c><00:02:05.759><c> look</c><00:02:05.850><c> at</c><00:02:06.060><c> what</c><00:02:06.240><c> each</c>
+
+00:02:06.380 --> 00:02:06.390 align:start position:0%
+into this and take a look at what each
+ 
+
+00:02:06.390 --> 00:02:08.630 align:start position:0%
+into this and take a look at what each
+stage<00:02:06.869><c> actually</c><00:02:07.200><c> does</c><00:02:07.770><c> so</c><00:02:08.039><c> that</c><00:02:08.160><c> you</c><00:02:08.250><c> guys</c><00:02:08.429><c> can</c>
+
+00:02:08.630 --> 00:02:08.640 align:start position:0%
+stage actually does so that you guys can
+ 
+
+00:02:08.640 --> 00:02:11.510 align:start position:0%
+stage actually does so that you guys can
+see<00:02:08.879><c> how</c><00:02:09.300><c> it</c><00:02:09.450><c> all</c><00:02:09.479><c> works</c><00:02:09.750><c> so</c><00:02:09.989><c> let's</c><00:02:10.379><c> go</c><00:02:10.590><c> ok</c><00:02:11.489><c> so</c>
+
+00:02:11.510 --> 00:02:11.520 align:start position:0%
+see how it all works so let's go ok so
+ 
+
+00:02:11.520 --> 00:02:12.979 align:start position:0%
+see how it all works so let's go ok so
+here<00:02:11.819><c> we've</c><00:02:11.940><c> got</c><00:02:11.970><c> a</c><00:02:12.090><c> simple</c><00:02:12.450><c> hello</c><00:02:12.720><c> world</c>
+
+00:02:12.979 --> 00:02:12.989 align:start position:0%
+here we've got a simple hello world
+ 
+
+00:02:12.989 --> 00:02:13.390 align:start position:0%
+here we've got a simple hello world
+application
+
+00:02:13.390 --> 00:02:13.400 align:start position:0%
+application
+ 
+
+00:02:13.400 --> 00:02:14.890 align:start position:0%
+application
+you<00:02:13.940><c> might</c><00:02:14.090><c> remember</c><00:02:14.269><c> this</c><00:02:14.480><c> from</c><00:02:14.659><c> the</c><00:02:14.750><c> house</c>
+
+00:02:14.890 --> 00:02:14.900 align:start position:0%
+you might remember this from the house
+ 
+
+00:02:14.900 --> 00:02:16.420 align:start position:0%
+you might remember this from the house
+tablecloth<00:02:15.409><c> Works</c><00:02:15.739><c> video</c><00:02:16.069><c> that</c><00:02:16.220><c> I</c><00:02:16.250><c> recently</c>
+
+00:02:16.420 --> 00:02:16.430 align:start position:0%
+tablecloth Works video that I recently
+ 
+
+00:02:16.430 --> 00:02:18.460 align:start position:0%
+tablecloth Works video that I recently
+made<00:02:16.849><c> we</c><00:02:17.180><c> basically</c><00:02:17.480><c> just</c><00:02:17.599><c> got</c><00:02:17.930><c> this</c><00:02:18.140><c> main</c>
+
+00:02:18.460 --> 00:02:18.470 align:start position:0%
+made we basically just got this main
+ 
+
+00:02:18.470 --> 00:02:20.500 align:start position:0%
+made we basically just got this main
+function<00:02:18.709><c> which</c><00:02:19.129><c> called</c><00:02:19.400><c> vlog</c><00:02:19.700><c> which</c><00:02:20.390><c> is</c>
+
+00:02:20.500 --> 00:02:20.510 align:start position:0%
+function which called vlog which is
+ 
+
+00:02:20.510 --> 00:02:21.970 align:start position:0%
+function which called vlog which is
+actually<00:02:20.780><c> defined</c><00:02:20.930><c> inside</c><00:02:21.409><c> this</c><00:02:21.530><c> log</c><00:02:21.769><c> does</c>
+
+00:02:21.970 --> 00:02:21.980 align:start position:0%
+actually defined inside this log does
+ 
+
+00:02:21.980 --> 00:02:23.680 align:start position:0%
+actually defined inside this log does
+typically<00:02:22.310><c> file</c><00:02:22.610><c> and</c><00:02:22.849><c> it</c><00:02:23.000><c> simply</c><00:02:23.269><c> just</c><00:02:23.420><c> prints</c>
+
+00:02:23.680 --> 00:02:23.690 align:start position:0%
+typically file and it simply just prints
+ 
+
+00:02:23.690 --> 00:02:25.420 align:start position:0%
+typically file and it simply just prints
+our<00:02:23.810><c> message</c><00:02:24.140><c> to</c><00:02:24.260><c> the</c><00:02:24.349><c> screen</c><00:02:24.650><c> and</c><00:02:24.860><c> we</c><00:02:25.040><c> wind</c><00:02:25.310><c> up</c>
+
+00:02:25.420 --> 00:02:25.430 align:start position:0%
+our message to the screen and we wind up
+ 
+
+00:02:25.430 --> 00:02:27.190 align:start position:0%
+our message to the screen and we wind up
+with<00:02:25.489><c> a</c><00:02:25.730><c> simple</c><00:02:26.120><c> application</c><00:02:26.690><c> which</c><00:02:27.019><c> says</c>
+
+00:02:27.190 --> 00:02:27.200 align:start position:0%
+with a simple application which says
+ 
+
+00:02:27.200 --> 00:02:28.930 align:start position:0%
+with a simple application which says
+hello<00:02:27.440><c> world</c><00:02:27.590><c> if</c><00:02:27.860><c> we</c><00:02:28.129><c> pop</c><00:02:28.310><c> over</c><00:02:28.459><c> into</c><00:02:28.790><c> our</c>
+
+00:02:28.930 --> 00:02:28.940 align:start position:0%
+hello world if we pop over into our
+ 
+
+00:02:28.940 --> 00:02:30.729 align:start position:0%
+hello world if we pop over into our
+output<00:02:29.360><c> directory</c><00:02:29.780><c> to</c><00:02:29.900><c> debug</c><00:02:30.230><c> here</c><00:02:30.470><c> you</c><00:02:30.590><c> can</c>
+
+00:02:30.729 --> 00:02:30.739 align:start position:0%
+output directory to debug here you can
+ 
+
+00:02:30.739 --> 00:02:32.110 align:start position:0%
+output directory to debug here you can
+see<00:02:30.860><c> that</c><00:02:31.010><c> it's</c><00:02:31.129><c> generated</c><00:02:31.489><c> a</c><00:02:31.579><c> hello</c><00:02:31.760><c> world</c>
+
+00:02:32.110 --> 00:02:32.120 align:start position:0%
+see that it's generated a hello world
+ 
+
+00:02:32.120 --> 00:02:34.180 align:start position:0%
+see that it's generated a hello world
+exe<00:02:32.659><c> file</c><00:02:32.870><c> and</c><00:02:33.170><c> then</c><00:02:33.379><c> back</c><00:02:33.560><c> in</c><00:02:33.709><c> the</c><00:02:33.739><c> project</c>
+
+00:02:34.180 --> 00:02:34.190 align:start position:0%
+exe file and then back in the project
+ 
+
+00:02:34.190 --> 00:02:36.339 align:start position:0%
+exe file and then back in the project
+directory<00:02:34.280><c> in</c><00:02:34.790><c> debug</c><00:02:35.180><c> its</c><00:02:35.450><c> generated</c><00:02:35.989><c> a</c><00:02:36.079><c> means</c>
+
+00:02:36.339 --> 00:02:36.349 align:start position:0%
+directory in debug its generated a means
+ 
+
+00:02:36.349 --> 00:02:38.890 align:start position:0%
+directory in debug its generated a means
+or<00:02:36.470><c> obj</c><00:02:36.890><c> and</c><00:02:36.920><c> load</c><00:02:37.310><c> obj</c><00:02:37.879><c> file</c><00:02:38.120><c> so</c><00:02:38.690><c> what</c><00:02:38.840><c> the</c>
+
+00:02:38.890 --> 00:02:38.900 align:start position:0%
+or obj and load obj file so what the
+ 
+
+00:02:38.900 --> 00:02:40.690 align:start position:0%
+or obj and load obj file so what the
+compiler<00:02:39.079><c> has</c><00:02:39.319><c> done</c><00:02:39.500><c> is</c><00:02:39.739><c> as</c><00:02:39.950><c> generated</c><00:02:40.370><c> object</c>
+
+00:02:40.690 --> 00:02:40.700 align:start position:0%
+compiler has done is as generated object
+ 
+
+00:02:40.700 --> 00:02:42.940 align:start position:0%
+compiler has done is as generated object
+files<00:02:40.909><c> for</c><00:02:41.180><c> each</c><00:02:41.390><c> of</c><00:02:41.659><c> our</c><00:02:41.780><c> C++</c><00:02:42.349><c> files</c><00:02:42.590><c> for</c><00:02:42.920><c> each</c>
+
+00:02:42.940 --> 00:02:42.950 align:start position:0%
+files for each of our C++ files for each
+ 
+
+00:02:42.950 --> 00:02:45.309 align:start position:0%
+files for each of our C++ files for each
+of<00:02:43.159><c> our</c><00:02:43.220><c> translation</c><00:02:43.819><c> units</c><00:02:44.090><c> now</c><00:02:44.480><c> every</c><00:02:44.840><c> CPP</c>
+
+00:02:45.309 --> 00:02:45.319 align:start position:0%
+of our translation units now every CPP
+ 
+
+00:02:45.319 --> 00:02:47.020 align:start position:0%
+of our translation units now every CPP
+file<00:02:45.560><c> that</c><00:02:45.739><c> our</c><00:02:45.829><c> project</c><00:02:46.280><c> contains</c><00:02:46.700><c> that</c><00:02:46.879><c> we</c>
+
+00:02:47.020 --> 00:02:47.030 align:start position:0%
+file that our project contains that we
+ 
+
+00:02:47.030 --> 00:02:49.420 align:start position:0%
+file that our project contains that we
+actually<00:02:47.510><c> tell</c><00:02:47.750><c> the</c><00:02:47.900><c> compiler</c><00:02:48.230><c> hey</c><00:02:48.859><c> compile</c>
+
+00:02:49.420 --> 00:02:49.430 align:start position:0%
+actually tell the compiler hey compile
+ 
+
+00:02:49.430 --> 00:02:51.880 align:start position:0%
+actually tell the compiler hey compile
+this<00:02:49.640><c> CPP</c><00:02:50.150><c> file</c><00:02:50.390><c> every</c><00:02:51.230><c> single</c><00:02:51.560><c> one</c><00:02:51.650><c> of</c><00:02:51.769><c> those</c>
+
+00:02:51.880 --> 00:02:51.890 align:start position:0%
+this CPP file every single one of those
+ 
+
+00:02:51.890 --> 00:02:54.069 align:start position:0%
+this CPP file every single one of those
+files<00:02:52.190><c> will</c><00:02:52.700><c> result</c><00:02:53.060><c> in</c><00:02:53.269><c> an</c><00:02:53.390><c> object</c><00:02:53.840><c> file</c>
+
+00:02:54.069 --> 00:02:54.079 align:start position:0%
+files will result in an object file
+ 
+
+00:02:54.079 --> 00:02:55.869 align:start position:0%
+files will result in an object file
+these<00:02:54.440><c> CPP</c><00:02:54.859><c> files</c><00:02:55.129><c> are</c><00:02:55.370><c> things</c><00:02:55.670><c> called</c>
+
+00:02:55.869 --> 00:02:55.879 align:start position:0%
+these CPP files are things called
+ 
+
+00:02:55.879 --> 00:02:58.509 align:start position:0%
+these CPP files are things called
+translation<00:02:56.840><c> units</c><00:02:57.230><c> essentially</c><00:02:57.890><c> you</c><00:02:58.370><c> have</c>
+
+00:02:58.509 --> 00:02:58.519 align:start position:0%
+translation units essentially you have
+ 
+
+00:02:58.519 --> 00:03:00.640 align:start position:0%
+translation units essentially you have
+to<00:02:58.700><c> realize</c><00:02:59.030><c> that</c><00:02:59.329><c> these</c><00:02:59.780><c> both</c><00:02:59.989><c> love</c><00:03:00.200><c> doesn't</c>
+
+00:03:00.640 --> 00:03:00.650 align:start position:0%
+to realize that these both love doesn't
+ 
+
+00:03:00.650 --> 00:03:02.440 align:start position:0%
+to realize that these both love doesn't
+care<00:03:00.829><c> about</c><00:03:00.920><c> files</c><00:03:01.250><c> files</c><00:03:01.819><c> are</c><00:03:02.060><c> not</c><00:03:02.150><c> something</c>
+
+00:03:02.440 --> 00:03:02.450 align:start position:0%
+care about files files are not something
+ 
+
+00:03:02.450 --> 00:03:05.199 align:start position:0%
+care about files files are not something
+that<00:03:02.599><c> exists</c><00:03:03.230><c> in</c><00:03:03.379><c> C++</c><00:03:04.040><c> for</c><00:03:04.430><c> example</c><00:03:04.790><c> in</c><00:03:04.909><c> Java</c>
+
+00:03:05.199 --> 00:03:05.209 align:start position:0%
+that exists in C++ for example in Java
+ 
+
+00:03:05.209 --> 00:03:07.479 align:start position:0%
+that exists in C++ for example in Java
+your<00:03:05.870><c> class</c><00:03:06.140><c> name</c><00:03:06.440><c> has</c><00:03:06.709><c> to</c><00:03:06.859><c> be</c><00:03:06.980><c> tied</c><00:03:07.190><c> to</c><00:03:07.220><c> your</c>
+
+00:03:07.479 --> 00:03:07.489 align:start position:0%
+your class name has to be tied to your
+ 
+
+00:03:07.489 --> 00:03:09.190 align:start position:0%
+your class name has to be tied to your
+file<00:03:07.730><c> name</c><00:03:07.940><c> and</c><00:03:08.060><c> your</c><00:03:08.180><c> folder</c><00:03:08.540><c> hierarchy</c><00:03:08.720><c> has</c>
+
+00:03:09.190 --> 00:03:09.200 align:start position:0%
+file name and your folder hierarchy has
+ 
+
+00:03:09.200 --> 00:03:10.569 align:start position:0%
+file name and your folder hierarchy has
+to<00:03:09.319><c> be</c><00:03:09.409><c> tied</c><00:03:09.650><c> to</c><00:03:09.769><c> your</c><00:03:09.829><c> package</c><00:03:10.280><c> and</c><00:03:10.400><c> there's</c>
+
+00:03:10.569 --> 00:03:10.579 align:start position:0%
+to be tied to your package and there's
+ 
+
+00:03:10.579 --> 00:03:12.490 align:start position:0%
+to be tied to your package and there's
+all<00:03:10.670><c> this</c><00:03:10.879><c> going</c><00:03:11.209><c> on</c><00:03:11.329><c> because</c><00:03:11.569><c> Java</c><00:03:11.930><c> expects</c>
+
+00:03:12.490 --> 00:03:12.500 align:start position:0%
+all this going on because Java expects
+ 
+
+00:03:12.500 --> 00:03:15.250 align:start position:0%
+all this going on because Java expects
+certain<00:03:13.129><c> files</c><00:03:13.370><c> to</c><00:03:13.579><c> exist</c><00:03:13.970><c> in</c><00:03:14.180><c> C++</c><00:03:14.900><c> that</c><00:03:14.930><c> is</c>
+
+00:03:15.250 --> 00:03:15.260 align:start position:0%
+certain files to exist in C++ that is
+ 
+
+00:03:15.260 --> 00:03:16.990 align:start position:0%
+certain files to exist in C++ that is
+not<00:03:15.530><c> the</c><00:03:15.680><c> case</c><00:03:15.890><c> there</c><00:03:16.129><c> is</c><00:03:16.220><c> no</c><00:03:16.340><c> such</c><00:03:16.370><c> thing</c><00:03:16.819><c> as</c><00:03:16.849><c> a</c>
+
+00:03:16.990 --> 00:03:17.000 align:start position:0%
+not the case there is no such thing as a
+ 
+
+00:03:17.000 --> 00:03:19.960 align:start position:0%
+not the case there is no such thing as a
+file<00:03:17.389><c> a</c><00:03:17.690><c> file</c><00:03:18.230><c> is</c><00:03:18.500><c> just</c><00:03:18.709><c> a</c><00:03:18.859><c> way</c><00:03:19.040><c> to</c><00:03:19.099><c> feed</c><00:03:19.609><c> the</c>
+
+00:03:19.960 --> 00:03:19.970 align:start position:0%
+file a file is just a way to feed the
+ 
+
+00:03:19.970 --> 00:03:22.240 align:start position:0%
+file a file is just a way to feed the
+compiler<00:03:20.540><c> with</c><00:03:20.900><c> source</c><00:03:21.560><c> code</c><00:03:21.799><c> you're</c>
+
+00:03:22.240 --> 00:03:22.250 align:start position:0%
+compiler with source code you're
+ 
+
+00:03:22.250 --> 00:03:23.650 align:start position:0%
+compiler with source code you're
+responsible<00:03:22.819><c> for</c><00:03:22.880><c> telling</c><00:03:23.269><c> the</c><00:03:23.329><c> compiler</c>
+
+00:03:23.650 --> 00:03:23.660 align:start position:0%
+responsible for telling the compiler
+ 
+
+00:03:23.660 --> 00:03:26.289 align:start position:0%
+responsible for telling the compiler
+what<00:03:24.109><c> kind</c><00:03:24.500><c> of</c><00:03:24.680><c> file</c><00:03:24.919><c> type</c><00:03:25.190><c> this</c><00:03:25.430><c> is</c><00:03:25.609><c> and</c><00:03:25.819><c> how</c>
+
+00:03:26.289 --> 00:03:26.299 align:start position:0%
+what kind of file type this is and how
+ 
+
+00:03:26.299 --> 00:03:27.759 align:start position:0%
+what kind of file type this is and how
+the<00:03:26.359><c> compiler</c><00:03:26.720><c> should</c><00:03:27.019><c> treat</c><00:03:27.230><c> that</c><00:03:27.440><c> now</c><00:03:27.680><c> of</c>
+
+00:03:27.759 --> 00:03:27.769 align:start position:0%
+the compiler should treat that now of
+ 
+
+00:03:27.769 --> 00:03:29.110 align:start position:0%
+the compiler should treat that now of
+course<00:03:27.980><c> if</c><00:03:28.099><c> you</c><00:03:28.190><c> create</c><00:03:28.459><c> a</c><00:03:28.489><c> file</c><00:03:28.790><c> with</c><00:03:28.819><c> the</c>
+
+00:03:29.110 --> 00:03:29.120 align:start position:0%
+course if you create a file with the
+ 
+
+00:03:29.120 --> 00:03:31.930 align:start position:0%
+course if you create a file with the
+extension<00:03:29.569><c> CPP</c><00:03:30.169><c> the</c><00:03:30.769><c> compiler</c><00:03:31.430><c> is</c><00:03:31.609><c> going</c><00:03:31.819><c> to</c>
+
+00:03:31.930 --> 00:03:31.940 align:start position:0%
+extension CPP the compiler is going to
+ 
+
+00:03:31.940 --> 00:03:34.479 align:start position:0%
+extension CPP the compiler is going to
+treat<00:03:32.180><c> that</c><00:03:32.359><c> as</c><00:03:32.510><c> a</c><00:03:32.599><c> C++</c><00:03:33.290><c> file</c><00:03:33.530><c> similarly</c><00:03:34.160><c> if</c><00:03:34.340><c> I</c>
+
+00:03:34.479 --> 00:03:34.489 align:start position:0%
+treat that as a C++ file similarly if I
+ 
+
+00:03:34.489 --> 00:03:36.490 align:start position:0%
+treat that as a C++ file similarly if I
+make<00:03:34.669><c> a</c><00:03:34.700><c> file</c><00:03:35.000><c> with</c><00:03:35.209><c> the</c><00:03:35.239><c> extension</c><00:03:35.569><c> dot</c><00:03:35.870><c> C</c><00:03:36.230><c> or</c>
+
+00:03:36.490 --> 00:03:36.500 align:start position:0%
+make a file with the extension dot C or
+ 
+
+00:03:36.500 --> 00:03:38.530 align:start position:0%
+make a file with the extension dot C or
+dot<00:03:36.739><c> H</c><00:03:36.950><c> the</c><00:03:37.519><c> compiler</c><00:03:37.879><c> is</c><00:03:37.970><c> going</c><00:03:38.090><c> to</c><00:03:38.150><c> treat</c><00:03:38.389><c> the</c>
+
+00:03:38.530 --> 00:03:38.540 align:start position:0%
+dot H the compiler is going to treat the
+ 
+
+00:03:38.540 --> 00:03:40.629 align:start position:0%
+dot H the compiler is going to treat the
+dot<00:03:38.690><c> C</c><00:03:38.930><c> file</c><00:03:39.200><c> like</c><00:03:39.709><c> a</c><00:03:39.739><c> C</c><00:03:40.040><c> file</c><00:03:40.340><c> and</c><00:03:40.519><c> not</c><00:03:40.579><c> a</c>
+
+00:03:40.629 --> 00:03:40.639 align:start position:0%
+dot C file like a C file and not a
+ 
+
+00:03:40.639 --> 00:03:42.400 align:start position:0%
+dot C file like a C file and not a
+people<00:03:40.970><c> spot</c><00:03:41.180><c> file</c><00:03:41.419><c> and</c><00:03:41.660><c> it's</c><00:03:42.079><c> going</c><00:03:42.169><c> to</c><00:03:42.260><c> treat</c>
+
+00:03:42.400 --> 00:03:42.410 align:start position:0%
+people spot file and it's going to treat
+ 
+
+00:03:42.410 --> 00:03:44.349 align:start position:0%
+people spot file and it's going to treat
+the<00:03:42.500><c> dot</c><00:03:42.650><c> H</c><00:03:42.829><c> file</c><00:03:43.129><c> like</c><00:03:43.370><c> a</c><00:03:43.400><c> header</c><00:03:43.669><c> file</c><00:03:43.940><c> these</c>
+
+00:03:44.349 --> 00:03:44.359 align:start position:0%
+the dot H file like a header file these
+ 
+
+00:03:44.359 --> 00:03:45.849 align:start position:0%
+the dot H file like a header file these
+are<00:03:44.510><c> basically</c><00:03:44.750><c> just</c><00:03:44.989><c> default</c><00:03:45.230><c> conventions</c>
+
+00:03:45.849 --> 00:03:45.859 align:start position:0%
+are basically just default conventions
+ 
+
+00:03:45.859 --> 00:03:47.439 align:start position:0%
+are basically just default conventions
+that<00:03:46.010><c> are</c><00:03:46.069><c> in</c><00:03:46.220><c> place</c><00:03:46.459><c> you</c><00:03:46.489><c> can</c><00:03:46.790><c> override</c><00:03:47.090><c> any</c>
+
+00:03:47.439 --> 00:03:47.449 align:start position:0%
+that are in place you can override any
+ 
+
+00:03:47.449 --> 00:03:49.089 align:start position:0%
+that are in place you can override any
+of<00:03:47.569><c> them</c><00:03:47.810><c> and</c><00:03:47.959><c> that's</c><00:03:48.049><c> just</c><00:03:48.470><c> how</c><00:03:48.620><c> the</c><00:03:48.680><c> compiler</c>
+
+00:03:49.089 --> 00:03:49.099 align:start position:0%
+of them and that's just how the compiler
+ 
+
+00:03:49.099 --> 00:03:50.800 align:start position:0%
+of them and that's just how the compiler
+will<00:03:49.280><c> deal</c><00:03:49.730><c> with</c><00:03:49.760><c> it</c><00:03:50.000><c> if</c><00:03:50.120><c> you</c><00:03:50.239><c> don't</c><00:03:50.419><c> tell</c><00:03:50.690><c> it</c>
+
+00:03:50.800 --> 00:03:50.810 align:start position:0%
+will deal with it if you don't tell it
+ 
+
+00:03:50.810 --> 00:03:52.180 align:start position:0%
+will deal with it if you don't tell it
+how<00:03:50.930><c> to</c><00:03:50.959><c> deal</c><00:03:51.199><c> with</c><00:03:51.230><c> it</c><00:03:51.500><c> I</c><00:03:51.620><c> could</c><00:03:51.949><c> go</c><00:03:52.069><c> around</c>
+
+00:03:52.180 --> 00:03:52.190 align:start position:0%
+how to deal with it I could go around
+ 
+
+00:03:52.190 --> 00:03:54.129 align:start position:0%
+how to deal with it I could go around
+making<00:03:52.519><c> sure</c><00:03:52.669><c> no</c><00:03:53.120><c> files</c><00:03:53.480><c> and</c><00:03:53.750><c> telling</c><00:03:54.049><c> the</c>
+
+00:03:54.129 --> 00:03:54.139 align:start position:0%
+making sure no files and telling the
+ 
+
+00:03:54.139 --> 00:03:55.360 align:start position:0%
+making sure no files and telling the
+compiler<00:03:54.440><c> to</c><00:03:54.500><c> compile</c><00:03:54.829><c> that</c><00:03:55.040><c> and</c><00:03:55.220><c> that</c><00:03:55.310><c> would</c>
+
+00:03:55.360 --> 00:03:55.370 align:start position:0%
+compiler to compile that and that would
+ 
+
+00:03:55.370 --> 00:03:57.039 align:start position:0%
+compiler to compile that and that would
+be<00:03:55.430><c> totally</c><00:03:55.790><c> fine</c><00:03:55.819><c> as</c><00:03:56.209><c> long</c><00:03:56.569><c> as</c><00:03:56.690><c> I</c><00:03:56.750><c> tell</c><00:03:56.959><c> the</c>
+
+00:03:57.039 --> 00:03:57.049 align:start position:0%
+be totally fine as long as I tell the
+ 
+
+00:03:57.049 --> 00:03:59.830 align:start position:0%
+be totally fine as long as I tell the
+compiler<00:03:57.319><c> hey</c><00:03:58.010><c> this</c><00:03:58.459><c> file</c><00:03:58.790><c> is</c><00:03:59.060><c> a</c><00:03:59.090><c> C++</c><00:03:59.629><c> file</c>
+
+00:03:59.830 --> 00:03:59.840 align:start position:0%
+compiler hey this file is a C++ file
+ 
+
+00:03:59.840 --> 00:04:02.140 align:start position:0%
+compiler hey this file is a C++ file
+please<00:04:00.139><c> compile</c><00:04:00.500><c> it</c><00:04:00.650><c> like</c><00:04:00.919><c> a</c><00:04:00.949><c> C++</c><00:04:01.519><c> file</c><00:04:01.730><c> so</c>
+
+00:04:02.140 --> 00:04:02.150 align:start position:0%
+please compile it like a C++ file so
+ 
+
+00:04:02.150 --> 00:04:04.949 align:start position:0%
+please compile it like a C++ file so
+just<00:04:02.329><c> remember</c><00:04:02.480><c> files</c><00:04:03.079><c> have</c><00:04:03.319><c> no</c><00:04:03.530><c> meaning</c><00:04:03.949><c> ok</c>
+
+00:04:04.949 --> 00:04:04.959 align:start position:0%
+just remember files have no meaning ok
+ 
+
+00:04:04.959 --> 00:04:07.720 align:start position:0%
+just remember files have no meaning ok
+remember<00:04:05.959><c> that</c><00:04:06.109><c> important</c><00:04:06.889><c> so</c><00:04:07.430><c> that</c><00:04:07.549><c> being</c>
+
+00:04:07.720 --> 00:04:07.730 align:start position:0%
+remember that important so that being
+ 
+
+00:04:07.730 --> 00:04:09.789 align:start position:0%
+remember that important so that being
+said<00:04:07.819><c> every</c><00:04:08.180><c> C++</c><00:04:08.540><c> file</c><00:04:09.019><c> that</c><00:04:09.169><c> we</c><00:04:09.260><c> feed</c><00:04:09.500><c> into</c>
+
+00:04:09.789 --> 00:04:09.799 align:start position:0%
+said every C++ file that we feed into
+ 
+
+00:04:09.799 --> 00:04:11.319 align:start position:0%
+said every C++ file that we feed into
+the<00:04:09.949><c> compiler</c><00:04:10.310><c> and</c><00:04:10.519><c> we</c><00:04:10.639><c> tell</c><00:04:10.849><c> it</c><00:04:10.879><c> this</c><00:04:11.060><c> is</c><00:04:11.209><c> a</c>
+
+00:04:11.319 --> 00:04:11.329 align:start position:0%
+the compiler and we tell it this is a
+ 
+
+00:04:11.329 --> 00:04:12.970 align:start position:0%
+the compiler and we tell it this is a
+C++<00:04:11.810><c> file</c><00:04:11.989><c> please</c><00:04:12.199><c> compile</c><00:04:12.560><c> it</c><00:04:12.709><c> it</c><00:04:12.829><c> will</c>
+
+00:04:12.970 --> 00:04:12.980 align:start position:0%
+C++ file please compile it it will
+ 
+
+00:04:12.980 --> 00:04:15.250 align:start position:0%
+C++ file please compile it it will
+compile<00:04:13.340><c> it</c><00:04:13.489><c> as</c><00:04:13.639><c> a</c><00:04:13.669><c> translation</c><00:04:14.510><c> unit</c><00:04:14.810><c> and</c><00:04:14.989><c> a</c>
+
+00:04:15.250 --> 00:04:15.260 align:start position:0%
+compile it as a translation unit and a
+ 
+
+00:04:15.260 --> 00:04:17.500 align:start position:0%
+compile it as a translation unit and a
+translation<00:04:15.769><c> unit</c><00:04:16.310><c> will</c><00:04:16.579><c> result</c><00:04:16.970><c> in</c><00:04:17.150><c> an</c>
+
+00:04:17.500 --> 00:04:17.510 align:start position:0%
+translation unit will result in an
+ 
+
+00:04:17.510 --> 00:04:19.420 align:start position:0%
+translation unit will result in an
+object<00:04:18.019><c> file</c><00:04:18.289><c> it's</c><00:04:18.709><c> actually</c><00:04:18.979><c> quite</c><00:04:19.130><c> common</c>
+
+00:04:19.420 --> 00:04:19.430 align:start position:0%
+object file it's actually quite common
+ 
+
+00:04:19.430 --> 00:04:21.909 align:start position:0%
+object file it's actually quite common
+to<00:04:19.669><c> sometimes</c><00:04:20.120><c> include</c><00:04:20.660><c> CPP</c><00:04:21.199><c> files</c><00:04:21.440><c> in</c><00:04:21.650><c> other</c>
+
+00:04:21.909 --> 00:04:21.919 align:start position:0%
+to sometimes include CPP files in other
+ 
+
+00:04:21.919 --> 00:04:24.580 align:start position:0%
+to sometimes include CPP files in other
+CPP<00:04:22.430><c> files</c><00:04:22.700><c> and</c><00:04:23.000><c> create</c><00:04:23.810><c> basically</c><00:04:24.200><c> one</c><00:04:24.560><c> big</c>
+
+00:04:24.580 --> 00:04:24.590 align:start position:0%
+CPP files and create basically one big
+ 
+
+00:04:24.590 --> 00:04:26.680 align:start position:0%
+CPP files and create basically one big
+CPP<00:04:25.580><c> file</c><00:04:25.789><c> with</c><00:04:26.060><c> a</c><00:04:26.090><c> lot</c><00:04:26.390><c> of</c>
+
+00:04:26.680 --> 00:04:26.690 align:start position:0%
+CPP file with a lot of
+ 
+
+00:04:26.690 --> 00:04:28.180 align:start position:0%
+CPP file with a lot of
+Isles<00:04:26.810><c> in</c><00:04:26.990><c> it</c><00:04:27.110><c> if</c><00:04:27.290><c> you</c><00:04:27.650><c> do</c><00:04:27.770><c> something</c><00:04:28.070><c> like</c>
+
+00:04:28.180 --> 00:04:28.190 align:start position:0%
+Isles in it if you do something like
+ 
+
+00:04:28.190 --> 00:04:29.860 align:start position:0%
+Isles in it if you do something like
+that<00:04:28.250><c> and</c><00:04:28.700><c> then</c><00:04:28.820><c> you</c><00:04:28.940><c> only</c><00:04:29.120><c> compile</c><00:04:29.540><c> the</c><00:04:29.690><c> one</c>
+
+00:04:29.860 --> 00:04:29.870 align:start position:0%
+that and then you only compile the one
+ 
+
+00:04:29.870 --> 00:04:31.600 align:start position:0%
+that and then you only compile the one
+CPP<00:04:30.320><c> file</c><00:04:30.560><c> you're</c><00:04:31.070><c> going</c><00:04:31.310><c> to</c><00:04:31.430><c> basically</c>
+
+00:04:31.600 --> 00:04:31.610 align:start position:0%
+CPP file you're going to basically
+ 
+
+00:04:31.610 --> 00:04:33.760 align:start position:0%
+CPP file you're going to basically
+result<00:04:32.150><c> in</c><00:04:32.330><c> one</c><00:04:32.630><c> translation</c><00:04:33.320><c> unit</c><00:04:33.590><c> and</c>
+
+00:04:33.760 --> 00:04:33.770 align:start position:0%
+result in one translation unit and
+ 
+
+00:04:33.770 --> 00:04:35.980 align:start position:0%
+result in one translation unit and
+that's<00:04:34.310><c> one</c><00:04:34.700><c> object</c><00:04:35.120><c> file</c><00:04:35.330><c> so</c><00:04:35.690><c> that's</c><00:04:35.870><c> why</c>
+
+00:04:35.980 --> 00:04:35.990 align:start position:0%
+that's one object file so that's why
+ 
+
+00:04:35.990 --> 00:04:37.450 align:start position:0%
+that's one object file so that's why
+there's<00:04:36.260><c> that</c><00:04:36.380><c> terminology</c><00:04:36.830><c> split</c><00:04:37.310><c> between</c>
+
+00:04:37.450 --> 00:04:37.460 align:start position:0%
+there's that terminology split between
+ 
+
+00:04:37.460 --> 00:04:39.640 align:start position:0%
+there's that terminology split between
+water<00:04:38.240><c> translation</c><00:04:38.780><c> unit</c><00:04:38.990><c> is</c><00:04:39.140><c> and</c><00:04:39.410><c> what</c><00:04:39.560><c> does</c>
+
+00:04:39.640 --> 00:04:39.650 align:start position:0%
+water translation unit is and what does
+ 
+
+00:04:39.650 --> 00:04:41.560 align:start position:0%
+water translation unit is and what does
+it<00:04:39.770><c> BP</c><00:04:39.950><c> file</c><00:04:40.130><c> actually</c><00:04:40.460><c> is</c><00:04:40.580><c> because</c><00:04:40.880><c> typically</c>
+
+00:04:41.560 --> 00:04:41.570 align:start position:0%
+it BP file actually is because typically
+ 
+
+00:04:41.570 --> 00:04:43.480 align:start position:0%
+it BP file actually is because typically
+file<00:04:41.810><c> doesn't</c><00:04:42.020><c> necessarily</c><00:04:42.650><c> have</c><00:04:42.890><c> to</c><00:04:42.920><c> equal</c><00:04:43.430><c> a</c>
+
+00:04:43.480 --> 00:04:43.490 align:start position:0%
+file doesn't necessarily have to equal a
+ 
+
+00:04:43.490 --> 00:04:45.130 align:start position:0%
+file doesn't necessarily have to equal a
+translation<00:04:44.000><c> unit</c><00:04:44.240><c> however</c><00:04:44.720><c> if</c><00:04:44.990><c> you</c><00:04:45.110><c> just</c>
+
+00:04:45.130 --> 00:04:45.140 align:start position:0%
+translation unit however if you just
+ 
+
+00:04:45.140 --> 00:04:47.320 align:start position:0%
+translation unit however if you just
+make<00:04:45.500><c> a</c><00:04:45.530><c> project</c><00:04:45.830><c> with</c><00:04:46.220><c> individual</c><00:04:46.730><c> CPP</c><00:04:47.090><c> files</c>
+
+00:04:47.320 --> 00:04:47.330 align:start position:0%
+make a project with individual CPP files
+ 
+
+00:04:47.330 --> 00:04:48.970 align:start position:0%
+make a project with individual CPP files
+and<00:04:47.570><c> you</c><00:04:47.660><c> never</c><00:04:47.870><c> include</c><00:04:48.380><c> them</c><00:04:48.560><c> in</c><00:04:48.680><c> each</c><00:04:48.800><c> other</c>
+
+00:04:48.970 --> 00:04:48.980 align:start position:0%
+and you never include them in each other
+ 
+
+00:04:48.980 --> 00:04:51.220 align:start position:0%
+and you never include them in each other
+then<00:04:49.460><c> yet</c><00:04:49.730><c> every</c><00:04:50.270><c> security</c><00:04:50.480><c> file</c><00:04:50.840><c> will</c><00:04:51.080><c> be</c><00:04:51.200><c> a</c>
+
+00:04:51.220 --> 00:04:51.230 align:start position:0%
+then yet every security file will be a
+ 
+
+00:04:51.230 --> 00:04:53.770 align:start position:0%
+then yet every security file will be a
+translation<00:04:51.800><c> unit</c><00:04:52.070><c> and</c><00:04:52.220><c> every</c><00:04:52.730><c> CPP</c><00:04:53.270><c> file</c><00:04:53.480><c> will</c>
+
+00:04:53.770 --> 00:04:53.780 align:start position:0%
+translation unit and every CPP file will
+ 
+
+00:04:53.780 --> 00:04:55.450 align:start position:0%
+translation unit and every CPP file will
+generate<00:04:54.170><c> an</c><00:04:54.320><c> object</c><00:04:54.380><c> file</c><00:04:54.830><c> now</c><00:04:55.160><c> these</c><00:04:55.310><c> are</c>
+
+00:04:55.450 --> 00:04:55.460 align:start position:0%
+generate an object file now these are
+ 
+
+00:04:55.460 --> 00:04:56.710 align:start position:0%
+generate an object file now these are
+actually<00:04:55.550><c> pretty</c><00:04:55.850><c> big</c><00:04:56.150><c> you</c><00:04:56.330><c> can</c><00:04:56.450><c> see</c><00:04:56.600><c> this</c>
+
+00:04:56.710 --> 00:04:56.720 align:start position:0%
+actually pretty big you can see this
+ 
+
+00:04:56.720 --> 00:04:58.540 align:start position:0%
+actually pretty big you can see this
+one's<00:04:56.930><c> 30</c><00:04:57.230><c> kilobytes</c><00:04:57.560><c> in</c><00:04:57.860><c> this</c><00:04:57.950><c> one</c><00:04:58.100><c> 46</c>
+
+00:04:58.540 --> 00:04:58.550 align:start position:0%
+one's 30 kilobytes in this one 46
+ 
+
+00:04:58.550 --> 00:05:00.400 align:start position:0%
+one's 30 kilobytes in this one 46
+kilobytes<00:04:58.970><c> the</c><00:04:59.390><c> reason</c><00:04:59.660><c> to</c><00:04:59.810><c> that</c><00:04:59.960><c> is</c><00:05:00.140><c> because</c>
+
+00:05:00.400 --> 00:05:00.410 align:start position:0%
+kilobytes the reason to that is because
+ 
+
+00:05:00.410 --> 00:05:02.350 align:start position:0%
+kilobytes the reason to that is because
+we're<00:05:00.560><c> including</c><00:05:00.980><c> iOS</c><00:05:01.100><c> stream</c><00:05:01.550><c> and</c><00:05:01.760><c> that</c><00:05:01.820><c> has</c>
+
+00:05:02.350 --> 00:05:02.360 align:start position:0%
+we're including iOS stream and that has
+ 
+
+00:05:02.360 --> 00:05:03.910 align:start position:0%
+we're including iOS stream and that has
+a<00:05:02.390><c> lot</c><00:05:02.840><c> of</c><00:05:02.870><c> self</c><00:05:03.200><c> in</c><00:05:03.350><c> it</c><00:05:03.470><c> so</c><00:05:03.620><c> that's</c><00:05:03.770><c> why</c>
+
+00:05:03.910 --> 00:05:03.920 align:start position:0%
+a lot of self in it so that's why
+ 
+
+00:05:03.920 --> 00:05:05.560 align:start position:0%
+a lot of self in it so that's why
+they're<00:05:04.100><c> so</c><00:05:04.130><c> big</c><00:05:04.640><c> and</c><00:05:04.850><c> because</c><00:05:05.180><c> of</c><00:05:05.420><c> that</c>
+
+00:05:05.560 --> 00:05:05.570 align:start position:0%
+they're so big and because of that
+ 
+
+00:05:05.570 --> 00:05:07.030 align:start position:0%
+they're so big and because of that
+they're<00:05:05.870><c> actually</c><00:05:06.140><c> pretty</c><00:05:06.260><c> complicated</c><00:05:06.650><c> so</c>
+
+00:05:07.030 --> 00:05:07.040 align:start position:0%
+they're actually pretty complicated so
+ 
+
+00:05:07.040 --> 00:05:08.380 align:start position:0%
+they're actually pretty complicated so
+before<00:05:07.310><c> we</c><00:05:07.430><c> dive</c><00:05:07.580><c> in</c><00:05:07.790><c> and</c><00:05:07.880><c> take</c><00:05:08.030><c> a</c><00:05:08.060><c> look</c><00:05:08.300><c> at</c>
+
+00:05:08.380 --> 00:05:08.390 align:start position:0%
+before we dive in and take a look at
+ 
+
+00:05:08.390 --> 00:05:10.450 align:start position:0%
+before we dive in and take a look at
+what's<00:05:08.630><c> actually</c><00:05:08.840><c> in</c><00:05:09.200><c> the</c><00:05:09.350><c> file</c><00:05:09.590><c> let's</c><00:05:10.250><c> create</c>
+
+00:05:10.450 --> 00:05:10.460 align:start position:0%
+what's actually in the file let's create
+ 
+
+00:05:10.460 --> 00:05:12.160 align:start position:0%
+what's actually in the file let's create
+something<00:05:10.700><c> a</c><00:05:10.910><c> little</c><00:05:11.330><c> bit</c><00:05:11.480><c> more</c><00:05:11.630><c> simple</c><00:05:11.870><c> I'm</c>
+
+00:05:12.160 --> 00:05:12.170 align:start position:0%
+something a little bit more simple I'm
+ 
+
+00:05:12.170 --> 00:05:13.570 align:start position:0%
+something a little bit more simple I'm
+going<00:05:12.230><c> to</c><00:05:12.410><c> right</c><00:05:12.530><c> click</c><00:05:12.560><c> on</c><00:05:12.800><c> full</c><00:05:13.040><c> file</c><00:05:13.310><c> hit</c>
+
+00:05:13.570 --> 00:05:13.580 align:start position:0%
+going to right click on full file hit
+ 
+
+00:05:13.580 --> 00:05:16.150 align:start position:0%
+going to right click on full file hit
+add<00:05:13.730><c> new</c><00:05:14.090><c> item</c><00:05:14.450><c> it</c><00:05:14.600><c> is</c><00:05:15.050><c> going</c><00:05:15.290><c> to</c><00:05:15.410><c> be</c><00:05:15.500><c> a</c><00:05:15.530><c> C++</c>
+
+00:05:16.150 --> 00:05:16.160 align:start position:0%
+add new item it is going to be a C++
+ 
+
+00:05:16.160 --> 00:05:18.670 align:start position:0%
+add new item it is going to be a C++
+file<00:05:16.370><c> I'm</c><00:05:16.670><c> going</c><00:05:16.820><c> to</c><00:05:16.880><c> call</c><00:05:17.090><c> it</c><00:05:17.240><c> math</c><00:05:18.080><c> fill</c>
+
+00:05:18.670 --> 00:05:18.680 align:start position:0%
+file I'm going to call it math fill
+ 
+
+00:05:18.680 --> 00:05:20.500 align:start position:0%
+file I'm going to call it math fill
+favorite<00:05:19.010><c> eat</c><00:05:19.160><c> and</c><00:05:19.340><c> hit</c><00:05:19.670><c> add</c><00:05:19.850><c> over</c><00:05:20.270><c> here</c><00:05:20.450><c> I'm</c>
+
+00:05:20.500 --> 00:05:20.510 align:start position:0%
+favorite eat and hit add over here I'm
+ 
+
+00:05:20.510 --> 00:05:21.520 align:start position:0%
+favorite eat and hit add over here I'm
+just<00:05:20.600><c> going</c><00:05:20.750><c> to</c><00:05:20.840><c> write</c><00:05:20.990><c> a</c><00:05:21.020><c> very</c><00:05:21.080><c> basic</c>
+
+00:05:21.520 --> 00:05:21.530 align:start position:0%
+just going to write a very basic
+ 
+
+00:05:21.530 --> 00:05:23.590 align:start position:0%
+just going to write a very basic
+multiply<00:05:22.220><c> function</c><00:05:22.460><c> which</c><00:05:22.850><c> multiplies</c><00:05:23.300><c> two</c>
+
+00:05:23.590 --> 00:05:23.600 align:start position:0%
+multiply function which multiplies two
+ 
+
+00:05:23.600 --> 00:05:25.090 align:start position:0%
+multiply function which multiplies two
+numbers<00:05:24.050><c> together</c><00:05:24.230><c> I'm</c><00:05:24.560><c> not</c><00:05:24.620><c> going</c><00:05:24.920><c> to</c>
+
+00:05:25.090 --> 00:05:25.100 align:start position:0%
+numbers together I'm not going to
+ 
+
+00:05:25.100 --> 00:05:26.890 align:start position:0%
+numbers together I'm not going to
+include<00:05:25.730><c> any</c><00:05:25.970><c> files</c><00:05:26.270><c> in</c><00:05:26.450><c> here</c><00:05:26.660><c> or</c><00:05:26.780><c> anything</c>
+
+00:05:26.890 --> 00:05:26.900 align:start position:0%
+include any files in here or anything
+ 
+
+00:05:26.900 --> 00:05:28.060 align:start position:0%
+include any files in here or anything
+I'm<00:05:27.110><c> just</c><00:05:27.170><c> going</c><00:05:27.380><c> to</c><00:05:27.440><c> write</c><00:05:27.530><c> a</c><00:05:27.560><c> very</c><00:05:27.620><c> simple</c>
+
+00:05:28.060 --> 00:05:28.070 align:start position:0%
+I'm just going to write a very simple
+ 
+
+00:05:28.070 --> 00:05:29.500 align:start position:0%
+I'm just going to write a very simple
+function<00:05:28.220><c> it's</c><00:05:28.700><c> going</c><00:05:28.850><c> to</c><00:05:28.940><c> return</c><00:05:29.120><c> an</c><00:05:29.240><c> integer</c>
+
+00:05:29.500 --> 00:05:29.510 align:start position:0%
+function it's going to return an integer
+ 
+
+00:05:29.510 --> 00:05:31.870 align:start position:0%
+function it's going to return an integer
+it's<00:05:29.990><c> going</c><00:05:30.170><c> to</c><00:05:30.230><c> be</c><00:05:30.320><c> called</c><00:05:30.530><c> multiply</c><00:05:31.070><c> it's</c>
+
+00:05:31.870 --> 00:05:31.880 align:start position:0%
+it's going to be called multiply it's
+ 
+
+00:05:31.880 --> 00:05:33.909 align:start position:0%
+it's going to be called multiply it's
+going<00:05:32.000><c> to</c><00:05:32.090><c> take</c><00:05:32.210><c> two</c><00:05:32.390><c> parameters</c><00:05:32.870><c> int</c><00:05:33.080><c> a</c><00:05:33.740><c> and</c>
+
+00:05:33.909 --> 00:05:33.919 align:start position:0%
+going to take two parameters int a and
+ 
+
+00:05:33.919 --> 00:05:37.330 align:start position:0%
+going to take two parameters int a and
+int<00:05:34.100><c> B</c><00:05:35.200><c> it's</c><00:05:36.200><c> then</c><00:05:36.380><c> going</c><00:05:36.620><c> to</c><00:05:36.650><c> create</c><00:05:36.830><c> a</c><00:05:37.010><c> result</c>
+
+00:05:37.330 --> 00:05:37.340 align:start position:0%
+int B it's then going to create a result
+ 
+
+00:05:37.340 --> 00:05:39.880 align:start position:0%
+int B it's then going to create a result
+variable<00:05:37.910><c> which</c><00:05:38.090><c> stores</c><00:05:38.120><c> the</c><00:05:39.110><c> result</c><00:05:39.470><c> of</c><00:05:39.650><c> a</c>
+
+00:05:39.880 --> 00:05:39.890 align:start position:0%
+variable which stores the result of a
+ 
+
+00:05:39.890 --> 00:05:42.010 align:start position:0%
+variable which stores the result of a
+times<00:05:40.190><c> B</c><00:05:40.310><c> and</c><00:05:40.640><c> then</c><00:05:41.360><c> we're</c><00:05:41.510><c> going</c><00:05:41.630><c> to</c><00:05:41.750><c> return</c>
+
+00:05:42.010 --> 00:05:42.020 align:start position:0%
+times B and then we're going to return
+ 
+
+00:05:42.020 --> 00:05:44.110 align:start position:0%
+times B and then we're going to return
+that<00:05:42.080><c> result</c><00:05:42.530><c> variable</c><00:05:42.800><c> nice</c><00:05:43.610><c> and</c><00:05:43.820><c> simple</c>
+
+00:05:44.110 --> 00:05:44.120 align:start position:0%
+that result variable nice and simple
+ 
+
+00:05:44.120 --> 00:05:44.680 align:start position:0%
+that result variable nice and simple
+that's<00:05:44.300><c> it</c>
+
+00:05:44.680 --> 00:05:44.690 align:start position:0%
+that's it
+ 
+
+00:05:44.690 --> 00:05:46.330 align:start position:0%
+that's it
+let's<00:05:44.990><c> hit</c><00:05:45.080><c> control</c><00:05:45.440><c> seven</c><00:05:45.800><c> to</c><00:05:45.919><c> build</c><00:05:46.220><c> that</c>
+
+00:05:46.330 --> 00:05:46.340 align:start position:0%
+let's hit control seven to build that
+ 
+
+00:05:46.340 --> 00:05:48.610 align:start position:0%
+let's hit control seven to build that
+file<00:05:46.840><c> you</c><00:05:47.840><c> can</c><00:05:47.990><c> see</c><00:05:48.080><c> over</c><00:05:48.230><c> here</c><00:05:48.260><c> that</c><00:05:48.410><c> it's</c>
+
+00:05:48.610 --> 00:05:48.620 align:start position:0%
+file you can see over here that it's
+ 
+
+00:05:48.620 --> 00:05:49.960 align:start position:0%
+file you can see over here that it's
+built<00:05:48.770><c> it</c><00:05:48.890><c> successfully</c><00:05:49.400><c> I'm</c><00:05:49.580><c> actually</c><00:05:49.760><c> going</c>
+
+00:05:49.960 --> 00:05:49.970 align:start position:0%
+built it successfully I'm actually going
+ 
+
+00:05:49.970 --> 00:05:51.400 align:start position:0%
+built it successfully I'm actually going
+to<00:05:50.060><c> just</c><00:05:50.150><c> resize</c><00:05:50.600><c> littlez</c><00:05:50.960><c> to</c><00:05:51.050><c> do</c><00:05:51.140><c> a</c><00:05:51.169><c> little</c>
+
+00:05:51.400 --> 00:05:51.410 align:start position:0%
+to just resize littlez to do a little
+ 
+
+00:05:51.410 --> 00:05:52.990 align:start position:0%
+to just resize littlez to do a little
+bit<00:05:51.530><c> just</c><00:05:51.710><c> to</c><00:05:51.770><c> make</c><00:05:51.860><c> it</c><00:05:52.040><c> easier</c><00:05:52.340><c> so</c><00:05:52.790><c> now</c><00:05:52.940><c> you</c>
+
+00:05:52.990 --> 00:05:53.000 align:start position:0%
+bit just to make it easier so now you
+ 
+
+00:05:53.000 --> 00:05:54.820 align:start position:0%
+bit just to make it easier so now you
+can<00:05:53.240><c> see</c><00:05:53.419><c> the</c><00:05:53.630><c> output</c><00:05:54.140><c> window</c><00:05:54.380><c> a</c><00:05:54.530><c> bit</c><00:05:54.650><c> better</c>
+
+00:05:54.820 --> 00:05:54.830 align:start position:0%
+can see the output window a bit better
+ 
+
+00:05:54.830 --> 00:05:56.500 align:start position:0%
+can see the output window a bit better
+if<00:05:55.040><c> we</c><00:05:55.190><c> look</c><00:05:55.340><c> back</c><00:05:55.490><c> into</c><00:05:55.700><c> our</c><00:05:55.970><c> output</c>
+
+00:05:56.500 --> 00:05:56.510 align:start position:0%
+if we look back into our output
+ 
+
+00:05:56.510 --> 00:05:57.670 align:start position:0%
+if we look back into our output
+directory<00:05:56.960><c> you</c><00:05:57.020><c> can</c><00:05:57.110><c> see</c><00:05:57.290><c> that</c><00:05:57.440><c> we've</c><00:05:57.560><c> got</c>
+
+00:05:57.670 --> 00:05:57.680 align:start position:0%
+directory you can see that we've got
+ 
+
+00:05:57.680 --> 00:06:00.130 align:start position:0%
+directory you can see that we've got
+this<00:05:57.890><c> mouse</c><00:05:58.280><c> or</c><00:05:58.490><c> obj</c><00:05:58.820><c> file</c><00:05:59.030><c> now</c><00:05:59.210><c> and</c><00:05:59.450><c> it's</c><00:05:59.960><c> four</c>
+
+00:06:00.130 --> 00:06:00.140 align:start position:0%
+this mouse or obj file now and it's four
+ 
+
+00:06:00.140 --> 00:06:01.810 align:start position:0%
+this mouse or obj file now and it's four
+kilobyte<00:06:00.500><c> before</c><00:06:01.070><c> we</c><00:06:01.160><c> take</c><00:06:01.340><c> a</c><00:06:01.370><c> look</c><00:06:01.550><c> at</c><00:06:01.669><c> what</c>
+
+00:06:01.810 --> 00:06:01.820 align:start position:0%
+kilobyte before we take a look at what
+ 
+
+00:06:01.820 --> 00:06:03.940 align:start position:0%
+kilobyte before we take a look at what
+exactly<00:06:02.030><c> is</c><00:06:02.270><c> in</c><00:06:02.450><c> that</c><00:06:02.510><c> object</c><00:06:02.930><c> file</c><00:06:03.350><c> let's</c>
+
+00:06:03.940 --> 00:06:03.950 align:start position:0%
+exactly is in that object file let's
+ 
+
+00:06:03.950 --> 00:06:05.110 align:start position:0%
+exactly is in that object file let's
+talk<00:06:04.100><c> about</c><00:06:04.220><c> the</c><00:06:04.430><c> first</c><00:06:04.700><c> stage</c><00:06:05.030><c> of</c>
+
+00:06:05.110 --> 00:06:05.120 align:start position:0%
+talk about the first stage of
+ 
+
+00:06:05.120 --> 00:06:06.600 align:start position:0%
+talk about the first stage of
+compilation<00:06:05.540><c> which</c><00:06:05.870><c> I</c><00:06:05.990><c> mentioned</c><00:06:06.290><c> earlier</c>
+
+00:06:06.600 --> 00:06:06.610 align:start position:0%
+compilation which I mentioned earlier
+ 
+
+00:06:06.610 --> 00:06:08.830 align:start position:0%
+compilation which I mentioned earlier
+pre-processing<00:06:07.610><c> during</c><00:06:08.150><c> the</c><00:06:08.240><c> pre-processing</c>
+
+00:06:08.830 --> 00:06:08.840 align:start position:0%
+pre-processing during the pre-processing
+ 
+
+00:06:08.840 --> 00:06:10.210 align:start position:0%
+pre-processing during the pre-processing
+stage<00:06:09.140><c> the</c><00:06:09.380><c> compiler</c><00:06:09.680><c> will</c><00:06:09.860><c> basically</c><00:06:10.010><c> just</c>
+
+00:06:10.210 --> 00:06:10.220 align:start position:0%
+stage the compiler will basically just
+ 
+
+00:06:10.220 --> 00:06:11.980 align:start position:0%
+stage the compiler will basically just
+go<00:06:10.490><c> through</c><00:06:10.790><c> all</c><00:06:10.970><c> of</c><00:06:11.000><c> our</c><00:06:11.240><c> pre-processing</c>
+
+00:06:11.980 --> 00:06:11.990 align:start position:0%
+go through all of our pre-processing
+ 
+
+00:06:11.990 --> 00:06:14.140 align:start position:0%
+go through all of our pre-processing
+statements<00:06:12.650><c> and</c><00:06:12.770><c> evaluate</c><00:06:13.580><c> them</c><00:06:13.760><c> the</c><00:06:14.000><c> ones</c>
+
+00:06:14.140 --> 00:06:14.150 align:start position:0%
+statements and evaluate them the ones
+ 
+
+00:06:14.150 --> 00:06:16.510 align:start position:0%
+statements and evaluate them the ones
+that<00:06:14.300><c> we</c><00:06:14.390><c> commonly</c><00:06:14.720><c> use</c><00:06:14.810><c> are</c><00:06:15.200><c> include</c><00:06:15.800><c> define</c>
+
+00:06:16.510 --> 00:06:16.520 align:start position:0%
+that we commonly use are include define
+ 
+
+00:06:16.520 --> 00:06:19.030 align:start position:0%
+that we commonly use are include define
+F<00:06:17.090><c> and</c><00:06:17.540><c> F</c><00:06:17.660><c> def</c><00:06:17.930><c> there</c><00:06:18.290><c> are</c><00:06:18.380><c> also</c><00:06:18.500><c> pragma</c>
+
+00:06:19.030 --> 00:06:19.040 align:start position:0%
+F and F def there are also pragma
+ 
+
+00:06:19.040 --> 00:06:20.110 align:start position:0%
+F and F def there are also pragma
+statements<00:06:19.490><c> which</c><00:06:19.610><c> tell</c><00:06:19.820><c> the</c><00:06:19.910><c> compiler</c>
+
+00:06:20.110 --> 00:06:20.120 align:start position:0%
+statements which tell the compiler
+ 
+
+00:06:20.120 --> 00:06:21.610 align:start position:0%
+statements which tell the compiler
+exactly<00:06:20.630><c> what</c><00:06:20.780><c> to</c><00:06:20.900><c> do</c><00:06:20.990><c> but</c><00:06:21.020><c> we'll</c><00:06:21.350><c> talk</c><00:06:21.500><c> about</c>
+
+00:06:21.610 --> 00:06:21.620 align:start position:0%
+exactly what to do but we'll talk about
+ 
+
+00:06:21.620 --> 00:06:23.350 align:start position:0%
+exactly what to do but we'll talk about
+them<00:06:21.860><c> in</c><00:06:22.040><c> other</c><00:06:22.160><c> video</c><00:06:22.520><c> so</c><00:06:22.820><c> let's</c><00:06:22.970><c> take</c><00:06:23.090><c> a</c><00:06:23.120><c> look</c>
+
+00:06:23.350 --> 00:06:23.360 align:start position:0%
+them in other video so let's take a look
+ 
+
+00:06:23.360 --> 00:06:25.060 align:start position:0%
+them in other video so let's take a look
+at<00:06:23.480><c> one</c><00:06:23.720><c> of</c><00:06:23.750><c> the</c><00:06:23.870><c> most</c><00:06:24.050><c> common</c><00:06:24.440><c> preprocessor</c>
+
+00:06:25.060 --> 00:06:25.070 align:start position:0%
+at one of the most common preprocessor
+ 
+
+00:06:25.070 --> 00:06:27.580 align:start position:0%
+at one of the most common preprocessor
+statements<00:06:25.520><c> that</c><00:06:25.610><c> we</c><00:06:25.730><c> have</c><00:06:25.940><c> hash</c><00:06:26.540><c> include</c><00:06:27.080><c> how</c>
+
+00:06:27.580 --> 00:06:27.590 align:start position:0%
+statements that we have hash include how
+ 
+
+00:06:27.590 --> 00:06:29.200 align:start position:0%
+statements that we have hash include how
+does<00:06:27.710><c> that</c><00:06:27.830><c> work</c><00:06:28.010><c> so</c><00:06:28.310><c> hash</c><00:06:28.610><c> include'</c><00:06:28.970><c> is</c>
+
+00:06:29.200 --> 00:06:29.210 align:start position:0%
+does that work so hash include' is
+ 
+
+00:06:29.210 --> 00:06:31.540 align:start position:0%
+does that work so hash include' is
+actually<00:06:29.870><c> really</c><00:06:30.410><c> simple</c><00:06:30.740><c> you</c><00:06:31.190><c> basically</c>
+
+00:06:31.540 --> 00:06:31.550 align:start position:0%
+actually really simple you basically
+ 
+
+00:06:31.550 --> 00:06:33.190 align:start position:0%
+actually really simple you basically
+specify<00:06:31.940><c> which</c><00:06:32.240><c> file</c><00:06:32.480><c> you</c><00:06:32.510><c> want</c><00:06:32.810><c> to</c><00:06:32.930><c> include</c>
+
+00:06:33.190 --> 00:06:33.200 align:start position:0%
+specify which file you want to include
+ 
+
+00:06:33.200 --> 00:06:35.350 align:start position:0%
+specify which file you want to include
+and<00:06:33.620><c> then</c><00:06:33.770><c> the</c><00:06:33.860><c> preprocessor</c><00:06:34.190><c> will</c><00:06:34.729><c> open</c><00:06:35.240><c> that</c>
+
+00:06:35.350 --> 00:06:35.360 align:start position:0%
+and then the preprocessor will open that
+ 
+
+00:06:35.360 --> 00:06:38.050 align:start position:0%
+and then the preprocessor will open that
+file<00:06:35.660><c> read</c><00:06:36.320><c> all</c><00:06:36.560><c> of</c><00:06:36.680><c> its</c><00:06:36.800><c> contents</c><00:06:37.370><c> and</c><00:06:37.490><c> just</c>
+
+00:06:38.050 --> 00:06:38.060 align:start position:0%
+file read all of its contents and just
+ 
+
+00:06:38.060 --> 00:06:39.730 align:start position:0%
+file read all of its contents and just
+paste<00:06:38.300><c> it</c><00:06:38.600><c> into</c><00:06:38.780><c> the</c><00:06:38.990><c> file</c><00:06:39.200><c> where</c><00:06:39.440><c> you</c><00:06:39.560><c> bro</c>
+
+00:06:39.730 --> 00:06:39.740 align:start position:0%
+paste it into the file where you bro
+ 
+
+00:06:39.740 --> 00:06:40.210 align:start position:0%
+paste it into the file where you bro
+your
+
+00:06:40.210 --> 00:06:40.220 align:start position:0%
+your
+ 
+
+00:06:40.220 --> 00:06:42.040 align:start position:0%
+your
+statement<00:06:40.670><c> and</c><00:06:40.820><c> that's</c><00:06:41.030><c> it</c><00:06:41.240><c> it's</c><00:06:41.480><c> really</c>
+
+00:06:42.040 --> 00:06:42.050 align:start position:0%
+statement and that's it it's really
+ 
+
+00:06:42.050 --> 00:06:43.840 align:start position:0%
+statement and that's it it's really
+really<00:06:42.590><c> simple</c><00:06:43.010><c> and</c><00:06:43.220><c> I'm</c><00:06:43.370><c> about</c><00:06:43.550><c> to</c><00:06:43.670><c> prove</c>
+
+00:06:43.840 --> 00:06:43.850 align:start position:0%
+really simple and I'm about to prove
+ 
+
+00:06:43.850 --> 00:06:45.730 align:start position:0%
+really simple and I'm about to prove
+that<00:06:44.060><c> so</c><00:06:44.420><c> that's</c><00:06:44.600><c> over</c><00:06:44.750><c> here</c><00:06:45.050><c> I'm</c><00:06:45.320><c> just</c><00:06:45.560><c> going</c>
+
+00:06:45.730 --> 00:06:45.740 align:start position:0%
+that so that's over here I'm just going
+ 
+
+00:06:45.740 --> 00:06:47.290 align:start position:0%
+that so that's over here I'm just going
+to<00:06:45.800><c> make</c><00:06:45.980><c> a</c><00:06:46.160><c> header</c><00:06:46.490><c> file</c><00:06:46.790><c> I'm</c><00:06:46.970><c> gonna</c><00:06:47.120><c> right</c>
+
+00:06:47.290 --> 00:06:47.300 align:start position:0%
+to make a header file I'm gonna right
+ 
+
+00:06:47.300 --> 00:06:48.940 align:start position:0%
+to make a header file I'm gonna right
+click<00:06:47.330><c> on</c><00:06:47.540><c> the</c><00:06:47.600><c> header</c><00:06:47.720><c> file</c><00:06:47.930><c> to</c><00:06:48.050><c> get</c><00:06:48.140><c> add</c><00:06:48.290><c> new</c>
+
+00:06:48.940 --> 00:06:48.950 align:start position:0%
+click on the header file to get add new
+ 
+
+00:06:48.950 --> 00:06:50.770 align:start position:0%
+click on the header file to get add new
+item<00:06:49.430><c> is</c><00:06:49.610><c> going</c><00:06:49.850><c> to</c><00:06:49.910><c> be</c><00:06:49.970><c> a</c><00:06:50.060><c> header</c><00:06:50.240><c> file</c><00:06:50.510><c> and</c>
+
+00:06:50.770 --> 00:06:50.780 align:start position:0%
+item is going to be a header file and
+ 
+
+00:06:50.780 --> 00:06:54.040 align:start position:0%
+item is going to be a header file and
+I'm<00:06:51.020><c> going</c><00:06:51.170><c> to</c><00:06:51.200><c> call</c><00:06:51.410><c> it</c><00:06:51.590><c> and</c><00:06:51.790><c> brace</c><00:06:52.790><c> and</c><00:06:53.150><c> then</c>
+
+00:06:54.040 --> 00:06:54.050 align:start position:0%
+I'm going to call it and brace and then
+ 
+
+00:06:54.050 --> 00:06:55.750 align:start position:0%
+I'm going to call it and brace and then
+click<00:06:54.290><c> Add</c><00:06:54.470><c> ok</c><00:06:55.070><c> we're</c><00:06:55.160><c> going</c><00:06:55.250><c> to</c><00:06:55.340><c> wipe</c><00:06:55.520><c> out</c>
+
+00:06:55.750 --> 00:06:55.760 align:start position:0%
+click Add ok we're going to wipe out
+ 
+
+00:06:55.760 --> 00:06:57.850 align:start position:0%
+click Add ok we're going to wipe out
+whatever<00:06:56.000><c> was</c><00:06:56.390><c> in</c><00:06:56.630><c> this</c><00:06:56.750><c> file</c><00:06:57.050><c> and</c><00:06:57.380><c> I'm</c><00:06:57.500><c> just</c>
+
+00:06:57.850 --> 00:06:57.860 align:start position:0%
+whatever was in this file and I'm just
+ 
+
+00:06:57.860 --> 00:06:59.920 align:start position:0%
+whatever was in this file and I'm just
+going<00:06:58.100><c> to</c><00:06:58.130><c> type</c><00:06:58.400><c> in</c><00:06:58.580><c> a</c><00:06:58.700><c> closing</c><00:06:59.330><c> curly</c><00:06:59.540><c> brace</c>
+
+00:06:59.920 --> 00:06:59.930 align:start position:0%
+going to type in a closing curly brace
+ 
+
+00:06:59.930 --> 00:07:02.710 align:start position:0%
+going to type in a closing curly brace
+that<00:07:00.350><c> is</c><00:07:00.710><c> it</c><00:07:01.040><c> that's</c><00:07:01.520><c> our</c><00:07:01.700><c> entire</c><00:07:01.970><c> file</c><00:07:02.300><c> so</c><00:07:02.600><c> now</c>
+
+00:07:02.710 --> 00:07:02.720 align:start position:0%
+that is it that's our entire file so now
+ 
+
+00:07:02.720 --> 00:07:04.990 align:start position:0%
+that is it that's our entire file so now
+back<00:07:02.960><c> in</c><00:07:03.290><c> master</c><00:07:03.950><c> CPP</c><00:07:04.370><c> you</c><00:07:04.550><c> can</c><00:07:04.670><c> see</c><00:07:04.790><c> that</c><00:07:04.910><c> we</c>
+
+00:07:04.990 --> 00:07:05.000 align:start position:0%
+back in master CPP you can see that we
+ 
+
+00:07:05.000 --> 00:07:06.970 align:start position:0%
+back in master CPP you can see that we
+have<00:07:05.090><c> reasonably</c><00:07:05.600><c> written</c><00:07:06.020><c> a</c><00:07:06.170><c> closing</c><00:07:06.800><c> curly</c>
+
+00:07:06.970 --> 00:07:06.980 align:start position:0%
+have reasonably written a closing curly
+ 
+
+00:07:06.980 --> 00:07:08.620 align:start position:0%
+have reasonably written a closing curly
+bracket<00:07:07.280><c> here</c><00:07:07.490><c> for</c><00:07:07.760><c> our</c><00:07:07.850><c> multiply</c><00:07:08.240><c> function</c>
+
+00:07:08.620 --> 00:07:08.630 align:start position:0%
+bracket here for our multiply function
+ 
+
+00:07:08.630 --> 00:07:10.270 align:start position:0%
+bracket here for our multiply function
+let's<00:07:08.930><c> go</c><00:07:09.020><c> ahead</c><00:07:09.080><c> and</c><00:07:09.260><c> wipe</c><00:07:09.380><c> that</c><00:07:09.410><c> out</c><00:07:09.740><c> if</c><00:07:10.040><c> we</c>
+
+00:07:10.270 --> 00:07:10.280 align:start position:0%
+let's go ahead and wipe that out if we
+ 
+
+00:07:10.280 --> 00:07:11.890 align:start position:0%
+let's go ahead and wipe that out if we
+compile<00:07:10.580><c> our</c><00:07:10.610><c> file</c><00:07:10.910><c> now</c><00:07:11.090><c> by</c><00:07:11.270><c> hitting</c><00:07:11.420><c> ctrl</c><00:07:11.750><c> f7</c>
+
+00:07:11.890 --> 00:07:11.900 align:start position:0%
+compile our file now by hitting ctrl f7
+ 
+
+00:07:11.900 --> 00:07:14.020 align:start position:0%
+compile our file now by hitting ctrl f7
+you<00:07:12.560><c> can</c><00:07:12.770><c> see</c><00:07:12.920><c> that</c><00:07:13.040><c> the</c><00:07:13.130><c> compiler</c><00:07:13.400><c> complains</c>
+
+00:07:14.020 --> 00:07:14.030 align:start position:0%
+you can see that the compiler complains
+ 
+
+00:07:14.030 --> 00:07:17.200 align:start position:0%
+you can see that the compiler complains
+about<00:07:14.360><c> the</c><00:07:15.350><c> less</c><00:07:15.560><c> brave</c><00:07:15.890><c> being</c><00:07:16.310><c> unmatched</c><00:07:17.030><c> at</c>
+
+00:07:17.200 --> 00:07:17.210 align:start position:0%
+about the less brave being unmatched at
+ 
+
+00:07:17.210 --> 00:07:18.670 align:start position:0%
+about the less brave being unmatched at
+the<00:07:17.300><c> end</c><00:07:17.420><c> of</c><00:07:17.510><c> the</c><00:07:17.570><c> file</c><00:07:17.750><c> so</c><00:07:18.110><c> instead</c><00:07:18.320><c> of</c><00:07:18.410><c> fixing</c>
+
+00:07:18.670 --> 00:07:18.680 align:start position:0%
+the end of the file so instead of fixing
+ 
+
+00:07:18.680 --> 00:07:20.230 align:start position:0%
+the end of the file so instead of fixing
+this<00:07:18.860><c> like</c><00:07:19.010><c> a</c><00:07:19.040><c> normal</c><00:07:19.430><c> person</c><00:07:19.820><c> and</c><00:07:19.970><c> just</c>
+
+00:07:20.230 --> 00:07:20.240 align:start position:0%
+this like a normal person and just
+ 
+
+00:07:20.240 --> 00:07:22.810 align:start position:0%
+this like a normal person and just
+adding<00:07:20.660><c> in</c><00:07:20.840><c> our</c><00:07:21.110><c> ending</c><00:07:21.680><c> braze</c><00:07:21.980><c> let's</c><00:07:22.670><c> go</c>
+
+00:07:22.810 --> 00:07:22.820 align:start position:0%
+adding in our ending braze let's go
+ 
+
+00:07:22.820 --> 00:07:24.490 align:start position:0%
+adding in our ending braze let's go
+ahead<00:07:22.940><c> and</c><00:07:23.180><c> include</c><00:07:23.510><c> our</c><00:07:23.660><c> end</c><00:07:23.870><c> brace</c><00:07:24.230><c> header</c>
+
+00:07:24.490 --> 00:07:24.500 align:start position:0%
+ahead and include our end brace header
+ 
+
+00:07:24.500 --> 00:07:27.150 align:start position:0%
+ahead and include our end brace header
+file<00:07:24.740><c> so</c><00:07:25.100><c> I'll</c><00:07:25.220><c> type</c><00:07:25.430><c> in</c><00:07:25.640><c> hash</c><00:07:26.000><c> includes</c><00:07:26.660><c> and</c>
+
+00:07:27.150 --> 00:07:27.160 align:start position:0%
+file so I'll type in hash includes and
+ 
+
+00:07:27.160 --> 00:07:31.300 align:start position:0%
+file so I'll type in hash includes and
+brace<00:07:28.160><c> and</c><00:07:28.870><c> there</c><00:07:29.870><c> we</c><00:07:29.960><c> go</c><00:07:30.140><c> let's</c><00:07:30.680><c> hit</c><00:07:30.830><c> ctrl</c><00:07:31.160><c> f7</c>
+
+00:07:31.300 --> 00:07:31.310 align:start position:0%
+brace and there we go let's hit ctrl f7
+ 
+
+00:07:31.310 --> 00:07:33.670 align:start position:0%
+brace and there we go let's hit ctrl f7
+to<00:07:31.640><c> compile</c><00:07:31.910><c> that</c><00:07:31.940><c> and</c><00:07:32.240><c> look</c><00:07:32.930><c> it</c><00:07:33.169><c> compiles</c>
+
+00:07:33.670 --> 00:07:33.680 align:start position:0%
+to compile that and look it compiles
+ 
+
+00:07:33.680 --> 00:07:35.860 align:start position:0%
+to compile that and look it compiles
+successfully<00:07:33.710><c> of</c><00:07:34.400><c> course</c><00:07:35.120><c> it</c><00:07:35.300><c> did</c><00:07:35.480><c> because</c>
+
+00:07:35.860 --> 00:07:35.870 align:start position:0%
+successfully of course it did because
+ 
+
+00:07:35.870 --> 00:07:37.930 align:start position:0%
+successfully of course it did because
+all<00:07:36.080><c> the</c><00:07:36.169><c> compiler</c><00:07:36.530><c> did</c><00:07:36.860><c> was</c><00:07:37.160><c> open</c><00:07:37.400><c> this</c><00:07:37.700><c> and</c>
+
+00:07:37.930 --> 00:07:37.940 align:start position:0%
+all the compiler did was open this and
+ 
+
+00:07:37.940 --> 00:07:40.630 align:start position:0%
+all the compiler did was open this and
+break<00:07:38.240><c> file</c><00:07:38.570><c> copy</c><00:07:39.050><c> whatever</c><00:07:39.590><c> was</c><00:07:40.010><c> in</c><00:07:40.160><c> here</c><00:07:40.400><c> and</c>
+
+00:07:40.630 --> 00:07:40.640 align:start position:0%
+break file copy whatever was in here and
+ 
+
+00:07:40.640 --> 00:07:43.780 align:start position:0%
+break file copy whatever was in here and
+then<00:07:41.090><c> just</c><00:07:41.300><c> paste</c><00:07:41.750><c> it</c><00:07:41.990><c> into</c><00:07:42.200><c> here</c><00:07:42.320><c> and</c><00:07:42.770><c> that</c><00:07:43.460><c> is</c>
+
+00:07:43.780 --> 00:07:43.790 align:start position:0%
+then just paste it into here and that is
+ 
+
+00:07:43.790 --> 00:07:47.020 align:start position:0%
+then just paste it into here and that is
+it<00:07:44.110><c> okay</c><00:07:45.140><c> header</c><00:07:45.680><c> files</c><00:07:45.950><c> solved</c><00:07:46.730><c> you</c><00:07:46.880><c> should</c>
+
+00:07:47.020 --> 00:07:47.030 align:start position:0%
+it okay header files solved you should
+ 
+
+00:07:47.030 --> 00:07:48.700 align:start position:0%
+it okay header files solved you should
+now<00:07:47.180><c> know</c><00:07:47.210><c> exactly</c><00:07:47.840><c> how</c><00:07:48.080><c> they</c><00:07:48.230><c> work</c><00:07:48.440><c> and</c><00:07:48.620><c> how</c>
+
+00:07:48.700 --> 00:07:48.710 align:start position:0%
+now know exactly how they work and how
+ 
+
+00:07:48.710 --> 00:07:50.320 align:start position:0%
+now know exactly how they work and how
+you<00:07:48.830><c> can</c><00:07:49.040><c> use</c><00:07:49.190><c> them</c><00:07:49.370><c> there's</c><00:07:49.760><c> actually</c><00:07:50.090><c> a</c><00:07:50.120><c> way</c>
+
+00:07:50.320 --> 00:07:50.330 align:start position:0%
+you can use them there's actually a way
+ 
+
+00:07:50.330 --> 00:07:51.880 align:start position:0%
+you can use them there's actually a way
+we<00:07:50.510><c> can</c><00:07:50.690><c> tell</c><00:07:50.900><c> the</c><00:07:51.020><c> compiler</c><00:07:51.380><c> to</c><00:07:51.410><c> output</c><00:07:51.860><c> a</c>
+
+00:07:51.880 --> 00:07:51.890 align:start position:0%
+we can tell the compiler to output a
+ 
+
+00:07:51.890 --> 00:07:54.010 align:start position:0%
+we can tell the compiler to output a
+file<00:07:52.250><c> which</c><00:07:52.520><c> contains</c><00:07:52.669><c> the</c><00:07:53.090><c> result</c><00:07:53.450><c> of</c><00:07:53.660><c> all</c><00:07:53.840><c> of</c>
+
+00:07:54.010 --> 00:07:54.020 align:start position:0%
+file which contains the result of all of
+ 
+
+00:07:54.020 --> 00:07:55.930 align:start position:0%
+file which contains the result of all of
+these<00:07:54.140><c> preprocessor</c><00:07:55.040><c> evaluations</c><00:07:55.729><c> that</c><00:07:55.850><c> have</c>
+
+00:07:55.930 --> 00:07:55.940 align:start position:0%
+these preprocessor evaluations that have
+ 
+
+00:07:55.940 --> 00:07:57.909 align:start position:0%
+these preprocessor evaluations that have
+happened<00:07:56.330><c> if</c><00:07:56.510><c> we</c><00:07:56.690><c> bring</c><00:07:56.900><c> back</c><00:07:57.050><c> our</c><00:07:57.290><c> include</c>
+
+00:07:57.909 --> 00:07:57.919 align:start position:0%
+happened if we bring back our include
+ 
+
+00:07:57.919 --> 00:07:59.860 align:start position:0%
+happened if we bring back our include
+end<00:07:58.190><c> brace</c><00:07:58.430><c> and</c><00:07:58.700><c> then</c><00:07:59.210><c> right</c><00:07:59.450><c> click</c><00:07:59.479><c> on</c><00:07:59.840><c> our</c>
+
+00:07:59.860 --> 00:07:59.870 align:start position:0%
+end brace and then right click on our
+ 
+
+00:07:59.870 --> 00:08:01.719 align:start position:0%
+end brace and then right click on our
+hello<00:08:00.229><c> world</c><00:08:00.560><c> project</c><00:08:00.800><c> and</c><00:08:01.160><c> hit</c><00:08:01.280><c> properties</c>
+
+00:08:01.719 --> 00:08:01.729 align:start position:0%
+hello world project and hit properties
+ 
+
+00:08:01.729 --> 00:08:04.330 align:start position:0%
+hello world project and hit properties
+under<00:08:01.970><c> C</c><00:08:02.390><c> C++</c><00:08:02.690><c> and</c><00:08:03.229><c> then</c><00:08:03.320><c> preprocessor</c><00:08:04.040><c> I'm</c>
+
+00:08:04.330 --> 00:08:04.340 align:start position:0%
+under C C++ and then preprocessor I'm
+ 
+
+00:08:04.340 --> 00:08:06.909 align:start position:0%
+under C C++ and then preprocessor I'm
+going<00:08:04.669><c> to</c><00:08:04.820><c> set</c><00:08:05.419><c> the</c><00:08:05.630><c> pre-processed</c><00:08:06.320><c> to</c><00:08:06.500><c> a</c><00:08:06.530><c> file</c>
+
+00:08:06.909 --> 00:08:06.919 align:start position:0%
+going to set the pre-processed to a file
+ 
+
+00:08:06.919 --> 00:08:08.710 align:start position:0%
+going to set the pre-processed to a file
+to<00:08:07.460><c> yes</c><00:08:07.760><c> make</c><00:08:08.180><c> sure</c><00:08:08.330><c> that</c><00:08:08.419><c> you're</c><00:08:08.570><c> editing</c>
+
+00:08:08.710 --> 00:08:08.720 align:start position:0%
+to yes make sure that you're editing
+ 
+
+00:08:08.720 --> 00:08:10.990 align:start position:0%
+to yes make sure that you're editing
+your<00:08:08.930><c> current</c><00:08:09.470><c> configuration</c><00:08:09.770><c> and</c><00:08:10.430><c> platform</c>
+
+00:08:10.990 --> 00:08:11.000 align:start position:0%
+your current configuration and platform
+ 
+
+00:08:11.000 --> 00:08:12.340 align:start position:0%
+your current configuration and platform
+so<00:08:11.240><c> that</c><00:08:11.360><c> these</c><00:08:11.450><c> settings</c><00:08:11.690><c> actually</c><00:08:11.960><c> apply</c>
+
+00:08:12.340 --> 00:08:12.350 align:start position:0%
+so that these settings actually apply
+ 
+
+00:08:12.350 --> 00:08:14.500 align:start position:0%
+so that these settings actually apply
+let's<00:08:12.680><c> hit</c><00:08:12.830><c> OK</c><00:08:12.890><c> and</c><00:08:13.400><c> then</c><00:08:14.090><c> we're</c><00:08:14.270><c> going</c><00:08:14.450><c> to</c>
+
+00:08:14.500 --> 00:08:14.510 align:start position:0%
+let's hit OK and then we're going to
+ 
+
+00:08:14.510 --> 00:08:16.540 align:start position:0%
+let's hit OK and then we're going to
+just<00:08:14.660><c> hit</c><00:08:14.840><c> control</c><00:08:15.110><c> f7</c><00:08:15.350><c> to</c><00:08:15.740><c> builders</c><00:08:16.040><c> again</c><00:08:16.310><c> if</c>
+
+00:08:16.540 --> 00:08:16.550 align:start position:0%
+just hit control f7 to builders again if
+ 
+
+00:08:16.550 --> 00:08:18.640 align:start position:0%
+just hit control f7 to builders again if
+we<00:08:16.760><c> bring</c><00:08:17.000><c> up</c><00:08:17.150><c> our</c><00:08:17.360><c> output</c><00:08:18.050><c> directory</c><00:08:18.500><c> you'll</c>
+
+00:08:18.640 --> 00:08:18.650 align:start position:0%
+we bring up our output directory you'll
+ 
+
+00:08:18.650 --> 00:08:21.070 align:start position:0%
+we bring up our output directory you'll
+see<00:08:18.860><c> this</c><00:08:19.070><c> new</c><00:08:19.280><c> dot</c><00:08:19.669><c> I</c><00:08:19.820><c> file</c><00:08:20.300><c> which</c><00:08:20.750><c> is</c><00:08:20.900><c> our</c>
+
+00:08:21.070 --> 00:08:21.080 align:start position:0%
+see this new dot I file which is our
+ 
+
+00:08:21.080 --> 00:08:23.230 align:start position:0%
+see this new dot I file which is our
+pre-processed<00:08:21.860><c> CC</c><00:08:22.310><c> plus</c><00:08:22.490><c> off</c><00:08:22.610><c> code</c><00:08:22.820><c> let's</c>
+
+00:08:23.230 --> 00:08:23.240 align:start position:0%
+pre-processed CC plus off code let's
+ 
+
+00:08:23.240 --> 00:08:24.670 align:start position:0%
+pre-processed CC plus off code let's
+open<00:08:23.390><c> this</c><00:08:23.600><c> in</c><00:08:23.720><c> a</c><00:08:23.780><c> text</c><00:08:24.080><c> editor</c><00:08:24.140><c> so</c><00:08:24.500><c> that</c><00:08:24.620><c> we</c>
+
+00:08:24.670 --> 00:08:24.680 align:start position:0%
+open this in a text editor so that we
+ 
+
+00:08:24.680 --> 00:08:26.500 align:start position:0%
+open this in a text editor so that we
+can<00:08:24.830><c> look</c><00:08:24.950><c> at</c><00:08:25.040><c> it</c><00:08:25.160><c> okay</c><00:08:25.580><c> so</c><00:08:25.820><c> here</c><00:08:26.030><c> you</c><00:08:26.090><c> can</c><00:08:26.270><c> see</c>
+
+00:08:26.500 --> 00:08:26.510 align:start position:0%
+can look at it okay so here you can see
+ 
+
+00:08:26.510 --> 00:08:28.240 align:start position:0%
+can look at it okay so here you can see
+what<00:08:26.780><c> the</c><00:08:26.960><c> preprocessor</c><00:08:27.380><c> has</c><00:08:27.830><c> actually</c>
+
+00:08:28.240 --> 00:08:28.250 align:start position:0%
+what the preprocessor has actually
+ 
+
+00:08:28.250 --> 00:08:29.710 align:start position:0%
+what the preprocessor has actually
+generated<00:08:28.820><c> you</c><00:08:28.970><c> can</c><00:08:29.090><c> see</c><00:08:29.210><c> that</c><00:08:29.360><c> our</c><00:08:29.450><c> source</c>
+
+00:08:29.710 --> 00:08:29.720 align:start position:0%
+generated you can see that our source
+ 
+
+00:08:29.720 --> 00:08:32.230 align:start position:0%
+generated you can see that our source
+code<00:08:29.810><c> had</c><00:08:30.229><c> this</c><00:08:30.380><c> include</c><00:08:30.860><c> end</c><00:08:31.130><c> brace</c><00:08:31.400><c> and</c><00:08:31.669><c> yet</c>
+
+00:08:32.230 --> 00:08:32.240 align:start position:0%
+code had this include end brace and yet
+ 
+
+00:08:32.240 --> 00:08:34.600 align:start position:0%
+code had this include end brace and yet
+the<00:08:32.570><c> preprocessor</c><00:08:32.960><c> code</c><00:08:33.440><c> has</c><00:08:33.800><c> just</c><00:08:34.070><c> inserted</c>
+
+00:08:34.600 --> 00:08:34.610 align:start position:0%
+the preprocessor code has just inserted
+ 
+
+00:08:34.610 --> 00:08:36.969 align:start position:0%
+the preprocessor code has just inserted
+our<00:08:34.789><c> end</c><00:08:35.120><c> brace</c><00:08:35.390><c> that</c><00:08:35.630><c> was</c><00:08:35.750><c> in</c><00:08:35.990><c> that</c><00:08:36.020><c> dot</c><00:08:36.800><c> H</c>
+
+00:08:36.969 --> 00:08:36.979 align:start position:0%
+our end brace that was in that dot H
+ 
+
+00:08:36.979 --> 00:08:38.620 align:start position:0%
+our end brace that was in that dot H
+file<00:08:37.280><c> that</c><00:08:37.490><c> we've</c><00:08:37.610><c> included</c><00:08:37.849><c> pretty</c><00:08:38.330><c> simple</c>
+
+00:08:38.620 --> 00:08:38.630 align:start position:0%
+file that we've included pretty simple
+ 
+
+00:08:38.630 --> 00:08:40.690 align:start position:0%
+file that we've included pretty simple
+stuff<00:08:38.810><c> let's</c><00:08:39.380><c> add</c><00:08:39.530><c> some</c><00:08:39.890><c> more</c><00:08:39.919><c> preprocessor</c>
+
+00:08:40.690 --> 00:08:40.700 align:start position:0%
+stuff let's add some more preprocessor
+ 
+
+00:08:40.700 --> 00:08:41.810 align:start position:0%
+stuff let's add some more preprocessor
+statements<00:08:41.210><c> and</c>
+
+00:08:41.810 --> 00:08:41.820 align:start position:0%
+statements and
+ 
+
+00:08:41.820 --> 00:08:44.330 align:start position:0%
+statements and
+it<00:08:41.970><c> does</c><00:08:42.120><c> so</c><00:08:42.479><c> back</c><00:08:42.600><c> in</c><00:08:42.750><c> our</c><00:08:42.810><c> file</c><00:08:43.110><c> I'm</c><00:08:43.410><c> going</c><00:08:44.190><c> to</c>
+
+00:08:44.330 --> 00:08:44.340 align:start position:0%
+it does so back in our file I'm going to
+ 
+
+00:08:44.340 --> 00:08:46.640 align:start position:0%
+it does so back in our file I'm going to
+restore<00:08:45.000><c> our</c><00:08:45.600><c> end</c><00:08:45.870><c> brace</c><00:08:46.170><c> because</c><00:08:46.530><c> I'm</c>
+
+00:08:46.640 --> 00:08:46.650 align:start position:0%
+restore our end brace because I'm
+ 
+
+00:08:46.650 --> 00:08:48.080 align:start position:0%
+restore our end brace because I'm
+getting<00:08:46.920><c> tired</c><00:08:47.130><c> of</c><00:08:47.280><c> looking</c><00:08:47.550><c> at</c><00:08:47.640><c> that</c><00:08:47.730><c> include</c>
+
+00:08:48.080 --> 00:08:48.090 align:start position:0%
+getting tired of looking at that include
+ 
+
+00:08:48.090 --> 00:08:49.640 align:start position:0%
+getting tired of looking at that include
+I'm<00:08:48.330><c> then</c><00:08:48.570><c> going</c><00:08:48.750><c> to</c><00:08:48.840><c> come</c><00:08:49.050><c> up</c><00:08:49.170><c> here</c><00:08:49.410><c> and</c>
+
+00:08:49.640 --> 00:08:49.650 align:start position:0%
+I'm then going to come up here and
+ 
+
+00:08:49.650 --> 00:08:52.190 align:start position:0%
+I'm then going to come up here and
+define<00:08:50.190><c> something</c><00:08:50.700><c> I'm</c><00:08:51.150><c> going</c><00:08:51.360><c> to</c><00:08:51.450><c> define</c><00:08:51.750><c> the</c>
+
+00:08:52.190 --> 00:08:52.200 align:start position:0%
+define something I'm going to define the
+ 
+
+00:08:52.200 --> 00:08:55.280 align:start position:0%
+define something I'm going to define the
+word<00:08:52.410><c> integer</c><00:08:53.160><c> to</c><00:08:53.640><c> be</c><00:08:53.820><c> in</c><00:08:54.060><c> now</c><00:08:54.750><c> don't</c><00:08:54.930><c> ask</c><00:08:55.050><c> me</c>
+
+00:08:55.280 --> 00:08:55.290 align:start position:0%
+word integer to be in now don't ask me
+ 
+
+00:08:55.290 --> 00:08:57.020 align:start position:0%
+word integer to be in now don't ask me
+why<00:08:55.470><c> I</c><00:08:55.500><c> would</c><00:08:55.980><c> ever</c><00:08:56.010><c> do</c><00:08:56.250><c> this</c><00:08:56.400><c> is</c><00:08:56.610><c> just</c><00:08:56.760><c> an</c>
+
+00:08:57.020 --> 00:08:57.030 align:start position:0%
+why I would ever do this is just an
+ 
+
+00:08:57.030 --> 00:08:59.030 align:start position:0%
+why I would ever do this is just an
+example<00:08:57.540><c> the</c><00:08:57.750><c> design</c><00:08:57.930><c> proposals</c><00:08:58.740><c> a</c><00:08:58.800><c> statement</c>
+
+00:08:59.030 --> 00:08:59.040 align:start position:0%
+example the design proposals a statement
+ 
+
+00:08:59.040 --> 00:09:00.860 align:start position:0%
+example the design proposals a statement
+will<00:08:59.310><c> basically</c><00:08:59.700><c> just</c><00:08:59.820><c> do</c><00:09:00.030><c> a</c><00:09:00.060><c> search</c><00:09:00.420><c> for</c><00:09:00.720><c> this</c>
+
+00:09:00.860 --> 00:09:00.870 align:start position:0%
+will basically just do a search for this
+ 
+
+00:09:00.870 --> 00:09:02.600 align:start position:0%
+will basically just do a search for this
+word<00:09:01.170><c> and</c><00:09:01.440><c> replace</c><00:09:01.950><c> it</c><00:09:02.160><c> with</c><00:09:02.370><c> whatever</c>
+
+00:09:02.600 --> 00:09:02.610 align:start position:0%
+word and replace it with whatever
+ 
+
+00:09:02.610 --> 00:09:04.940 align:start position:0%
+word and replace it with whatever
+follows<00:09:03.150><c> so</c><00:09:03.600><c> let's</c><00:09:03.750><c> replace</c><00:09:03.960><c> our</c><00:09:04.260><c> end</c><00:09:04.590><c> here</c>
+
+00:09:04.940 --> 00:09:04.950 align:start position:0%
+follows so let's replace our end here
+ 
+
+00:09:04.950 --> 00:09:06.890 align:start position:0%
+follows so let's replace our end here
+with<00:09:05.340><c> the</c><00:09:05.460><c> word</c><00:09:05.640><c> integer</c><00:09:06.240><c> so</c><00:09:06.660><c> that</c><00:09:06.810><c> we</c>
+
+00:09:06.890 --> 00:09:06.900 align:start position:0%
+with the word integer so that we
+ 
+
+00:09:06.900 --> 00:09:08.750 align:start position:0%
+with the word integer so that we
+actually<00:09:06.990><c> return</c><00:09:07.470><c> the</c><00:09:07.590><c> integer</c><00:09:08.070><c> we</c><00:09:08.490><c> can</c><00:09:08.640><c> also</c>
+
+00:09:08.750 --> 00:09:08.760 align:start position:0%
+actually return the integer we can also
+ 
+
+00:09:08.760 --> 00:09:12.350 align:start position:0%
+actually return the integer we can also
+do<00:09:08.880><c> the</c><00:09:08.970><c> same</c><00:09:09.120><c> here</c><00:09:10.640><c> let's</c><00:09:11.640><c> head</c><00:09:11.790><c> of</c><00:09:11.880><c> ctrl</c><00:09:12.210><c> f7</c>
+
+00:09:12.350 --> 00:09:12.360 align:start position:0%
+do the same here let's head of ctrl f7
+ 
+
+00:09:12.360 --> 00:09:14.810 align:start position:0%
+do the same here let's head of ctrl f7
+and<00:09:12.750><c> if</c><00:09:13.140><c> we</c><00:09:13.260><c> look</c><00:09:13.440><c> back</c><00:09:13.590><c> at</c><00:09:13.800><c> our</c><00:09:13.890><c> file</c><00:09:14.490><c> you</c><00:09:14.670><c> can</c>
+
+00:09:14.810 --> 00:09:14.820 align:start position:0%
+and if we look back at our file you can
+ 
+
+00:09:14.820 --> 00:09:16.760 align:start position:0%
+and if we look back at our file you can
+see<00:09:15.000><c> what's</c><00:09:15.210><c> happened</c><00:09:15.660><c> it</c><00:09:15.780><c> just</c><00:09:16.140><c> looks</c><00:09:16.380><c> normal</c>
+
+00:09:16.760 --> 00:09:16.770 align:start position:0%
+see what's happened it just looks normal
+ 
+
+00:09:16.770 --> 00:09:18.680 align:start position:0%
+see what's happened it just looks normal
+into<00:09:17.250><c> result</c><00:09:17.610><c> if</c><00:09:17.820><c> we</c><00:09:17.970><c> were</c><00:09:18.270><c> to</c><00:09:18.390><c> do</c><00:09:18.540><c> something</c>
+
+00:09:18.680 --> 00:09:18.690 align:start position:0%
+into result if we were to do something
+ 
+
+00:09:18.690 --> 00:09:20.630 align:start position:0%
+into result if we were to do something
+stupid<00:09:19.020><c> here</c><00:09:19.500><c> like</c><00:09:19.770><c> write</c><00:09:19.980><c> the</c><00:09:20.100><c> word</c><00:09:20.250><c> Cherno</c>
+
+00:09:20.630 --> 00:09:20.640 align:start position:0%
+stupid here like write the word Cherno
+ 
+
+00:09:20.640 --> 00:09:22.130 align:start position:0%
+stupid here like write the word Cherno
+and<00:09:21.030><c> mention</c><00:09:21.360><c> ctrl</c><00:09:21.690><c> f7</c>
+
+00:09:22.130 --> 00:09:22.140 align:start position:0%
+and mention ctrl f7
+ 
+
+00:09:22.140 --> 00:09:24.020 align:start position:0%
+and mention ctrl f7
+if<00:09:22.290><c> we</c><00:09:22.650><c> go</c><00:09:22.800><c> back</c><00:09:22.980><c> to</c><00:09:23.010><c> our</c><00:09:23.220><c> file</c><00:09:23.460><c> you</c><00:09:23.640><c> can</c><00:09:23.790><c> see</c><00:09:23.970><c> it</c>
+
+00:09:24.020 --> 00:09:24.030 align:start position:0%
+if we go back to our file you can see it
+ 
+
+00:09:24.030 --> 00:09:25.700 align:start position:0%
+if we go back to our file you can see it
+now<00:09:24.150><c> there's</c><00:09:24.390><c> channel</c><00:09:24.780><c> multiply</c><00:09:25.170><c> and</c><00:09:25.380><c> channel</c>
+
+00:09:25.700 --> 00:09:25.710 align:start position:0%
+now there's channel multiply and channel
+ 
+
+00:09:25.710 --> 00:09:27.710 align:start position:0%
+now there's channel multiply and channel
+result<00:09:26.010><c> pretty</c><00:09:26.400><c> cool</c><00:09:26.550><c> stuff</c><00:09:26.820><c> let's</c><00:09:27.570><c> play</c>
+
+00:09:27.710 --> 00:09:27.720 align:start position:0%
+result pretty cool stuff let's play
+ 
+
+00:09:27.720 --> 00:09:29.210 align:start position:0%
+result pretty cool stuff let's play
+around<00:09:27.870><c> with</c><00:09:27.990><c> this</c><00:09:28.080><c> a</c><00:09:28.170><c> little</c><00:09:28.200><c> bit</c><00:09:28.380><c> more</c><00:09:28.560><c> let's</c>
+
+00:09:29.210 --> 00:09:29.220 align:start position:0%
+around with this a little bit more let's
+ 
+
+00:09:29.220 --> 00:09:33.470 align:start position:0%
+around with this a little bit more let's
+bring<00:09:29.430><c> back</c><00:09:29.610><c> our</c><00:09:29.820><c> int</c><00:09:32.030><c> we'll</c><00:09:33.030><c> get</c><00:09:33.180><c> rid</c><00:09:33.300><c> of</c><00:09:33.330><c> this</c>
+
+00:09:33.470 --> 00:09:33.480 align:start position:0%
+bring back our int we'll get rid of this
+ 
+
+00:09:33.480 --> 00:09:35.780 align:start position:0%
+bring back our int we'll get rid of this
+define<00:09:33.870><c> and</c><00:09:34.170><c> instead</c><00:09:35.130><c> what</c><00:09:35.310><c> I'm</c><00:09:35.400><c> going</c><00:09:35.580><c> to</c><00:09:35.610><c> do</c>
+
+00:09:35.780 --> 00:09:35.790 align:start position:0%
+define and instead what I'm going to do
+ 
+
+00:09:35.790 --> 00:09:37.640 align:start position:0%
+define and instead what I'm going to do
+is<00:09:36.030><c> actually</c><00:09:36.270><c> just</c><00:09:36.690><c> use</c><00:09:36.870><c> something</c><00:09:37.110><c> called</c><00:09:37.260><c> if</c>
+
+00:09:37.640 --> 00:09:37.650 align:start position:0%
+is actually just use something called if
+ 
+
+00:09:37.650 --> 00:09:39.980 align:start position:0%
+is actually just use something called if
+the<00:09:38.250><c> if</c><00:09:38.400><c> preprocessor</c><00:09:39.120><c> statement</c><00:09:39.570><c> can</c><00:09:39.720><c> let</c><00:09:39.870><c> us</c>
+
+00:09:39.980 --> 00:09:39.990 align:start position:0%
+the if preprocessor statement can let us
+ 
+
+00:09:39.990 --> 00:09:43.010 align:start position:0%
+the if preprocessor statement can let us
+include<00:09:40.530><c> or</c><00:09:40.740><c> exclude</c><00:09:40.980><c> code</c><00:09:41.790><c> based</c><00:09:42.480><c> on</c><00:09:42.660><c> a</c><00:09:42.720><c> given</c>
+
+00:09:43.010 --> 00:09:43.020 align:start position:0%
+include or exclude code based on a given
+ 
+
+00:09:43.020 --> 00:09:44.750 align:start position:0%
+include or exclude code based on a given
+condition<00:09:43.500><c> so</c><00:09:43.860><c> over</c><00:09:44.070><c> here</c><00:09:44.280><c> I'm</c><00:09:44.340><c> just</c><00:09:44.460><c> going</c><00:09:44.640><c> to</c>
+
+00:09:44.750 --> 00:09:44.760 align:start position:0%
+condition so over here I'm just going to
+ 
+
+00:09:44.760 --> 00:09:46.850 align:start position:0%
+condition so over here I'm just going to
+write<00:09:44.910><c> f1</c><00:09:45.180><c> which</c><00:09:45.840><c> in</c><00:09:45.960><c> other</c><00:09:46.050><c> words</c><00:09:46.140><c> means</c><00:09:46.320><c> true</c>
+
+00:09:46.850 --> 00:09:46.860 align:start position:0%
+write f1 which in other words means true
+ 
+
+00:09:46.860 --> 00:09:49.130 align:start position:0%
+write f1 which in other words means true
+and<00:09:46.910><c> then</c><00:09:47.910><c> just</c><00:09:48.060><c> write</c><00:09:48.180><c> an</c><00:09:48.270><c> end</c><00:09:48.480><c> s</c><00:09:48.660><c> at</c><00:09:48.840><c> the</c><00:09:48.990><c> end</c>
+
+00:09:49.130 --> 00:09:49.140 align:start position:0%
+and then just write an end s at the end
+ 
+
+00:09:49.140 --> 00:09:51.470 align:start position:0%
+and then just write an end s at the end
+of<00:09:49.260><c> this</c><00:09:49.350><c> function</c><00:09:49.800><c> I'll</c><00:09:50.130><c> hit</c><00:09:50.370><c> ctrl</c><00:09:50.640><c> f7</c><00:09:50.790><c> we'll</c>
+
+00:09:51.470 --> 00:09:51.480 align:start position:0%
+of this function I'll hit ctrl f7 we'll
+ 
+
+00:09:51.480 --> 00:09:52.970 align:start position:0%
+of this function I'll hit ctrl f7 we'll
+go<00:09:51.630><c> back</c><00:09:51.750><c> to</c><00:09:51.870><c> our</c><00:09:51.900><c> preparators</c><00:09:52.350><c> file</c><00:09:52.770><c> and</c><00:09:52.920><c> you</c>
+
+00:09:52.970 --> 00:09:52.980 align:start position:0%
+go back to our preparators file and you
+ 
+
+00:09:52.980 --> 00:09:54.620 align:start position:0%
+go back to our preparators file and you
+can<00:09:53.130><c> see</c><00:09:53.220><c> that</c><00:09:53.340><c> it</c><00:09:53.460><c> looks</c><00:09:53.580><c> exactly</c><00:09:54.150><c> like</c><00:09:54.360><c> it</c>
+
+00:09:54.620 --> 00:09:54.630 align:start position:0%
+can see that it looks exactly like it
+ 
+
+00:09:54.630 --> 00:09:56.660 align:start position:0%
+can see that it looks exactly like it
+does<00:09:54.750><c> here</c><00:09:54.780><c> without</c><00:09:55.500><c> this</c><00:09:55.590><c> thing</c><00:09:55.860><c> if</c><00:09:56.340><c> I</c><00:09:56.520><c> go</c>
+
+00:09:56.660 --> 00:09:56.670 align:start position:0%
+does here without this thing if I go
+ 
+
+00:09:56.670 --> 00:09:58.460 align:start position:0%
+does here without this thing if I go
+back<00:09:56.850><c> here</c><00:09:56.880><c> and</c><00:09:57.270><c> I</c><00:09:57.360><c> switch</c><00:09:57.690><c> this</c><00:09:57.870><c> off</c><00:09:58.020><c> by</c>
+
+00:09:58.460 --> 00:09:58.470 align:start position:0%
+back here and I switch this off by
+ 
+
+00:09:58.470 --> 00:10:00.560 align:start position:0%
+back here and I switch this off by
+writing<00:09:58.620><c> in</c><00:09:58.980><c> 0</c><00:09:59.340><c> visual</c><00:09:59.970><c> studio</c><00:10:00.210><c> will</c><00:10:00.330><c> fade</c><00:10:00.540><c> out</c>
+
+00:10:00.560 --> 00:10:00.570 align:start position:0%
+writing in 0 visual studio will fade out
+ 
+
+00:10:00.570 --> 00:10:02.870 align:start position:0%
+writing in 0 visual studio will fade out
+our<00:10:00.840><c> code</c><00:10:01.080><c> to</c><00:10:01.110><c> show</c><00:10:01.440><c> that</c><00:10:01.560><c> it's</c><00:10:01.710><c> disabled</c><00:10:02.190><c> by</c>
+
+00:10:02.870 --> 00:10:02.880 align:start position:0%
+our code to show that it's disabled by
+ 
+
+00:10:02.880 --> 00:10:04.610 align:start position:0%
+our code to show that it's disabled by
+here<00:10:03.030><c> ctrl</c><00:10:03.330><c> f7</c><00:10:03.510><c> and</c><00:10:03.870><c> take</c><00:10:04.020><c> a</c><00:10:04.050><c> look</c><00:10:04.200><c> at</c><00:10:04.290><c> its</c><00:10:04.380><c> file</c>
+
+00:10:04.610 --> 00:10:04.620 align:start position:0%
+here ctrl f7 and take a look at its file
+ 
+
+00:10:04.620 --> 00:10:06.530 align:start position:0%
+here ctrl f7 and take a look at its file
+we<00:10:05.070><c> have</c><00:10:05.100><c> no</c><00:10:05.370><c> code</c><00:10:05.580><c> so</c><00:10:06.120><c> it's</c><00:10:06.210><c> another</c><00:10:06.390><c> great</c>
+
+00:10:06.530 --> 00:10:06.540 align:start position:0%
+we have no code so it's another great
+ 
+
+00:10:06.540 --> 00:10:08.360 align:start position:0%
+we have no code so it's another great
+example<00:10:06.720><c> of</c><00:10:07.170><c> a</c><00:10:07.290><c> preprocessor</c><00:10:07.620><c> statement</c><00:10:08.250><c> all</c>
+
+00:10:08.360 --> 00:10:08.370 align:start position:0%
+example of a preprocessor statement all
+ 
+
+00:10:08.370 --> 00:10:10.340 align:start position:0%
+example of a preprocessor statement all
+right<00:10:08.940><c> one</c><00:10:09.240><c> more</c><00:10:09.480><c> we'll</c><00:10:09.810><c> look</c><00:10:09.930><c> at</c><00:10:10.050><c> include</c>
+
+00:10:10.340 --> 00:10:10.350 align:start position:0%
+right one more we'll look at include
+ 
+
+00:10:10.350 --> 00:10:13.640 align:start position:0%
+right one more we'll look at include
+let's<00:10:10.980><c> get</c><00:10:11.190><c> rid</c><00:10:11.340><c> of</c><00:10:11.370><c> our</c><00:10:11.640><c> s0</c><00:10:12.480><c> and</c><00:10:12.720><c> then</c><00:10:13.560><c> I'm</c>
+
+00:10:13.640 --> 00:10:13.650 align:start position:0%
+let's get rid of our s0 and then I'm
+ 
+
+00:10:13.650 --> 00:10:15.710 align:start position:0%
+let's get rid of our s0 and then I'm
+going<00:10:13.860><c> to</c><00:10:13.980><c> write</c><00:10:14.160><c> include</c><00:10:14.700><c> iostream</c>
+
+00:10:15.710 --> 00:10:15.720 align:start position:0%
+going to write include iostream
+ 
+
+00:10:15.720 --> 00:10:18.980 align:start position:0%
+going to write include iostream
+the<00:10:16.140><c> massive</c><00:10:16.770><c> massive</c><00:10:17.490><c> iostream</c><00:10:18.510><c> let's</c><00:10:18.870><c> take</c>
+
+00:10:18.980 --> 00:10:18.990 align:start position:0%
+the massive massive iostream let's take
+ 
+
+00:10:18.990 --> 00:10:20.960 align:start position:0%
+the massive massive iostream let's take
+control<00:10:19.260><c> f7</c><00:10:19.410><c> let's</c><00:10:20.280><c> look</c><00:10:20.460><c> back</c><00:10:20.580><c> a</c><00:10:20.640><c> bit</c><00:10:20.880><c> and</c>
+
+00:10:20.960 --> 00:10:20.970 align:start position:0%
+control f7 let's look back a bit and
+ 
+
+00:10:20.970 --> 00:10:26.560 align:start position:0%
+control f7 let's look back a bit and
+well<00:10:21.930><c> take</c><00:10:22.380><c> a</c><00:10:22.560><c> look</c><00:10:22.860><c> at</c><00:10:23.040><c> this</c><00:10:23.420><c> we</c><00:10:24.420><c> have</c><00:10:24.660><c> in</c><00:10:25.050><c> here</c>
+
+00:10:26.560 --> 00:10:26.570 align:start position:0%
+well take a look at this we have in here
+ 
+
+00:10:26.570 --> 00:10:29.690 align:start position:0%
+well take a look at this we have in here
+50,000<00:10:27.650><c> 623</c><00:10:28.650><c> lines</c><00:10:28.860><c> and</c><00:10:29.160><c> there's</c><00:10:29.550><c> our</c>
+
+00:10:29.690 --> 00:10:29.700 align:start position:0%
+50,000 623 lines and there's our
+ 
+
+00:10:29.700 --> 00:10:31.310 align:start position:0%
+50,000 623 lines and there's our
+function<00:10:29.880><c> at</c><00:10:30.150><c> the</c><00:10:30.210><c> very</c><00:10:30.390><c> bottom</c><00:10:30.540><c> and</c><00:10:30.870><c> then</c>
+
+00:10:31.310 --> 00:10:31.320 align:start position:0%
+function at the very bottom and then
+ 
+
+00:10:31.320 --> 00:10:33.140 align:start position:0%
+function at the very bottom and then
+look<00:10:31.590><c> this</c><00:10:31.980><c> is</c><00:10:32.190><c> all</c><00:10:32.430><c> that</c><00:10:32.640><c> include</c><00:10:33.000><c> iostream</c>
+
+00:10:33.140 --> 00:10:33.150 align:start position:0%
+look this is all that include iostream
+ 
+
+00:10:33.150 --> 00:10:35.570 align:start position:0%
+look this is all that include iostream
+has<00:10:33.750><c> done</c><00:10:33.960><c> now</c><00:10:34.320><c> of</c><00:10:34.440><c> course</c><00:10:34.620><c> iostream</c><00:10:35.310><c> also</c>
+
+00:10:35.570 --> 00:10:35.580 align:start position:0%
+has done now of course iostream also
+ 
+
+00:10:35.580 --> 00:10:37.100 align:start position:0%
+has done now of course iostream also
+includes<00:10:35.880><c> other</c><00:10:36.120><c> files</c><00:10:36.420><c> so</c><00:10:36.690><c> it's</c><00:10:36.840><c> kind</c><00:10:37.050><c> of</c>
+
+00:10:37.100 --> 00:10:37.110 align:start position:0%
+includes other files so it's kind of
+ 
+
+00:10:37.110 --> 00:10:39.770 align:start position:0%
+includes other files so it's kind of
+like<00:10:37.290><c> rolling</c><00:10:37.530><c> a</c><00:10:37.800><c> snowball</c><00:10:38.280><c> down</c><00:10:38.640><c> a</c><00:10:38.670><c> hill</c><00:10:39.030><c> you</c>
+
+00:10:39.770 --> 00:10:39.780 align:start position:0%
+like rolling a snowball down a hill you
+ 
+
+00:10:39.780 --> 00:10:41.750 align:start position:0%
+like rolling a snowball down a hill you
+can<00:10:39.810><c> now</c><00:10:40.050><c> hopefully</c><00:10:40.320><c> see</c><00:10:40.710><c> why</c><00:10:40.980><c> those</c><00:10:41.220><c> objects</c>
+
+00:10:41.750 --> 00:10:41.760 align:start position:0%
+can now hopefully see why those objects
+ 
+
+00:10:41.760 --> 00:10:43.490 align:start position:0%
+can now hopefully see why those objects
+class<00:10:42.000><c> was</c><00:10:42.270><c> so</c><00:10:42.450><c> big</c><00:10:42.690><c> because</c><00:10:42.930><c> they</c><00:10:43.170><c> included</c>
+
+00:10:43.490 --> 00:10:43.500 align:start position:0%
+class was so big because they included
+ 
+
+00:10:43.500 --> 00:10:45.080 align:start position:0%
+class was so big because they included
+iostream<00:10:43.980><c> and</c><00:10:44.160><c> that</c><00:10:44.280><c> is</c><00:10:44.400><c> a</c><00:10:44.430><c> lot</c><00:10:44.730><c> of</c><00:10:44.850><c> code</c>
+
+00:10:45.080 --> 00:10:45.090 align:start position:0%
+iostream and that is a lot of code
+ 
+
+00:10:45.090 --> 00:10:46.790 align:start position:0%
+iostream and that is a lot of code
+alright<00:10:45.660><c> great</c><00:10:45.990><c> so</c><00:10:46.140><c> that's</c><00:10:46.350><c> the</c><00:10:46.440><c> preprocessor</c>
+
+00:10:46.790 --> 00:10:46.800 align:start position:0%
+alright great so that's the preprocessor
+ 
+
+00:10:46.800 --> 00:10:49.370 align:start position:0%
+alright great so that's the preprocessor
+once<00:10:47.370><c> that</c><00:10:47.610><c> stage</c><00:10:47.910><c> has</c><00:10:48.150><c> done</c><00:10:48.390><c> we</c><00:10:48.930><c> can</c><00:10:49.110><c> move</c><00:10:49.140><c> on</c>
+
+00:10:49.370 --> 00:10:49.380 align:start position:0%
+once that stage has done we can move on
+ 
+
+00:10:49.380 --> 00:10:51.620 align:start position:0%
+once that stage has done we can move on
+to<00:10:49.410><c> actually</c><00:10:49.710><c> compiling</c><00:10:50.460><c> our</c><00:10:50.820><c> simple</c><00:10:51.420><c> plus</c>
+
+00:10:51.620 --> 00:10:51.630 align:start position:0%
+to actually compiling our simple plus
+ 
+
+00:10:51.630 --> 00:10:52.610 align:start position:0%
+to actually compiling our simple plus
+code<00:10:51.870><c> into</c>
+
+00:10:52.610 --> 00:10:52.620 align:start position:0%
+code into
+ 
+
+00:10:52.620 --> 00:10:54.140 align:start position:0%
+code into
+chain<00:10:52.800><c> code</c><00:10:53.040><c> if</c><00:10:53.280><c> we</c><00:10:53.430><c> go</c><00:10:53.550><c> back</c><00:10:53.700><c> to</c><00:10:53.730><c> our</c><00:10:53.940><c> project</c>
+
+00:10:54.140 --> 00:10:54.150 align:start position:0%
+chain code if we go back to our project
+ 
+
+00:10:54.150 --> 00:10:56.000 align:start position:0%
+chain code if we go back to our project
+here<00:10:54.510><c> I'm</c><00:10:54.690><c> going</c><00:10:54.870><c> to</c><00:10:55.020><c> get</c><00:10:55.200><c> rid</c><00:10:55.350><c> of</c><00:10:55.380><c> the</c><00:10:55.530><c> include</c>
+
+00:10:56.000 --> 00:10:56.010 align:start position:0%
+here I'm going to get rid of the include
+ 
+
+00:10:56.010 --> 00:10:57.470 align:start position:0%
+here I'm going to get rid of the include
+because<00:10:56.280><c> we</c><00:10:56.400><c> don't</c><00:10:56.580><c> need</c><00:10:56.700><c> it</c><00:10:56.880><c> and</c><00:10:57.210><c> I'm</c><00:10:57.450><c> just</c>
+
+00:10:57.470 --> 00:10:57.480 align:start position:0%
+because we don't need it and I'm just
+ 
+
+00:10:57.480 --> 00:10:59.270 align:start position:0%
+because we don't need it and I'm just
+going<00:10:57.690><c> to</c><00:10:57.780><c> hit</c><00:10:57.870><c> ctrl</c><00:10:58.140><c> f7</c><00:10:58.290><c> you</c><00:10:58.800><c> should</c><00:10:58.950><c> now</c><00:10:59.070><c> see</c>
+
+00:10:59.270 --> 00:10:59.280 align:start position:0%
+going to hit ctrl f7 you should now see
+ 
+
+00:10:59.280 --> 00:11:00.710 align:start position:0%
+going to hit ctrl f7 you should now see
+in<00:10:59.460><c> our</c><00:10:59.550><c> progressive</c><00:10:59.910><c> file</c><00:11:00.300><c> that</c><00:11:00.450><c> we're</c><00:11:00.540><c> back</c>
+
+00:11:00.710 --> 00:11:00.720 align:start position:0%
+in our progressive file that we're back
+ 
+
+00:11:00.720 --> 00:11:02.480 align:start position:0%
+in our progressive file that we're back
+to<00:11:00.900><c> normal</c><00:11:01.020><c> and</c><00:11:01.320><c> in</c><00:11:01.740><c> fact</c><00:11:01.950><c> I'm</c><00:11:02.070><c> actually</c><00:11:02.190><c> going</c>
+
+00:11:02.480 --> 00:11:02.490 align:start position:0%
+to normal and in fact I'm actually going
+ 
+
+00:11:02.490 --> 00:11:04.640 align:start position:0%
+to normal and in fact I'm actually going
+to<00:11:02.580><c> go</c><00:11:02.760><c> into</c><00:11:02.880><c> hi</c><00:11:03.120><c> world</c><00:11:03.450><c> hit</c><00:11:04.020><c> properties</c><00:11:04.440><c> and</c>
+
+00:11:04.640 --> 00:11:04.650 align:start position:0%
+to go into hi world hit properties and
+ 
+
+00:11:04.650 --> 00:11:06.590 align:start position:0%
+to go into hi world hit properties and
+then<00:11:04.860><c> disable</c><00:11:05.220><c> that</c><00:11:05.520><c> preprocessor</c><00:11:06.150><c> to</c><00:11:06.300><c> a</c><00:11:06.330><c> file</c>
+
+00:11:06.590 --> 00:11:06.600 align:start position:0%
+then disable that preprocessor to a file
+ 
+
+00:11:06.600 --> 00:11:08.690 align:start position:0%
+then disable that preprocessor to a file
+if<00:11:06.810><c> you</c><00:11:07.050><c> actually</c><00:11:07.200><c> read</c><00:11:07.710><c> what</c><00:11:07.740><c> presses</c><00:11:08.520><c> to</c><00:11:08.610><c> a</c>
+
+00:11:08.690 --> 00:11:08.700 align:start position:0%
+if you actually read what presses to a
+ 
+
+00:11:08.700 --> 00:11:10.070 align:start position:0%
+if you actually read what presses to a
+file<00:11:08.940><c> does</c><00:11:09.180><c> you'll</c><00:11:09.570><c> see</c><00:11:09.810><c> that</c><00:11:09.930><c> it</c><00:11:10.050><c> actually</c>
+
+00:11:10.070 --> 00:11:10.080 align:start position:0%
+file does you'll see that it actually
+ 
+
+00:11:10.080 --> 00:11:12.440 align:start position:0%
+file does you'll see that it actually
+does<00:11:10.410><c> not</c><00:11:10.740><c> produce</c><00:11:11.100><c> an</c><00:11:11.250><c> obj</c><00:11:11.610><c> file</c><00:11:11.880><c> so</c><00:11:12.180><c> we</c><00:11:12.300><c> need</c>
+
+00:11:12.440 --> 00:11:12.450 align:start position:0%
+does not produce an obj file so we need
+ 
+
+00:11:12.450 --> 00:11:13.550 align:start position:0%
+does not produce an obj file so we need
+to<00:11:12.540><c> disable</c><00:11:12.750><c> it</c><00:11:12.960><c> so</c><00:11:13.110><c> that</c><00:11:13.260><c> we</c><00:11:13.320><c> can</c><00:11:13.410><c> actually</c>
+
+00:11:13.550 --> 00:11:13.560 align:start position:0%
+to disable it so that we can actually
+ 
+
+00:11:13.560 --> 00:11:15.620 align:start position:0%
+to disable it so that we can actually
+build<00:11:13.980><c> our</c><00:11:14.220><c> project</c><00:11:14.460><c> I've</c><00:11:14.970><c> said</c><00:11:15.150><c> okay</c><00:11:15.240><c> and</c>
+
+00:11:15.620 --> 00:11:15.630 align:start position:0%
+build our project I've said okay and
+ 
+
+00:11:15.630 --> 00:11:18.500 align:start position:0%
+build our project I've said okay and
+then<00:11:15.960><c> we'll</c><00:11:16.080><c> hit</c><00:11:16.170><c> ctrl</c><00:11:16.470><c> f7</c><00:11:16.620><c> to</c><00:11:16.980><c> build</c><00:11:17.220><c> our</c><00:11:17.510><c> 50p</c>
+
+00:11:18.500 --> 00:11:18.510 align:start position:0%
+then we'll hit ctrl f7 to build our 50p
+ 
+
+00:11:18.510 --> 00:11:20.390 align:start position:0%
+then we'll hit ctrl f7 to build our 50p
+file<00:11:18.720><c> you'll</c><00:11:19.140><c> see</c><00:11:19.260><c> that</c><00:11:19.560><c> we</c><00:11:19.650><c> should</c><00:11:19.680><c> now</c><00:11:19.950><c> get</c><00:11:20.160><c> a</c>
+
+00:11:20.390 --> 00:11:20.400 align:start position:0%
+file you'll see that we should now get a
+ 
+
+00:11:20.400 --> 00:11:22.520 align:start position:0%
+file you'll see that we should now get a
+mastered<00:11:21.210><c> obj</c><00:11:21.570><c> file</c><00:11:21.810><c> which</c><00:11:22.020><c> is</c><00:11:22.110><c> actually</c><00:11:22.380><c> up</c>
+
+00:11:22.520 --> 00:11:22.530 align:start position:0%
+mastered obj file which is actually up
+ 
+
+00:11:22.530 --> 00:11:23.930 align:start position:0%
+mastered obj file which is actually up
+to<00:11:22.650><c> date</c><00:11:22.830><c> so</c><00:11:23.100><c> let's</c><00:11:23.130><c> take</c><00:11:23.460><c> a</c><00:11:23.490><c> look</c><00:11:23.700><c> at</c><00:11:23.790><c> what</c>
+
+00:11:23.930 --> 00:11:23.940 align:start position:0%
+to date so let's take a look at what
+ 
+
+00:11:23.940 --> 00:11:26.840 align:start position:0%
+to date so let's take a look at what
+actually<00:11:24.090><c> inside</c><00:11:24.840><c> our</c><00:11:25.170><c> obj</c><00:11:25.680><c> file</c><00:11:25.920><c> if</c><00:11:26.190><c> we</c><00:11:26.520><c> open</c>
+
+00:11:26.840 --> 00:11:26.850 align:start position:0%
+actually inside our obj file if we open
+ 
+
+00:11:26.850 --> 00:11:28.490 align:start position:0%
+actually inside our obj file if we open
+this<00:11:26.940><c> file</c><00:11:27.150><c> with</c><00:11:27.390><c> the</c><00:11:27.450><c> text</c><00:11:27.480><c> editor</c><00:11:28.170><c> you'll</c>
+
+00:11:28.490 --> 00:11:28.500 align:start position:0%
+this file with the text editor you'll
+ 
+
+00:11:28.500 --> 00:11:29.420 align:start position:0%
+this file with the text editor you'll
+see<00:11:28.710><c> that</c><00:11:28.800><c> it's</c><00:11:28.950><c> binary</c>
+
+00:11:29.420 --> 00:11:29.430 align:start position:0%
+see that it's binary
+ 
+
+00:11:29.430 --> 00:11:30.830 align:start position:0%
+see that it's binary
+which<00:11:29.610><c> doesn't</c><00:11:29.910><c> really</c><00:11:30.060><c> help</c><00:11:30.270><c> up</c><00:11:30.480><c> too</c><00:11:30.660><c> much</c>
+
+00:11:30.830 --> 00:11:30.840 align:start position:0%
+which doesn't really help up too much
+ 
+
+00:11:30.840 --> 00:11:32.780 align:start position:0%
+which doesn't really help up too much
+but<00:11:31.080><c> part</c><00:11:31.320><c> of</c><00:11:31.410><c> what</c><00:11:31.530><c> is</c><00:11:31.620><c> actually</c><00:11:31.740><c> inside</c><00:11:32.100><c> here</c>
+
+00:11:32.780 --> 00:11:32.790 align:start position:0%
+but part of what is actually inside here
+ 
+
+00:11:32.790 --> 00:11:35.210 align:start position:0%
+but part of what is actually inside here
+is<00:11:33.180><c> the</c><00:11:33.540><c> machine</c><00:11:33.900><c> code</c><00:11:34.140><c> that</c><00:11:34.530><c> our</c><00:11:34.560><c> CPU</c><00:11:34.980><c> will</c>
+
+00:11:35.210 --> 00:11:35.220 align:start position:0%
+is the machine code that our CPU will
+ 
+
+00:11:35.220 --> 00:11:37.250 align:start position:0%
+is the machine code that our CPU will
+run<00:11:35.460><c> when</c><00:11:36.090><c> we</c><00:11:36.270><c> call</c><00:11:36.480><c> this</c><00:11:36.600><c> multiply</c><00:11:37.080><c> function</c>
+
+00:11:37.250 --> 00:11:37.260 align:start position:0%
+run when we call this multiply function
+ 
+
+00:11:37.260 --> 00:11:39.200 align:start position:0%
+run when we call this multiply function
+so<00:11:37.860><c> because</c><00:11:38.130><c> this</c><00:11:38.250><c> is</c><00:11:38.310><c> just</c><00:11:38.550><c> binary</c><00:11:38.970><c> and</c>
+
+00:11:39.200 --> 00:11:39.210 align:start position:0%
+so because this is just binary and
+ 
+
+00:11:39.210 --> 00:11:41.510 align:start position:0%
+so because this is just binary and
+completely<00:11:39.900><c> unreadable</c><00:11:40.290><c> let's</c><00:11:41.070><c> convert</c><00:11:41.370><c> it</c>
+
+00:11:41.510 --> 00:11:41.520 align:start position:0%
+completely unreadable let's convert it
+ 
+
+00:11:41.520 --> 00:11:43.340 align:start position:0%
+completely unreadable let's convert it
+into<00:11:41.640><c> a</c><00:11:41.760><c> form</c><00:11:42.030><c> that</c><00:11:42.240><c> might</c><00:11:42.600><c> actually</c><00:11:42.840><c> be</c><00:11:43.170><c> more</c>
+
+00:11:43.340 --> 00:11:43.350 align:start position:0%
+into a form that might actually be more
+ 
+
+00:11:43.350 --> 00:11:45.020 align:start position:0%
+into a form that might actually be more
+readable<00:11:43.590><c> by</c><00:11:43.830><c> our</c><00:11:43.950><c> there</c><00:11:44.520><c> are</c><00:11:44.610><c> several</c><00:11:44.790><c> ways</c>
+
+00:11:45.020 --> 00:11:45.030 align:start position:0%
+readable by our there are several ways
+ 
+
+00:11:45.030 --> 00:11:46.160 align:start position:0%
+readable by our there are several ways
+we<00:11:45.210><c> could</c><00:11:45.360><c> do</c><00:11:45.480><c> this</c><00:11:45.600><c> but</c><00:11:45.750><c> I'm</c><00:11:45.870><c> just</c><00:11:45.930><c> going</c><00:11:46.080><c> to</c>
+
+00:11:46.160 --> 00:11:46.170 align:start position:0%
+we could do this but I'm just going to
+ 
+
+00:11:46.170 --> 00:11:47.690 align:start position:0%
+we could do this but I'm just going to
+use<00:11:46.260><c> visual</c><00:11:46.530><c> studio</c><00:11:46.860><c> I'll</c><00:11:47.130><c> right</c><00:11:47.430><c> click</c><00:11:47.460><c> on</c>
+
+00:11:47.690 --> 00:11:47.700 align:start position:0%
+use visual studio I'll right click on
+ 
+
+00:11:47.700 --> 00:11:49.580 align:start position:0%
+use visual studio I'll right click on
+hello<00:11:47.910><c> world</c><00:11:48.180><c> and</c><00:11:48.330><c> hit</c><00:11:48.480><c> properties</c><00:11:48.660><c> under</c><00:11:49.380><c> C</c>
+
+00:11:49.580 --> 00:11:49.590 align:start position:0%
+hello world and hit properties under C
+ 
+
+00:11:49.590 --> 00:11:52.190 align:start position:0%
+hello world and hit properties under C
+C++<00:11:49.890><c> and</c><00:11:50.400><c> then</c><00:11:50.640><c> output</c><00:11:51.210><c> file</c><00:11:51.450><c> I'm</c><00:11:51.750><c> going</c><00:11:52.110><c> to</c>
+
+00:11:52.190 --> 00:11:52.200 align:start position:0%
+C++ and then output file I'm going to
+ 
+
+00:11:52.200 --> 00:11:54.260 align:start position:0%
+C++ and then output file I'm going to
+set<00:11:52.380><c> assembler</c><00:11:52.890><c> output</c><00:11:53.310><c> to</c><00:11:53.790><c> be</c><00:11:53.910><c> set</c><00:11:54.120><c> to</c>
+
+00:11:54.260 --> 00:11:54.270 align:start position:0%
+set assembler output to be set to
+ 
+
+00:11:54.270 --> 00:11:56.120 align:start position:0%
+set assembler output to be set to
+assembly<00:11:54.720><c> only</c><00:11:54.870><c> listing</c><00:11:55.440><c> and</c><00:11:55.740><c> then</c><00:11:55.890><c> I'm</c><00:11:56.010><c> going</c>
+
+00:11:56.120 --> 00:11:56.130 align:start position:0%
+assembly only listing and then I'm going
+ 
+
+00:11:56.130 --> 00:11:58.370 align:start position:0%
+assembly only listing and then I'm going
+to<00:11:56.190><c> hit</c><00:11:56.310><c> OK</c><00:11:56.700><c> and</c><00:11:56.970><c> we're</c><00:11:57.630><c> going</c><00:11:57.750><c> to</c><00:11:57.780><c> hit</c><00:11:57.900><c> ctrl</c><00:11:58.200><c> f7</c>
+
+00:11:58.370 --> 00:11:58.380 align:start position:0%
+to hit OK and we're going to hit ctrl f7
+ 
+
+00:11:58.380 --> 00:12:00.650 align:start position:0%
+to hit OK and we're going to hit ctrl f7
+inside<00:11:59.160><c> our</c><00:11:59.430><c> output</c><00:11:59.820><c> directory</c><00:12:00.270><c> you</c><00:12:00.420><c> should</c>
+
+00:12:00.650 --> 00:12:00.660 align:start position:0%
+inside our output directory you should
+ 
+
+00:12:00.660 --> 00:12:03.230 align:start position:0%
+inside our output directory you should
+see<00:12:00.870><c> a</c><00:12:01.110><c> math</c><00:12:01.620><c> dot</c><00:12:01.890><c> ASM</c><00:12:02.340><c> file</c><00:12:02.610><c> let's</c><00:12:03.030><c> go</c><00:12:03.150><c> ahead</c>
+
+00:12:03.230 --> 00:12:03.240 align:start position:0%
+see a math dot ASM file let's go ahead
+ 
+
+00:12:03.240 --> 00:12:05.210 align:start position:0%
+see a math dot ASM file let's go ahead
+and<00:12:03.450><c> open</c><00:12:03.510><c> that</c><00:12:03.720><c> with</c><00:12:04.050><c> a</c><00:12:04.080><c> text</c><00:12:04.410><c> editor</c><00:12:04.500><c> okay</c><00:12:05.160><c> so</c>
+
+00:12:05.210 --> 00:12:05.220 align:start position:0%
+and open that with a text editor okay so
+ 
+
+00:12:05.220 --> 00:12:07.130 align:start position:0%
+and open that with a text editor okay so
+this<00:12:05.430><c> is</c><00:12:05.550><c> basically</c><00:12:05.850><c> a</c><00:12:05.940><c> readable</c><00:12:06.420><c> result</c><00:12:06.900><c> of</c>
+
+00:12:07.130 --> 00:12:07.140 align:start position:0%
+this is basically a readable result of
+ 
+
+00:12:07.140 --> 00:12:08.690 align:start position:0%
+this is basically a readable result of
+what<00:12:07.440><c> that</c><00:12:07.590><c> objects</c><00:12:07.920><c> file</c><00:12:08.070><c> actually</c><00:12:08.220><c> contain</c>
+
+00:12:08.690 --> 00:12:08.700 align:start position:0%
+what that objects file actually contain
+ 
+
+00:12:08.700 --> 00:12:10.700 align:start position:0%
+what that objects file actually contain
+if<00:12:08.940><c> we</c><00:12:09.360><c> go</c><00:12:09.480><c> down</c><00:12:09.630><c> over</c><00:12:09.930><c> here</c><00:12:10.170><c> you'll</c><00:12:10.350><c> see</c><00:12:10.560><c> that</c>
+
+00:12:10.700 --> 00:12:10.710 align:start position:0%
+if we go down over here you'll see that
+ 
+
+00:12:10.710 --> 00:12:12.230 align:start position:0%
+if we go down over here you'll see that
+we<00:12:10.830><c> actually</c><00:12:10.860><c> have</c><00:12:11.400><c> this</c><00:12:11.580><c> function</c><00:12:12.000><c> called</c>
+
+00:12:12.230 --> 00:12:12.240 align:start position:0%
+we actually have this function called
+ 
+
+00:12:12.240 --> 00:12:14.210 align:start position:0%
+we actually have this function called
+multiply<00:12:12.720><c> and</c><00:12:13.020><c> then</c><00:12:13.500><c> we</c><00:12:13.620><c> have</c><00:12:13.770><c> a</c><00:12:13.800><c> bunch</c><00:12:14.010><c> of</c>
+
+00:12:14.210 --> 00:12:14.220 align:start position:0%
+multiply and then we have a bunch of
+ 
+
+00:12:14.220 --> 00:12:16.070 align:start position:0%
+multiply and then we have a bunch of
+assembly<00:12:14.700><c> instructions</c><00:12:15.240><c> these</c><00:12:15.720><c> are</c><00:12:15.990><c> the</c>
+
+00:12:16.070 --> 00:12:16.080 align:start position:0%
+assembly instructions these are the
+ 
+
+00:12:16.080 --> 00:12:17.840 align:start position:0%
+assembly instructions these are the
+actual<00:12:16.440><c> instructions</c><00:12:17.070><c> that</c><00:12:17.220><c> our</c><00:12:17.340><c> CPU</c><00:12:17.670><c> will</c>
+
+00:12:17.840 --> 00:12:17.850 align:start position:0%
+actual instructions that our CPU will
+ 
+
+00:12:17.850 --> 00:12:19.370 align:start position:0%
+actual instructions that our CPU will
+execute<00:12:18.180><c> when</c><00:12:18.360><c> we</c><00:12:18.570><c> were</c><00:12:18.690><c> on</c><00:12:18.750><c> the</c><00:12:18.870><c> function</c><00:12:19.230><c> I'm</c>
+
+00:12:19.370 --> 00:12:19.380 align:start position:0%
+execute when we were on the function I'm
+ 
+
+00:12:19.380 --> 00:12:21.200 align:start position:0%
+execute when we were on the function I'm
+not<00:12:19.710><c> going</c><00:12:19.860><c> to</c><00:12:19.920><c> go</c><00:12:19.980><c> into</c><00:12:20.100><c> huge</c><00:12:20.430><c> detail</c><00:12:20.550><c> about</c>
+
+00:12:21.200 --> 00:12:21.210 align:start position:0%
+not going to go into huge detail about
+ 
+
+00:12:21.210 --> 00:12:23.150 align:start position:0%
+not going to go into huge detail about
+all<00:12:21.450><c> the</c><00:12:21.630><c> dissembler</c><00:12:22.080><c> code</c><00:12:22.290><c> now</c><00:12:22.590><c> I</c><00:12:22.620><c> might</c><00:12:22.950><c> save</c>
+
+00:12:23.150 --> 00:12:23.160 align:start position:0%
+all the dissembler code now I might save
+ 
+
+00:12:23.160 --> 00:12:24.710 align:start position:0%
+all the dissembler code now I might save
+that<00:12:23.310><c> for</c><00:12:23.430><c> another</c><00:12:23.490><c> video</c><00:12:23.790><c> but</c><00:12:24.240><c> if</c><00:12:24.420><c> we</c><00:12:24.540><c> take</c><00:12:24.660><c> a</c>
+
+00:12:24.710 --> 00:12:24.720 align:start position:0%
+that for another video but if we take a
+ 
+
+00:12:24.720 --> 00:12:26.030 align:start position:0%
+that for another video but if we take a
+look<00:12:24.870><c> over</c><00:12:25.050><c> here</c><00:12:25.200><c> you'll</c><00:12:25.620><c> see</c><00:12:25.800><c> that</c><00:12:25.920><c> our</c>
+
+00:12:26.030 --> 00:12:26.040 align:start position:0%
+look over here you'll see that our
+ 
+
+00:12:26.040 --> 00:12:28.040 align:start position:0%
+look over here you'll see that our
+multiplication<00:12:26.910><c> operation</c><00:12:27.660><c> actually</c>
+
+00:12:28.040 --> 00:12:28.050 align:start position:0%
+multiplication operation actually
+ 
+
+00:12:28.050 --> 00:12:29.750 align:start position:0%
+multiplication operation actually
+happens<00:12:28.350><c> here</c><00:12:28.440><c> basically</c><00:12:29.280><c> we</c><00:12:29.400><c> load</c><00:12:29.580><c> the</c><00:12:29.730><c> a</c>
+
+00:12:29.750 --> 00:12:29.760 align:start position:0%
+happens here basically we load the a
+ 
+
+00:12:29.760 --> 00:12:32.480 align:start position:0%
+happens here basically we load the a
+variable<00:12:30.390><c> into</c><00:12:30.690><c> our</c><00:12:30.810><c> EAX</c><00:12:31.440><c> register</c><00:12:31.650><c> and</c><00:12:32.310><c> then</c>
+
+00:12:32.480 --> 00:12:32.490 align:start position:0%
+variable into our EAX register and then
+ 
+
+00:12:32.490 --> 00:12:34.340 align:start position:0%
+variable into our EAX register and then
+we<00:12:32.610><c> perform</c><00:12:32.790><c> an</c><00:12:33.330><c> I</c><00:12:33.570><c> mul</c><00:12:33.780><c> instruction</c><00:12:34.200><c> which</c><00:12:34.320><c> is</c>
+
+00:12:34.340 --> 00:12:34.350 align:start position:0%
+we perform an I mul instruction which is
+ 
+
+00:12:34.350 --> 00:12:35.930 align:start position:0%
+we perform an I mul instruction which is
+a<00:12:34.440><c> multiplication</c><00:12:35.010><c> instruction</c><00:12:35.220><c> on</c><00:12:35.640><c> the</c><00:12:35.790><c> B</c>
+
+00:12:35.930 --> 00:12:35.940 align:start position:0%
+a multiplication instruction on the B
+ 
+
+00:12:35.940 --> 00:12:38.540 align:start position:0%
+a multiplication instruction on the B
+variable<00:12:36.270><c> and</c><00:12:36.630><c> that</c><00:12:37.470><c> a</c><00:12:37.500><c> variable</c><00:12:37.980><c> we're</c><00:12:38.430><c> then</c>
+
+00:12:38.540 --> 00:12:38.550 align:start position:0%
+variable and that a variable we're then
+ 
+
+00:12:38.550 --> 00:12:40.190 align:start position:0%
+variable and that a variable we're then
+storing<00:12:39.000><c> the</c><00:12:39.090><c> result</c><00:12:39.360><c> of</c><00:12:39.480><c> that</c><00:12:39.600><c> in</c><00:12:39.750><c> a</c><00:12:39.840><c> variable</c>
+
+00:12:40.190 --> 00:12:40.200 align:start position:0%
+storing the result of that in a variable
+ 
+
+00:12:40.200 --> 00:12:42.110 align:start position:0%
+storing the result of that in a variable
+called<00:12:40.440><c> result</c><00:12:40.650><c> and</c><00:12:41.280><c> moving</c><00:12:41.580><c> it</c><00:12:41.700><c> back</c><00:12:41.850><c> into</c>
+
+00:12:42.110 --> 00:12:42.120 align:start position:0%
+called result and moving it back into
+ 
+
+00:12:42.120 --> 00:12:44.240 align:start position:0%
+called result and moving it back into
+EAX<00:12:42.510><c> to</c><00:12:42.900><c> return</c><00:12:43.200><c> it</c><00:12:43.410><c> the</c><00:12:43.530><c> reason</c><00:12:43.830><c> this</c><00:12:43.950><c> kind</c><00:12:44.190><c> of</c>
+
+00:12:44.240 --> 00:12:44.250 align:start position:0%
+EAX to return it the reason this kind of
+ 
+
+00:12:44.250 --> 00:12:45.800 align:start position:0%
+EAX to return it the reason this kind of
+double<00:12:44.430><c> move</c><00:12:44.670><c> happens</c><00:12:45.120><c> because</c><00:12:45.420><c> I</c><00:12:45.630><c> actually</c>
+
+00:12:45.800 --> 00:12:45.810 align:start position:0%
+double move happens because I actually
+ 
+
+00:12:45.810 --> 00:12:48.080 align:start position:0%
+double move happens because I actually
+made<00:12:46.080><c> a</c><00:12:46.110><c> variable</c><00:12:46.560><c> called</c><00:12:46.740><c> result</c><00:12:46.980><c> and</c><00:12:47.460><c> then</c>
+
+00:12:48.080 --> 00:12:48.090 align:start position:0%
+made a variable called result and then
+ 
+
+00:12:48.090 --> 00:12:50.210 align:start position:0%
+made a variable called result and then
+returned<00:12:48.870><c> it</c><00:12:49.020><c> instead</c><00:12:49.380><c> of</c><00:12:49.440><c> just</c><00:12:49.530><c> returning</c><00:12:49.860><c> a</c>
+
+00:12:50.210 --> 00:12:50.220 align:start position:0%
+returned it instead of just returning a
+ 
+
+00:12:50.220 --> 00:12:53.210 align:start position:0%
+returned it instead of just returning a
+times<00:12:50.460><c> B</c><00:12:50.670><c> that's</c><00:12:51.480><c> why</c><00:12:51.720><c> we</c><00:12:51.900><c> get</c><00:12:52.080><c> this</c><00:12:52.260><c> moving</c>
+
+00:12:53.210 --> 00:12:53.220 align:start position:0%
+times B that's why we get this moving
+ 
+
+00:12:53.220 --> 00:12:56.030 align:start position:0%
+times B that's why we get this moving
+EAX<00:12:53.880><c> into</c><00:12:54.420><c> result</c><00:12:54.810><c> and</c><00:12:55.020><c> then</c><00:12:55.200><c> moving</c><00:12:55.440><c> result</c>
+
+00:12:56.030 --> 00:12:56.040 align:start position:0%
+EAX into result and then moving result
+ 
+
+00:12:56.040 --> 00:12:58.640 align:start position:0%
+EAX into result and then moving result
+into<00:12:56.430><c> EAX</c><00:12:56.700><c> which</c><00:12:57.570><c> is</c><00:12:57.720><c> completely</c><00:12:58.080><c> redundant</c>
+
+00:12:58.640 --> 00:12:58.650 align:start position:0%
+into EAX which is completely redundant
+ 
+
+00:12:58.650 --> 00:13:00.590 align:start position:0%
+into EAX which is completely redundant
+this<00:12:58.830><c> is</c><00:12:58.950><c> another</c><00:12:59.130><c> great</c><00:12:59.400><c> example</c><00:12:59.940><c> of</c><00:13:00.030><c> why</c><00:13:00.270><c> if</c>
+
+00:13:00.590 --> 00:13:00.600 align:start position:0%
+this is another great example of why if
+ 
+
+00:13:00.600 --> 00:13:02.030 align:start position:0%
+this is another great example of why if
+you<00:13:00.720><c> set</c><00:13:00.900><c> your</c><00:13:00.990><c> compiler</c><00:13:01.380><c> not</c><00:13:01.530><c> to</c><00:13:01.650><c> optimize</c>
+
+00:13:02.030 --> 00:13:02.040 align:start position:0%
+you set your compiler not to optimize
+ 
+
+00:13:02.040 --> 00:13:03.350 align:start position:0%
+you set your compiler not to optimize
+you're<00:13:02.250><c> going</c><00:13:02.370><c> to</c><00:13:02.430><c> find</c><00:13:02.640><c> out</c><00:13:02.760><c> with</c><00:13:02.910><c> slow</c><00:13:03.120><c> code</c>
+
+00:13:03.350 --> 00:13:03.360 align:start position:0%
+you're going to find out with slow code
+ 
+
+00:13:03.360 --> 00:13:03.940 align:start position:0%
+you're going to find out with slow code
+because<00:13:03.570><c> it's</c><00:13:03.690><c> doing</c>
+
+00:13:03.940 --> 00:13:03.950 align:start position:0%
+because it's doing
+ 
+
+00:13:03.950 --> 00:13:05.830 align:start position:0%
+because it's doing
+extra<00:13:04.190><c> stuff</c><00:13:04.370><c> like</c><00:13:04.550><c> this</c><00:13:04.670><c> for</c><00:13:04.850><c> no</c><00:13:05.000><c> reason</c><00:13:05.390><c> if</c><00:13:05.690><c> I</c>
+
+00:13:05.830 --> 00:13:05.840 align:start position:0%
+extra stuff like this for no reason if I
+ 
+
+00:13:05.840 --> 00:13:08.050 align:start position:0%
+extra stuff like this for no reason if I
+go<00:13:05.960><c> back</c><00:13:06.110><c> to</c><00:13:06.140><c> my</c><00:13:06.350><c> code</c><00:13:06.590><c> and</c><00:13:06.860><c> I</c><00:13:06.980><c> actually</c><00:13:07.190><c> get</c>
+
+00:13:08.050 --> 00:13:08.060 align:start position:0%
+go back to my code and I actually get
+ 
+
+00:13:08.060 --> 00:13:09.640 align:start position:0%
+go back to my code and I actually get
+rid<00:13:08.210><c> of</c><00:13:08.270><c> that</c><00:13:08.480><c> result</c><00:13:08.960><c> variable</c><00:13:09.350><c> by</c><00:13:09.470><c> just</c>
+
+00:13:09.640 --> 00:13:09.650 align:start position:0%
+rid of that result variable by just
+ 
+
+00:13:09.650 --> 00:13:11.680 align:start position:0%
+rid of that result variable by just
+returning<00:13:09.980><c> a</c><00:13:10.220><c> times</c><00:13:10.520><c> B</c><00:13:10.790><c> and</c><00:13:11.090><c> then</c><00:13:11.330><c> compile</c>
+
+00:13:11.680 --> 00:13:11.690 align:start position:0%
+returning a times B and then compile
+ 
+
+00:13:11.690 --> 00:13:13.570 align:start position:0%
+returning a times B and then compile
+this<00:13:11.900><c> you'll</c><00:13:12.800><c> see</c><00:13:12.980><c> the</c><00:13:13.070><c> assembly</c><00:13:13.400><c> looks</c>
+
+00:13:13.570 --> 00:13:13.580 align:start position:0%
+this you'll see the assembly looks
+ 
+
+00:13:13.580 --> 00:13:14.830 align:start position:0%
+this you'll see the assembly looks
+slightly<00:13:13.850><c> different</c><00:13:14.360><c> because</c><00:13:14.540><c> we're</c><00:13:14.810><c> just</c>
+
+00:13:14.830 --> 00:13:14.840 align:start position:0%
+slightly different because we're just
+ 
+
+00:13:14.840 --> 00:13:17.800 align:start position:0%
+slightly different because we're just
+doing<00:13:15.080><c> a</c><00:13:15.440><c> mole</c><00:13:15.710><c> on</c><00:13:15.950><c> B</c><00:13:16.460><c> and</c><00:13:16.700><c> E</c><00:13:16.850><c> ax</c><00:13:17.180><c> and</c><00:13:17.420><c> then</c>
+
+00:13:17.800 --> 00:13:17.810 align:start position:0%
+doing a mole on B and E ax and then
+ 
+
+00:13:17.810 --> 00:13:18.640 align:start position:0%
+doing a mole on B and E ax and then
+that's<00:13:18.140><c> it</c>
+
+00:13:18.640 --> 00:13:18.650 align:start position:0%
+that's it
+ 
+
+00:13:18.650 --> 00:13:20.230 align:start position:0%
+that's it
+the<00:13:18.890><c> ax</c><00:13:19.160><c> is</c><00:13:19.310><c> actually</c><00:13:19.640><c> going</c><00:13:19.760><c> to</c><00:13:19.910><c> contain</c><00:13:20.180><c> our</c>
+
+00:13:20.230 --> 00:13:20.240 align:start position:0%
+the ax is actually going to contain our
+ 
+
+00:13:20.240 --> 00:13:22.300 align:start position:0%
+the ax is actually going to contain our
+return<00:13:20.630><c> value</c><00:13:21.200><c> now</c><00:13:21.380><c> all</c><00:13:21.650><c> this</c><00:13:21.920><c> may</c><00:13:22.070><c> look</c><00:13:22.250><c> like</c>
+
+00:13:22.300 --> 00:13:22.310 align:start position:0%
+return value now all this may look like
+ 
+
+00:13:22.310 --> 00:13:24.040 align:start position:0%
+return value now all this may look like
+a<00:13:22.460><c> lot</c><00:13:22.820><c> of</c><00:13:22.850><c> code</c><00:13:23.150><c> and</c><00:13:23.360><c> that's</c><00:13:23.450><c> because</c><00:13:23.870><c> we're</c>
+
+00:13:24.040 --> 00:13:24.050 align:start position:0%
+a lot of code and that's because we're
+ 
+
+00:13:24.050 --> 00:13:25.390 align:start position:0%
+a lot of code and that's because we're
+actually<00:13:24.290><c> compiling</c><00:13:24.620><c> in</c><00:13:24.800><c> debug</c><00:13:25.160><c> which</c>
+
+00:13:25.390 --> 00:13:25.400 align:start position:0%
+actually compiling in debug which
+ 
+
+00:13:25.400 --> 00:13:27.340 align:start position:0%
+actually compiling in debug which
+doesn't<00:13:25.850><c> do</c><00:13:25.910><c> any</c><00:13:26.120><c> optimization</c><00:13:26.990><c> that</c><00:13:27.170><c> and</c>
+
+00:13:27.340 --> 00:13:27.350 align:start position:0%
+doesn't do any optimization that and
+ 
+
+00:13:27.350 --> 00:13:28.930 align:start position:0%
+doesn't do any optimization that and
+does<00:13:27.500><c> extra</c><00:13:27.980><c> things</c><00:13:28.190><c> to</c><00:13:28.280><c> make</c><00:13:28.520><c> sure</c><00:13:28.700><c> that</c><00:13:28.880><c> our</c>
+
+00:13:28.930 --> 00:13:28.940 align:start position:0%
+does extra things to make sure that our
+ 
+
+00:13:28.940 --> 00:13:31.330 align:start position:0%
+does extra things to make sure that our
+code<00:13:29.240><c> is</c><00:13:29.390><c> as</c><00:13:29.480><c> diverse</c><00:13:29.810><c> as</c><00:13:30.140><c> possible</c><00:13:30.620><c> and</c><00:13:30.800><c> as</c>
+
+00:13:31.330 --> 00:13:31.340 align:start position:0%
+code is as diverse as possible and as
+ 
+
+00:13:31.340 --> 00:13:33.430 align:start position:0%
+code is as diverse as possible and as
+easy<00:13:31.700><c> to</c><00:13:31.820><c> debug</c><00:13:32.120><c> as</c><00:13:32.300><c> possible</c><00:13:32.780><c> if</c><00:13:32.930><c> we</c><00:13:33.110><c> go</c><00:13:33.200><c> back</c>
+
+00:13:33.430 --> 00:13:33.440 align:start position:0%
+easy to debug as possible if we go back
+ 
+
+00:13:33.440 --> 00:13:35.650 align:start position:0%
+easy to debug as possible if we go back
+into<00:13:33.620><c> our</c><00:13:33.740><c> project</c><00:13:34.340><c> and</c><00:13:34.550><c> right</c><00:13:35.300><c> click</c><00:13:35.510><c> here</c>
+
+00:13:35.650 --> 00:13:35.660 align:start position:0%
+into our project and right click here
+ 
+
+00:13:35.660 --> 00:13:37.690 align:start position:0%
+into our project and right click here
+hit<00:13:35.900><c> properties</c><00:13:36.140><c> I'm</c><00:13:36.470><c> going</c><00:13:37.010><c> to</c><00:13:37.130><c> go</c><00:13:37.250><c> over</c><00:13:37.280><c> here</c>
+
+00:13:37.690 --> 00:13:37.700 align:start position:0%
+hit properties I'm going to go over here
+ 
+
+00:13:37.700 --> 00:13:40.360 align:start position:0%
+hit properties I'm going to go over here
+into<00:13:38.500><c> optimization</c><00:13:39.500><c> under</c><00:13:39.950><c> the</c><00:13:40.040><c> debug</c>
+
+00:13:40.360 --> 00:13:40.370 align:start position:0%
+into optimization under the debug
+ 
+
+00:13:40.370 --> 00:13:41.170 align:start position:0%
+into optimization under the debug
+configuration
+
+00:13:41.170 --> 00:13:41.180 align:start position:0%
+configuration
+ 
+
+00:13:41.180 --> 00:13:44.260 align:start position:0%
+configuration
+let's<00:13:41.600><c> select</c><00:13:41.920><c> maximize</c><00:13:42.920><c> speed</c><00:13:43.520><c> if</c><00:13:43.850><c> you</c><00:13:44.120><c> try</c>
+
+00:13:44.260 --> 00:13:44.270 align:start position:0%
+let's select maximize speed if you try
+ 
+
+00:13:44.270 --> 00:13:45.640 align:start position:0%
+let's select maximize speed if you try
+and<00:13:44.330><c> compile</c><00:13:44.600><c> this</c><00:13:44.750><c> now</c><00:13:44.900><c> it'll</c><00:13:45.290><c> actually</c><00:13:45.410><c> give</c>
+
+00:13:45.640 --> 00:13:45.650 align:start position:0%
+and compile this now it'll actually give
+ 
+
+00:13:45.650 --> 00:13:47.500 align:start position:0%
+and compile this now it'll actually give
+you<00:13:45.740><c> an</c><00:13:45.830><c> error</c><00:13:46.010><c> because</c><00:13:46.610><c> you'll</c><00:13:47.030><c> see</c><00:13:47.210><c> that</c><00:13:47.360><c> OH</c>
+
+00:13:47.500 --> 00:13:47.510 align:start position:0%
+you an error because you'll see that OH
+ 
+
+00:13:47.510 --> 00:13:50.170 align:start position:0%
+you an error because you'll see that OH
+-<00:13:47.570><c> and</c><00:13:47.990><c> RTC</c><00:13:48.650><c> is</c><00:13:48.680><c> actually</c><00:13:49.040><c> incompatible</c><00:13:49.910><c> so</c>
+
+00:13:50.170 --> 00:13:50.180 align:start position:0%
+- and RTC is actually incompatible so
+ 
+
+00:13:50.180 --> 00:13:51.670 align:start position:0%
+- and RTC is actually incompatible so
+we'll<00:13:50.300><c> have</c><00:13:50.390><c> to</c><00:13:50.540><c> go</c><00:13:50.630><c> back</c><00:13:50.810><c> over</c><00:13:50.840><c> here</c><00:13:51.140><c> into</c>
+
+00:13:51.670 --> 00:13:51.680 align:start position:0%
+we'll have to go back over here into
+ 
+
+00:13:51.680 --> 00:13:54.400 align:start position:0%
+we'll have to go back over here into
+code<00:13:52.430><c> generation</c><00:13:52.910><c> and</c><00:13:53.300><c> make</c><00:13:53.990><c> sure</c><00:13:54.170><c> that</c><00:13:54.260><c> our</c>
+
+00:13:54.400 --> 00:13:54.410 align:start position:0%
+code generation and make sure that our
+ 
+
+00:13:54.410 --> 00:13:56.380 align:start position:0%
+code generation and make sure that our
+basic<00:13:54.590><c> runtime</c><00:13:55.130><c> checks</c><00:13:55.460><c> are</c><00:13:55.670><c> set</c><00:13:55.940><c> to</c><00:13:56.090><c> default</c>
+
+00:13:56.380 --> 00:13:56.390 align:start position:0%
+basic runtime checks are set to default
+ 
+
+00:13:56.390 --> 00:13:57.730 align:start position:0%
+basic runtime checks are set to default
+which<00:13:56.600><c> basically</c><00:13:56.870><c> won't</c><00:13:57.140><c> perform</c><00:13:57.260><c> runtime</c>
+
+00:13:57.730 --> 00:13:57.740 align:start position:0%
+which basically won't perform runtime
+ 
+
+00:13:57.740 --> 00:13:59.470 align:start position:0%
+which basically won't perform runtime
+checks<00:13:58.010><c> this</c><00:13:58.250><c> is</c><00:13:58.490><c> basically</c><00:13:58.850><c> just</c><00:13:58.970><c> code</c><00:13:59.300><c> that</c>
+
+00:13:59.470 --> 00:13:59.480 align:start position:0%
+checks this is basically just code that
+ 
+
+00:13:59.480 --> 00:14:01.030 align:start position:0%
+checks this is basically just code that
+the<00:13:59.540><c> compiler</c><00:13:59.810><c> will</c><00:14:00.050><c> insert</c><00:14:00.350><c> to</c><00:14:00.500><c> help</c><00:14:00.680><c> us</c><00:14:00.830><c> with</c>
+
+00:14:01.030 --> 00:14:01.040 align:start position:0%
+the compiler will insert to help us with
+ 
+
+00:14:01.040 --> 00:14:01.540 align:start position:0%
+the compiler will insert to help us with
+debugging
+
+00:14:01.540 --> 00:14:01.550 align:start position:0%
+debugging
+ 
+
+00:14:01.550 --> 00:14:03.730 align:start position:0%
+debugging
+let's<00:14:02.210><c> take</c><00:14:02.330><c> control</c><00:14:02.600><c> of</c><00:14:02.690><c> seven</c><00:14:03.110><c> and</c><00:14:03.320><c> look</c><00:14:03.620><c> at</c>
+
+00:14:03.730 --> 00:14:03.740 align:start position:0%
+let's take control of seven and look at
+ 
+
+00:14:03.740 --> 00:14:05.710 align:start position:0%
+let's take control of seven and look at
+that<00:14:03.830><c> assembly</c><00:14:04.040><c> file</c><00:14:04.310><c> again</c><00:14:04.580><c> wow</c><00:14:04.940><c> that</c><00:14:05.570><c> looks</c>
+
+00:14:05.710 --> 00:14:05.720 align:start position:0%
+that assembly file again wow that looks
+ 
+
+00:14:05.720 --> 00:14:07.900 align:start position:0%
+that assembly file again wow that looks
+a<00:14:05.810><c> lot</c><00:14:05.960><c> smaller</c><00:14:06.140><c> we've</c><00:14:06.560><c> basically</c><00:14:06.830><c> just</c><00:14:07.490><c> got</c>
+
+00:14:07.900 --> 00:14:07.910 align:start position:0%
+a lot smaller we've basically just got
+ 
+
+00:14:07.910 --> 00:14:09.640 align:start position:0%
+a lot smaller we've basically just got
+our<00:14:08.300><c> variables</c><00:14:08.900><c> being</c><00:14:09.110><c> loaded</c><00:14:09.290><c> into</c><00:14:09.560><c> a</c>
+
+00:14:09.640 --> 00:14:09.650 align:start position:0%
+our variables being loaded into a
+ 
+
+00:14:09.650 --> 00:14:11.620 align:start position:0%
+our variables being loaded into a
+register<00:14:09.890><c> and</c><00:14:10.310><c> then</c><00:14:10.640><c> the</c><00:14:10.760><c> multiplication</c><00:14:11.090><c> and</c>
+
+00:14:11.620 --> 00:14:11.630 align:start position:0%
+register and then the multiplication and
+ 
+
+00:14:11.630 --> 00:14:13.930 align:start position:0%
+register and then the multiplication and
+then<00:14:11.780><c> that's</c><00:14:11.990><c> it</c><00:14:12.170><c> pretty</c><00:14:12.680><c> simple</c><00:14:12.950><c> stuff</c><00:14:13.550><c> you</c>
+
+00:14:13.930 --> 00:14:13.940 align:start position:0%
+then that's it pretty simple stuff you
+ 
+
+00:14:13.940 --> 00:14:15.400 align:start position:0%
+then that's it pretty simple stuff you
+should<00:14:14.090><c> now</c><00:14:14.180><c> have</c><00:14:14.210><c> a</c><00:14:14.450><c> basic</c><00:14:14.600><c> idea</c><00:14:14.870><c> of</c><00:14:15.170><c> what</c><00:14:15.320><c> the</c>
+
+00:14:15.400 --> 00:14:15.410 align:start position:0%
+should now have a basic idea of what the
+ 
+
+00:14:15.410 --> 00:14:16.750 align:start position:0%
+should now have a basic idea of what the
+compiler<00:14:15.710><c> actually</c><00:14:16.130><c> does</c><00:14:16.280><c> when</c><00:14:16.430><c> you</c><00:14:16.520><c> tell</c><00:14:16.640><c> it</c>
+
+00:14:16.750 --> 00:14:16.760 align:start position:0%
+compiler actually does when you tell it
+ 
+
+00:14:16.760 --> 00:14:19.000 align:start position:0%
+compiler actually does when you tell it
+to<00:14:16.790><c> optimize</c><00:14:17.240><c> it</c><00:14:17.630><c> optimizes</c><00:14:18.140><c> this</c><00:14:18.800><c> is</c><00:14:18.980><c> a</c>
+
+00:14:19.000 --> 00:14:19.010 align:start position:0%
+to optimize it optimizes this is a
+ 
+
+00:14:19.010 --> 00:14:20.500 align:start position:0%
+to optimize it optimizes this is a
+pretty<00:14:19.190><c> simple</c><00:14:19.400><c> example</c><00:14:19.610><c> so</c><00:14:20.150><c> let's</c><00:14:20.330><c> take</c><00:14:20.480><c> a</c>
+
+00:14:20.500 --> 00:14:20.510 align:start position:0%
+pretty simple example so let's take a
+ 
+
+00:14:20.510 --> 00:14:22.000 align:start position:0%
+pretty simple example so let's take a
+look<00:14:20.660><c> at</c><00:14:20.780><c> something</c><00:14:21.140><c> a</c><00:14:21.230><c> bit</c><00:14:21.380><c> more</c><00:14:21.530><c> advanced</c>
+
+00:14:22.000 --> 00:14:22.010 align:start position:0%
+look at something a bit more advanced
+ 
+
+00:14:22.010 --> 00:14:22.960 align:start position:0%
+look at something a bit more advanced
+we'll<00:14:22.340><c> take</c><00:14:22.490><c> a</c><00:14:22.520><c> look</c><00:14:22.700><c> at</c><00:14:22.790><c> a</c><00:14:22.850><c> slightly</c>
+
+00:14:22.960 --> 00:14:22.970 align:start position:0%
+we'll take a look at a slightly
+ 
+
+00:14:22.970 --> 00:14:24.850 align:start position:0%
+we'll take a look at a slightly
+different<00:14:23.300><c> example</c><00:14:23.540><c> in</c><00:14:24.110><c> which</c><00:14:24.410><c> case</c><00:14:24.620><c> we</c><00:14:24.770><c> don't</c>
+
+00:14:24.850 --> 00:14:24.860 align:start position:0%
+different example in which case we don't
+ 
+
+00:14:24.860 --> 00:14:26.980 align:start position:0%
+different example in which case we don't
+actually<00:14:25.070><c> take</c><00:14:25.400><c> anything</c><00:14:25.760><c> in</c><00:14:26.030><c> here</c><00:14:26.390><c> but</c><00:14:26.960><c> I</c>
+
+00:14:26.980 --> 00:14:26.990 align:start position:0%
+actually take anything in here but I
+ 
+
+00:14:26.990 --> 00:14:29.620 align:start position:0%
+actually take anything in here but I
+decide<00:14:27.350><c> to</c><00:14:27.380><c> do</c><00:14:27.620><c> something</c><00:14:27.890><c> like</c><00:14:28.190><c> five</c><00:14:28.640><c> times</c><00:14:29.150><c> -</c>
+
+00:14:29.620 --> 00:14:29.630 align:start position:0%
+decide to do something like five times -
+ 
+
+00:14:29.630 --> 00:14:31.420 align:start position:0%
+decide to do something like five times -
+we'll<00:14:30.020><c> save</c><00:14:30.200><c> that</c><00:14:30.380><c> file</c><00:14:30.650><c> I'll</c><00:14:30.920><c> go</c><00:14:31.100><c> into</c><00:14:31.310><c> my</c>
+
+00:14:31.420 --> 00:14:31.430 align:start position:0%
+we'll save that file I'll go into my
+ 
+
+00:14:31.430 --> 00:14:33.580 align:start position:0%
+we'll save that file I'll go into my
+properties<00:14:31.880><c> and</c><00:14:32.090><c> make</c><00:14:32.390><c> sure</c><00:14:32.660><c> that</c><00:14:32.900><c> I</c><00:14:32.960><c> disable</c>
+
+00:14:33.580 --> 00:14:33.590 align:start position:0%
+properties and make sure that I disable
+ 
+
+00:14:33.590 --> 00:14:36.280 align:start position:0%
+properties and make sure that I disable
+optimization<00:14:34.340><c> so</c><00:14:34.940><c> let's</c><00:14:35.120><c> hit</c><00:14:35.300><c> control</c><00:14:35.630><c> f7</c><00:14:35.780><c> and</c>
+
+00:14:36.280 --> 00:14:36.290 align:start position:0%
+optimization so let's hit control f7 and
+ 
+
+00:14:36.290 --> 00:14:37.930 align:start position:0%
+optimization so let's hit control f7 and
+take<00:14:36.440><c> a</c><00:14:36.470><c> look</c><00:14:36.650><c> at</c><00:14:36.740><c> our</c><00:14:36.830><c> file</c><00:14:37.070><c> you</c><00:14:37.520><c> can</c><00:14:37.670><c> see</c><00:14:37.790><c> that</c>
+
+00:14:37.930 --> 00:14:37.940 align:start position:0%
+take a look at our file you can see that
+ 
+
+00:14:37.940 --> 00:14:39.790 align:start position:0%
+take a look at our file you can see that
+what<00:14:38.090><c> it's</c><00:14:38.210><c> done</c><00:14:38.360><c> is</c><00:14:38.630><c> actually</c><00:14:39.080><c> really</c><00:14:39.290><c> simple</c>
+
+00:14:39.790 --> 00:14:39.800 align:start position:0%
+what it's done is actually really simple
+ 
+
+00:14:39.800 --> 00:14:42.910 align:start position:0%
+what it's done is actually really simple
+it's<00:14:39.980><c> simply</c><00:14:40.400><c> moved</c><00:14:40.880><c> ten</c><00:14:41.420><c> into</c><00:14:42.230><c> our</c><00:14:42.380><c> EAX</c>
+
+00:14:42.910 --> 00:14:42.920 align:start position:0%
+it's simply moved ten into our EAX
+ 
+
+00:14:42.920 --> 00:14:44.440 align:start position:0%
+it's simply moved ten into our EAX
+register<00:14:43.040><c> which</c><00:14:43.580><c> is</c><00:14:43.610><c> a</c><00:14:43.760><c> register</c><00:14:44.180><c> that</c><00:14:44.300><c> will</c>
+
+00:14:44.440 --> 00:14:44.450 align:start position:0%
+register which is a register that will
+ 
+
+00:14:44.450 --> 00:14:46.270 align:start position:0%
+register which is a register that will
+actually<00:14:44.720><c> store</c><00:14:44.930><c> our</c><00:14:45.110><c> return</c><00:14:45.380><c> value</c><00:14:45.410><c> in</c><00:14:45.830><c> so</c><00:14:46.220><c> if</c>
+
+00:14:46.270 --> 00:14:46.280 align:start position:0%
+actually store our return value in so if
+ 
+
+00:14:46.280 --> 00:14:47.800 align:start position:0%
+actually store our return value in so if
+we<00:14:46.400><c> take</c><00:14:46.520><c> a</c><00:14:46.580><c> look</c><00:14:46.820><c> at</c><00:14:46.940><c> our</c><00:14:47.030><c> code</c><00:14:47.210><c> again</c><00:14:47.360><c> it's</c>
+
+00:14:47.800 --> 00:14:47.810 align:start position:0%
+we take a look at our code again it's
+ 
+
+00:14:47.810 --> 00:14:49.990 align:start position:0%
+we take a look at our code again it's
+basically<00:14:48.470><c> just</c><00:14:48.560><c> simplified</c><00:14:49.280><c> our</c><00:14:49.460><c> five</c><00:14:49.730><c> times</c>
+
+00:14:49.990 --> 00:14:50.000 align:start position:0%
+basically just simplified our five times
+ 
+
+00:14:50.000 --> 00:14:53.470 align:start position:0%
+basically just simplified our five times
+two<00:14:50.330><c> to</c><00:14:51.260><c> be</c><00:14:51.440><c> ten</c><00:14:51.710><c> because</c><00:14:52.700><c> of</c><00:14:52.940><c> course</c><00:14:53.120><c> has</c><00:14:53.330><c> no</c>
+
+00:14:53.470 --> 00:14:53.480 align:start position:0%
+two to be ten because of course has no
+ 
+
+00:14:53.480 --> 00:14:55.330 align:start position:0%
+two to be ten because of course has no
+need<00:14:53.720><c> to</c><00:14:53.840><c> do</c><00:14:53.990><c> something</c><00:14:54.380><c> like</c><00:14:54.560><c> five</c><00:14:54.830><c> times</c><00:14:55.040><c> to</c>
+
+00:14:55.330 --> 00:14:55.340 align:start position:0%
+need to do something like five times to
+ 
+
+00:14:55.340 --> 00:14:57.880 align:start position:0%
+need to do something like five times to
+two<00:14:55.580><c> constant</c><00:14:56.180><c> values</c><00:14:56.600><c> at</c><00:14:56.840><c> runtime</c><00:14:57.440><c> there's</c>
+
+00:14:57.880 --> 00:14:57.890 align:start position:0%
+two constant values at runtime there's
+ 
+
+00:14:57.890 --> 00:14:59.590 align:start position:0%
+two constant values at runtime there's
+something<00:14:58.220><c> called</c><00:14:58.370><c> constant</c><00:14:58.910><c> folding</c><00:14:59.120><c> where</c>
+
+00:14:59.590 --> 00:14:59.600 align:start position:0%
+something called constant folding where
+ 
+
+00:14:59.600 --> 00:15:01.360 align:start position:0%
+something called constant folding where
+anything<00:15:00.110><c> that</c><00:15:00.140><c> is</c><00:15:00.320><c> constant</c><00:15:00.830><c> that</c><00:15:01.100><c> can</c><00:15:01.280><c> be</c>
+
+00:15:01.360 --> 00:15:01.370 align:start position:0%
+anything that is constant that can be
+ 
+
+00:15:01.370 --> 00:15:03.850 align:start position:0%
+anything that is constant that can be
+worked<00:15:01.550><c> out</c><00:15:01.700><c> at</c><00:15:01.910><c> compile</c><00:15:02.240><c> time</c><00:15:02.330><c> is</c><00:15:02.840><c> let's</c><00:15:03.710><c> make</c>
+
+00:15:03.850 --> 00:15:03.860 align:start position:0%
+worked out at compile time is let's make
+ 
+
+00:15:03.860 --> 00:15:05.260 align:start position:0%
+worked out at compile time is let's make
+things<00:15:04.100><c> more</c><00:15:04.280><c> interesting</c><00:15:04.730><c> by</c><00:15:04.880><c> involving</c>
+
+00:15:05.260 --> 00:15:05.270 align:start position:0%
+things more interesting by involving
+ 
+
+00:15:05.270 --> 00:15:07.420 align:start position:0%
+things more interesting by involving
+another<00:15:05.510><c> function</c><00:15:05.960><c> so</c><00:15:06.560><c> for</c><00:15:06.770><c> example</c><00:15:07.220><c> I'm</c>
+
+00:15:07.420 --> 00:15:07.430 align:start position:0%
+another function so for example I'm
+ 
+
+00:15:07.430 --> 00:15:09.570 align:start position:0%
+another function so for example I'm
+actually<00:15:07.610><c> going</c><00:15:08.000><c> to</c><00:15:08.120><c> write</c><00:15:08.720><c> a</c><00:15:08.780><c> log</c><00:15:09.230><c> function</c>
+
+00:15:09.570 --> 00:15:09.580 align:start position:0%
+actually going to write a log function
+ 
+
+00:15:09.580 --> 00:15:12.280 align:start position:0%
+actually going to write a log function
+which<00:15:10.580><c> is</c><00:15:10.730><c> going</c><00:15:10.940><c> to</c><00:15:11.030><c> log</c><00:15:11.240><c> a</c><00:15:11.450><c> certain</c><00:15:12.020><c> message</c>
+
+00:15:12.280 --> 00:15:12.290 align:start position:0%
+which is going to log a certain message
+ 
+
+00:15:12.290 --> 00:15:14.440 align:start position:0%
+which is going to log a certain message
+of<00:15:13.130><c> course</c><00:15:13.370><c> I</c><00:15:13.430><c> don't</c><00:15:13.490><c> actually</c><00:15:13.790><c> want</c><00:15:14.180><c> to</c><00:15:14.270><c> make</c>
+
+00:15:14.440 --> 00:15:14.450 align:start position:0%
+of course I don't actually want to make
+ 
+
+00:15:14.450 --> 00:15:15.940 align:start position:0%
+of course I don't actually want to make
+it<00:15:14.600><c> log</c><00:15:14.810><c> anything</c><00:15:15.230><c> because</c><00:15:15.500><c> that</c><00:15:15.650><c> would</c><00:15:15.800><c> mean</c>
+
+00:15:15.940 --> 00:15:15.950 align:start position:0%
+it log anything because that would mean
+ 
+
+00:15:15.950 --> 00:15:16.160 align:start position:0%
+it log anything because that would mean
+I
+
+00:15:16.160 --> 00:15:16.170 align:start position:0%
+I
+ 
+
+00:15:16.170 --> 00:15:17.420 align:start position:0%
+I
+have<00:15:16.320><c> to</c><00:15:16.440><c> include</c><00:15:16.680><c> iostream</c><00:15:16.829><c> which</c><00:15:17.310><c> will</c>
+
+00:15:17.420 --> 00:15:17.430 align:start position:0%
+have to include iostream which will
+ 
+
+00:15:17.430 --> 00:15:19.579 align:start position:0%
+have to include iostream which will
+drastically<00:15:18.060><c> complicate</c><00:15:18.690><c> this</c><00:15:18.839><c> so</c><00:15:19.380><c> I'm</c><00:15:19.470><c> is</c>
+
+00:15:19.579 --> 00:15:19.589 align:start position:0%
+drastically complicate this so I'm is
+ 
+
+00:15:19.589 --> 00:15:21.139 align:start position:0%
+drastically complicate this so I'm is
+going<00:15:19.769><c> to</c><00:15:19.860><c> get</c><00:15:20.010><c> it</c><00:15:20.130><c> to</c><00:15:20.220><c> return</c><00:15:20.579><c> that</c><00:15:20.790><c> message</c>
+
+00:15:21.139 --> 00:15:21.149 align:start position:0%
+going to get it to return that message
+ 
+
+00:15:21.149 --> 00:15:23.060 align:start position:0%
+going to get it to return that message
+that<00:15:21.329><c> it</c><00:15:21.389><c> received</c><00:15:21.750><c> over</c><00:15:22.290><c> here</c><00:15:22.440><c> and</c><00:15:22.589><c> multiply</c>
+
+00:15:23.060 --> 00:15:23.070 align:start position:0%
+that it received over here and multiply
+ 
+
+00:15:23.070 --> 00:15:24.800 align:start position:0%
+that it received over here and multiply
+I'm<00:15:23.250><c> going</c><00:15:23.490><c> to</c><00:15:23.579><c> call</c><00:15:23.820><c> log</c><00:15:24.089><c> with</c><00:15:24.510><c> the</c><00:15:24.540><c> word</c>
+
+00:15:24.800 --> 00:15:24.810 align:start position:0%
+I'm going to call log with the word
+ 
+
+00:15:24.810 --> 00:15:27.470 align:start position:0%
+I'm going to call log with the word
+multiplier<00:15:25.440><c> I</c><00:15:25.740><c> want</c><00:15:26.490><c> to</c><00:15:26.550><c> change</c><00:15:26.760><c> this</c><00:15:26.940><c> back</c><00:15:27.240><c> to</c>
+
+00:15:27.470 --> 00:15:27.480 align:start position:0%
+multiplier I want to change this back to
+ 
+
+00:15:27.480 --> 00:15:33.259 align:start position:0%
+multiplier I want to change this back to
+be<00:15:27.690><c> a</c><00:15:28.040><c> and</c><00:15:29.040><c> B</c><00:15:29.370><c> and</c><00:15:31.100><c> watertown</c><00:15:32.100><c> a</c><00:15:32.130><c> times</c><00:15:32.550><c> B</c><00:15:32.760><c> let's</c>
+
+00:15:33.259 --> 00:15:33.269 align:start position:0%
+be a and B and watertown a times B let's
+ 
+
+00:15:33.269 --> 00:15:35.360 align:start position:0%
+be a and B and watertown a times B let's
+take<00:15:33.389><c> control</c><00:15:33.600><c> of</c><00:15:33.779><c> seven</c><00:15:34.079><c> all</c><00:15:34.769><c> right</c><00:15:34.829><c> so</c><00:15:35.220><c> let's</c>
+
+00:15:35.360 --> 00:15:35.370 align:start position:0%
+take control of seven all right so let's
+ 
+
+00:15:35.370 --> 00:15:36.470 align:start position:0%
+take control of seven all right so let's
+take<00:15:35.490><c> a</c><00:15:35.550><c> look</c><00:15:35.699><c> at</c><00:15:35.790><c> what</c><00:15:35.910><c> our</c><00:15:35.940><c> compiler</c><00:15:36.360><c> has</c>
+
+00:15:36.470 --> 00:15:36.480 align:start position:0%
+take a look at what our compiler has
+ 
+
+00:15:36.480 --> 00:15:38.420 align:start position:0%
+take a look at what our compiler has
+generated<00:15:37.199><c> if</c><00:15:37.470><c> we</c><00:15:37.649><c> scroll</c><00:15:37.860><c> down</c><00:15:37.920><c> a</c><00:15:38.100><c> bit</c><00:15:38.310><c> you'll</c>
+
+00:15:38.420 --> 00:15:38.430 align:start position:0%
+generated if we scroll down a bit you'll
+ 
+
+00:15:38.430 --> 00:15:39.620 align:start position:0%
+generated if we scroll down a bit you'll
+see<00:15:38.490><c> that</c><00:15:38.699><c> we've</c><00:15:38.790><c> got</c><00:15:38.940><c> this</c><00:15:39.149><c> log</c><00:15:39.389><c> function</c>
+
+00:15:39.620 --> 00:15:39.630 align:start position:0%
+see that we've got this log function
+ 
+
+00:15:39.630 --> 00:15:42.170 align:start position:0%
+see that we've got this log function
+which<00:15:40.110><c> doesn't</c><00:15:40.500><c> really</c><00:15:40.800><c> do</c><00:15:41.339><c> much</c><00:15:41.550><c> but</c><00:15:42.000><c> this</c>
+
+00:15:42.170 --> 00:15:42.180 align:start position:0%
+which doesn't really do much but this
+ 
+
+00:15:42.180 --> 00:15:44.329 align:start position:0%
+which doesn't really do much but this
+actually<00:15:42.389><c> will</c><00:15:42.750><c> just</c><00:15:42.779><c> return</c><00:15:43.290><c> our</c><00:15:43.589><c> message</c>
+
+00:15:44.329 --> 00:15:44.339 align:start position:0%
+actually will just return our message
+ 
+
+00:15:44.339 --> 00:15:45.889 align:start position:0%
+actually will just return our message
+you<00:15:44.760><c> can</c><00:15:44.910><c> see</c><00:15:45.000><c> that</c><00:15:45.120><c> it's</c><00:15:45.240><c> moving</c><00:15:45.360><c> our</c><00:15:45.600><c> message</c>
+
+00:15:45.889 --> 00:15:45.899 align:start position:0%
+you can see that it's moving our message
+ 
+
+00:15:45.899 --> 00:15:47.870 align:start position:0%
+you can see that it's moving our message
+pointer<00:15:46.230><c> into</c><00:15:46.500><c> EAX</c><00:15:46.889><c> which</c><00:15:47.339><c> is</c><00:15:47.490><c> our</c><00:15:47.639><c> return</c>
+
+00:15:47.870 --> 00:15:47.880 align:start position:0%
+pointer into EAX which is our return
+ 
+
+00:15:47.880 --> 00:15:49.850 align:start position:0%
+pointer into EAX which is our return
+register<00:15:48.389><c> as</c><00:15:48.510><c> we've</c><00:15:48.660><c> established</c><00:15:48.810><c> so</c><00:15:49.560><c> this</c><00:15:49.709><c> is</c>
+
+00:15:49.850 --> 00:15:49.860 align:start position:0%
+register as we've established so this is
+ 
+
+00:15:49.860 --> 00:15:51.620 align:start position:0%
+register as we've established so this is
+the<00:15:49.980><c> log</c><00:15:50.190><c> function</c><00:15:50.490><c> if</c><00:15:50.880><c> we</c><00:15:51.060><c> scroll</c><00:15:51.360><c> up</c><00:15:51.540><c> a</c>
+
+00:15:51.620 --> 00:15:51.630 align:start position:0%
+the log function if we scroll up a
+ 
+
+00:15:51.630 --> 00:15:53.030 align:start position:0%
+the log function if we scroll up a
+little<00:15:51.660><c> bit</c><00:15:51.959><c> you'll</c><00:15:52.290><c> see</c><00:15:52.410><c> the</c><00:15:52.620><c> multiply</c>
+
+00:15:53.030 --> 00:15:53.040 align:start position:0%
+little bit you'll see the multiply
+ 
+
+00:15:53.040 --> 00:15:55.970 align:start position:0%
+little bit you'll see the multiply
+function<00:15:53.070><c> and</c><00:15:53.639><c> then</c><00:15:54.089><c> all</c><00:15:54.329><c> we</c><00:15:54.510><c> have</c><00:15:54.540><c> here</c><00:15:55.170><c> is</c><00:15:55.290><c> a</c>
+
+00:15:55.970 --> 00:15:55.980 align:start position:0%
+function and then all we have here is a
+ 
+
+00:15:55.980 --> 00:15:58.430 align:start position:0%
+function and then all we have here is a
+call<00:15:56.399><c> to</c><00:15:56.940><c> log</c><00:15:57.240><c> so</c><00:15:57.690><c> right</c><00:15:57.870><c> before</c><00:15:58.139><c> we</c><00:15:58.260><c> actually</c>
+
+00:15:58.430 --> 00:15:58.440 align:start position:0%
+call to log so right before we actually
+ 
+
+00:15:58.440 --> 00:16:00.740 align:start position:0%
+call to log so right before we actually
+do<00:15:58.800><c> our</c><00:15:59.010><c> multiplication</c><00:15:59.160><c> by</c><00:15:59.880><c> using</c><00:16:00.089><c> the</c><00:16:00.300><c> I</c><00:16:00.329><c> mul</c>
+
+00:16:00.740 --> 00:16:00.750 align:start position:0%
+do our multiplication by using the I mul
+ 
+
+00:16:00.750 --> 00:16:03.740 align:start position:0%
+do our multiplication by using the I mul
+we<00:16:01.320><c> actually</c><00:16:01.769><c> call</c><00:16:02.339><c> this</c><00:16:02.670><c> log</c><00:16:03.029><c> function</c><00:16:03.240><c> now</c>
+
+00:16:03.740 --> 00:16:03.750 align:start position:0%
+we actually call this log function now
+ 
+
+00:16:03.750 --> 00:16:05.000 align:start position:0%
+we actually call this log function now
+you<00:16:03.810><c> might</c><00:16:03.959><c> be</c><00:16:03.990><c> wondering</c><00:16:04.110><c> why</c><00:16:04.620><c> this</c><00:16:04.829><c> log</c>
+
+00:16:05.000 --> 00:16:05.010 align:start position:0%
+you might be wondering why this log
+ 
+
+00:16:05.010 --> 00:16:07.340 align:start position:0%
+you might be wondering why this log
+function<00:16:05.220><c> is</c><00:16:05.610><c> decorated</c><00:16:06.300><c> by</c><00:16:06.329><c> what</c><00:16:06.660><c> seems</c><00:16:07.139><c> like</c>
+
+00:16:07.340 --> 00:16:07.350 align:start position:0%
+function is decorated by what seems like
+ 
+
+00:16:07.350 --> 00:16:10.009 align:start position:0%
+function is decorated by what seems like
+random<00:16:07.889><c> characters</c><00:16:08.459><c> and</c><00:16:08.639><c> at</c><00:16:08.790><c> signs</c><00:16:09.089><c> this</c><00:16:09.839><c> is</c>
+
+00:16:10.009 --> 00:16:10.019 align:start position:0%
+random characters and at signs this is
+ 
+
+00:16:10.019 --> 00:16:11.930 align:start position:0%
+random characters and at signs this is
+actually<00:16:10.440><c> the</c><00:16:10.769><c> function</c><00:16:11.070><c> signature</c>
+
+00:16:11.930 --> 00:16:11.940 align:start position:0%
+actually the function signature
+ 
+
+00:16:11.940 --> 00:16:13.519 align:start position:0%
+actually the function signature
+this<00:16:12.180><c> needs</c><00:16:12.389><c> to</c><00:16:12.510><c> uniquely</c><00:16:12.899><c> define</c><00:16:13.320><c> your</c>
+
+00:16:13.519 --> 00:16:13.529 align:start position:0%
+this needs to uniquely define your
+ 
+
+00:16:13.529 --> 00:16:14.990 align:start position:0%
+this needs to uniquely define your
+function<00:16:13.980><c> we'll</c><00:16:14.220><c> talk</c><00:16:14.399><c> more</c><00:16:14.550><c> about</c><00:16:14.610><c> this</c><00:16:14.880><c> in</c>
+
+00:16:14.990 --> 00:16:15.000 align:start position:0%
+function we'll talk more about this in
+ 
+
+00:16:15.000 --> 00:16:17.180 align:start position:0%
+function we'll talk more about this in
+the<00:16:15.089><c> linking</c><00:16:15.449><c> video</c><00:16:15.750><c> but</c><00:16:16.019><c> essentially</c><00:16:16.410><c> when</c>
+
+00:16:17.180 --> 00:16:17.190 align:start position:0%
+the linking video but essentially when
+ 
+
+00:16:17.190 --> 00:16:19.280 align:start position:0%
+the linking video but essentially when
+we<00:16:17.220><c> have</c><00:16:17.550><c> multiple</c><00:16:17.730><c> OBJ's</c><00:16:18.480><c> and</c><00:16:18.750><c> our</c><00:16:18.839><c> functions</c>
+
+00:16:19.280 --> 00:16:19.290 align:start position:0%
+we have multiple OBJ's and our functions
+ 
+
+00:16:19.290 --> 00:16:21.110 align:start position:0%
+we have multiple OBJ's and our functions
+are<00:16:19.380><c> defined</c><00:16:19.470><c> in</c><00:16:19.769><c> multiple</c><00:16:20.070><c> obj</c><00:16:20.490><c> it's</c><00:16:20.790><c> going</c>
+
+00:16:21.110 --> 00:16:21.120 align:start position:0%
+are defined in multiple obj it's going
+ 
+
+00:16:21.120 --> 00:16:22.819 align:start position:0%
+are defined in multiple obj it's going
+to<00:16:21.209><c> be</c><00:16:21.300><c> linkers</c><00:16:21.750><c> job</c><00:16:21.990><c> to</c><00:16:22.230><c> link</c><00:16:22.440><c> all</c><00:16:22.620><c> them</c>
+
+00:16:22.819 --> 00:16:22.829 align:start position:0%
+to be linkers job to link all them
+ 
+
+00:16:22.829 --> 00:16:24.199 align:start position:0%
+to be linkers job to link all them
+together<00:16:22.980><c> and</c><00:16:23.430><c> the</c><00:16:23.730><c> way</c><00:16:23.820><c> that</c><00:16:23.970><c> it's</c><00:16:24.060><c> going</c><00:16:24.149><c> to</c>
+
+00:16:24.199 --> 00:16:24.209 align:start position:0%
+together and the way that it's going to
+ 
+
+00:16:24.209 --> 00:16:25.759 align:start position:0%
+together and the way that it's going to
+do<00:16:24.360><c> that</c><00:16:24.540><c> is</c><00:16:24.810><c> going</c><00:16:25.140><c> to</c><00:16:25.230><c> look</c><00:16:25.380><c> up</c><00:16:25.529><c> this</c>
+
+00:16:25.759 --> 00:16:25.769 align:start position:0%
+do that is going to look up this
+ 
+
+00:16:25.769 --> 00:16:27.590 align:start position:0%
+do that is going to look up this
+function<00:16:26.430><c> signature</c><00:16:26.730><c> so</c><00:16:27.209><c> all</c><00:16:27.360><c> you</c><00:16:27.449><c> need</c><00:16:27.540><c> to</c>
+
+00:16:27.590 --> 00:16:27.600 align:start position:0%
+function signature so all you need to
+ 
+
+00:16:27.600 --> 00:16:29.360 align:start position:0%
+function signature so all you need to
+know<00:16:27.720><c> here</c><00:16:27.959><c> is</c><00:16:28.140><c> that</c><00:16:28.170><c> we're</c><00:16:28.440><c> calling</c><00:16:28.949><c> this</c><00:16:29.100><c> log</c>
+
+00:16:29.360 --> 00:16:29.370 align:start position:0%
+know here is that we're calling this log
+ 
+
+00:16:29.370 --> 00:16:31.040 align:start position:0%
+know here is that we're calling this log
+function<00:16:29.610><c> that's</c><00:16:30.269><c> what</c><00:16:30.449><c> the</c><00:16:30.540><c> compiler</c><00:16:30.870><c> will</c>
+
+00:16:31.040 --> 00:16:31.050 align:start position:0%
+function that's what the compiler will
+ 
+
+00:16:31.050 --> 00:16:32.720 align:start position:0%
+function that's what the compiler will
+actually<00:16:31.320><c> do</c><00:16:31.470><c> when</c><00:16:31.709><c> you</c><00:16:31.860><c> call</c><00:16:32.070><c> a</c><00:16:32.100><c> function</c><00:16:32.339><c> it</c>
+
+00:16:32.720 --> 00:16:32.730 align:start position:0%
+actually do when you call a function it
+ 
+
+00:16:32.730 --> 00:16:34.370 align:start position:0%
+actually do when you call a function it
+will<00:16:32.880><c> generate</c><00:16:33.209><c> a</c><00:16:33.269><c> call</c><00:16:33.510><c> instruction</c><00:16:33.779><c> now</c><00:16:34.260><c> in</c>
+
+00:16:34.370 --> 00:16:34.380 align:start position:0%
+will generate a call instruction now in
+ 
+
+00:16:34.380 --> 00:16:36.319 align:start position:0%
+will generate a call instruction now in
+this<00:16:34.500><c> case</c><00:16:34.740><c> it</c><00:16:35.040><c> might</c><00:16:35.640><c> be</c><00:16:35.699><c> a</c><00:16:35.880><c> little</c><00:16:36.060><c> bit</c>
+
+00:16:36.319 --> 00:16:36.329 align:start position:0%
+this case it might be a little bit
+ 
+
+00:16:36.329 --> 00:16:38.210 align:start position:0%
+this case it might be a little bit
+stupid<00:16:36.990><c> because</c><00:16:37.199><c> you</c><00:16:37.529><c> can</c><00:16:37.649><c> see</c><00:16:37.860><c> that</c><00:16:38.040><c> we're</c>
+
+00:16:38.210 --> 00:16:38.220 align:start position:0%
+stupid because you can see that we're
+ 
+
+00:16:38.220 --> 00:16:40.069 align:start position:0%
+stupid because you can see that we're
+simply<00:16:38.699><c> calling</c><00:16:39.269><c> log</c><00:16:39.600><c> we're</c><00:16:39.779><c> not</c><00:16:39.870><c> even</c>
+
+00:16:40.069 --> 00:16:40.079 align:start position:0%
+simply calling log we're not even
+ 
+
+00:16:40.079 --> 00:16:41.990 align:start position:0%
+simply calling log we're not even
+storing<00:16:40.440><c> the</c><00:16:40.529><c> return</c><00:16:40.860><c> value</c><00:16:41.339><c> basically</c><00:16:41.940><c> this</c>
+
+00:16:41.990 --> 00:16:42.000 align:start position:0%
+storing the return value basically this
+ 
+
+00:16:42.000 --> 00:16:43.970 align:start position:0%
+storing the return value basically this
+could<00:16:42.209><c> be</c><00:16:42.300><c> optimized</c><00:16:42.720><c> quite</c><00:16:43.079><c> a</c><00:16:43.110><c> bit</c><00:16:43.320><c> if</c><00:16:43.470><c> we</c><00:16:43.829><c> go</c>
+
+00:16:43.970 --> 00:16:43.980 align:start position:0%
+could be optimized quite a bit if we go
+ 
+
+00:16:43.980 --> 00:16:47.150 align:start position:0%
+could be optimized quite a bit if we go
+back<00:16:44.190><c> here</c><00:16:44.220><c> and</c><00:16:44.670><c> we</c><00:16:44.730><c> turn</c><00:16:45.120><c> on</c><00:16:45.470><c> optimization</c><00:16:46.470><c> to</c>
+
+00:16:47.150 --> 00:16:47.160 align:start position:0%
+back here and we turn on optimization to
+ 
+
+00:16:47.160 --> 00:16:49.370 align:start position:0%
+back here and we turn on optimization to
+maximize<00:16:47.610><c> speed</c><00:16:47.940><c> and</c><00:16:48.240><c> in</c><00:16:48.600><c> control</c><00:16:48.899><c> of</c><00:16:49.050><c> 7</c>
+
+00:16:49.370 --> 00:16:49.380 align:start position:0%
+maximize speed and in control of 7
+ 
+
+00:16:49.380 --> 00:16:51.860 align:start position:0%
+maximize speed and in control of 7
+you'll<00:16:50.070><c> actually</c><00:16:50.250><c> see</c><00:16:50.699><c> that</c><00:16:50.880><c> that</c><00:16:51.089><c> just</c>
+
+00:16:51.860 --> 00:16:51.870 align:start position:0%
+you'll actually see that that just
+ 
+
+00:16:51.870 --> 00:16:54.350 align:start position:0%
+you'll actually see that that just
+disappears<00:16:52.560><c> entirely</c><00:16:53.130><c> yep</c><00:16:53.880><c> the</c><00:16:54.060><c> compiler</c>
+
+00:16:54.350 --> 00:16:54.360 align:start position:0%
+disappears entirely yep the compiler
+ 
+
+00:16:54.360 --> 00:16:56.689 align:start position:0%
+disappears entirely yep the compiler
+just<00:16:54.540><c> decided</c><00:16:55.050><c> that</c><00:16:55.500><c> does</c><00:16:55.680><c> nothing</c><00:16:55.920><c> I'm</c><00:16:56.399><c> going</c>
+
+00:16:56.689 --> 00:16:56.699 align:start position:0%
+just decided that does nothing I'm going
+ 
+
+00:16:56.699 --> 00:16:58.310 align:start position:0%
+just decided that does nothing I'm going
+to<00:16:56.880><c> remove</c><00:16:57.089><c> that</c><00:16:57.329><c> code</c><00:16:57.570><c> but</c><00:16:58.019><c> you</c><00:16:58.140><c> should</c>
+
+00:16:58.310 --> 00:16:58.320 align:start position:0%
+to remove that code but you should
+ 
+
+00:16:58.320 --> 00:17:00.290 align:start position:0%
+to remove that code but you should
+basically<00:16:58.470><c> now</c><00:16:58.949><c> understand</c><00:16:59.490><c> the</c><00:16:59.730><c> gist</c><00:16:59.940><c> of</c><00:17:00.180><c> how</c>
+
+00:17:00.290 --> 00:17:00.300 align:start position:0%
+basically now understand the gist of how
+ 
+
+00:17:00.300 --> 00:17:02.030 align:start position:0%
+basically now understand the gist of how
+the<00:17:00.360><c> compiler</c><00:17:00.720><c> work</c><00:17:01.050><c> it</c><00:17:01.500><c> will</c><00:17:01.649><c> take</c><00:17:01.860><c> our</c>
+
+00:17:02.030 --> 00:17:02.040 align:start position:0%
+the compiler work it will take our
+ 
+
+00:17:02.040 --> 00:17:03.920 align:start position:0%
+the compiler work it will take our
+source<00:17:02.370><c> files</c><00:17:02.640><c> and</c><00:17:02.910><c> output</c><00:17:03.240><c> an</c><00:17:03.360><c> object</c><00:17:03.720><c> file</c>
+
+00:17:03.920 --> 00:17:03.930 align:start position:0%
+source files and output an object file
+ 
+
+00:17:03.930 --> 00:17:05.630 align:start position:0%
+source files and output an object file
+which<00:17:04.199><c> contains</c><00:17:04.350><c> machine</c><00:17:04.980><c> code</c><00:17:05.250><c> and</c><00:17:05.429><c> any</c>
+
+00:17:05.630 --> 00:17:05.640 align:start position:0%
+which contains machine code and any
+ 
+
+00:17:05.640 --> 00:17:06.949 align:start position:0%
+which contains machine code and any
+other<00:17:05.850><c> constant</c><00:17:06.329><c> data</c><00:17:06.480><c> that</c><00:17:06.689><c> we've</c><00:17:06.809><c> defined</c>
+
+00:17:06.949 --> 00:17:06.959 align:start position:0%
+other constant data that we've defined
+ 
+
+00:17:06.959 --> 00:17:09.049 align:start position:0%
+other constant data that we've defined
+that's<00:17:07.589><c> basically</c><00:17:07.980><c> it</c><00:17:08.250><c> and</c><00:17:08.429><c> now</c><00:17:08.790><c> that</c><00:17:08.819><c> we've</c>
+
+00:17:09.049 --> 00:17:09.059 align:start position:0%
+that's basically it and now that we've
+ 
+
+00:17:09.059 --> 00:17:10.789 align:start position:0%
+that's basically it and now that we've
+got<00:17:09.209><c> these</c><00:17:09.299><c> object</c><00:17:09.720><c> files</c><00:17:09.959><c> we</c><00:17:10.230><c> can</c><00:17:10.380><c> link</c><00:17:10.589><c> them</c>
+
+00:17:10.789 --> 00:17:10.799 align:start position:0%
+got these object files we can link them
+ 
+
+00:17:10.799 --> 00:17:12.679 align:start position:0%
+got these object files we can link them
+into<00:17:11.100><c> one</c><00:17:11.280><c> executable</c><00:17:11.939><c> which</c><00:17:12.120><c> contains</c><00:17:12.480><c> all</c>
+
+00:17:12.679 --> 00:17:12.689 align:start position:0%
+into one executable which contains all
+ 
+
+00:17:12.689 --> 00:17:14.150 align:start position:0%
+into one executable which contains all
+of<00:17:13.110><c> the</c><00:17:13.199><c> machine</c><00:17:13.530><c> code</c><00:17:13.709><c> that</c><00:17:13.890><c> we</c><00:17:13.980><c> actually</c>
+
+00:17:14.150 --> 00:17:14.160 align:start position:0%
+of the machine code that we actually
+ 
+
+00:17:14.160 --> 00:17:15.650 align:start position:0%
+of the machine code that we actually
+need<00:17:14.459><c> to</c><00:17:14.490><c> run</c><00:17:14.760><c> and</c><00:17:15.000><c> that's</c><00:17:15.240><c> how</c><00:17:15.360><c> we</c><00:17:15.419><c> make</c><00:17:15.630><c> a</c>
+
+00:17:15.650 --> 00:17:15.660 align:start position:0%
+need to run and that's how we make a
+ 
+
+00:17:15.660 --> 00:17:18.020 align:start position:0%
+need to run and that's how we make a
+program<00:17:16.049><c> in</c><00:17:16.169><c> C++</c><00:17:16.650><c> pretty</c><00:17:17.250><c> simple</c><00:17:17.490><c> make</c><00:17:17.910><c> sure</c>
+
+00:17:18.020 --> 00:17:18.030 align:start position:0%
+program in C++ pretty simple make sure
+ 
+
+00:17:18.030 --> 00:17:19.189 align:start position:0%
+program in C++ pretty simple make sure
+that<00:17:18.150><c> you</c><00:17:18.240><c> check</c><00:17:18.390><c> out</c><00:17:18.540><c> my</c><00:17:18.689><c> video</c><00:17:18.809><c> on</c><00:17:19.020><c> how</c><00:17:19.110><c> to</c>
+
+00:17:19.189 --> 00:17:19.199 align:start position:0%
+that you check out my video on how to
+ 
+
+00:17:19.199 --> 00:17:20.750 align:start position:0%
+that you check out my video on how to
+link<00:17:19.470><c> work</c><00:17:19.770><c> so</c><00:17:19.980><c> that</c><00:17:20.100><c> you</c><00:17:20.160><c> can</c><00:17:20.280><c> see</c><00:17:20.429><c> the</c><00:17:20.520><c> next</c>
+
+00:17:20.750 --> 00:17:20.760 align:start position:0%
+link work so that you can see the next
+ 
+
+00:17:20.760 --> 00:17:22.340 align:start position:0%
+link work so that you can see the next
+step<00:17:21.030><c> but</c><00:17:21.329><c> apart</c><00:17:21.540><c> from</c><00:17:21.600><c> that</c><00:17:21.720><c> I</c><00:17:21.870><c> hope</c><00:17:22.079><c> you</c><00:17:22.199><c> guys</c>
+
+00:17:22.340 --> 00:17:22.350 align:start position:0%
+step but apart from that I hope you guys
+ 
+
+00:17:22.350 --> 00:17:23.720 align:start position:0%
+step but apart from that I hope you guys
+enjoyed<00:17:22.650><c> this</c><00:17:22.799><c> video</c><00:17:22.980><c> hope</c><00:17:23.459><c> you</c><00:17:23.579><c> learned</c>
+
+00:17:23.720 --> 00:17:23.730 align:start position:0%
+enjoyed this video hope you learned
+ 
+
+00:17:23.730 --> 00:17:25.069 align:start position:0%
+enjoyed this video hope you learned
+something<00:17:23.970><c> new</c><00:17:24.089><c> you</c><00:17:24.600><c> should</c><00:17:24.750><c> now</c><00:17:24.839><c> have</c><00:17:24.900><c> a</c>
+
+00:17:25.069 --> 00:17:25.079 align:start position:0%
+something new you should now have a
+ 
+
+00:17:25.079 --> 00:17:26.510 align:start position:0%
+something new you should now have a
+basic<00:17:25.260><c> understanding</c><00:17:25.559><c> of</c><00:17:26.040><c> what</c><00:17:26.100><c> the</c><00:17:26.280><c> simple</c>
+
+00:17:26.510 --> 00:17:26.520 align:start position:0%
+basic understanding of what the simple
+ 
+
+00:17:26.520 --> 00:17:27.770 align:start position:0%
+basic understanding of what the simple
+of<00:17:26.699><c> compiler</c><00:17:27.059><c> actually</c>
+
+00:17:27.770 --> 00:17:27.780 align:start position:0%
+of compiler actually
+ 
+
+00:17:27.780 --> 00:17:29.150 align:start position:0%
+of compiler actually
+and<00:17:27.900><c> that's</c><00:17:28.020><c> going</c><00:17:28.140><c> to</c><00:17:28.199><c> be</c><00:17:28.319><c> really</c><00:17:28.680><c> important</c>
+
+00:17:29.150 --> 00:17:29.160 align:start position:0%
+and that's going to be really important
+ 
+
+00:17:29.160 --> 00:17:30.860 align:start position:0%
+and that's going to be really important
+when<00:17:29.190><c> it</c><00:17:29.310><c> comes</c><00:17:29.520><c> to</c><00:17:29.610><c> debugging</c><00:17:30.090><c> and</c><00:17:30.240><c> also</c><00:17:30.720><c> when</c>
+
+00:17:30.860 --> 00:17:30.870 align:start position:0%
+when it comes to debugging and also when
+ 
+
+00:17:30.870 --> 00:17:32.330 align:start position:0%
+when it comes to debugging and also when
+we<00:17:30.900><c> get</c><00:17:31.110><c> into</c><00:17:31.290><c> more</c><00:17:31.440><c> advanced</c><00:17:31.710><c> topics</c><00:17:32.130><c> in</c><00:17:32.220><c> the</c>
+
+00:17:32.330 --> 00:17:32.340 align:start position:0%
+we get into more advanced topics in the
+ 
+
+00:17:32.340 --> 00:17:33.590 align:start position:0%
+we get into more advanced topics in the
+future<00:17:32.670><c> make</c><00:17:32.970><c> sure</c><00:17:33.090><c> you</c><00:17:33.180><c> follow</c><00:17:33.300><c> me</c><00:17:33.510><c> on</c>
+
+00:17:33.590 --> 00:17:33.600 align:start position:0%
+future make sure you follow me on
+ 
+
+00:17:33.600 --> 00:17:35.600 align:start position:0%
+future make sure you follow me on
+Twitter<00:17:33.870><c> and</c><00:17:34.110><c> Instagram</c><00:17:34.440><c> and</c><00:17:35.130><c> if</c><00:17:35.340><c> you</c><00:17:35.460><c> really</c>
+
+00:17:35.600 --> 00:17:35.610 align:start position:0%
+Twitter and Instagram and if you really
+ 
+
+00:17:35.610 --> 00:17:37.160 align:start position:0%
+Twitter and Instagram and if you really
+like<00:17:35.850><c> this</c><00:17:36.000><c> you</c><00:17:36.180><c> can</c><00:17:36.300><c> support</c><00:17:36.540><c> me</c><00:17:36.690><c> on</c><00:17:36.720><c> patreon</c>
+
+00:17:37.160 --> 00:17:37.170 align:start position:0%
+like this you can support me on patreon
+ 
+
+00:17:37.170 --> 00:17:38.810 align:start position:0%
+like this you can support me on patreon
+I'll<00:17:37.410><c> see</c><00:17:37.620><c> you</c><00:17:37.680><c> guys</c><00:17:37.800><c> next</c><00:17:37.860><c> time</c><00:17:38.310><c> goodbye</c>
+
+00:17:38.810 --> 00:17:38.820 align:start position:0%
+I'll see you guys next time goodbye
+ 
+
+00:17:38.820 --> 00:17:41.480 align:start position:0%
+I'll see you guys next time goodbye
+warm
+

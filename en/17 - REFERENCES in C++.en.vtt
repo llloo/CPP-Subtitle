@@ -1,0 +1,2464 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:00.000 --> 00:00:02.419 align:start position:0%
+ 
+hey<00:00:00.210><c> guys</c><00:00:00.690><c> my</c><00:00:01.050><c> name</c><00:00:01.260><c> is</c><00:00:01.290><c> DeSean</c><00:00:02.100><c> oh</c><00:00:02.129><c> and</c>
+
+00:00:02.419 --> 00:00:02.429 align:start position:0%
+hey guys my name is DeSean oh and
+ 
+
+00:00:02.429 --> 00:00:04.780 align:start position:0%
+hey guys my name is DeSean oh and
+welcome<00:00:02.730><c> back</c><00:00:02.909><c> to</c><00:00:03.090><c> my</c><00:00:03.179><c> C++</c><00:00:03.840><c> series</c><00:00:04.319><c> today</c>
+
+00:00:04.780 --> 00:00:04.790 align:start position:0%
+welcome back to my C++ series today
+ 
+
+00:00:04.790 --> 00:00:06.920 align:start position:0%
+welcome back to my C++ series today
+we're<00:00:05.790><c> going</c><00:00:05.910><c> to</c><00:00:06.000><c> talking</c><00:00:06.120><c> about</c><00:00:06.240><c> references</c>
+
+00:00:06.920 --> 00:00:06.930 align:start position:0%
+we're going to talking about references
+ 
+
+00:00:06.930 --> 00:00:08.990 align:start position:0%
+we're going to talking about references
+last<00:00:07.319><c> week</c><00:00:07.560><c> we</c><00:00:07.740><c> talked</c><00:00:07.950><c> about</c><00:00:08.010><c> pointers</c><00:00:08.610><c> so</c><00:00:08.910><c> if</c>
+
+00:00:08.990 --> 00:00:09.000 align:start position:0%
+last week we talked about pointers so if
+ 
+
+00:00:09.000 --> 00:00:11.350 align:start position:0%
+last week we talked about pointers so if
+you<00:00:09.090><c> didn't</c><00:00:09.360><c> see</c><00:00:09.420><c> that</c><00:00:09.660><c> video</c><00:00:09.870><c> you</c><00:00:10.469><c> are</c><00:00:10.620><c> 100%</c>
+
+00:00:11.350 --> 00:00:11.360 align:start position:0%
+you didn't see that video you are 100%
+ 
+
+00:00:11.360 --> 00:00:14.450 align:start position:0%
+you didn't see that video you are 100%
+going<00:00:12.360><c> to</c><00:00:12.599><c> have</c><00:00:12.780><c> to</c><00:00:13.019><c> because</c><00:00:13.380><c> reference</c><00:00:14.280><c> is</c><00:00:14.429><c> a</c>
+
+00:00:14.450 --> 00:00:14.460 align:start position:0%
+going to have to because reference is a
+ 
+
+00:00:14.460 --> 00:00:16.490 align:start position:0%
+going to have to because reference is a
+really<00:00:14.820><c> just</c><00:00:15.000><c> an</c><00:00:15.089><c> extension</c><00:00:15.299><c> of</c><00:00:15.809><c> pointers</c><00:00:16.320><c> so</c>
+
+00:00:16.490 --> 00:00:16.500 align:start position:0%
+really just an extension of pointers so
+ 
+
+00:00:16.500 --> 00:00:18.349 align:start position:0%
+really just an extension of pointers so
+you<00:00:16.560><c> need</c><00:00:16.770><c> to</c><00:00:16.920><c> be</c><00:00:17.039><c> able</c><00:00:17.130><c> to</c><00:00:17.369><c> understand</c><00:00:17.789><c> at</c>
+
+00:00:18.349 --> 00:00:18.359 align:start position:0%
+you need to be able to understand at
+ 
+
+00:00:18.359 --> 00:00:20.450 align:start position:0%
+you need to be able to understand at
+least<00:00:18.539><c> at</c><00:00:18.810><c> a</c><00:00:18.869><c> basic</c><00:00:19.260><c> level</c><00:00:19.439><c> how</c><00:00:19.590><c> pointers</c><00:00:20.250><c> work</c>
+
+00:00:20.450 --> 00:00:20.460 align:start position:0%
+least at a basic level how pointers work
+ 
+
+00:00:20.460 --> 00:00:22.939 align:start position:0%
+least at a basic level how pointers work
+in<00:00:20.820><c> order</c><00:00:21.270><c> to</c><00:00:21.359><c> actually</c><00:00:21.510><c> get</c><00:00:21.960><c> this</c><00:00:22.199><c> video</c><00:00:22.529><c> so</c>
+
+00:00:22.939 --> 00:00:22.949 align:start position:0%
+in order to actually get this video so
+ 
+
+00:00:22.949 --> 00:00:24.679 align:start position:0%
+in order to actually get this video so
+go<00:00:23.760><c> ahead</c><00:00:23.850><c> will</c><00:00:24.150><c> be</c><00:00:24.180><c> a</c><00:00:24.300><c> link</c><00:00:24.510><c> in</c><00:00:24.600><c> the</c>
+
+00:00:24.679 --> 00:00:24.689 align:start position:0%
+go ahead will be a link in the
+ 
+
+00:00:24.689 --> 00:00:25.939 align:start position:0%
+go ahead will be a link in the
+description<00:00:24.750><c> below</c><00:00:25.170><c> if</c><00:00:25.470><c> you</c><00:00:25.590><c> haven't</c><00:00:25.769><c> seen</c>
+
+00:00:25.939 --> 00:00:25.949 align:start position:0%
+description below if you haven't seen
+ 
+
+00:00:25.949 --> 00:00:27.920 align:start position:0%
+description below if you haven't seen
+the<00:00:26.039><c> pointers</c><00:00:26.369><c> video</c><00:00:26.609><c> definitely</c><00:00:27.420><c> watch</c><00:00:27.539><c> that</c>
+
+00:00:27.920 --> 00:00:27.930 align:start position:0%
+the pointers video definitely watch that
+ 
+
+00:00:27.930 --> 00:00:29.570 align:start position:0%
+the pointers video definitely watch that
+okay<00:00:28.199><c> so</c><00:00:28.260><c> pointers</c><00:00:28.800><c> and</c><00:00:28.890><c> references</c><00:00:29.340><c> are</c><00:00:29.490><c> two</c>
+
+00:00:29.570 --> 00:00:29.580 align:start position:0%
+okay so pointers and references are two
+ 
+
+00:00:29.580 --> 00:00:31.580 align:start position:0%
+okay so pointers and references are two
+kind<00:00:29.789><c> of</c><00:00:29.880><c> key</c><00:00:30.539><c> words</c><00:00:30.720><c> that</c><00:00:31.019><c> are</c><00:00:31.109><c> tossed</c><00:00:31.289><c> around</c>
+
+00:00:31.580 --> 00:00:31.590 align:start position:0%
+kind of key words that are tossed around
+ 
+
+00:00:31.590 --> 00:00:34.639 align:start position:0%
+kind of key words that are tossed around
+a<00:00:31.859><c> lot</c><00:00:31.980><c> in</c><00:00:32.130><c> C++</c><00:00:32.730><c> and</c><00:00:33.090><c> other</c><00:00:33.270><c> languages</c><00:00:33.780><c> they're</c>
+
+00:00:34.639 --> 00:00:34.649 align:start position:0%
+a lot in C++ and other languages they're
+ 
+
+00:00:34.649 --> 00:00:35.959 align:start position:0%
+a lot in C++ and other languages they're
+essentially<00:00:34.950><c> the</c><00:00:35.100><c> same</c><00:00:35.340><c> thing</c><00:00:35.640><c> though</c><00:00:35.790><c> I</c><00:00:35.820><c> just</c>
+
+00:00:35.959 --> 00:00:35.969 align:start position:0%
+essentially the same thing though I just
+ 
+
+00:00:35.969 --> 00:00:37.310 align:start position:0%
+essentially the same thing though I just
+want<00:00:36.210><c> to</c><00:00:36.270><c> start</c><00:00:36.420><c> this</c><00:00:36.510><c> video</c><00:00:36.630><c> by</c><00:00:36.809><c> saying</c><00:00:37.140><c> that</c>
+
+00:00:37.310 --> 00:00:37.320 align:start position:0%
+want to start this video by saying that
+ 
+
+00:00:37.320 --> 00:00:39.440 align:start position:0%
+want to start this video by saying that
+pointers<00:00:37.800><c> and</c><00:00:37.920><c> references</c><00:00:38.309><c> are</c><00:00:38.460><c> pretty</c><00:00:39.270><c> much</c>
+
+00:00:39.440 --> 00:00:39.450 align:start position:0%
+pointers and references are pretty much
+ 
+
+00:00:39.450 --> 00:00:41.869 align:start position:0%
+pointers and references are pretty much
+the<00:00:39.690><c> same</c><00:00:39.840><c> thing</c><00:00:40.200><c> as</c><00:00:40.440><c> far</c><00:00:40.829><c> as</c><00:00:40.860><c> what</c><00:00:41.760><c> the</c>
+
+00:00:41.869 --> 00:00:41.879 align:start position:0%
+the same thing as far as what the
+ 
+
+00:00:41.879 --> 00:00:43.369 align:start position:0%
+the same thing as far as what the
+computer<00:00:42.180><c> will</c><00:00:42.270><c> actually</c><00:00:42.390><c> do</c><00:00:42.750><c> with</c><00:00:42.960><c> them</c><00:00:43.079><c> now</c>
+
+00:00:43.369 --> 00:00:43.379 align:start position:0%
+computer will actually do with them now
+ 
+
+00:00:43.379 --> 00:00:45.740 align:start position:0%
+computer will actually do with them now
+semantically<00:00:44.129><c> so</c><00:00:44.430><c> how</c><00:00:44.579><c> we</c><00:00:44.640><c> actually</c><00:00:45.030><c> use</c><00:00:45.300><c> them</c>
+
+00:00:45.740 --> 00:00:45.750 align:start position:0%
+semantically so how we actually use them
+ 
+
+00:00:45.750 --> 00:00:47.479 align:start position:0%
+semantically so how we actually use them
+and<00:00:45.870><c> how</c><00:00:46.050><c> we</c><00:00:46.079><c> write</c><00:00:46.379><c> them</c><00:00:46.620><c> there</c><00:00:47.129><c> are</c><00:00:47.309><c> some</c>
+
+00:00:47.479 --> 00:00:47.489 align:start position:0%
+and how we write them there are some
+ 
+
+00:00:47.489 --> 00:00:49.490 align:start position:0%
+and how we write them there are some
+subtle<00:00:47.789><c> differences</c><00:00:47.969><c> but</c><00:00:48.510><c> at</c><00:00:48.840><c> the</c><00:00:49.110><c> end</c><00:00:49.140><c> of</c><00:00:49.410><c> the</c>
+
+00:00:49.490 --> 00:00:49.500 align:start position:0%
+subtle differences but at the end of the
+ 
+
+00:00:49.500 --> 00:00:52.130 align:start position:0%
+subtle differences but at the end of the
+day<00:00:49.649><c> references</c><00:00:50.370><c> are</c><00:00:50.579><c> just</c><00:00:50.879><c> pointers</c><00:00:51.480><c> usually</c>
+
+00:00:52.130 --> 00:00:52.140 align:start position:0%
+day references are just pointers usually
+ 
+
+00:00:52.140 --> 00:00:54.560 align:start position:0%
+day references are just pointers usually
+in<00:00:52.410><c> disguise</c><00:00:53.160><c> that's</c><00:00:53.550><c> just</c><00:00:53.820><c> all</c><00:00:54.030><c> they</c><00:00:54.180><c> are</c>
+
+00:00:54.560 --> 00:00:54.570 align:start position:0%
+in disguise that's just all they are
+ 
+
+00:00:54.570 --> 00:00:56.330 align:start position:0%
+in disguise that's just all they are
+it's<00:00:54.690><c> just</c><00:00:55.020><c> intact</c><00:00:55.469><c> sugar</c><00:00:55.860><c> on</c><00:00:56.010><c> top</c><00:00:56.219><c> of</c>
+
+00:00:56.330 --> 00:00:56.340 align:start position:0%
+it's just intact sugar on top of
+ 
+
+00:00:56.340 --> 00:00:58.279 align:start position:0%
+it's just intact sugar on top of
+pointers<00:00:56.760><c> to</c><00:00:57.270><c> make</c><00:00:57.390><c> it</c><00:00:57.539><c> a</c><00:00:57.600><c> little</c><00:00:57.750><c> bit</c><00:00:57.960><c> easier</c>
+
+00:00:58.279 --> 00:00:58.289 align:start position:0%
+pointers to make it a little bit easier
+ 
+
+00:00:58.289 --> 00:00:59.599 align:start position:0%
+pointers to make it a little bit easier
+to<00:00:58.320><c> read</c><00:00:58.620><c> and</c><00:00:58.890><c> a</c><00:00:58.920><c> little</c><00:00:59.160><c> bit</c><00:00:59.250><c> easier</c><00:00:59.579><c> to</c>
+
+00:00:59.599 --> 00:00:59.609 align:start position:0%
+to read and a little bit easier to
+ 
+
+00:00:59.609 --> 00:01:01.970 align:start position:0%
+to read and a little bit easier to
+follow<00:00:59.969><c> a</c><00:01:00.329><c> reference</c><00:01:00.840><c> is</c><00:01:01.079><c> essentially</c>
+
+00:01:01.970 --> 00:01:01.980 align:start position:0%
+follow a reference is essentially
+ 
+
+00:01:01.980 --> 00:01:03.200 align:start position:0%
+follow a reference is essentially
+exactly<00:01:02.160><c> what</c><00:01:02.370><c> it</c><00:01:02.460><c> sounds</c><00:01:02.699><c> like</c><00:01:02.760><c> it's</c><00:01:03.030><c> a</c><00:01:03.090><c> way</c>
+
+00:01:03.200 --> 00:01:03.210 align:start position:0%
+exactly what it sounds like it's a way
+ 
+
+00:01:03.210 --> 00:01:05.660 align:start position:0%
+exactly what it sounds like it's a way
+for<00:01:03.239><c> us</c><00:01:03.480><c> to</c><00:01:03.629><c> reference</c><00:01:04.199><c> an</c><00:01:04.379><c> existing</c><00:01:05.309><c> variable</c>
+
+00:01:05.660 --> 00:01:05.670 align:start position:0%
+for us to reference an existing variable
+ 
+
+00:01:05.670 --> 00:01:07.910 align:start position:0%
+for us to reference an existing variable
+unlike<00:01:06.390><c> a</c><00:01:06.420><c> pointer</c><00:01:06.930><c> where</c><00:01:07.140><c> you</c><00:01:07.380><c> could</c><00:01:07.619><c> create</c>
+
+00:01:07.910 --> 00:01:07.920 align:start position:0%
+unlike a pointer where you could create
+ 
+
+00:01:07.920 --> 00:01:10.130 align:start position:0%
+unlike a pointer where you could create
+a<00:01:08.159><c> new</c><00:01:08.460><c> pointer</c><00:01:09.000><c> variable</c><00:01:09.450><c> and</c><00:01:09.689><c> then</c><00:01:09.810><c> set</c><00:01:10.020><c> it</c>
+
+00:01:10.130 --> 00:01:10.140 align:start position:0%
+a new pointer variable and then set it
+ 
+
+00:01:10.140 --> 00:01:11.480 align:start position:0%
+a new pointer variable and then set it
+equal<00:01:10.200><c> to</c><00:01:10.500><c> a</c><00:01:10.530><c> null</c><00:01:10.650><c> pointer</c><00:01:11.100><c> or</c><00:01:11.189><c> something</c>
+
+00:01:11.480 --> 00:01:11.490 align:start position:0%
+equal to a null pointer or something
+ 
+
+00:01:11.490 --> 00:01:13.310 align:start position:0%
+equal to a null pointer or something
+like<00:01:11.610><c> that</c><00:01:11.790><c> that</c><00:01:12.000><c> is</c><00:01:12.119><c> equal</c><00:01:12.360><c> to</c><00:01:12.479><c> zero</c><00:01:12.750><c> you</c>
+
+00:01:13.310 --> 00:01:13.320 align:start position:0%
+like that that is equal to zero you
+ 
+
+00:01:13.320 --> 00:01:14.630 align:start position:0%
+like that that is equal to zero you
+can't<00:01:13.560><c> do</c><00:01:13.710><c> that</c><00:01:13.830><c> with</c><00:01:14.010><c> references</c><00:01:14.520><c> because</c>
+
+00:01:14.630 --> 00:01:14.640 align:start position:0%
+can't do that with references because
+ 
+
+00:01:14.640 --> 00:01:17.450 align:start position:0%
+can't do that with references because
+references<00:01:15.360><c> has</c><00:01:15.540><c> to</c><00:01:15.750><c> reference</c><00:01:16.320><c> an</c><00:01:16.500><c> already</c>
+
+00:01:17.450 --> 00:01:17.460 align:start position:0%
+references has to reference an already
+ 
+
+00:01:17.460 --> 00:01:19.789 align:start position:0%
+references has to reference an already
+existing<00:01:17.850><c> variable</c><00:01:18.659><c> references</c><00:01:19.170><c> themselves</c>
+
+00:01:19.789 --> 00:01:19.799 align:start position:0%
+existing variable references themselves
+ 
+
+00:01:19.799 --> 00:01:22.370 align:start position:0%
+existing variable references themselves
+are<00:01:20.130><c> not</c><00:01:20.430><c> new</c><00:01:20.790><c> variable</c><00:01:21.479><c> they</c><00:01:21.720><c> don't</c><00:01:21.900><c> really</c>
+
+00:01:22.370 --> 00:01:22.380 align:start position:0%
+are not new variable they don't really
+ 
+
+00:01:22.380 --> 00:01:25.130 align:start position:0%
+are not new variable they don't really
+occupy<00:01:22.920><c> memory</c><00:01:23.369><c> they</c><00:01:24.000><c> don't</c><00:01:24.210><c> really</c><00:01:24.840><c> have</c>
+
+00:01:25.130 --> 00:01:25.140 align:start position:0%
+occupy memory they don't really have
+ 
+
+00:01:25.140 --> 00:01:27.440 align:start position:0%
+occupy memory they don't really have
+storage<00:01:25.560><c> they're</c><00:01:26.009><c> not</c><00:01:26.220><c> like</c><00:01:27.060><c> your</c><00:01:27.330><c> typical</c>
+
+00:01:27.440 --> 00:01:27.450 align:start position:0%
+storage they're not like your typical
+ 
+
+00:01:27.450 --> 00:01:29.840 align:start position:0%
+storage they're not like your typical
+variables<00:01:28.290><c> because</c><00:01:28.590><c> what</c><00:01:29.159><c> they</c><00:01:29.340><c> are</c><00:01:29.490><c> instead</c>
+
+00:01:29.840 --> 00:01:29.850 align:start position:0%
+variables because what they are instead
+ 
+
+00:01:29.850 --> 00:01:32.179 align:start position:0%
+variables because what they are instead
+is<00:01:30.210><c> a</c><00:01:30.240><c> reference</c><00:01:30.689><c> to</c><00:01:30.900><c> a</c><00:01:31.049><c> variable</c><00:01:31.500><c> I'm</c><00:01:31.920><c> going</c>
+
+00:01:32.179 --> 00:01:32.189 align:start position:0%
+is a reference to a variable I'm going
+ 
+
+00:01:32.189 --> 00:01:33.289 align:start position:0%
+is a reference to a variable I'm going
+to<00:01:32.280><c> be</c><00:01:32.340><c> bringing</c><00:01:32.490><c> up</c><00:01:32.700><c> a</c><00:01:32.729><c> few</c><00:01:33.090><c> different</c>
+
+00:01:33.289 --> 00:01:33.299 align:start position:0%
+to be bringing up a few different
+ 
+
+00:01:33.299 --> 00:01:34.999 align:start position:0%
+to be bringing up a few different
+examples<00:01:33.360><c> in</c><00:01:33.840><c> this</c><00:01:33.990><c> video</c><00:01:34.350><c> however</c><00:01:34.619><c> I'm</c><00:01:34.890><c> going</c>
+
+00:01:34.999 --> 00:01:35.009 align:start position:0%
+examples in this video however I'm going
+ 
+
+00:01:35.009 --> 00:01:35.569 align:start position:0%
+examples in this video however I'm going
+to<00:01:35.100><c> keep</c><00:01:35.220><c> it</c><00:01:35.340><c> brief</c>
+
+00:01:35.569 --> 00:01:35.579 align:start position:0%
+to keep it brief
+ 
+
+00:01:35.579 --> 00:01:37.640 align:start position:0%
+to keep it brief
+because<00:01:36.240><c> the</c><00:01:36.900><c> references</c><00:01:37.290><c> aren't</c><00:01:37.470><c> that</c>
+
+00:01:37.640 --> 00:01:37.650 align:start position:0%
+because the references aren't that
+ 
+
+00:01:37.650 --> 00:01:40.340 align:start position:0%
+because the references aren't that
+complicated<00:01:37.950><c> and</c><00:01:38.520><c> the</c><00:01:39.390><c> best</c><00:01:39.659><c> way</c><00:01:39.869><c> really</c><00:01:39.900><c> to</c>
+
+00:01:40.340 --> 00:01:40.350 align:start position:0%
+complicated and the best way really to
+ 
+
+00:01:40.350 --> 00:01:41.510 align:start position:0%
+complicated and the best way really to
+learn<00:01:40.470><c> how</c><00:01:40.619><c> to</c><00:01:40.650><c> use</c><00:01:40.860><c> them</c><00:01:41.009><c> is</c><00:01:41.159><c> actually</c><00:01:41.430><c> to</c>
+
+00:01:41.510 --> 00:01:41.520 align:start position:0%
+learn how to use them is actually to
+ 
+
+00:01:41.520 --> 00:01:43.190 align:start position:0%
+learn how to use them is actually to
+start<00:01:41.670><c> using</c><00:01:41.909><c> them</c><00:01:42.150><c> so</c><00:01:42.390><c> adversaries</c><00:01:42.899><c> goes</c><00:01:43.049><c> on</c>
+
+00:01:43.190 --> 00:01:43.200 align:start position:0%
+start using them so adversaries goes on
+ 
+
+00:01:43.200 --> 00:01:44.780 align:start position:0%
+start using them so adversaries goes on
+we'll<00:01:43.380><c> be</c><00:01:43.560><c> using</c><00:01:43.860><c> them</c><00:01:44.100><c> all</c><00:01:44.189><c> the</c><00:01:44.280><c> time</c><00:01:44.460><c> and</c>
+
+00:01:44.780 --> 00:01:44.790 align:start position:0%
+we'll be using them all the time and
+ 
+
+00:01:44.790 --> 00:01:46.100 align:start position:0%
+we'll be using them all the time and
+you'll<00:01:45.180><c> see</c><00:01:45.360><c> what</c><00:01:45.570><c> kind</c><00:01:45.869><c> of</c><00:01:45.899><c> the</c><00:01:45.990><c> best</c>
+
+00:01:46.100 --> 00:01:46.110 align:start position:0%
+you'll see what kind of the best
+ 
+
+00:01:46.110 --> 00:01:48.350 align:start position:0%
+you'll see what kind of the best
+practices<00:01:46.619><c> or</c><00:01:46.829><c> at</c><00:01:47.159><c> least</c><00:01:47.430><c> my</c><00:01:47.640><c> opinion</c><00:01:47.759><c> on</c><00:01:48.149><c> what</c>
+
+00:01:48.350 --> 00:01:48.360 align:start position:0%
+practices or at least my opinion on what
+ 
+
+00:01:48.360 --> 00:01:50.149 align:start position:0%
+practices or at least my opinion on what
+the<00:01:48.689><c> best</c><00:01:48.810><c> practice</c><00:01:49.200><c> is</c><00:01:49.350><c> to</c><00:01:49.950><c> do</c><00:01:50.040><c> with</c>
+
+00:01:50.149 --> 00:01:50.159 align:start position:0%
+the best practice is to do with
+ 
+
+00:01:50.159 --> 00:01:52.069 align:start position:0%
+the best practice is to do with
+references<00:01:50.579><c> however</c><00:01:50.909><c> pohjanmaa</c><00:01:51.689><c> doesn't</c>
+
+00:01:52.069 --> 00:01:52.079 align:start position:0%
+references however pohjanmaa doesn't
+ 
+
+00:01:52.079 --> 00:01:53.990 align:start position:0%
+references however pohjanmaa doesn't
+code<00:01:52.259><c> let's</c><00:01:52.890><c> say</c><00:01:53.040><c> that</c><00:01:53.159><c> I</c><00:01:53.250><c> make</c><00:01:53.460><c> a</c><00:01:53.490><c> variable</c>
+
+00:01:53.990 --> 00:01:54.000 align:start position:0%
+code let's say that I make a variable
+ 
+
+00:01:54.000 --> 00:01:55.700 align:start position:0%
+code let's say that I make a variable
+I'll<00:01:54.180><c> call</c><00:01:54.360><c> it</c><00:01:54.479><c> a</c><00:01:54.600><c> and</c><00:01:54.930><c> all</c><00:01:54.990><c> political</c><00:01:55.170><c> decide</c>
+
+00:01:55.700 --> 00:01:55.710 align:start position:0%
+I'll call it a and all political decide
+ 
+
+00:01:55.710 --> 00:01:57.440 align:start position:0%
+I'll call it a and all political decide
+is<00:01:55.860><c> just</c><00:01:56.040><c> going</c><00:01:56.219><c> to</c><00:01:56.310><c> be</c><00:01:56.399><c> an</c><00:01:56.490><c> integer</c><00:01:56.729><c> if</c><00:01:57.090><c> I</c><00:01:57.270><c> want</c>
+
+00:01:57.440 --> 00:01:57.450 align:start position:0%
+is just going to be an integer if I want
+ 
+
+00:01:57.450 --> 00:01:59.330 align:start position:0%
+is just going to be an integer if I want
+to<00:01:57.540><c> create</c><00:01:57.659><c> a</c><00:01:57.750><c> reference</c><00:01:57.960><c> to</c><00:01:58.409><c> that</c><00:01:58.590><c> variable</c><00:01:59.159><c> I</c>
+
+00:01:59.330 --> 00:01:59.340 align:start position:0%
+to create a reference to that variable I
+ 
+
+00:01:59.340 --> 00:02:00.680 align:start position:0%
+to create a reference to that variable I
+can<00:01:59.369><c> do</c><00:01:59.670><c> so</c><00:01:59.880><c> by</c><00:02:00.119><c> typing</c>
+
+00:02:00.680 --> 00:02:00.690 align:start position:0%
+can do so by typing
+ 
+
+00:02:00.690 --> 00:02:02.660 align:start position:0%
+can do so by typing
+type<00:02:01.020><c> of</c><00:02:01.170><c> the</c><00:02:01.260><c> variable</c><00:02:01.650><c> followed</c><00:02:02.430><c> by</c><00:02:02.550><c> an</c>
+
+00:02:02.660 --> 00:02:02.670 align:start position:0%
+type of the variable followed by an
+ 
+
+00:02:02.670 --> 00:02:04.700 align:start position:0%
+type of the variable followed by an
+ampersand<00:02:03.150><c> note</c><00:02:03.600><c> here</c><00:02:03.930><c> that</c><00:02:04.110><c> the</c><00:02:04.200><c> ampersand</c>
+
+00:02:04.700 --> 00:02:04.710 align:start position:0%
+ampersand note here that the ampersand
+ 
+
+00:02:04.710 --> 00:02:06.320 align:start position:0%
+ampersand note here that the ampersand
+is<00:02:04.890><c> actually</c><00:02:05.280><c> part</c><00:02:05.550><c> of</c><00:02:05.700><c> the</c><00:02:05.910><c> variable</c>
+
+00:02:06.320 --> 00:02:06.330 align:start position:0%
+is actually part of the variable
+ 
+
+00:02:06.330 --> 00:02:09.200 align:start position:0%
+is actually part of the variable
+declaration<00:02:07.080><c> in</c><00:02:07.650><c> the</c><00:02:08.100><c> previous</c><00:02:08.610><c> video</c><00:02:09.150><c> about</c>
+
+00:02:09.200 --> 00:02:09.210 align:start position:0%
+declaration in the previous video about
+ 
+
+00:02:09.210 --> 00:02:11.390 align:start position:0%
+declaration in the previous video about
+pointers<00:02:09.810><c> we</c><00:02:10.350><c> learned</c><00:02:10.590><c> that</c><00:02:10.770><c> if</c><00:02:10.950><c> we</c><00:02:11.130><c> create</c><00:02:11.370><c> a</c>
+
+00:02:11.390 --> 00:02:11.400 align:start position:0%
+pointers we learned that if we create a
+ 
+
+00:02:11.400 --> 00:02:13.700 align:start position:0%
+pointers we learned that if we create a
+pointer<00:02:11.820><c> we</c><00:02:12.810><c> can</c><00:02:12.990><c> use</c><00:02:13.140><c> the</c><00:02:13.260><c> ampersand</c>
+
+00:02:13.700 --> 00:02:13.710 align:start position:0%
+pointer we can use the ampersand
+ 
+
+00:02:13.710 --> 00:02:15.530 align:start position:0%
+pointer we can use the ampersand
+operator<00:02:13.890><c> here</c><00:02:14.460><c> to</c><00:02:14.610><c> actually</c><00:02:14.940><c> take</c><00:02:15.120><c> a</c><00:02:15.270><c> memory</c>
+
+00:02:15.530 --> 00:02:15.540 align:start position:0%
+operator here to actually take a memory
+ 
+
+00:02:15.540 --> 00:02:18.140 align:start position:0%
+operator here to actually take a memory
+address<00:02:15.810><c> of</c><00:02:16.170><c> an</c><00:02:16.380><c> existing</c><00:02:16.800><c> variable</c><00:02:17.150><c> it's</c>
+
+00:02:18.140 --> 00:02:18.150 align:start position:0%
+address of an existing variable it's
+ 
+
+00:02:18.150 --> 00:02:20.480 align:start position:0%
+address of an existing variable it's
+different<00:02:18.660><c> here</c><00:02:19.020><c> because</c><00:02:19.500><c> the</c><00:02:19.860><c> ampersand</c><00:02:20.370><c> is</c>
+
+00:02:20.480 --> 00:02:20.490 align:start position:0%
+different here because the ampersand is
+ 
+
+00:02:20.490 --> 00:02:22.640 align:start position:0%
+different here because the ampersand is
+actually<00:02:20.910><c> part</c><00:02:21.240><c> of</c><00:02:21.330><c> the</c><00:02:21.450><c> type</c><00:02:21.720><c> if</c><00:02:22.050><c> not</c><00:02:22.320><c> you</c><00:02:22.530><c> can</c>
+
+00:02:22.640 --> 00:02:22.650 align:start position:0%
+actually part of the type if not you can
+ 
+
+00:02:22.650 --> 00:02:23.960 align:start position:0%
+actually part of the type if not you can
+see<00:02:22.800><c> it's</c><00:02:22.980><c> not</c><00:02:23.100><c> actually</c><00:02:23.310><c> next</c><00:02:23.730><c> to</c><00:02:23.880><c> an</c>
+
+00:02:23.960 --> 00:02:23.970 align:start position:0%
+see it's not actually next to an
+ 
+
+00:02:23.970 --> 00:02:26.090 align:start position:0%
+see it's not actually next to an
+existing<00:02:24.420><c> variable</c><00:02:24.630><c> it's</c><00:02:25.410><c> part</c><00:02:25.710><c> of</c><00:02:25.770><c> the</c><00:02:25.860><c> type</c>
+
+00:02:26.090 --> 00:02:26.100 align:start position:0%
+existing variable it's part of the type
+ 
+
+00:02:26.100 --> 00:02:28.070 align:start position:0%
+existing variable it's part of the type
+so<00:02:26.400><c> just</c><00:02:26.610><c> note</c><00:02:27.150><c> that</c><00:02:27.180><c> difference</c><00:02:27.840><c> because</c>
+
+00:02:28.070 --> 00:02:28.080 align:start position:0%
+so just note that difference because
+ 
+
+00:02:28.080 --> 00:02:29.300 align:start position:0%
+so just note that difference because
+with<00:02:28.230><c> a</c><00:02:28.260><c> lot</c><00:02:28.410><c> of</c><00:02:28.500><c> people</c><00:02:28.710><c> as</c><00:02:28.800><c> soon</c><00:02:28.920><c> as</c><00:02:29.040><c> you</c><00:02:29.160><c> see</c>
+
+00:02:29.300 --> 00:02:29.310 align:start position:0%
+with a lot of people as soon as you see
+ 
+
+00:02:29.310 --> 00:02:31.340 align:start position:0%
+with a lot of people as soon as you see
+an<00:02:29.400><c> ampersand</c><00:02:29.790><c> I</c><00:02:30.060><c> think</c><00:02:30.540><c> is</c><00:02:30.810><c> the</c><00:02:30.930><c> reference</c><00:02:31.170><c> or</c>
+
+00:02:31.340 --> 00:02:31.350 align:start position:0%
+an ampersand I think is the reference or
+ 
+
+00:02:31.350 --> 00:02:33.470 align:start position:0%
+an ampersand I think is the reference or
+oh<00:02:31.650><c> it's</c><00:02:31.770><c> definitely</c><00:02:32.100><c> an</c><00:02:32.370><c> address</c><00:02:32.790><c> off</c><00:02:33.000><c> it's</c>
+
+00:02:33.470 --> 00:02:33.480 align:start position:0%
+oh it's definitely an address off it's
+ 
+
+00:02:33.480 --> 00:02:35.930 align:start position:0%
+oh it's definitely an address off it's
+kind<00:02:34.470><c> of</c><00:02:34.530><c> depending</c><00:02:34.890><c> on</c><00:02:34.980><c> context</c><00:02:35.520><c> here</c><00:02:35.670><c> so</c><00:02:35.850><c> in</c>
+
+00:02:35.930 --> 00:02:35.940 align:start position:0%
+kind of depending on context here so in
+ 
+
+00:02:35.940 --> 00:02:37.280 align:start position:0%
+kind of depending on context here so in
+this<00:02:36.060><c> case</c><00:02:36.300><c> because</c><00:02:36.690><c> it's</c><00:02:36.840><c> next</c><00:02:36.960><c> to</c><00:02:37.020><c> the</c><00:02:37.110><c> type</c>
+
+00:02:37.280 --> 00:02:37.290 align:start position:0%
+this case because it's next to the type
+ 
+
+00:02:37.290 --> 00:02:39.020 align:start position:0%
+this case because it's next to the type
+it's<00:02:37.860><c> a</c><00:02:37.950><c> reference</c><00:02:38.130><c> so</c><00:02:38.610><c> if</c><00:02:38.670><c> we</c><00:02:38.760><c> keep</c><00:02:38.880><c> writing</c>
+
+00:02:39.020 --> 00:02:39.030 align:start position:0%
+it's a reference so if we keep writing
+ 
+
+00:02:39.030 --> 00:02:40.850 align:start position:0%
+it's a reference so if we keep writing
+this<00:02:39.300><c> I'll</c><00:02:39.810><c> call</c><00:02:40.050><c> this</c><00:02:40.170><c> wrap</c><00:02:40.410><c> and</c><00:02:40.620><c> I'll</c><00:02:40.680><c> set</c>
+
+00:02:40.850 --> 00:02:40.860 align:start position:0%
+this I'll call this wrap and I'll set
+ 
+
+00:02:40.860 --> 00:02:42.440 align:start position:0%
+this I'll call this wrap and I'll set
+this<00:02:40.950><c> equal</c><00:02:41.250><c> to</c><00:02:41.310><c> a</c><00:02:41.490><c> and</c><00:02:41.880><c> that's</c><00:02:42.000><c> really</c><00:02:42.210><c> all</c>
+
+00:02:42.440 --> 00:02:42.450 align:start position:0%
+this equal to a and that's really all
+ 
+
+00:02:42.450 --> 00:02:44.480 align:start position:0%
+this equal to a and that's really all
+you<00:02:42.600><c> have</c><00:02:42.630><c> to</c><00:02:42.870><c> do</c><00:02:42.990><c> there's</c><00:02:43.230><c> no</c><00:02:43.380><c> kind</c><00:02:43.590><c> of</c><00:02:43.800><c> weird</c>
+
+00:02:44.480 --> 00:02:44.490 align:start position:0%
+you have to do there's no kind of weird
+ 
+
+00:02:44.490 --> 00:02:46.550 align:start position:0%
+you have to do there's no kind of weird
+operator<00:02:45.180><c> or</c><00:02:45.630><c> something</c><00:02:45.990><c> that</c><00:02:46.110><c> we</c><00:02:46.230><c> have</c><00:02:46.380><c> to</c>
+
+00:02:46.550 --> 00:02:46.560 align:start position:0%
+operator or something that we have to
+ 
+
+00:02:46.560 --> 00:02:48.830 align:start position:0%
+operator or something that we have to
+use<00:02:46.740><c> here</c><00:02:47.100><c> we</c><00:02:47.250><c> just</c><00:02:48.180><c> set</c><00:02:48.300><c> an</c><00:02:48.420><c> equal</c><00:02:48.660><c> to</c><00:02:48.750><c> an</c>
+
+00:02:48.830 --> 00:02:48.840 align:start position:0%
+use here we just set an equal to an
+ 
+
+00:02:48.840 --> 00:02:50.450 align:start position:0%
+use here we just set an equal to an
+existing<00:02:49.170><c> variable</c><00:02:49.350><c> and</c><00:02:49.710><c> so</c><00:02:49.980><c> what</c><00:02:50.160><c> we've</c><00:02:50.310><c> done</c>
+
+00:02:50.450 --> 00:02:50.460 align:start position:0%
+existing variable and so what we've done
+ 
+
+00:02:50.460 --> 00:02:52.490 align:start position:0%
+existing variable and so what we've done
+now<00:02:50.520><c> is</c><00:02:51.030><c> we've</c><00:02:51.570><c> essentially</c><00:02:52.050><c> created</c>
+
+00:02:52.490 --> 00:02:52.500 align:start position:0%
+now is we've essentially created
+ 
+
+00:02:52.500 --> 00:02:54.470 align:start position:0%
+now is we've essentially created
+something<00:02:52.680><c> called</c><00:02:52.950><c> an</c><00:02:53.040><c> alias</c><00:02:53.300><c> because</c><00:02:54.300><c> this</c>
+
+00:02:54.470 --> 00:02:54.480 align:start position:0%
+something called an alias because this
+ 
+
+00:02:54.480 --> 00:02:56.990 align:start position:0%
+something called an alias because this
+rest<00:02:54.780><c> variable</c><00:02:55.740><c> I</c><00:02:55.860><c> say</c><00:02:56.040><c> variables</c><00:02:56.670><c> in</c><00:02:56.790><c> quotes</c>
+
+00:02:56.990 --> 00:02:57.000 align:start position:0%
+rest variable I say variables in quotes
+ 
+
+00:02:57.000 --> 00:02:58.790 align:start position:0%
+rest variable I say variables in quotes
+here<00:02:57.240><c> because</c><00:02:57.540><c> it's</c><00:02:57.660><c> not</c><00:02:57.780><c> really</c><00:02:58.230><c> a</c><00:02:58.260><c> variable</c>
+
+00:02:58.790 --> 00:02:58.800 align:start position:0%
+here because it's not really a variable
+ 
+
+00:02:58.800 --> 00:03:01.280 align:start position:0%
+here because it's not really a variable
+it's<00:02:59.010><c> just</c><00:02:59.730><c> a</c><00:02:59.850><c> reference</c><00:03:00.210><c> like</c><00:03:00.690><c> this</c><00:03:00.930><c> rest</c>
+
+00:03:01.280 --> 00:03:01.290 align:start position:0%
+it's just a reference like this rest
+ 
+
+00:03:01.290 --> 00:03:03.800 align:start position:0%
+it's just a reference like this rest
+variable<00:03:02.220><c> doesn't</c><00:03:02.400><c> actually</c><00:03:02.700><c> exist</c><00:03:03.000><c> it</c><00:03:03.570><c> just</c>
+
+00:03:03.800 --> 00:03:03.810 align:start position:0%
+variable doesn't actually exist it just
+ 
+
+00:03:03.810 --> 00:03:05.690 align:start position:0%
+variable doesn't actually exist it just
+exists<00:03:04.200><c> in</c><00:03:04.320><c> our</c><00:03:04.410><c> source</c><00:03:04.739><c> code</c><00:03:04.830><c> if</c><00:03:05.250><c> you</c><00:03:05.340><c> compile</c>
+
+00:03:05.690 --> 00:03:05.700 align:start position:0%
+exists in our source code if you compile
+ 
+
+00:03:05.700 --> 00:03:07.970 align:start position:0%
+exists in our source code if you compile
+this<00:03:05.820><c> code</c><00:03:05.880><c> right</c><00:03:06.300><c> now</c><00:03:06.470><c> you're</c><00:03:07.470><c> not</c><00:03:07.620><c> going</c><00:03:07.830><c> to</c>
+
+00:03:07.970 --> 00:03:07.980 align:start position:0%
+this code right now you're not going to
+ 
+
+00:03:07.980 --> 00:03:10.160 align:start position:0%
+this code right now you're not going to
+get<00:03:08.190><c> two</c><00:03:08.459><c> variables</c><00:03:08.970><c> created</c><00:03:09.450><c> a</c><00:03:09.570><c> and</c><00:03:09.959><c> rest</c>
+
+00:03:10.160 --> 00:03:10.170 align:start position:0%
+get two variables created a and rest
+ 
+
+00:03:10.170 --> 00:03:11.840 align:start position:0%
+get two variables created a and rest
+you're<00:03:10.380><c> just</c><00:03:10.560><c> going</c><00:03:10.680><c> to</c><00:03:10.739><c> have</c><00:03:10.920><c> a</c><00:03:10.950><c> what</c><00:03:11.580><c> we</c><00:03:11.610><c> can</c>
+
+00:03:11.840 --> 00:03:11.850 align:start position:0%
+you're just going to have a what we can
+ 
+
+00:03:11.850 --> 00:03:14.330 align:start position:0%
+you're just going to have a what we can
+do<00:03:12.000><c> now</c><00:03:12.180><c> is</c><00:03:12.480><c> we</c><00:03:12.660><c> can</c><00:03:12.840><c> use</c><00:03:12.989><c> wrap</c><00:03:13.260><c> as</c><00:03:13.470><c> if</c><00:03:13.709><c> it</c><00:03:13.860><c> was</c><00:03:14.100><c> a</c>
+
+00:03:14.330 --> 00:03:14.340 align:start position:0%
+do now is we can use wrap as if it was a
+ 
+
+00:03:14.340 --> 00:03:17.060 align:start position:0%
+do now is we can use wrap as if it was a
+so<00:03:14.730><c> if</c><00:03:15.000><c> we</c><00:03:15.360><c> set</c><00:03:15.570><c> wrap</c><00:03:15.810><c> now</c><00:03:16.050><c> equal</c><00:03:16.470><c> to</c><00:03:16.590><c> two</c><00:03:16.830><c> and</c>
+
+00:03:17.060 --> 00:03:17.070 align:start position:0%
+so if we set wrap now equal to two and
+ 
+
+00:03:17.070 --> 00:03:21.440 align:start position:0%
+so if we set wrap now equal to two and
+then<00:03:17.790><c> print</c><00:03:18.209><c> a</c><00:03:19.610><c> we're</c><00:03:20.610><c> on</c><00:03:20.730><c> our</c><00:03:20.820><c> program</c><00:03:21.239><c> here</c>
+
+00:03:21.440 --> 00:03:21.450 align:start position:0%
+then print a we're on our program here
+ 
+
+00:03:21.450 --> 00:03:23.180 align:start position:0%
+then print a we're on our program here
+you're<00:03:21.840><c> going</c><00:03:21.959><c> to</c><00:03:22.110><c> say</c><00:03:22.230><c> that</c><00:03:22.380><c> a</c><00:03:22.530><c> is</c><00:03:22.560><c> equal</c><00:03:22.830><c> to</c>
+
+00:03:23.180 --> 00:03:23.190 align:start position:0%
+you're going to say that a is equal to
+ 
+
+00:03:23.190 --> 00:03:24.650 align:start position:0%
+you're going to say that a is equal to
+two<00:03:23.340><c> now</c><00:03:23.520><c> because</c><00:03:23.850><c> we're</c><00:03:23.970><c> printing</c><00:03:24.150><c> a</c><00:03:24.360><c> and</c>
+
+00:03:24.650 --> 00:03:24.660 align:start position:0%
+two now because we're printing a and
+ 
+
+00:03:24.660 --> 00:03:26.510 align:start position:0%
+two now because we're printing a and
+we've<00:03:24.810><c> just</c><00:03:24.840><c> changed</c><00:03:25.200><c> crap</c><00:03:25.590><c> to</c><00:03:25.800><c> 2</c><00:03:25.950><c> because</c><00:03:26.220><c> for</c>
+
+00:03:26.510 --> 00:03:26.520 align:start position:0%
+we've just changed crap to 2 because for
+ 
+
+00:03:26.520 --> 00:03:29.240 align:start position:0%
+we've just changed crap to 2 because for
+all<00:03:26.580><c> intents</c><00:03:26.940><c> and</c><00:03:27.000><c> purposes</c><00:03:27.410><c> rest</c><00:03:28.410><c> is</c><00:03:28.650><c> a</c><00:03:28.950><c> we've</c>
+
+00:03:29.240 --> 00:03:29.250 align:start position:0%
+all intents and purposes rest is a we've
+ 
+
+00:03:29.250 --> 00:03:31.580 align:start position:0%
+all intents and purposes rest is a we've
+just<00:03:29.459><c> created</c><00:03:29.700><c> an</c><00:03:29.910><c> alias</c><00:03:30.300><c> for</c><00:03:30.480><c> a</c><00:03:30.900><c> and</c><00:03:31.350><c> in</c><00:03:31.500><c> this</c>
+
+00:03:31.580 --> 00:03:31.590 align:start position:0%
+just created an alias for a and in this
+ 
+
+00:03:31.590 --> 00:03:33.590 align:start position:0%
+just created an alias for a and in this
+case<00:03:31.860><c> our</c><00:03:32.100><c> reference</c><00:03:32.519><c> isn't</c><00:03:32.850><c> a</c><00:03:32.940><c> pointer</c><00:03:33.390><c> or</c>
+
+00:03:33.590 --> 00:03:33.600 align:start position:0%
+case our reference isn't a pointer or
+ 
+
+00:03:33.600 --> 00:03:35.000 align:start position:0%
+case our reference isn't a pointer or
+anything<00:03:33.780><c> like</c><00:03:33.989><c> that</c><00:03:34.019><c> there's</c><00:03:34.680><c> no</c><00:03:34.800><c> need</c><00:03:34.950><c> for</c>
+
+00:03:35.000 --> 00:03:35.010 align:start position:0%
+anything like that there's no need for
+ 
+
+00:03:35.010 --> 00:03:36.199 align:start position:0%
+anything like that there's no need for
+the<00:03:35.160><c> compiler</c><00:03:35.430><c> to</c><00:03:35.550><c> actually</c><00:03:35.790><c> create</c><00:03:36.030><c> a</c><00:03:36.090><c> new</c>
+
+00:03:36.199 --> 00:03:36.209 align:start position:0%
+the compiler to actually create a new
+ 
+
+00:03:36.209 --> 00:03:38.270 align:start position:0%
+the compiler to actually create a new
+variable<00:03:36.420><c> if</c><00:03:37.200><c> you</c><00:03:37.410><c> compile</c><00:03:37.650><c> this</c><00:03:37.769><c> code</c><00:03:37.830><c> it's</c>
+
+00:03:38.270 --> 00:03:38.280 align:start position:0%
+variable if you compile this code it's
+ 
+
+00:03:38.280 --> 00:03:40.370 align:start position:0%
+variable if you compile this code it's
+just<00:03:38.400><c> going</c><00:03:38.640><c> to</c><00:03:38.850><c> after</c><00:03:39.269><c> this</c><00:03:39.420><c> we</c><00:03:39.870><c> just</c><00:03:40.080><c> set</c><00:03:40.200><c> a</c>
+
+00:03:40.370 --> 00:03:40.380 align:start position:0%
+just going to after this we just set a
+ 
+
+00:03:40.380 --> 00:03:42.170 align:start position:0%
+just going to after this we just set a
+to<00:03:40.440><c> 2</c><00:03:40.709><c> because</c><00:03:40.950><c> that's</c><00:03:41.220><c> really</c><00:03:41.550><c> what</c><00:03:41.820><c> we</c><00:03:41.970><c> did</c>
+
+00:03:42.170 --> 00:03:42.180 align:start position:0%
+to 2 because that's really what we did
+ 
+
+00:03:42.180 --> 00:03:43.759 align:start position:0%
+to 2 because that's really what we did
+this<00:03:42.630><c> is</c><00:03:42.840><c> just</c><00:03:43.019><c> something</c><00:03:43.170><c> that</c><00:03:43.410><c> we</c><00:03:43.500><c> can</c><00:03:43.650><c> write</c>
+
+00:03:43.759 --> 00:03:43.769 align:start position:0%
+this is just something that we can write
+ 
+
+00:03:43.769 --> 00:03:45.380 align:start position:0%
+this is just something that we can write
+in<00:03:43.890><c> our</c><00:03:43.950><c> source</c><00:03:44.220><c> code</c><00:03:44.280><c> to</c><00:03:44.970><c> make</c><00:03:45.090><c> our</c><00:03:45.239><c> life</c>
+
+00:03:45.380 --> 00:03:45.390 align:start position:0%
+in our source code to make our life
+ 
+
+00:03:45.390 --> 00:03:47.330 align:start position:0%
+in our source code to make our life
+easier<00:03:45.780><c> if</c><00:03:45.870><c> we</c><00:03:45.930><c> wish</c><00:03:46.140><c> to</c><00:03:46.170><c> alias</c><00:03:46.650><c> a</c><00:03:46.800><c> variable</c>
+
+00:03:47.330 --> 00:03:47.340 align:start position:0%
+easier if we wish to alias a variable
+ 
+
+00:03:47.340 --> 00:03:48.620 align:start position:0%
+easier if we wish to alias a variable
+now<00:03:47.580><c> let's</c><00:03:47.760><c> try</c><00:03:47.910><c> something</c><00:03:48.120><c> a</c><00:03:48.300><c> little</c><00:03:48.330><c> bit</c>
+
+00:03:48.620 --> 00:03:48.630 align:start position:0%
+now let's try something a little bit
+ 
+
+00:03:48.630 --> 00:03:50.240 align:start position:0%
+now let's try something a little bit
+more<00:03:48.750><c> complicated</c><00:03:49.019><c> suppose</c><00:03:49.830><c> that</c><00:03:49.980><c> we</c><00:03:50.070><c> wanted</c>
+
+00:03:50.240 --> 00:03:50.250 align:start position:0%
+more complicated suppose that we wanted
+ 
+
+00:03:50.250 --> 00:03:51.500 align:start position:0%
+more complicated suppose that we wanted
+to<00:03:50.340><c> write</c><00:03:50.459><c> a</c><00:03:50.519><c> function</c><00:03:50.760><c> which</c><00:03:51.090><c> was</c><00:03:51.209><c> supposed</c>
+
+00:03:51.500 --> 00:03:51.510 align:start position:0%
+to write a function which was supposed
+ 
+
+00:03:51.510 --> 00:03:54.050 align:start position:0%
+to write a function which was supposed
+to<00:03:51.570><c> increment</c><00:03:51.930><c> an</c><00:03:52.290><c> integer</c><00:03:52.650><c> if</c><00:03:53.430><c> we</c><00:03:53.670><c> just</c><00:03:53.880><c> write</c>
+
+00:03:54.050 --> 00:03:54.060 align:start position:0%
+to increment an integer if we just write
+ 
+
+00:03:54.060 --> 00:03:55.050 align:start position:0%
+to increment an integer if we just write
+the<00:03:54.090><c> function</c>
+
+00:03:55.050 --> 00:03:55.060 align:start position:0%
+the function
+ 
+
+00:03:55.060 --> 00:03:58.350 align:start position:0%
+the function
+this<00:03:56.010><c> and</c><00:03:57.010><c> then</c><00:03:57.400><c> do</c><00:03:57.550><c> something</c><00:03:57.760><c> like</c><00:03:57.970><c> value</c>
+
+00:03:58.350 --> 00:03:58.360 align:start position:0%
+this and then do something like value
+ 
+
+00:03:58.360 --> 00:04:01.170 align:start position:0%
+this and then do something like value
+plus<00:03:58.599><c> plus</c><00:03:59.040><c> what</c><00:04:00.040><c> will</c><00:04:00.160><c> actually</c><00:04:00.310><c> happen</c><00:04:00.520><c> is</c>
+
+00:04:01.170 --> 00:04:01.180 align:start position:0%
+plus plus what will actually happen is
+ 
+
+00:04:01.180 --> 00:04:03.690 align:start position:0%
+plus plus what will actually happen is
+if<00:04:01.420><c> I</c><00:04:01.599><c> create</c><00:04:01.900><c> my</c><00:04:02.050><c> integer</c><00:04:02.440><c> over</c><00:04:02.680><c> here</c><00:04:02.890><c> and</c>
+
+00:04:03.690 --> 00:04:03.700 align:start position:0%
+if I create my integer over here and
+ 
+
+00:04:03.700 --> 00:04:07.020 align:start position:0%
+if I create my integer over here and
+then<00:04:04.540><c> I</c><00:04:04.630><c> call</c><00:04:04.870><c> increment</c><00:04:05.380><c> with</c><00:04:05.650><c> a</c><00:04:05.920><c> parameter</c>
+
+00:04:07.020 --> 00:04:07.030 align:start position:0%
+then I call increment with a parameter
+ 
+
+00:04:07.030 --> 00:04:08.880 align:start position:0%
+then I call increment with a parameter
+what's<00:04:07.390><c> going</c><00:04:07.569><c> to</c><00:04:07.630><c> happen</c><00:04:07.720><c> here</c><00:04:08.140><c> is</c><00:04:08.380><c> since</c><00:04:08.709><c> we</c>
+
+00:04:08.880 --> 00:04:08.890 align:start position:0%
+what's going to happen here is since we
+ 
+
+00:04:08.890 --> 00:04:10.410 align:start position:0%
+what's going to happen here is since we
+are<00:04:08.980><c> just</c><00:04:09.010><c> passing</c><00:04:09.340><c> this</c><00:04:09.580><c> by</c><00:04:09.730><c> value</c><00:04:10.150><c> you</c><00:04:10.270><c> can</c>
+
+00:04:10.410 --> 00:04:10.420 align:start position:0%
+are just passing this by value you can
+ 
+
+00:04:10.420 --> 00:04:11.640 align:start position:0%
+are just passing this by value you can
+see<00:04:10.540><c> that</c><00:04:10.660><c> we're</c><00:04:10.780><c> not</c><00:04:10.870><c> passing</c><00:04:11.140><c> this</c><00:04:11.380><c> other</c>
+
+00:04:11.640 --> 00:04:11.650 align:start position:0%
+see that we're not passing this other
+ 
+
+00:04:11.650 --> 00:04:13.559 align:start position:0%
+see that we're not passing this other
+pointer<00:04:12.130><c> or</c><00:04:12.580><c> as</c><00:04:12.760><c> a</c><00:04:12.790><c> reference</c><00:04:13.300><c> or</c><00:04:13.420><c> anything</c>
+
+00:04:13.559 --> 00:04:13.569 align:start position:0%
+pointer or as a reference or anything
+ 
+
+00:04:13.569 --> 00:04:14.130 align:start position:0%
+pointer or as a reference or anything
+like<00:04:13.720><c> that</c>
+
+00:04:14.130 --> 00:04:14.140 align:start position:0%
+like that
+ 
+
+00:04:14.140 --> 00:04:15.449 align:start position:0%
+like that
+it's<00:04:14.290><c> actually</c><00:04:14.560><c> going</c><00:04:14.709><c> to</c><00:04:14.800><c> copy</c><00:04:15.069><c> this</c><00:04:15.280><c> value</c>
+
+00:04:15.449 --> 00:04:15.459 align:start position:0%
+it's actually going to copy this value
+ 
+
+00:04:15.459 --> 00:04:18.390 align:start position:0%
+it's actually going to copy this value
+five<00:04:15.910><c> each</c><00:04:16.900><c> of</c><00:04:17.109><c> this</c><00:04:17.230><c> function</c><00:04:17.650><c> just</c><00:04:18.220><c> copy</c>
+
+00:04:18.390 --> 00:04:18.400 align:start position:0%
+five each of this function just copy
+ 
+
+00:04:18.400 --> 00:04:19.259 align:start position:0%
+five each of this function just copy
+it's<00:04:18.639><c> going</c><00:04:18.760><c> to</c><00:04:18.820><c> create</c><00:04:18.940><c> a</c><00:04:19.000><c> brand</c><00:04:19.090><c> new</c>
+
+00:04:19.259 --> 00:04:19.269 align:start position:0%
+it's going to create a brand new
+ 
+
+00:04:19.269 --> 00:04:21.420 align:start position:0%
+it's going to create a brand new
+variable<00:04:19.750><c> called</c><00:04:19.780><c> value</c><00:04:20.350><c> with</c><00:04:20.859><c> that</c><00:04:20.889><c> so</c><00:04:21.280><c> it's</c>
+
+00:04:21.420 --> 00:04:21.430 align:start position:0%
+variable called value with that so it's
+ 
+
+00:04:21.430 --> 00:04:22.830 align:start position:0%
+variable called value with that so it's
+almost<00:04:21.579><c> as</c><00:04:21.850><c> if</c><00:04:21.970><c> we</c><00:04:22.120><c> were</c><00:04:22.270><c> to</c><00:04:22.450><c> write</c><00:04:22.570><c> something</c>
+
+00:04:22.830 --> 00:04:22.840 align:start position:0%
+almost as if we were to write something
+ 
+
+00:04:22.840 --> 00:04:25.230 align:start position:0%
+almost as if we were to write something
+like<00:04:23.260><c> that</c><00:04:23.500><c> that's</c><00:04:23.940><c> exactly</c><00:04:24.940><c> what</c><00:04:25.120><c> will</c>
+
+00:04:25.230 --> 00:04:25.240 align:start position:0%
+like that that's exactly what will
+ 
+
+00:04:25.240 --> 00:04:27.930 align:start position:0%
+like that that's exactly what will
+happen<00:04:25.270><c> so</c><00:04:26.200><c> instead</c><00:04:26.889><c> of</c><00:04:26.950><c> that</c><00:04:27.160><c> and</c><00:04:27.729><c> I</c><00:04:27.790><c> can</c>
+
+00:04:27.930 --> 00:04:27.940 align:start position:0%
+happen so instead of that and I can
+ 
+
+00:04:27.940 --> 00:04:29.190 align:start position:0%
+happen so instead of that and I can
+prove<00:04:28.090><c> it</c><00:04:28.180><c> of</c><00:04:28.300><c> course</c><00:04:28.510><c> if</c><00:04:28.660><c> I</c><00:04:28.750><c> just</c><00:04:28.900><c> roll</c><00:04:29.050><c> my</c>
+
+00:04:29.190 --> 00:04:29.200 align:start position:0%
+prove it of course if I just roll my
+ 
+
+00:04:29.200 --> 00:04:31.170 align:start position:0%
+prove it of course if I just roll my
+code<00:04:29.410><c> here</c><00:04:29.440><c> and</c><00:04:29.919><c> we</c><00:04:30.340><c> love</c><00:04:30.700><c> this</c><00:04:30.880><c> we're</c>
+
+00:04:31.170 --> 00:04:31.180 align:start position:0%
+code here and we love this we're
+ 
+
+00:04:31.180 --> 00:04:32.460 align:start position:0%
+code here and we love this we're
+actually<00:04:31.240><c> going</c><00:04:31.479><c> to</c><00:04:31.570><c> still</c><00:04:31.780><c> end</c><00:04:31.930><c> up</c><00:04:32.050><c> with</c><00:04:32.260><c> five</c>
+
+00:04:32.460 --> 00:04:32.470 align:start position:0%
+actually going to still end up with five
+ 
+
+00:04:32.470 --> 00:04:34.140 align:start position:0%
+actually going to still end up with five
+printing<00:04:32.919><c> to</c><00:04:33.010><c> the</c><00:04:33.100><c> cons</c><00:04:33.310><c> well</c><00:04:33.490><c> which</c><00:04:33.820><c> can</c><00:04:33.970><c> stay</c>
+
+00:04:34.140 --> 00:04:34.150 align:start position:0%
+printing to the cons well which can stay
+ 
+
+00:04:34.150 --> 00:04:35.700 align:start position:0%
+printing to the cons well which can stay
+over<00:04:34.300><c> here</c><00:04:34.479><c> what</c><00:04:34.870><c> I</c><00:04:34.900><c> need</c><00:04:35.110><c> to</c><00:04:35.200><c> do</c><00:04:35.350><c> is</c><00:04:35.590><c> I</c>
+
+00:04:35.700 --> 00:04:35.710 align:start position:0%
+over here what I need to do is I
+ 
+
+00:04:35.710 --> 00:04:37.409 align:start position:0%
+over here what I need to do is I
+actually<00:04:35.830><c> need</c><00:04:36.190><c> to</c><00:04:36.220><c> pass</c><00:04:36.610><c> this</c><00:04:36.850><c> variable</c><00:04:37.389><c> by</c>
+
+00:04:37.409 --> 00:04:37.419 align:start position:0%
+actually need to pass this variable by
+ 
+
+00:04:37.419 --> 00:04:40.140 align:start position:0%
+actually need to pass this variable by
+reference<00:04:38.139><c> in</c><00:04:38.350><c> order</c><00:04:38.800><c> for</c><00:04:39.160><c> it</c><00:04:39.280><c> to</c><00:04:39.490><c> increment</c>
+
+00:04:40.140 --> 00:04:40.150 align:start position:0%
+reference in order for it to increment
+ 
+
+00:04:40.150 --> 00:04:42.240 align:start position:0%
+reference in order for it to increment
+because<00:04:40.630><c> what</c><00:04:40.810><c> I</c><00:04:40.840><c> really</c><00:04:41.169><c> want</c><00:04:41.350><c> to</c><00:04:41.410><c> do</c><00:04:41.560><c> is</c><00:04:41.800><c> I</c>
+
+00:04:42.240 --> 00:04:42.250 align:start position:0%
+because what I really want to do is I
+ 
+
+00:04:42.250 --> 00:04:43.950 align:start position:0%
+because what I really want to do is I
+want<00:04:42.460><c> to</c><00:04:42.520><c> actually</c><00:04:42.940><c> affect</c><00:04:43.240><c> this</c><00:04:43.510><c> variable</c>
+
+00:04:43.950 --> 00:04:43.960 align:start position:0%
+want to actually affect this variable
+ 
+
+00:04:43.960 --> 00:04:46.379 align:start position:0%
+want to actually affect this variable
+here<00:04:44.290><c> so</c><00:04:44.740><c> how</c><00:04:45.070><c> can</c><00:04:45.130><c> I</c><00:04:45.310><c> achieve</c><00:04:45.430><c> that</c><00:04:45.610><c> how</c><00:04:46.030><c> can</c><00:04:46.360><c> I</c>
+
+00:04:46.379 --> 00:04:46.389 align:start position:0%
+here so how can I achieve that how can I
+ 
+
+00:04:46.389 --> 00:04:48.930 align:start position:0%
+here so how can I achieve that how can I
+actually<00:04:46.840><c> modify</c><00:04:47.530><c> this</c><00:04:47.710><c> variable</c><00:04:48.130><c> by</c><00:04:48.310><c> passing</c>
+
+00:04:48.930 --> 00:04:48.940 align:start position:0%
+actually modify this variable by passing
+ 
+
+00:04:48.940 --> 00:04:50.879 align:start position:0%
+actually modify this variable by passing
+into<00:04:49.150><c> a</c><00:04:49.180><c> function</c><00:04:49.630><c> now</c><00:04:49.840><c> last</c><00:04:50.380><c> time</c><00:04:50.590><c> we</c><00:04:50.740><c> talked</c>
+
+00:04:50.879 --> 00:04:50.889 align:start position:0%
+into a function now last time we talked
+ 
+
+00:04:50.889 --> 00:04:52.650 align:start position:0%
+into a function now last time we talked
+about<00:04:50.979><c> pointers</c><00:04:51.400><c> and</c><00:04:51.610><c> remember</c><00:04:52.150><c> pointed</c><00:04:52.510><c> on</c>
+
+00:04:52.650 --> 00:04:52.660 align:start position:0%
+about pointers and remember pointed on
+ 
+
+00:04:52.660 --> 00:04:55.140 align:start position:0%
+about pointers and remember pointed on
+memory<00:04:53.020><c> addresses</c><00:04:53.470><c> so</c><00:04:53.979><c> theoretically</c><00:04:54.490><c> I</c><00:04:54.910><c> hope</c>
+
+00:04:55.140 --> 00:04:55.150 align:start position:0%
+memory addresses so theoretically I hope
+ 
+
+00:04:55.150 --> 00:04:56.129 align:start position:0%
+memory addresses so theoretically I hope
+you're<00:04:55.270><c> putting</c><00:04:55.479><c> this</c><00:04:55.540><c> together</c><00:04:55.720><c> in</c><00:04:56.050><c> your</c>
+
+00:04:56.129 --> 00:04:56.139 align:start position:0%
+you're putting this together in your
+ 
+
+00:04:56.139 --> 00:04:57.450 align:start position:0%
+you're putting this together in your
+mind<00:04:56.350><c> because</c><00:04:56.560><c> so</c><00:04:56.800><c> exciting</c><00:04:57.190><c> but</c>
+
+00:04:57.450 --> 00:04:57.460 align:start position:0%
+mind because so exciting but
+ 
+
+00:04:57.460 --> 00:04:59.460 align:start position:0%
+mind because so exciting but
+theoretically<00:04:57.790><c> what</c><00:04:58.630><c> we</c><00:04:58.750><c> could</c><00:04:58.990><c> do</c><00:04:59.140><c> really</c>
+
+00:04:59.460 --> 00:04:59.470 align:start position:0%
+theoretically what we could do really
+ 
+
+00:04:59.470 --> 00:05:01.680 align:start position:0%
+theoretically what we could do really
+clever<00:04:59.770><c> right</c><00:05:00.039><c> is</c><00:05:00.220><c> we</c><00:05:00.940><c> could</c><00:05:01.150><c> instead</c><00:05:01.539><c> of</c>
+
+00:05:01.680 --> 00:05:01.690 align:start position:0%
+clever right is we could instead of
+ 
+
+00:05:01.690 --> 00:05:03.990 align:start position:0%
+clever right is we could instead of
+talking<00:05:01.960><c> the</c><00:05:02.200><c> actual</c><00:05:02.470><c> value</c><00:05:02.890><c> five</c><00:05:03.100><c> into</c><00:05:03.760><c> that</c>
+
+00:05:03.990 --> 00:05:04.000 align:start position:0%
+talking the actual value five into that
+ 
+
+00:05:04.000 --> 00:05:05.820 align:start position:0%
+talking the actual value five into that
+function<00:05:04.510><c> which</c><00:05:04.990><c> could</c><00:05:05.110><c> pass</c><00:05:05.320><c> the</c><00:05:05.500><c> memory</c>
+
+00:05:05.820 --> 00:05:05.830 align:start position:0%
+function which could pass the memory
+ 
+
+00:05:05.830 --> 00:05:07.860 align:start position:0%
+function which could pass the memory
+address<00:05:06.130><c> of</c><00:05:06.280><c> this</c><00:05:06.580><c> a</c><00:05:06.760><c> variable</c><00:05:07.330><c> because</c><00:05:07.570><c> then</c>
+
+00:05:07.860 --> 00:05:07.870 align:start position:0%
+address of this a variable because then
+ 
+
+00:05:07.870 --> 00:05:09.600 align:start position:0%
+address of this a variable because then
+what<00:05:08.050><c> we</c><00:05:08.140><c> can</c><00:05:08.260><c> do</c><00:05:08.410><c> in</c><00:05:08.500><c> that</c><00:05:08.560><c> function</c><00:05:08.830><c> is</c><00:05:09.250><c> we</c>
+
+00:05:09.600 --> 00:05:09.610 align:start position:0%
+what we can do in that function is we
+ 
+
+00:05:09.610 --> 00:05:11.610 align:start position:0%
+what we can do in that function is we
+could<00:05:09.760><c> look</c><00:05:09.910><c> up</c><00:05:10.060><c> that</c><00:05:10.300><c> memory</c><00:05:10.570><c> address</c><00:05:10.780><c> see</c>
+
+00:05:11.610 --> 00:05:11.620 align:start position:0%
+could look up that memory address see
+ 
+
+00:05:11.620 --> 00:05:13.290 align:start position:0%
+could look up that memory address see
+that<00:05:11.830><c> value</c><00:05:12.130><c> five</c><00:05:12.340><c> and</c><00:05:12.610><c> then</c><00:05:12.700><c> just</c><00:05:12.850><c> modify</c>
+
+00:05:13.290 --> 00:05:13.300 align:start position:0%
+that value five and then just modify
+ 
+
+00:05:13.300 --> 00:05:15.000 align:start position:0%
+that value five and then just modify
+that<00:05:13.510><c> that</c><00:05:13.960><c> memory</c><00:05:14.320><c> address</c><00:05:14.470><c> we</c><00:05:14.710><c> can</c><00:05:14.740><c> write</c>
+
+00:05:15.000 --> 00:05:15.010 align:start position:0%
+that that memory address we can write
+ 
+
+00:05:15.010 --> 00:05:16.920 align:start position:0%
+that that memory address we can write
+through<00:05:15.250><c> that</c><00:05:15.370><c> memory</c><00:05:15.729><c> address</c><00:05:15.789><c> since</c><00:05:16.750><c> we've</c>
+
+00:05:16.920 --> 00:05:16.930 align:start position:0%
+through that memory address since we've
+ 
+
+00:05:16.930 --> 00:05:18.270 align:start position:0%
+through that memory address since we've
+taught<00:05:17.110><c> that</c><00:05:17.320><c> memory</c><00:05:17.590><c> resident</c><00:05:17.740><c> function</c>
+
+00:05:18.270 --> 00:05:18.280 align:start position:0%
+taught that memory resident function
+ 
+
+00:05:18.280 --> 00:05:19.620 align:start position:0%
+taught that memory resident function
+look<00:05:18.550><c> at</c><00:05:18.700><c> that</c><00:05:18.850><c> shot</c><00:05:19.060><c> what</c><00:05:19.270><c> although</c><00:05:19.450><c> they'll</c>
+
+00:05:19.620 --> 00:05:19.630 align:start position:0%
+look at that shot what although they'll
+ 
+
+00:05:19.630 --> 00:05:21.600 align:start position:0%
+look at that shot what although they'll
+modify<00:05:19.840><c> this</c><00:05:20.110><c> to</c><00:05:20.530><c> actually</c><00:05:20.950><c> take</c><00:05:21.190><c> in</c><00:05:21.430><c> a</c>
+
+00:05:21.600 --> 00:05:21.610 align:start position:0%
+modify this to actually take in a
+ 
+
+00:05:21.610 --> 00:05:24.420 align:start position:0%
+modify this to actually take in a
+pointer<00:05:22.090><c> and</c><00:05:22.300><c> I'll</c><00:05:22.810><c> just</c><00:05:23.050><c> also</c><00:05:23.830><c> call</c><00:05:24.039><c> it</c><00:05:24.130><c> value</c>
+
+00:05:24.420 --> 00:05:24.430 align:start position:0%
+pointer and I'll just also call it value
+ 
+
+00:05:24.430 --> 00:05:26.250 align:start position:0%
+pointer and I'll just also call it value
+and<00:05:24.940><c> then</c><00:05:25.060><c> what</c><00:05:25.210><c> I'll</c><00:05:25.300><c> do</c><00:05:25.419><c> here</c><00:05:25.630><c> in</c><00:05:25.840><c> increment</c>
+
+00:05:26.250 --> 00:05:26.260 align:start position:0%
+and then what I'll do here in increment
+ 
+
+00:05:26.260 --> 00:05:28.860 align:start position:0%
+and then what I'll do here in increment
+is<00:05:26.350><c> I'll</c><00:05:26.500><c> pass</c><00:05:26.710><c> the</c><00:05:27.100><c> memory</c><00:05:27.910><c> address</c><00:05:28.240><c> of</c><00:05:28.270><c> a</c>
+
+00:05:28.860 --> 00:05:28.870 align:start position:0%
+is I'll pass the memory address of a
+ 
+
+00:05:28.870 --> 00:05:31.680 align:start position:0%
+is I'll pass the memory address of a
+instead<00:05:29.860><c> of</c><00:05:30.010><c> just</c><00:05:30.160><c> the</c><00:05:30.639><c> value</c><00:05:30.880><c> five</c><00:05:31.090><c> it's</c><00:05:31.479><c> now</c>
+
+00:05:31.680 --> 00:05:31.690 align:start position:0%
+instead of just the value five it's now
+ 
+
+00:05:31.690 --> 00:05:33.000 align:start position:0%
+instead of just the value five it's now
+passing<00:05:32.080><c> the</c><00:05:32.169><c> memory</c><00:05:32.440><c> address</c><00:05:32.680><c> of</c><00:05:32.800><c> this</c>
+
+00:05:33.000 --> 00:05:33.010 align:start position:0%
+passing the memory address of this
+ 
+
+00:05:33.010 --> 00:05:34.740 align:start position:0%
+passing the memory address of this
+variable<00:05:33.610><c> one</c><00:05:33.940><c> more</c><00:05:34.090><c> thing</c><00:05:34.240><c> I'll</c><00:05:34.360><c> have</c><00:05:34.510><c> to</c><00:05:34.630><c> do</c>
+
+00:05:34.740 --> 00:05:34.750 align:start position:0%
+variable one more thing I'll have to do
+ 
+
+00:05:34.750 --> 00:05:36.960 align:start position:0%
+variable one more thing I'll have to do
+is<00:05:34.960><c> actually</c><00:05:35.530><c> if</c><00:05:35.590><c> you</c><00:05:35.710><c> reference</c><00:05:35.919><c> the</c><00:05:36.280><c> value</c>
+
+00:05:36.960 --> 00:05:36.970 align:start position:0%
+is actually if you reference the value
+ 
+
+00:05:36.970 --> 00:05:38.250 align:start position:0%
+is actually if you reference the value
+so<00:05:37.120><c> that</c><00:05:37.270><c> we</c><00:05:37.360><c> can</c><00:05:37.510><c> actually</c><00:05:37.630><c> write</c><00:05:37.960><c> through</c>
+
+00:05:38.250 --> 00:05:38.260 align:start position:0%
+so that we can actually write through
+ 
+
+00:05:38.260 --> 00:05:39.990 align:start position:0%
+so that we can actually write through
+that<00:05:38.410><c> memory</c><00:05:38.710><c> instead</c><00:05:39.400><c> of</c><00:05:39.520><c> modifying</c><00:05:39.760><c> the</c>
+
+00:05:39.990 --> 00:05:40.000 align:start position:0%
+that memory instead of modifying the
+ 
+
+00:05:40.000 --> 00:05:42.210 align:start position:0%
+that memory instead of modifying the
+pointer<00:05:40.330><c> itself</c><00:05:40.600><c> if</c><00:05:40.780><c> I</c><00:05:40.900><c> just</c><00:05:41.200><c> do</c><00:05:41.440><c> this</c><00:05:41.470><c> without</c>
+
+00:05:42.210 --> 00:05:42.220 align:start position:0%
+pointer itself if I just do this without
+ 
+
+00:05:42.220 --> 00:05:44.190 align:start position:0%
+pointer itself if I just do this without
+the<00:05:42.460><c> dereference</c><00:05:42.970><c> it's</c><00:05:43.630><c> going</c><00:05:43.870><c> to</c><00:05:43.990><c> just</c>
+
+00:05:44.190 --> 00:05:44.200 align:start position:0%
+the dereference it's going to just
+ 
+
+00:05:44.200 --> 00:05:46.680 align:start position:0%
+the dereference it's going to just
+increment<00:05:44.800><c> that</c><00:05:45.160><c> address</c><00:05:45.669><c> right</c><00:05:46.150><c> so</c><00:05:46.389><c> points</c>
+
+00:05:46.680 --> 00:05:46.690 align:start position:0%
+increment that address right so points
+ 
+
+00:05:46.690 --> 00:05:47.969 align:start position:0%
+increment that address right so points
+are<00:05:46.780><c> of</c><00:05:46.840><c> course</c><00:05:46.960><c> just</c><00:05:47.260><c> memory</c><00:05:47.560><c> address</c><00:05:47.770><c> just</c>
+
+00:05:47.969 --> 00:05:47.979 align:start position:0%
+are of course just memory address just
+ 
+
+00:05:47.979 --> 00:05:50.219 align:start position:0%
+are of course just memory address just
+an<00:05:48.070><c> integer</c><00:05:48.370><c> if</c><00:05:49.030><c> I</c><00:05:49.210><c> do</c><00:05:49.270><c> value</c><00:05:49.780><c> for</c><00:05:50.050><c> cloth</c>
+
+00:05:50.219 --> 00:05:50.229 align:start position:0%
+an integer if I do value for cloth
+ 
+
+00:05:50.229 --> 00:05:52.050 align:start position:0%
+an integer if I do value for cloth
+without<00:05:50.440><c> the</c><00:05:50.860><c> asterisk</c><00:05:51.700><c> without</c><00:05:51.970><c> the</c>
+
+00:05:52.050 --> 00:05:52.060 align:start position:0%
+without the asterisk without the
+ 
+
+00:05:52.060 --> 00:05:53.969 align:start position:0%
+without the asterisk without the
+dereference<00:05:52.510><c> operator</c><00:05:52.570><c> then</c><00:05:53.380><c> it</c><00:05:53.710><c> is</c><00:05:53.800><c> just</c>
+
+00:05:53.969 --> 00:05:53.979 align:start position:0%
+dereference operator then it is just
+ 
+
+00:05:53.979 --> 00:05:56.129 align:start position:0%
+dereference operator then it is just
+going<00:05:54.130><c> to</c><00:05:54.310><c> increment</c><00:05:55.000><c> my</c><00:05:55.240><c> memory</c><00:05:55.570><c> address</c><00:05:55.870><c> not</c>
+
+00:05:56.129 --> 00:05:56.139 align:start position:0%
+going to increment my memory address not
+ 
+
+00:05:56.139 --> 00:05:58.050 align:start position:0%
+going to increment my memory address not
+the<00:05:56.289><c> actual</c><00:05:56.680><c> value</c><00:05:57.100><c> there</c><00:05:57.280><c> now</c><00:05:57.639><c> because</c><00:05:57.940><c> of</c>
+
+00:05:58.050 --> 00:05:58.060 align:start position:0%
+the actual value there now because of
+ 
+
+00:05:58.060 --> 00:05:59.850 align:start position:0%
+the actual value there now because of
+the<00:05:58.150><c> order</c><00:05:58.450><c> of</c><00:05:58.510><c> operations</c><00:05:59.050><c> it's</c><00:05:59.530><c> actually</c>
+
+00:05:59.850 --> 00:05:59.860 align:start position:0%
+the order of operations it's actually
+ 
+
+00:05:59.860 --> 00:06:01.990 align:start position:0%
+the order of operations it's actually
+going<00:05:59.979><c> to</c><00:06:00.130><c> do</c><00:06:00.250><c> the</c><00:06:00.400><c> increment</c><00:06:00.970><c> first</c>
+
+00:06:01.990 --> 00:06:02.000 align:start position:0%
+going to do the increment first
+ 
+
+00:06:02.000 --> 00:06:03.280 align:start position:0%
+going to do the increment first
+the<00:06:02.240><c> reference</c><00:06:02.630><c> so</c><00:06:02.810><c> what</c><00:06:02.960><c> I</c><00:06:02.990><c> want</c><00:06:03.140><c> to</c><00:06:03.170><c> do</c>
+
+00:06:03.280 --> 00:06:03.290 align:start position:0%
+the reference so what I want to do
+ 
+
+00:06:03.290 --> 00:06:05.830 align:start position:0%
+the reference so what I want to do
+instead<00:06:03.500><c> is</c><00:06:03.860><c> the</c><00:06:04.400><c> reference</c><00:06:04.730><c> first</c><00:06:05.090><c> and</c><00:06:05.390><c> then</c>
+
+00:06:05.830 --> 00:06:05.840 align:start position:0%
+instead is the reference first and then
+ 
+
+00:06:05.840 --> 00:06:07.450 align:start position:0%
+instead is the reference first and then
+increment<00:06:06.080><c> because</c><00:06:06.800><c> I</c><00:06:07.010><c> don't</c><00:06:07.190><c> want</c><00:06:07.340><c> to</c>
+
+00:06:07.450 --> 00:06:07.460 align:start position:0%
+increment because I don't want to
+ 
+
+00:06:07.460 --> 00:06:08.710 align:start position:0%
+increment because I don't want to
+increment<00:06:07.790><c> the</c><00:06:08.000><c> pointer</c><00:06:08.180><c> and</c><00:06:08.510><c> then</c><00:06:08.600><c> be</c>
+
+00:06:08.710 --> 00:06:08.720 align:start position:0%
+increment the pointer and then be
+ 
+
+00:06:08.720 --> 00:06:10.150 align:start position:0%
+increment the pointer and then be
+reference<00:06:09.080><c> that</c><00:06:09.230><c> I</c><00:06:09.320><c> want</c><00:06:09.590><c> to</c><00:06:09.650><c> dereference</c><00:06:09.920><c> the</c>
+
+00:06:10.150 --> 00:06:10.160 align:start position:0%
+reference that I want to dereference the
+ 
+
+00:06:10.160 --> 00:06:11.500 align:start position:0%
+reference that I want to dereference the
+pointer<00:06:10.220><c> first</c><00:06:10.700><c> and</c><00:06:10.940><c> then</c><00:06:11.090><c> increment</c><00:06:11.300><c> the</c>
+
+00:06:11.500 --> 00:06:11.510 align:start position:0%
+pointer first and then increment the
+ 
+
+00:06:11.510 --> 00:06:13.870 align:start position:0%
+pointer first and then increment the
+value<00:06:11.600><c> at</c><00:06:11.900><c> Point</c><00:06:12.350><c> a</c><00:06:12.470><c> so</c><00:06:12.650><c> if</c><00:06:13.010><c> I</c><00:06:13.190><c> compile</c><00:06:13.760><c> the</c>
+
+00:06:13.870 --> 00:06:13.880 align:start position:0%
+value at Point a so if I compile the
+ 
+
+00:06:13.880 --> 00:06:15.340 align:start position:0%
+value at Point a so if I compile the
+code<00:06:14.000><c> on</c><00:06:14.210><c> it</c><00:06:14.240><c> you</c><00:06:14.480><c> will</c><00:06:14.600><c> see</c><00:06:14.750><c> that</c><00:06:14.870><c> I</c><00:06:14.930><c> will</c><00:06:15.170><c> get</c>
+
+00:06:15.340 --> 00:06:15.350 align:start position:0%
+code on it you will see that I will get
+ 
+
+00:06:15.350 --> 00:06:17.200 align:start position:0%
+code on it you will see that I will get
+do<00:06:15.830><c> you</c><00:06:15.890><c> think</c><00:06:16.130><c> printing</c><00:06:16.460><c> so</c><00:06:16.640><c> awesome</c><00:06:17.090><c> we've</c>
+
+00:06:17.200 --> 00:06:17.210 align:start position:0%
+do you think printing so awesome we've
+ 
+
+00:06:17.210 --> 00:06:19.000 align:start position:0%
+do you think printing so awesome we've
+successfully<00:06:17.510><c> managed</c><00:06:17.960><c> to</c><00:06:18.110><c> pop</c><00:06:18.350><c> and</c><00:06:18.620><c> variable</c>
+
+00:06:19.000 --> 00:06:19.010 align:start position:0%
+successfully managed to pop and variable
+ 
+
+00:06:19.010 --> 00:06:20.380 align:start position:0%
+successfully managed to pop and variable
+by<00:06:19.100><c> reference</c><00:06:19.520><c> into</c><00:06:19.790><c> a</c><00:06:19.820><c> function</c><00:06:20.210><c> however</c>
+
+00:06:20.380 --> 00:06:20.390 align:start position:0%
+by reference into a function however
+ 
+
+00:06:20.390 --> 00:06:23.290 align:start position:0%
+by reference into a function however
+there's<00:06:21.260><c> many</c><00:06:21.440><c> of</c><00:06:21.530><c> our</c><00:06:21.680><c> references</c><00:06:22.100><c> so</c><00:06:22.550><c> we</c><00:06:23.120><c> can</c>
+
+00:06:23.290 --> 00:06:23.300 align:start position:0%
+there's many of our references so we can
+ 
+
+00:06:23.300 --> 00:06:25.270 align:start position:0%
+there's many of our references so we can
+do<00:06:23.420><c> exactly</c><00:06:23.600><c> what</c><00:06:23.960><c> we</c><00:06:24.110><c> just</c><00:06:24.230><c> did</c><00:06:24.380><c> here</c><00:06:24.620><c> a</c><00:06:24.830><c> lot</c>
+
+00:06:25.270 --> 00:06:25.280 align:start position:0%
+do exactly what we just did here a lot
+ 
+
+00:06:25.280 --> 00:06:27.430 align:start position:0%
+do exactly what we just did here a lot
+easier<00:06:25.670><c> with</c><00:06:25.910><c> less</c><00:06:25.940><c> code</c><00:06:26.480><c> and</c><00:06:26.630><c> with</c><00:06:26.720><c> less</c><00:06:27.110><c> kind</c>
+
+00:06:27.430 --> 00:06:27.440 align:start position:0%
+easier with less code and with less kind
+ 
+
+00:06:27.440 --> 00:06:29.830 align:start position:0%
+easier with less code and with less kind
+of<00:06:27.560><c> decorating</c><00:06:28.130><c> our</c><00:06:28.250><c> pin</c><00:06:28.490><c> tax</c><00:06:28.730><c> if</c><00:06:29.000><c> we</c><00:06:29.570><c> just</c><00:06:29.720><c> use</c>
+
+00:06:29.830 --> 00:06:29.840 align:start position:0%
+of decorating our pin tax if we just use
+ 
+
+00:06:29.840 --> 00:06:31.120 align:start position:0%
+of decorating our pin tax if we just use
+a<00:06:29.930><c> reference</c><00:06:30.110><c> and</c><00:06:30.500><c> that's</c><00:06:30.650><c> what</c><00:06:30.830><c> I</c><00:06:30.860><c> would</c><00:06:31.040><c> do</c>
+
+00:06:31.120 --> 00:06:31.130 align:start position:0%
+a reference and that's what I would do
+ 
+
+00:06:31.130 --> 00:06:32.260 align:start position:0%
+a reference and that's what I would do
+in<00:06:31.220><c> this</c><00:06:31.310><c> situation</c><00:06:31.850><c> I</c><00:06:31.970><c> would</c><00:06:32.000><c> use</c><00:06:32.240><c> a</c>
+
+00:06:32.260 --> 00:06:32.270 align:start position:0%
+in this situation I would use a
+ 
+
+00:06:32.270 --> 00:06:33.610 align:start position:0%
+in this situation I would use a
+reference<00:06:32.510><c> so</c><00:06:32.870><c> what</c><00:06:33.020><c> we</c><00:06:33.110><c> can</c><00:06:33.230><c> do</c><00:06:33.350><c> is</c><00:06:33.470><c> rewrite</c>
+
+00:06:33.610 --> 00:06:33.620 align:start position:0%
+reference so what we can do is rewrite
+ 
+
+00:06:33.620 --> 00:06:36.400 align:start position:0%
+reference so what we can do is rewrite
+this<00:06:33.920><c> to</c><00:06:34.370><c> take</c><00:06:34.640><c> in</c><00:06:34.820><c> a</c><00:06:35.030><c> reference</c><00:06:35.510><c> instead</c><00:06:35.960><c> of</c><00:06:36.169><c> a</c>
+
+00:06:36.400 --> 00:06:36.410 align:start position:0%
+this to take in a reference instead of a
+ 
+
+00:06:36.410 --> 00:06:37.840 align:start position:0%
+this to take in a reference instead of a
+pointer<00:06:36.800><c> and</c><00:06:37.010><c> then</c><00:06:37.190><c> what</c><00:06:37.310><c> that</c><00:06:37.340><c> means</c><00:06:37.669><c> is</c><00:06:37.820><c> that</c>
+
+00:06:37.840 --> 00:06:37.850 align:start position:0%
+pointer and then what that means is that
+ 
+
+00:06:37.850 --> 00:06:39.640 align:start position:0%
+pointer and then what that means is that
+I<00:06:38.120><c> lose</c><00:06:38.510><c> this</c><00:06:38.720><c> whole</c><00:06:38.960><c> need</c><00:06:39.200><c> of</c><00:06:39.350><c> dereferencing</c>
+
+00:06:39.640 --> 00:06:39.650 align:start position:0%
+I lose this whole need of dereferencing
+ 
+
+00:06:39.650 --> 00:06:41.620 align:start position:0%
+I lose this whole need of dereferencing
+I<00:06:40.130><c> can</c><00:06:40.370><c> change</c><00:06:40.550><c> this</c><00:06:40.669><c> back</c><00:06:40.880><c> to</c><00:06:40.910><c> exactly</c><00:06:41.419><c> what</c>
+
+00:06:41.620 --> 00:06:41.630 align:start position:0%
+I can change this back to exactly what
+ 
+
+00:06:41.630 --> 00:06:43.120 align:start position:0%
+I can change this back to exactly what
+it<00:06:41.720><c> was</c><00:06:41.870><c> and</c><00:06:42.140><c> then</c><00:06:42.380><c> over</c><00:06:42.590><c> here</c><00:06:42.620><c> I</c><00:06:42.830><c> don't</c><00:06:42.980><c> need</c>
+
+00:06:43.120 --> 00:06:43.130 align:start position:0%
+it was and then over here I don't need
+ 
+
+00:06:43.130 --> 00:06:44.710 align:start position:0%
+it was and then over here I don't need
+to<00:06:43.310><c> pass</c><00:06:43.490><c> the</c><00:06:43.669><c> memory</c><00:06:43.940><c> address</c><00:06:44.180><c> today</c><00:06:44.390><c> I</c><00:06:44.419><c> can</c>
+
+00:06:44.710 --> 00:06:44.720 align:start position:0%
+to pass the memory address today I can
+ 
+
+00:06:44.720 --> 00:06:46.420 align:start position:0%
+to pass the memory address today I can
+just<00:06:44.870><c> pop</c><00:06:44.990><c> in</c><00:06:45.200><c> a</c><00:06:45.350><c> and</c><00:06:45.590><c> since</c><00:06:45.890><c> it</c><00:06:46.130><c> is</c><00:06:46.280><c> being</c>
+
+00:06:46.420 --> 00:06:46.430 align:start position:0%
+just pop in a and since it is being
+ 
+
+00:06:46.430 --> 00:06:47.350 align:start position:0%
+just pop in a and since it is being
+passed<00:06:46.669><c> by</c><00:06:46.880><c> reference</c>
+
+00:06:47.350 --> 00:06:47.360 align:start position:0%
+passed by reference
+ 
+
+00:06:47.360 --> 00:06:49.060 align:start position:0%
+passed by reference
+we<00:06:47.690><c> basically</c><00:06:47.900><c> rewritten</c><00:06:48.440><c> the</c><00:06:48.620><c> code</c><00:06:48.800><c> to</c><00:06:48.950><c> do</c>
+
+00:06:49.060 --> 00:06:49.070 align:start position:0%
+we basically rewritten the code to do
+ 
+
+00:06:49.070 --> 00:06:50.770 align:start position:0%
+we basically rewritten the code to do
+exactly<00:06:49.490><c> the</c><00:06:49.610><c> same</c><00:06:49.640><c> thing</c><00:06:50.030><c> internally</c><00:06:50.630><c> when</c>
+
+00:06:50.770 --> 00:06:50.780 align:start position:0%
+exactly the same thing internally when
+ 
+
+00:06:50.780 --> 00:06:53.200 align:start position:0%
+exactly the same thing internally when
+it<00:06:50.870><c> gets</c><00:06:51.020><c> compiled</c><00:06:51.410><c> it</c><00:06:51.740><c> will</c><00:06:52.040><c> be</c><00:06:52.550><c> exactly</c><00:06:52.910><c> the</c>
+
+00:06:53.200 --> 00:06:53.210 align:start position:0%
+it gets compiled it will be exactly the
+ 
+
+00:06:53.210 --> 00:06:54.370 align:start position:0%
+it gets compiled it will be exactly the
+same<00:06:53.419><c> as</c><00:06:53.660><c> what</c><00:06:53.900><c> we've</c><00:06:54.020><c> written</c><00:06:54.169><c> before</c>
+
+00:06:54.370 --> 00:06:54.380 align:start position:0%
+same as what we've written before
+ 
+
+00:06:54.380 --> 00:06:56.920 align:start position:0%
+same as what we've written before
+however<00:06:55.100><c> this</c><00:06:55.220><c> time</c><00:06:55.490><c> it</c><00:06:56.210><c> just</c><00:06:56.390><c> looks</c><00:06:56.510><c> nicer</c><00:06:56.840><c> in</c>
+
+00:06:56.920 --> 00:06:56.930 align:start position:0%
+however this time it just looks nicer in
+ 
+
+00:06:56.930 --> 00:06:58.870 align:start position:0%
+however this time it just looks nicer in
+our<00:06:57.020><c> source</c><00:06:57.230><c> code</c><00:06:57.290><c> again</c><00:06:58.130><c> that's</c><00:06:58.580><c> the</c><00:06:58.669><c> only</c>
+
+00:06:58.870 --> 00:06:58.880 align:start position:0%
+our source code again that's the only
+ 
+
+00:06:58.880 --> 00:07:00.909 align:start position:0%
+our source code again that's the only
+difference<00:06:59.000><c> so</c><00:06:59.750><c> I</c><00:06:59.780><c> run</c><00:06:59.930><c> my</c><00:07:00.020><c> program</c><00:07:00.050><c> you</c><00:07:00.770><c> can</c>
+
+00:07:00.909 --> 00:07:00.919 align:start position:0%
+difference so I run my program you can
+ 
+
+00:07:00.919 --> 00:07:03.820 align:start position:0%
+difference so I run my program you can
+see<00:07:01.040><c> we</c><00:07:01.130><c> get</c><00:07:01.220><c> this</c><00:07:01.570><c> so</c><00:07:02.570><c> that</c><00:07:03.169><c> is</c><00:07:03.440><c> all</c><00:07:03.620><c> the</c>
+
+00:07:03.820 --> 00:07:03.830 align:start position:0%
+see we get this so that is all the
+ 
+
+00:07:03.830 --> 00:07:05.620 align:start position:0%
+see we get this so that is all the
+references<00:07:04.310><c> really</c><00:07:04.520><c> are</c><00:07:04.790><c> they</c><00:07:05.300><c> are</c><00:07:05.419><c> just</c>
+
+00:07:05.620 --> 00:07:05.630 align:start position:0%
+references really are they are just
+ 
+
+00:07:05.630 --> 00:07:08.680 align:start position:0%
+references really are they are just
+syntax<00:07:06.320><c> childer</c><00:07:06.979><c> references</c><00:07:07.970><c> there</c><00:07:08.540><c> is</c>
+
+00:07:08.680 --> 00:07:08.690 align:start position:0%
+syntax childer references there is
+ 
+
+00:07:08.690 --> 00:07:10.390 align:start position:0%
+syntax childer references there is
+nothing<00:07:09.140><c> you</c><00:07:09.229><c> can</c><00:07:09.410><c> do</c><00:07:09.500><c> with</c><00:07:09.650><c> a</c><00:07:09.680><c> reference</c><00:07:09.890><c> that</c>
+
+00:07:10.390 --> 00:07:10.400 align:start position:0%
+nothing you can do with a reference that
+ 
+
+00:07:10.400 --> 00:07:12.219 align:start position:0%
+nothing you can do with a reference that
+you<00:07:10.490><c> cannot</c><00:07:10.790><c> do</c><00:07:11.060><c> with</c><00:07:11.090><c> a</c><00:07:11.240><c> pointer</c><00:07:11.600><c> pointers</c>
+
+00:07:12.219 --> 00:07:12.229 align:start position:0%
+you cannot do with a pointer pointers
+ 
+
+00:07:12.229 --> 00:07:14.170 align:start position:0%
+you cannot do with a pointer pointers
+are<00:07:12.410><c> like</c><00:07:12.650><c> references</c><00:07:13.190><c> except</c><00:07:13.820><c> they're</c><00:07:13.970><c> even</c>
+
+00:07:14.170 --> 00:07:14.180 align:start position:0%
+are like references except they're even
+ 
+
+00:07:14.180 --> 00:07:15.640 align:start position:0%
+are like references except they're even
+more<00:07:14.330><c> useful</c><00:07:14.510><c> they're</c><00:07:14.840><c> even</c><00:07:15.020><c> more</c><00:07:15.140><c> powerful</c>
+
+00:07:15.640 --> 00:07:15.650 align:start position:0%
+more useful they're even more powerful
+ 
+
+00:07:15.650 --> 00:07:17.650 align:start position:0%
+more useful they're even more powerful
+however<00:07:16.370><c> if</c><00:07:16.610><c> you</c><00:07:16.729><c> can</c><00:07:16.880><c> get</c><00:07:17.000><c> away</c><00:07:17.090><c> with</c><00:07:17.330><c> using</c><00:07:17.450><c> a</c>
+
+00:07:17.650 --> 00:07:17.660 align:start position:0%
+however if you can get away with using a
+ 
+
+00:07:17.660 --> 00:07:19.050 align:start position:0%
+however if you can get away with using a
+reference<00:07:17.810><c> like</c><00:07:18.229><c> what</c><00:07:18.410><c> we</c><00:07:18.560><c> just</c><00:07:18.590><c> did</c><00:07:18.830><c> here</c>
+
+00:07:19.050 --> 00:07:19.060 align:start position:0%
+reference like what we just did here
+ 
+
+00:07:19.060 --> 00:07:21.100 align:start position:0%
+reference like what we just did here
+absolutely<00:07:20.060><c> use</c><00:07:20.240><c> a</c><00:07:20.270><c> reference</c><00:07:20.690><c> because</c><00:07:20.900><c> it's</c>
+
+00:07:21.100 --> 00:07:21.110 align:start position:0%
+absolutely use a reference because it's
+ 
+
+00:07:21.110 --> 00:07:23.230 align:start position:0%
+absolutely use a reference because it's
+going<00:07:21.320><c> to</c><00:07:21.410><c> be</c><00:07:21.500><c> a</c><00:07:21.530><c> lot</c><00:07:21.740><c> cleaner</c><00:07:22.130><c> and</c><00:07:22.460><c> simpler</c><00:07:22.850><c> to</c>
+
+00:07:23.230 --> 00:07:23.240 align:start position:0%
+going to be a lot cleaner and simpler to
+ 
+
+00:07:23.240 --> 00:07:25.510 align:start position:0%
+going to be a lot cleaner and simpler to
+read<00:07:23.390><c> not</c><00:07:24.050><c> the</c><00:07:24.140><c> point</c><00:07:24.350><c> is</c><00:07:24.500><c> are</c><00:07:24.650><c> really</c><00:07:25.340><c> really</c>
+
+00:07:25.510 --> 00:07:25.520 align:start position:0%
+read not the point is are really really
+ 
+
+00:07:25.520 --> 00:07:27.610 align:start position:0%
+read not the point is are really really
+difficult<00:07:25.940><c> to</c><00:07:26.060><c> read</c><00:07:26.180><c> but</c><00:07:26.419><c> it</c><00:07:26.720><c> will</c><00:07:27.080><c> look</c><00:07:27.350><c> a</c><00:07:27.470><c> lot</c>
+
+00:07:27.610 --> 00:07:27.620 align:start position:0%
+difficult to read but it will look a lot
+ 
+
+00:07:27.620 --> 00:07:28.990 align:start position:0%
+difficult to read but it will look a lot
+cleaner<00:07:27.740><c> in</c><00:07:28.010><c> your</c><00:07:28.070><c> source</c><00:07:28.340><c> code</c><00:07:28.400><c> one</c><00:07:28.850><c> other</c>
+
+00:07:28.990 --> 00:07:29.000 align:start position:0%
+cleaner in your source code one other
+ 
+
+00:07:29.000 --> 00:07:30.040 align:start position:0%
+cleaner in your source code one other
+important<00:07:29.419><c> thing</c><00:07:29.510><c> that</c><00:07:29.540><c> I</c><00:07:29.660><c> want</c><00:07:29.690><c> to</c><00:07:29.840><c> mention</c>
+
+00:07:30.040 --> 00:07:30.050 align:start position:0%
+important thing that I want to mention
+ 
+
+00:07:30.050 --> 00:07:31.630 align:start position:0%
+important thing that I want to mention
+with<00:07:30.169><c> references</c><00:07:30.680><c> is</c><00:07:30.860><c> that</c><00:07:31.040><c> once</c><00:07:31.190><c> you</c><00:07:31.310><c> declare</c>
+
+00:07:31.630 --> 00:07:31.640 align:start position:0%
+with references is that once you declare
+ 
+
+00:07:31.640 --> 00:07:34.090 align:start position:0%
+with references is that once you declare
+a<00:07:31.669><c> reference</c><00:07:32.180><c> you</c><00:07:32.750><c> cannot</c><00:07:33.020><c> change</c><00:07:33.380><c> what</c><00:07:33.590><c> it</c>
+
+00:07:34.090 --> 00:07:34.100 align:start position:0%
+a reference you cannot change what it
+ 
+
+00:07:34.100 --> 00:07:35.980 align:start position:0%
+a reference you cannot change what it
+references<00:07:34.729><c> what</c><00:07:35.120><c> I</c><00:07:35.150><c> mean</c><00:07:35.300><c> by</c><00:07:35.390><c> that</c><00:07:35.540><c> is</c><00:07:35.780><c> this</c>
+
+00:07:35.980 --> 00:07:35.990 align:start position:0%
+references what I mean by that is this
+ 
+
+00:07:35.990 --> 00:07:38.620 align:start position:0%
+references what I mean by that is this
+suppose<00:07:36.350><c> that</c><00:07:36.530><c> I</c><00:07:36.620><c> had</c><00:07:36.890><c> two</c><00:07:37.610><c> integers</c><00:07:38.150><c> i</c><00:07:38.240><c> had</c><00:07:38.419><c> a</c>
+
+00:07:38.620 --> 00:07:38.630 align:start position:0%
+suppose that I had two integers i had a
+ 
+
+00:07:38.630 --> 00:07:41.290 align:start position:0%
+suppose that I had two integers i had a
+and<00:07:38.720><c> b</c><00:07:39.290><c> and</c><00:07:39.320><c> b</c><00:07:39.770><c> were</c><00:07:40.160><c> set</c><00:07:40.310><c> to</c><00:07:40.400><c> eight</c><00:07:40.610><c> they</c><00:07:41.150><c> were</c>
+
+00:07:41.290 --> 00:07:41.300 align:start position:0%
+and b and b were set to eight they were
+ 
+
+00:07:41.300 --> 00:07:43.060 align:start position:0%
+and b and b were set to eight they were
+set<00:07:41.479><c> to</c><00:07:41.600><c> five</c><00:07:41.780><c> and</c><00:07:42.169><c> then</c><00:07:42.229><c> what</c><00:07:42.620><c> i</c><00:07:42.650><c> wanted</c><00:07:42.860><c> to</c><00:07:42.919><c> do</c>
+
+00:07:43.060 --> 00:07:43.070 align:start position:0%
+set to five and then what i wanted to do
+ 
+
+00:07:43.070 --> 00:07:45.340 align:start position:0%
+set to five and then what i wanted to do
+is<00:07:43.220><c> declare</c><00:07:43.340><c> a</c><00:07:43.520><c> reference</c><00:07:44.030><c> that</c><00:07:44.450><c> was</c><00:07:44.630><c> set</c><00:07:44.840><c> to</c><00:07:45.110><c> a</c>
+
+00:07:45.340 --> 00:07:45.350 align:start position:0%
+is declare a reference that was set to a
+ 
+
+00:07:45.350 --> 00:07:47.740 align:start position:0%
+is declare a reference that was set to a
+and<00:07:46.040><c> then</c><00:07:46.220><c> maybe</c><00:07:46.400><c> later</c><00:07:46.700><c> on</c><00:07:46.880><c> in</c><00:07:47.150><c> my</c><00:07:47.240><c> code</c><00:07:47.510><c> i</c>
+
+00:07:47.740 --> 00:07:47.750 align:start position:0%
+and then maybe later on in my code i
+ 
+
+00:07:47.750 --> 00:07:49.570 align:start position:0%
+and then maybe later on in my code i
+decided<00:07:48.260><c> i</c><00:07:48.380><c> actually</c><00:07:48.770><c> you</c><00:07:48.860><c> know</c><00:07:48.979><c> what</c><00:07:49.160><c> I</c><00:07:49.340><c> want</c>
+
+00:07:49.570 --> 00:07:49.580 align:start position:0%
+decided i actually you know what I want
+ 
+
+00:07:49.580 --> 00:07:50.530 align:start position:0%
+decided i actually you know what I want
+to<00:07:49.640><c> set</c><00:07:49.729><c> my</c><00:07:49.760><c> reference</c><00:07:50.210><c> should</c><00:07:50.390><c> be</c>
+
+00:07:50.530 --> 00:07:50.540 align:start position:0%
+to set my reference should be
+ 
+
+00:07:50.540 --> 00:07:52.210 align:start position:0%
+to set my reference should be
+referencing<00:07:50.990><c> B</c><00:07:51.169><c> can</c><00:07:51.680><c> I</c><00:07:51.710><c> do</c><00:07:51.800><c> something</c><00:07:52.160><c> like</c>
+
+00:07:52.210 --> 00:07:52.220 align:start position:0%
+referencing B can I do something like
+ 
+
+00:07:52.220 --> 00:07:53.890 align:start position:0%
+referencing B can I do something like
+that<00:07:52.310><c> the</c><00:07:52.669><c> answer</c><00:07:52.790><c> is</c><00:07:52.970><c> no</c><00:07:53.180><c> you</c><00:07:53.479><c> can't</c><00:07:53.720><c> do</c><00:07:53.870><c> that</c>
+
+00:07:53.890 --> 00:07:53.900 align:start position:0%
+that the answer is no you can't do that
+ 
+
+00:07:53.900 --> 00:07:55.360 align:start position:0%
+that the answer is no you can't do that
+what<00:07:54.530><c> will</c><00:07:54.620><c> happen</c><00:07:54.650><c> in</c><00:07:54.979><c> this</c><00:07:55.070><c> case</c>
+
+00:07:55.360 --> 00:07:55.370 align:start position:0%
+what will happen in this case
+ 
+
+00:07:55.370 --> 00:07:57.610 align:start position:0%
+what will happen in this case
+is<00:07:55.700><c> that</c><00:07:56.090><c> it</c><00:07:56.690><c> will</c><00:07:56.870><c> effectively</c><00:07:57.169><c> create</c><00:07:57.590><c> a</c>
+
+00:07:57.610 --> 00:07:57.620 align:start position:0%
+is that it will effectively create a
+ 
+
+00:07:57.620 --> 00:07:59.920 align:start position:0%
+is that it will effectively create a
+reference<00:07:57.950><c> to</c><00:07:58.550><c> a</c><00:07:58.580><c> and</c><00:07:59.150><c> then</c><00:07:59.390><c> when</c><00:07:59.570><c> you</c><00:07:59.690><c> decide</c>
+
+00:07:59.920 --> 00:07:59.930 align:start position:0%
+reference to a and then when you decide
+ 
+
+00:07:59.930 --> 00:08:00.550 align:start position:0%
+reference to a and then when you decide
+to<00:07:59.960><c> set</c><00:08:00.200><c> that</c>
+
+00:08:00.550 --> 00:08:00.560 align:start position:0%
+to set that
+ 
+
+00:08:00.560 --> 00:08:03.159 align:start position:0%
+to set that
+tickled<00:08:00.980><c> to</c><00:08:01.070><c> be</c><00:08:01.100><c> it</c><00:08:01.639><c> was</c><00:08:02.000><c> just</c><00:08:02.150><c> that</c><00:08:02.300><c> a</c><00:08:02.510><c> equal</c>
+
+00:08:03.159 --> 00:08:03.169 align:start position:0%
+tickled to be it was just that a equal
+ 
+
+00:08:03.169 --> 00:08:05.350 align:start position:0%
+tickled to be it was just that a equal
+to<00:08:03.200><c> the</c><00:08:03.320><c> value</c><00:08:03.410><c> of</c><00:08:04.040><c> being</c><00:08:04.250><c> which</c><00:08:04.460><c> is</c><00:08:04.490><c> a</c><00:08:04.760><c> so</c><00:08:05.210><c> what</c>
+
+00:08:05.350 --> 00:08:05.360 align:start position:0%
+to the value of being which is a so what
+ 
+
+00:08:05.360 --> 00:08:07.420 align:start position:0%
+to the value of being which is a so what
+you<00:08:05.480><c> will</c><00:08:05.570><c> end</c><00:08:05.780><c> up</c><00:08:05.900><c> with</c><00:08:06.080><c> here</c><00:08:06.410><c> is</c><00:08:06.919><c> a</c><00:08:07.160><c> being</c>
+
+00:08:07.420 --> 00:08:07.430 align:start position:0%
+you will end up with here is a being
+ 
+
+00:08:07.430 --> 00:08:09.730 align:start position:0%
+you will end up with here is a being
+equal<00:08:07.520><c> to</c><00:08:07.730><c> a</c><00:08:08.090><c> and</c><00:08:08.660><c> B</c><00:08:08.990><c> being</c><00:08:09.260><c> equal</c><00:08:09.530><c> to</c><00:08:09.560><c> eight</c>
+
+00:08:09.730 --> 00:08:09.740 align:start position:0%
+equal to a and B being equal to eight
+ 
+
+00:08:09.740 --> 00:08:12.220 align:start position:0%
+equal to a and B being equal to eight
+that<00:08:10.160><c> is</c><00:08:10.270><c> that's</c><00:08:11.270><c> it</c><00:08:11.480><c> that's</c><00:08:11.750><c> what</c><00:08:11.960><c> you'll</c><00:08:12.080><c> get</c>
+
+00:08:12.220 --> 00:08:12.230 align:start position:0%
+that is that's it that's what you'll get
+ 
+
+00:08:12.230 --> 00:08:13.780 align:start position:0%
+that is that's it that's what you'll get
+and<00:08:12.470><c> of</c><00:08:12.710><c> course</c><00:08:12.919><c> because</c><00:08:13.070><c> of</c><00:08:13.220><c> that</c><00:08:13.430><c> that</c><00:08:13.580><c> also</c>
+
+00:08:13.780 --> 00:08:13.790 align:start position:0%
+and of course because of that that also
+ 
+
+00:08:13.790 --> 00:08:15.340 align:start position:0%
+and of course because of that that also
+means<00:08:14.120><c> that</c><00:08:14.330><c> when</c><00:08:14.450><c> you</c><00:08:14.570><c> declare</c><00:08:14.870><c> a</c><00:08:14.900><c> reference</c>
+
+00:08:15.340 --> 00:08:15.350 align:start position:0%
+means that when you declare a reference
+ 
+
+00:08:15.350 --> 00:08:17.650 align:start position:0%
+means that when you declare a reference
+you<00:08:15.530><c> need</c><00:08:15.919><c> to</c><00:08:16.160><c> actually</c><00:08:16.480><c> assign</c><00:08:17.480><c> into</c>
+
+00:08:17.650 --> 00:08:17.660 align:start position:0%
+you need to actually assign into
+ 
+
+00:08:17.660 --> 00:08:19.810 align:start position:0%
+you need to actually assign into
+something<00:08:18.110><c> you</c><00:08:18.169><c> can't</c><00:08:18.500><c> just</c><00:08:18.830><c> do</c><00:08:18.980><c> bit</c><00:08:19.220><c> consider</c>
+
+00:08:19.810 --> 00:08:19.820 align:start position:0%
+something you can't just do bit consider
+ 
+
+00:08:19.820 --> 00:08:21.970 align:start position:0%
+something you can't just do bit consider
+to<00:08:19.940><c> be</c><00:08:20.090><c> compiler</c><00:08:21.080><c> will</c><00:08:21.200><c> not</c><00:08:21.320><c> let</c><00:08:21.560><c> you</c><00:08:21.680><c> do</c><00:08:21.830><c> that</c>
+
+00:08:21.970 --> 00:08:21.980 align:start position:0%
+to be compiler will not let you do that
+ 
+
+00:08:21.980 --> 00:08:23.350 align:start position:0%
+to be compiler will not let you do that
+it<00:08:22.160><c> requires</c><00:08:22.250><c> an</c><00:08:22.639><c> initialize</c><00:08:23.060><c> when</c><00:08:23.270><c> you</c>
+
+00:08:23.350 --> 00:08:23.360 align:start position:0%
+it requires an initialize when you
+ 
+
+00:08:23.360 --> 00:08:24.909 align:start position:0%
+it requires an initialize when you
+declare<00:08:23.630><c> a</c><00:08:23.660><c> reference</c><00:08:24.050><c> you</c><00:08:24.230><c> have</c><00:08:24.770><c> to</c>
+
+00:08:24.909 --> 00:08:24.919 align:start position:0%
+declare a reference you have to
+ 
+
+00:08:24.919 --> 00:08:27.159 align:start position:0%
+declare a reference you have to
+immediately<00:08:25.270><c> assign</c><00:08:26.270><c> it</c><00:08:26.419><c> something</c><00:08:26.840><c> because</c>
+
+00:08:27.159 --> 00:08:27.169 align:start position:0%
+immediately assign it something because
+ 
+
+00:08:27.169 --> 00:08:28.480 align:start position:0%
+immediately assign it something because
+it<00:08:27.260><c> has</c><00:08:27.380><c> to</c><00:08:27.500><c> reference</c><00:08:27.800><c> something</c><00:08:28.190><c> because</c>
+
+00:08:28.480 --> 00:08:28.490 align:start position:0%
+it has to reference something because
+ 
+
+00:08:28.490 --> 00:08:30.070 align:start position:0%
+it has to reference something because
+remember<00:08:28.610><c> it's</c><00:08:28.820><c> not</c><00:08:28.880><c> really</c><00:08:29.120><c> a</c><00:08:29.150><c> real</c><00:08:29.419><c> variable</c>
+
+00:08:30.070 --> 00:08:30.080 align:start position:0%
+remember it's not really a real variable
+ 
+
+00:08:30.080 --> 00:08:31.540 align:start position:0%
+remember it's not really a real variable
+at<00:08:30.169><c> the</c><00:08:30.290><c> reference</c><00:08:30.650><c> so</c><00:08:31.010><c> in</c><00:08:31.220><c> this</c><00:08:31.370><c> example</c>
+
+00:08:31.540 --> 00:08:31.550 align:start position:0%
+at the reference so in this example
+ 
+
+00:08:31.550 --> 00:08:33.850 align:start position:0%
+at the reference so in this example
+specifically<00:08:32.390><c> what</c><00:08:32.960><c> would</c><00:08:33.200><c> I</c><00:08:33.229><c> do</c><00:08:33.349><c> if</c><00:08:33.740><c> I</c>
+
+00:08:33.850 --> 00:08:33.860 align:start position:0%
+specifically what would I do if I
+ 
+
+00:08:33.860 --> 00:08:34.959 align:start position:0%
+specifically what would I do if I
+actually<00:08:34.070><c> wanted</c><00:08:34.490><c> this</c><00:08:34.610><c> kind</c><00:08:34.880><c> of</c>
+
+00:08:34.959 --> 00:08:34.969 align:start position:0%
+actually wanted this kind of
+ 
+
+00:08:34.969 --> 00:08:36.250 align:start position:0%
+actually wanted this kind of
+functionality<00:08:35.360><c> if</c><00:08:35.659><c> I</c><00:08:35.750><c> wanted</c><00:08:35.960><c> to</c><00:08:36.020><c> actually</c>
+
+00:08:36.250 --> 00:08:36.260 align:start position:0%
+functionality if I wanted to actually
+ 
+
+00:08:36.260 --> 00:08:38.380 align:start position:0%
+functionality if I wanted to actually
+change<00:08:36.529><c> what</c><00:08:36.830><c> rest</c><00:08:37.190><c> or</c><00:08:37.789><c> the</c><00:08:37.880><c> reference</c><00:08:38.150><c> of</c>
+
+00:08:38.380 --> 00:08:38.390 align:start position:0%
+change what rest or the reference of
+ 
+
+00:08:38.390 --> 00:08:40.149 align:start position:0%
+change what rest or the reference of
+well<00:08:38.779><c> of</c><00:08:38.810><c> course</c><00:08:38.930><c> as</c><00:08:39.260><c> I</c><00:08:39.589><c> mentioned</c><00:08:39.919><c> earlier</c>
+
+00:08:40.149 --> 00:08:40.159 align:start position:0%
+well of course as I mentioned earlier
+ 
+
+00:08:40.159 --> 00:08:41.800 align:start position:0%
+well of course as I mentioned earlier
+this<00:08:40.460><c> isn't</c><00:08:40.789><c> a</c><00:08:40.909><c> real</c><00:08:41.089><c> variable</c><00:08:41.300><c> we</c><00:08:41.630><c> would</c><00:08:41.750><c> need</c>
+
+00:08:41.800 --> 00:08:41.810 align:start position:0%
+this isn't a real variable we would need
+ 
+
+00:08:41.810 --> 00:08:43.240 align:start position:0%
+this isn't a real variable we would need
+to<00:08:41.930><c> create</c><00:08:42.140><c> some</c><00:08:42.229><c> kind</c><00:08:42.260><c> of</c><00:08:42.440><c> variable</c><00:08:42.890><c> of</c><00:08:42.950><c> sorts</c>
+
+00:08:43.240 --> 00:08:43.250 align:start position:0%
+to create some kind of variable of sorts
+ 
+
+00:08:43.250 --> 00:08:45.760 align:start position:0%
+to create some kind of variable of sorts
+that<00:08:43.339><c> we</c><00:08:43.490><c> could</c><00:08:43.729><c> set</c><00:08:43.849><c> up</c><00:08:43.880><c> 2.28</c><00:08:44.390><c> first</c><00:08:44.990><c> and</c><00:08:45.650><c> then</c>
+
+00:08:45.760 --> 00:08:45.770 align:start position:0%
+that we could set up 2.28 first and then
+ 
+
+00:08:45.770 --> 00:08:47.470 align:start position:0%
+that we could set up 2.28 first and then
+later<00:08:45.980><c> on</c><00:08:46.070><c> we</c><00:08:46.339><c> could</c><00:08:46.490><c> switch</c><00:08:46.880><c> it</c><00:08:46.910><c> to</c><00:08:47.060><c> point</c><00:08:47.360><c> to</c>
+
+00:08:47.470 --> 00:08:47.480 align:start position:0%
+later on we could switch it to point to
+ 
+
+00:08:47.480 --> 00:08:49.180 align:start position:0%
+later on we could switch it to point to
+be<00:08:47.630><c> and</c><00:08:47.960><c> of</c><00:08:48.110><c> course</c><00:08:48.290><c> I</c><00:08:48.410><c> keep</c><00:08:48.650><c> saying</c><00:08:48.860><c> the</c><00:08:49.160><c> word</c>
+
+00:08:49.180 --> 00:08:49.190 align:start position:0%
+be and of course I keep saying the word
+ 
+
+00:08:49.190 --> 00:08:50.920 align:start position:0%
+be and of course I keep saying the word
+point<00:08:49.580><c> in</c><00:08:49.760><c> the</c><00:08:49.820><c> hope</c><00:08:49.970><c> you'll</c><00:08:50.240><c> understand</c><00:08:50.810><c> that</c>
+
+00:08:50.920 --> 00:08:50.930 align:start position:0%
+point in the hope you'll understand that
+ 
+
+00:08:50.930 --> 00:08:52.990 align:start position:0%
+point in the hope you'll understand that
+I'm<00:08:51.170><c> talking</c><00:08:51.589><c> about</c><00:08:51.770><c> a</c><00:08:51.800><c> point</c><00:08:52.010><c> so</c><00:08:52.400><c> instead</c><00:08:52.940><c> of</c>
+
+00:08:52.990 --> 00:08:53.000 align:start position:0%
+I'm talking about a point so instead of
+ 
+
+00:08:53.000 --> 00:08:54.910 align:start position:0%
+I'm talking about a point so instead of
+this<00:08:53.180><c> let's</c><00:08:53.570><c> just</c><00:08:53.750><c> make</c><00:08:53.900><c> this</c><00:08:54.020><c> a</c><00:08:54.080><c> pointer</c><00:08:54.529><c> we</c>
+
+00:08:54.910 --> 00:08:54.920 align:start position:0%
+this let's just make this a pointer we
+ 
+
+00:08:54.920 --> 00:08:56.140 align:start position:0%
+this let's just make this a pointer we
+can<00:08:55.070><c> initially</c><00:08:55.310><c> set</c><00:08:55.640><c> it</c><00:08:55.730><c> to</c><00:08:55.850><c> the</c><00:08:55.940><c> memory</c>
+
+00:08:56.140 --> 00:08:56.150 align:start position:0%
+can initially set it to the memory
+ 
+
+00:08:56.150 --> 00:08:57.880 align:start position:0%
+can initially set it to the memory
+address<00:08:56.480><c> of</c><00:08:56.510><c> a</c><00:08:56.839><c> and</c><00:08:57.050><c> then</c><00:08:57.350><c> when</c><00:08:57.500><c> I</c><00:08:57.529><c> wanted</c><00:08:57.770><c> to</c>
+
+00:08:57.880 --> 00:08:57.890 align:start position:0%
+address of a and then when I wanted to
+ 
+
+00:08:57.890 --> 00:09:00.040 align:start position:0%
+address of a and then when I wanted to
+switch<00:08:58.130><c> to</c><00:08:58.310><c> it</c><00:08:58.430><c> being</c><00:08:58.610><c> pointing</c><00:08:59.120><c> to</c><00:08:59.240><c> B</c><00:08:59.420><c> I</c><00:08:59.660><c> can</c>
+
+00:09:00.040 --> 00:09:00.050 align:start position:0%
+switch to it being pointing to B I can
+ 
+
+00:09:00.050 --> 00:09:01.510 align:start position:0%
+switch to it being pointing to B I can
+just<00:09:00.350><c> switch</c><00:09:00.800><c> it</c><00:09:00.950><c> like</c><00:09:01.100><c> this</c><00:09:01.250><c> because</c>
+
+00:09:01.510 --> 00:09:01.520 align:start position:0%
+just switch it like this because
+ 
+
+00:09:01.520 --> 00:09:03.610 align:start position:0%
+just switch it like this because
+remember<00:09:01.880><c> to</c><00:09:02.540><c> actually</c><00:09:02.690><c> start</c><00:09:03.110><c> assessing</c><00:09:03.320><c> the</c>
+
+00:09:03.610 --> 00:09:03.620 align:start position:0%
+remember to actually start assessing the
+ 
+
+00:09:03.620 --> 00:09:06.100 align:start position:0%
+remember to actually start assessing the
+value<00:09:03.860><c> that</c><00:09:04.610><c> this</c><00:09:04.790><c> pointer</c><00:09:05.210><c> is</c><00:09:05.240><c> pointing</c><00:09:05.360><c> to</c><00:09:05.839><c> I</c>
+
+00:09:06.100 --> 00:09:06.110 align:start position:0%
+value that this pointer is pointing to I
+ 
+
+00:09:06.110 --> 00:09:08.140 align:start position:0%
+value that this pointer is pointing to I
+need<00:09:06.500><c> to</c><00:09:06.620><c> be</c><00:09:06.800><c> reference</c><00:09:07.339><c> the</c><00:09:07.580><c> pointer</c><00:09:07.910><c> first</c>
+
+00:09:08.140 --> 00:09:08.150 align:start position:0%
+need to be reference the pointer first
+ 
+
+00:09:08.150 --> 00:09:09.640 align:start position:0%
+need to be reference the pointer first
+and<00:09:08.390><c> then</c><00:09:08.660><c> state</c><00:09:08.870><c> vehicle</c><00:09:09.140><c> to</c><00:09:09.230><c> something</c><00:09:09.530><c> like</c>
+
+00:09:09.640 --> 00:09:09.650 align:start position:0%
+and then state vehicle to something like
+ 
+
+00:09:09.650 --> 00:09:11.620 align:start position:0%
+and then state vehicle to something like
+that<00:09:09.830><c> so</c><00:09:10.010><c> in</c><00:09:10.130><c> this</c><00:09:10.250><c> case</c><00:09:10.520><c> I'm</c><00:09:11.030><c> setting</c><00:09:11.390><c> a</c><00:09:11.570><c> equal</c>
+
+00:09:11.620 --> 00:09:11.630 align:start position:0%
+that so in this case I'm setting a equal
+ 
+
+00:09:11.630 --> 00:09:14.530 align:start position:0%
+that so in this case I'm setting a equal
+to<00:09:12.020><c> two</c><00:09:12.320><c> and</c><00:09:12.530><c> in</c><00:09:13.070><c> this</c><00:09:13.190><c> case</c><00:09:13.490><c> I'm</c><00:09:13.820><c> setting</c><00:09:14.150><c> B</c>
+
+00:09:14.530 --> 00:09:14.540 align:start position:0%
+to two and in this case I'm setting B
+ 
+
+00:09:14.540 --> 00:09:17.620 align:start position:0%
+to two and in this case I'm setting B
+equal<00:09:15.050><c> to</c><00:09:15.080><c> 1</c><00:09:15.350><c> and</c><00:09:15.650><c> if</c><00:09:16.100><c> I</c><00:09:16.190><c> were</c><00:09:16.339><c> to</c><00:09:16.370><c> log</c><00:09:16.820><c> both</c><00:09:17.420><c> of</c>
+
+00:09:17.620 --> 00:09:17.630 align:start position:0%
+equal to 1 and if I were to log both of
+ 
+
+00:09:17.630 --> 00:09:21.550 align:start position:0%
+equal to 1 and if I were to log both of
+these<00:09:18.580><c> they</c><00:09:19.580><c> should</c><00:09:19.820><c> be</c><00:09:19.970><c> 2</c><00:09:20.270><c> and</c><00:09:20.540><c> 1</c><00:09:20.839><c> and</c><00:09:21.110><c> you</c><00:09:21.530><c> can</c>
+
+00:09:21.550 --> 00:09:21.560 align:start position:0%
+these they should be 2 and 1 and you can
+ 
+
+00:09:21.560 --> 00:09:24.040 align:start position:0%
+these they should be 2 and 1 and you can
+see<00:09:21.710><c> this</c><00:09:22.580><c> AR</c><00:09:22.970><c> all</c><00:09:23.510><c> right</c><00:09:23.660><c> that's</c><00:09:23.839><c> pretty</c><00:09:23.930><c> much</c>
+
+00:09:24.040 --> 00:09:24.050 align:start position:0%
+see this AR all right that's pretty much
+ 
+
+00:09:24.050 --> 00:09:25.390 align:start position:0%
+see this AR all right that's pretty much
+all<00:09:24.170><c> I</c><00:09:24.230><c> want</c><00:09:24.380><c> to</c><00:09:24.440><c> say</c><00:09:24.530><c> really</c><00:09:24.770><c> simple</c><00:09:25.160><c> stuff</c>
+
+00:09:25.390 --> 00:09:25.400 align:start position:0%
+all I want to say really simple stuff
+ 
+
+00:09:25.400 --> 00:09:27.010 align:start position:0%
+all I want to say really simple stuff
+will<00:09:26.120><c> be</c><00:09:26.240><c> using</c><00:09:26.420><c> reference</c><00:09:26.720><c> there's</c><00:09:26.839><c> a</c><00:09:26.900><c> lot</c>
+
+00:09:27.010 --> 00:09:27.020 align:start position:0%
+will be using reference there's a lot
+ 
+
+00:09:27.020 --> 00:09:28.870 align:start position:0%
+will be using reference there's a lot
+more<00:09:27.200><c> in</c><00:09:27.320><c> the</c><00:09:27.410><c> future</c><00:09:27.440><c> again</c><00:09:28.220><c> they're</c><00:09:28.460><c> one</c><00:09:28.790><c> of</c>
+
+00:09:28.870 --> 00:09:28.880 align:start position:0%
+more in the future again they're one of
+ 
+
+00:09:28.880 --> 00:09:30.430 align:start position:0%
+more in the future again they're one of
+those<00:09:28.970><c> things</c><00:09:29.240><c> that</c><00:09:29.450><c> you</c><00:09:29.600><c> just</c><00:09:29.780><c> use</c><00:09:29.960><c> all</c><00:09:30.230><c> the</c>
+
+00:09:30.430 --> 00:09:30.440 align:start position:0%
+those things that you just use all the
+ 
+
+00:09:30.440 --> 00:09:33.700 align:start position:0%
+those things that you just use all the
+time<00:09:30.710><c> like</c><00:09:31.520><c> pointers</c><00:09:32.060><c> so</c><00:09:32.750><c> you'll</c><00:09:33.350><c> see</c><00:09:33.560><c> a</c><00:09:33.589><c> lot</c>
+
+00:09:33.700 --> 00:09:33.710 align:start position:0%
+time like pointers so you'll see a lot
+ 
+
+00:09:33.710 --> 00:09:35.290 align:start position:0%
+time like pointers so you'll see a lot
+more<00:09:33.770><c> examples</c><00:09:34.310><c> down</c><00:09:34.490><c> the</c><00:09:34.640><c> road</c><00:09:34.790><c> as</c><00:09:35.060><c> this</c>
+
+00:09:35.290 --> 00:09:35.300 align:start position:0%
+more examples down the road as this
+ 
+
+00:09:35.300 --> 00:09:37.270 align:start position:0%
+more examples down the road as this
+variant<00:09:35.720><c> progresses</c><00:09:36.380><c> enjoy</c><00:09:37.070><c> this</c><00:09:37.190><c> video</c>
+
+00:09:37.270 --> 00:09:37.280 align:start position:0%
+variant progresses enjoy this video
+ 
+
+00:09:37.280 --> 00:09:38.829 align:start position:0%
+variant progresses enjoy this video
+please<00:09:37.670><c> hit</c><00:09:37.850><c> the</c><00:09:37.970><c> like</c><00:09:38.120><c> button</c><00:09:38.420><c> you</c><00:09:38.720><c> can</c>
+
+00:09:38.829 --> 00:09:38.839 align:start position:0%
+please hit the like button you can
+ 
+
+00:09:38.839 --> 00:09:40.570 align:start position:0%
+please hit the like button you can
+follow<00:09:38.990><c> me</c><00:09:39.050><c> on</c><00:09:39.110><c> Twitter</c><00:09:39.410><c> and</c><00:09:39.589><c> Instagram</c><00:09:39.920><c> and</c>
+
+00:09:40.570 --> 00:09:40.580 align:start position:0%
+follow me on Twitter and Instagram and
+ 
+
+00:09:40.580 --> 00:09:42.640 align:start position:0%
+follow me on Twitter and Instagram and
+of<00:09:41.060><c> course</c><00:09:41.210><c> if</c><00:09:41.330><c> you</c><00:09:41.450><c> really</c><00:09:41.480><c> enjoy</c><00:09:41.990><c> this</c><00:09:42.350><c> video</c>
+
+00:09:42.640 --> 00:09:42.650 align:start position:0%
+of course if you really enjoy this video
+ 
+
+00:09:42.650 --> 00:09:44.199 align:start position:0%
+of course if you really enjoy this video
+you<00:09:43.040><c> can</c><00:09:43.130><c> support</c><00:09:43.280><c> me</c><00:09:43.490><c> on</c><00:09:43.520><c> patreon</c><00:09:43.880><c> to</c><00:09:43.970><c> make</c>
+
+00:09:44.199 --> 00:09:44.209 align:start position:0%
+you can support me on patreon to make
+ 
+
+00:09:44.209 --> 00:09:45.790 align:start position:0%
+you can support me on patreon to make
+sure<00:09:44.390><c> that</c><00:09:44.600><c> I</c><00:09:44.839><c> can</c><00:09:45.110><c> continue</c><00:09:45.410><c> this</c><00:09:45.560><c> if</c>
+
+00:09:45.790 --> 00:09:45.800 align:start position:0%
+sure that I can continue this if
+ 
+
+00:09:45.800 --> 00:09:47.770 align:start position:0%
+sure that I can continue this if
+applause<00:09:46.070><c> series</c><00:09:46.370><c> videos</c><00:09:46.970><c> and</c><00:09:47.270><c> make</c><00:09:47.540><c> more</c>
+
+00:09:47.770 --> 00:09:47.780 align:start position:0%
+applause series videos and make more
+ 
+
+00:09:47.780 --> 00:09:49.449 align:start position:0%
+applause series videos and make more
+awesome<00:09:48.230><c> videos</c><00:09:48.320><c> in</c><00:09:48.709><c> the</c><00:09:48.800><c> future</c><00:09:48.920><c> all</c><00:09:49.310><c> right</c>
+
+00:09:49.449 --> 00:09:49.459 align:start position:0%
+awesome videos in the future all right
+ 
+
+00:09:49.459 --> 00:09:51.070 align:start position:0%
+awesome videos in the future all right
+next<00:09:49.640><c> time</c>
+
+00:09:51.070 --> 00:09:51.080 align:start position:0%
+next time
+ 
+
+00:09:51.080 --> 00:09:52.910 align:start position:0%
+next time
+next<00:09:52.080><c> time</c><00:09:52.230><c> we're</c><00:09:52.350><c> going</c><00:09:52.440><c> to</c><00:09:52.530><c> kick</c><00:09:52.650><c> it</c><00:09:52.740><c> up</c><00:09:52.830><c> and</c>
+
+00:09:52.910 --> 00:09:52.920 align:start position:0%
+next time we're going to kick it up and
+ 
+
+00:09:52.920 --> 00:09:55.550 align:start position:0%
+next time we're going to kick it up and
+off<00:09:53.040><c> I'll</c><00:09:53.430><c> see</c><00:09:53.550><c> you</c><00:09:53.640><c> guys</c><00:09:53.730><c> later</c><00:09:53.790><c> goodbye</c>
+
+00:09:55.550 --> 00:09:55.560 align:start position:0%
+off I'll see you guys later goodbye
+ 
+
+00:09:55.560 --> 00:10:04.110 align:start position:0%
+off I'll see you guys later goodbye
+[Music]
+
+00:10:04.110 --> 00:10:04.120 align:start position:0%
+ 
+ 
+
+00:10:04.120 --> 00:10:11.169 align:start position:0%
+ 
+[Music]
+
